@@ -1,0 +1,20 @@
+NRN
+TCB Donoaster SB (D)
+RAQ AC:York ECR
+CD - From Down Decoy Yard
+® - ToIFrom Donoaster International Railport
+® - TolFrom Doncaster Royal Mail Terminal
+UES = Up East Slow.
+PF = Permissive working is authorised
+for Class 0 trains only.
+U1 = Up Goods No1
+U2 = Up Goods N02
+U3 = Up Goods No3
+D82 = Down Slow N02
+DIUS1 = DownlUp Slow No1
+TL = Transfer Line
+DR = Down Reception (Not TCB)
+DLIUES = Down LooolUp East Slow
+DIUWS1 = DownlUp West Slow No.1
+DIUWSZ = Down/Up West Slow No.2
+

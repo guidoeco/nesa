@@ -1,0 +1,17 @@
+Plas-y-Court LC(AHBC) 12 41
+RETB Channel Change 13 00
+15 30 are
+15 7O :1:
+Smiths Lower Cefn LC (UWC) 15 72
+chan eof ELR and milea e 15 19
+( 9 9) 31 20
+Parry Green LC (UWC) 31 25
+Buttington Hall LC (UWC) 31 60
+Buttington LC (AHBC) 32 27
+Malt House LC (UWC) 32 39
+33 55 *-
+WELSHPOOL (TEP) 33 70
+WelshpoolGF 34 00
+34 02 *
+34 25 i:
+

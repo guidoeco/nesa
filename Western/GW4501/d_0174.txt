@@ -1,0 +1,13 @@
+NRN
+
+TCB St. Andrews Jn SB (SA)
+RA?r
+UB Up Branch
+DB Down Branch
+
+ELR - AFR
+
+ELR - AMB
+UD Up Departure
+DA Down Arrival
+

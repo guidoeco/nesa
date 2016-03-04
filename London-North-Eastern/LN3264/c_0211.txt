@@ -1,0 +1,9 @@
+Attenborough Jn 121 O2
+0 62
+Meadow Lane Jn 0 00
+120 55
+
+121 33 *
+Toton Jn 121 36
+121 26
+

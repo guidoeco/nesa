@@ -1,0 +1,10 @@
+NRN
+TCB Edinburgh SC (EG) 068
+AC:Cathcart ECR
+UPL 191 5f (580m)
+(91 SLU's)
+DPL 2125f (647m)
+(101 SLU's)
+TOWS between Grantshouse and
+Innelwick
+

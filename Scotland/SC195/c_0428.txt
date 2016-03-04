@@ -1,0 +1,7 @@
+Pitmedden LC(R/G) 8 20
+9 40 *
+Kirkton of Kinellar LC (UWC) 11 29
+12 36 :1:
+Boat of Kintore LC (AHBC) 12 78 *-
+13 40 i:
+

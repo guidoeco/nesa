@@ -1,0 +1,7 @@
+122 36
+122 49 *
+Commencement of single line Down 122 70
+Goods Rec
+Stanton Gate SF (0.0.U.) 123 65
+123 70 air
+

@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0123	NW3011	001	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06	Chester West Jn	179	30	
+0123	NW3011	001	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06		0	16	
+0123	NW3011	001	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06	Chester North Jn	0	36	
+0123	NW3011	001	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06		0	42	*
+0123	NW3011	001	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06		0	45	*
+0123	NW3011	001	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06	Loop Connection	0	65	
+0124	NW3011	002	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06	BAGHE	0	79	
+0124	NW3011	002	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06	CAPENHURST	5	11	
+0124	NW3011	002	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06	Hooton South Jn	7	68	
+0124	NW3011	002	Chester West Jn. to Hooton South Jn. CRR1 LNW North	07/10/06	Hooton SB (HN)	7	72	*

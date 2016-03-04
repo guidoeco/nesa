@@ -1,0 +1,10 @@
+Farringdon Jn 0 53
+
+0 OD *-
+Snow Hill Tunnel 0 04
+(North Portal)
+Route Boundary 0 07 :7:
+Continued in Network Rail
+Kent, Sussex and Wessex
+Sectional Appendix
+

@@ -1,0 +1,21 @@
+Coventry North Jn 94 19
+Change of mileage 0 00
+
+0 01 *
+
+0 04 2k
+Coventry Yard
+
+0 42 *-
+Limit of electrification O 45 *
+Spon End viaduct O 47
+(330 metres / 360 yards) 0 63
+
+0 68 i:
+
+0 72 i:
+
+0 73 *
+Coundon Road SB (CR) 1 O3
+Coundon Road LC (MCB) 1 O4
+

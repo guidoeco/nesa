@@ -1,0 +1,16 @@
+NRN
+
+ET Bransty 33 (BY)
+Auxiliary token instrument located
+on Platform 2 at Whitehaven station
+Platform Lengths: Whitehaven
+Platform 1: 101 metres (110 yards) Permissive PP
+Platform 2
+Up: 84 metres (92 yards) Permissive PP -0
+Down: 84 metres (92 yards)
+
+Parton SB (PS)
+Platform Lengths: Parton
+Up: 59 metres (65 yards)
+Down: 115 metres (126 yards)
+

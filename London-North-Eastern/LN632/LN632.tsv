@@ -1,0 +1,70 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Stockton Cut Jn	10	13	
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		10	34	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		10	72	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		10	73	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Bowesfield SB	10	76	B
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		11	20	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		11	26	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		11	45	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	THORNABY	11	63	
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		11	70	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		11	77	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		12	36	*
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Tees SB	12	70	TY
+0491	LN632	001	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		13	29	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06		13	53	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06		13	55	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06		13	70	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06	Newport East Jn	14	03	
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06		14	17	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06		14	59	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06		14	64	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06	Middlesbrough SB	14	71	M
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06	MIDDLESBROUGH	15	00	
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06		15	20	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06		15	25	*
+0492	LN632	002	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	02/12/06	Guisborough Jn	15	30	
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		15	48	*
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		15	74	*
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Whitehouse LC	15	76	MCB
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Whitehouse SB	15	76	W
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		16	18	*
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	South Bank Jn	17	31	
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	SOUTH BANK	17	40	
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Beam Mill Jn	18	03	
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		18	29	*
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		18	34	*
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		18	58	*
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Grangetown SB	18	65	G
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Grangetown Jn	18	75	
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09		19	03	
+0493	LN632	003	Stockton Cut Jn. to Saltburn DSN2 London North Eastern	28/02/09	Shell Jn	19	32	
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09	Redcar Ore Terminal Jn	20	05	
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09	BRITISH STEEL REDGAR	21	00	
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09		21	72	
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09		22	16	
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09	REDCAR CENTRAL	22	64	
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09		22	67	*
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09	Redcar LC fMCB)	22	71	
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09	Redcar SB R)	22	71	
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09		22	72	*
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09		23	18	*
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09	Church Lane LC (CCTV)	23	20	*
+0494	LN632	004	Stockton Cut Jn. to Saltburn DSN2 DSN3 London North Eastern	08/03/09	REDGAR EAST	23	60	
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09	Grewgrass LC	25	05	UWC
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09	LONGBECK	25	26	
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09	Longbeck LC	25	31	MCB
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09	Longbeck SB	25	31	L
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09	MARSKE	25	65	
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09		26	49	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09		26	59	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09	Saltbum Riding School LC	26	63	UWC
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09		26	70	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09		26	74	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09		27	02	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09	Saltbum West Jn	27	05	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09		27	13	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09		27	42	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09		27	47	*
+0495	LN632	005	Stockton Cut Jn. to Saltburn DSN3 London North Eastern	08103/09	SALTBURN	27	57	

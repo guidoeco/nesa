@@ -1,0 +1,9 @@
+NRN
+TCB Crewe Jn. SB
+RAB
+CD Applies to all other trains
+® Applies to multiple unit trains only
+Location of known low rail adhesion
+Down 172m 200h to 174m GOCh
+Up 173m 40ch to 172m 200h
+

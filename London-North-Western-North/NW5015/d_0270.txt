@@ -1,0 +1,13 @@
+NRN
+TCB Ashburys SB (AS)
+AC: Crewe
+
+RL = Reception line.
+'Arr&Dep'='Arrival & departure'
+line (PF)
+
+Manchester Piccadilly SB (MP)
+Platform Lengths : Ardwick
+Up 152m (166yards)
+Down 1 52m (1 66yards)
+

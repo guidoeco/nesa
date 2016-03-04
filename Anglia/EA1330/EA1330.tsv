@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	South Acton Jn	2	52	*
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Bollo Lane (Kew Line) LC	2	63	CCTV
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Kew East Jn .	3	27	*
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Kew East Jn . (KE) SB	3	32	
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06		3	35	*
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Route Boundary	3	61	
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Change of Mileage	9	68	
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	To Old Kew Jn	10	01	

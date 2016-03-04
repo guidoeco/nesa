@@ -1,0 +1,5 @@
+0 10 *
+Allerton Jn SB (AN) 0 08
+Allerton Jn OJPOO
+187 74
+

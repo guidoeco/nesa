@@ -1,0 +1,19 @@
+16 76 *-
+GOULSDON SOUTH 17 03
+
+18 20 al-
+
+19 05
+Merstham Tunnel 19 09
+(1 mile 71 yards) to 20 12
+Shepherds Hill Substation 20 13
+
+20 40 *-
+MERSTHAM 20 59
+Merstham Substation 20 63
+
+21 40 at-
+Holmethorpe Substation 21 71
+
+22 00 :k
+

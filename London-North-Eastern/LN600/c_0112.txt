@@ -1,0 +1,14 @@
+79 70 *-
+Newcastle South Jn 79 75
+
+79 76 *
+Newcastle West Jn 80 05
+NEWCASTLE 80 16 *
+
+0 00
+
+O 03 *-
+
+0 06 9:
+Newcastle EastJn 0 14 *-
+

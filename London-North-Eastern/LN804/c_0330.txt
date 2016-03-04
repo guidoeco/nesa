@@ -1,0 +1,13 @@
+159 37 *-
+Mill Race Jn 160 18
+160 47 a:
+Brightside Jn 161 12
+161 19 *-
+WincobankJn 161 52
+161 65 *
+MEADOWHALL 161 70
+163 34 :7:
+Holmes Jn LC (CCTV) 163 43
+Holmes Jn 163 43
+163 52 *-
+

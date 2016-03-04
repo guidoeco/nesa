@@ -1,0 +1,8 @@
+Norton LC (RIG) 177 40
+(Bridleway)
+180 10 *
+Acton Grange GF No. 3 180 12
+Acton Grange Jn 180 24
+Acton Grange GF No. 1 180 36
+181 63 *
+

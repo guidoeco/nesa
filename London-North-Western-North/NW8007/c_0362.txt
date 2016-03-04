@@ -1,0 +1,13 @@
+34 20 i:
+
+34 00 *-
+Aintree West L.C. (UWC) 32 65 *
+
+32 42 *
+
+0 00
+Aintree Emergency GF 0 33
+
+4 62 '
+AINTREE 4 69
+

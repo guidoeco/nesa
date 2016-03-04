@@ -1,0 +1,67 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06	Guisborough Jn	0	00	
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06		0	01	*
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06	Cargo Fleet Road LC	0	14	CCTV
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06		2	45	*
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06	MARTON	2	56	
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06		2	59	*
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06		3	55	*
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06	GYPSY LANE	3	60	
+0496	LN634	001	Guisborough Jn. to Whitby MBW1 London North Eastern	02/12/06	Marlon Lane LC	3	62	ABCL
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07		4	12	*
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	NUNTHORPE	4	25	
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	Nunthorpe LC EMCB)	4	27	
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	Nunthorpe SB N)	4	27	
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07		4	31	*
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	Morton Carr LC	4	68	AOCL
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	Morton Grange Farm No 4 LC	5	50	UWC
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	GREAT AYTON	8	14	
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	Laings LC	9	55	UWC
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	Atkinson Wood Farm LC	9	70	UWC
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07		10	18	*
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07		10	44	*
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	Battersby Jn	10	54	
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07		12	10	
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	BATPERSBY	12	03	
+0497	LN634	002	Guisborough Jn. to Whitby MBW1 MBW2 London North Eastern	01/12/07	End of line	11	61	
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06	End of Line	11	61	
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06	BATPERSBY	12	03	
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06	Battersby Jn	12	10	
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06		12	14	*
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06		12	26	*
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06	Battersby Road LC	12	46	AOCL
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06		13	55	*
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06		13	62	*
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06	KILDALE	13	64	
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06	Guisborough Road LC	14	56	AOCL
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06		17	27	*
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06	GOMMONDALE	17	71	
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06		18	28	*
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06		19	13	*
+0498	LN634	003	Guisborough Jn. to Whitby MBW2 London North Eastern	02/12/06		19	28	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06	CASTLETON MOOR	19	38	
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06	DANDY	20	74	
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		21	35	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		21	39	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06	LEALHOLM	24	43	
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		24	60	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		25	65	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06	Engineers Siding G. F.	26	41	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06	GLAISDALE	26	50	
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		26	57	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		27	45	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06	EGTON	28	17	
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		29	50	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06	GROSMONT	29	59	
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		29	66	
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06		24	44	*
+0499	LN634	004	Guisborough Jn. to Whitby MBW2 MBW3 London North Eastern	02/12/06	GrcsmontG. F.	24	51	
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07		26	27	*
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07		26	45	*
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07	SLEIGHTS	27	63	
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07	Ruswarp LC	29	31	ABCL
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07	RUSWARP	29	31	
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07		30	20	*
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07		30	27	*
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07	Bog Hall Ground Frame	30	48	
+0500	LN634	005	Guisborough Jn. to Whitby MBW3 London North Eastern	01/12/07	WHITBY	30	61	

@@ -1,0 +1,12 @@
+Wards LC (UWC) 6 56
+Bowness LC (UWC) 5 47
+Keerhelme LC (UWC) 4 55
+
+0 31 i:
+
+O 25
+Camforth Station Jn SB (CS) 0 09
+Camforth Station Jn 0 O4
+
+0 38
+

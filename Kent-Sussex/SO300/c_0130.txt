@@ -1,0 +1,12 @@
+WELLI N6 11 28
+Bexleyheath Substation 12 29
+BEXLEYHEATH 12 59
+
+12 79 1'
+BARNEHURST 13 71
+Perry Street Fork Jn 15 07
+
+15 16 *-
+(Slade Green Jn) (15 31)
+(Crayford Creek Jn) (15 36)
+

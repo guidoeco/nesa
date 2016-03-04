@@ -1,0 +1,18 @@
+NRN CSR
+TCB Victoria SB (VC)
+RAB DC: Lewisham
+* West London lines controlled from
+Lewisham electrical control room.
+DC: Selhurst
+CSR
+A.W.S. not provided for emergency
+and temporary speed restrictions.
+1 Up Brighton fast
+2 Down Brighton fast
+3 Up Brighton slow
+4 Down Brighton slow
+5 Down Battersea
+6 Up Battersea
+7 Down West London
+8 Up West London
+

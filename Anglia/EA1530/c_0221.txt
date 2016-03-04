@@ -1,0 +1,11 @@
+Coldham Lane Jn (56 51)
+
+0 23
+Laundry Lane LC (AOCL) O 29 1e
+
+0 46 *
+Cherry Hinton High St. LC (CCTV) 2 17
+Cherry Hinton Bypass LC (CCTV) 2 53
+Teversham LC (AHBC) 3 44
+Coxes Farm LC 3 69
+

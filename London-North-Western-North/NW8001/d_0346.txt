@@ -1,0 +1,19 @@
+NRN CSR
+TCB Hunts Cross SB (HC)
+DC: Sandhills
+Merseyrail SB (ML)
+CSR
+Area channel U
+change in p
+the up direction 
+from H0108 CSR
+and in the down D
+direction from own 39
+ML.21.
+AWS not provided between signals
+HC.107 and ML 3537 inclusive
+(down) and signals ML 52 and
+H0108 inclusive (up).
+USP=Up Southport
+DSP=Down Southport
+

@@ -1,0 +1,16 @@
+Higham Substation 27 73
+HIGHAM 28 42
+Higham Tunnel 28 55
+(1531 yards) to Tunnel TP Hut 29 46
+Stood Tunnel 29 48
+(1 Mile 569 yards) to 30 74
+
+30 75 *
+STROOD 31 11
+
+31 16 *-
+(Strood Substation) (31 23)
+
+31 19 *
+(Rochester Bridge Jn) (31 34)
+

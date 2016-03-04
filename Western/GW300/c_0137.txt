@@ -1,0 +1,15 @@
+Droitwich Spa Jn 126 21 *-
+
+(Change of ELR)
+
+Droitwich Spa (DS) SB 126 26
+126 30 :1:
+126 51 51:
+
+Single line 126 67 i:
+127 50 i:
+130 20 *
+
+Stoke Works Jn 130 25
+57 43
+

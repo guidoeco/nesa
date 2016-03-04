@@ -1,0 +1,19 @@
+NRN
+
+TCB Bowesfield SB (B)
+RAB
+
+Tees SB (TY)
+AWS not provided on Goods Lines
+between Thomaby and Whitehouse
+CD - Down ArrivallUp Departure line
+(2) - To Thomaby Motive Power Depot
+(33 - ToIFrom Wagon Repair Depot and From Engine
+line
+(4) - TolFrom Tees Yard ArrivalsIDepartures
+C5} - From Thomaby Motive Power Depot
+(6) - TolFrom Tees Yard Down Staging Sidings
+PF is permitted on Up Goods No.2 between
+signals TY179 and TY198
+CD - To Tees Yard ArrivaISIDepartu res
+

@@ -1,0 +1,8 @@
+Poulton Jn 14 40
+Poulton SB (PT) 14 44
+14 69 *-
+14 71
+Tarn Gate LC (UWC) 15 58
+Thorton LC (TMO) 16 10
+Hilly Laid LC (T M0) 16 43
+

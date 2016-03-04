@@ -1,0 +1,7 @@
+St Helens Station Jn 5 12
+7 15
+Ravenhead Jn 6 62
+6 51
+6 29
+Network Rail Boundary 6 04
+

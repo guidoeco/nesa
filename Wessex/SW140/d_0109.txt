@@ -1,0 +1,16 @@
+NRN CSR
+TCB Eastleigh SB (E)
+RA7 DC: Eastleigh
+Permissive working authorised on
+Up platform line
+CSR
+TCB Havant (HT) '
+RAB CSR
+GSM-R area (IVRS)
+Up Exit 85m 16ch
+Down Entry 85m 160h
+L A
+Axle Counter area
+Up Exit 85m 16ch
+Down Entry 85m 160h
+

@@ -1,0 +1,8 @@
+Lichfield Trent Valley Junction SB (TV) 18 15
+Lichfield TV Jn 18 13
+Change of mileage 0 22
+
+0 17 *
+Lichfield Trent Valley 0 02
+Change of mileage 116 28
+

@@ -1,0 +1,20 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+Platform Lengths: Hightown
+Up: 126m (138 yards)
+Down: 126m (138 yards)
+USP = Up Southport
+DSP = Down Southport
+Platform Lengths: Formby
+Up: 120m (131 yards)
+Down: 120m (131 yards)
+Exceptional rail head conditions Down and Up Main
+lines between 4m 00ch and 17m 60ch.
+Platform Lengths: Freshfield
+Up 142m (155 yards)
+Down 127m (139 yards)
+Platform Lengths: Ainsdale
+Up 123m (135 yards)
+Down 122m (133 yards)
+

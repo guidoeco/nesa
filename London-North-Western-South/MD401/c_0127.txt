@@ -1,0 +1,9 @@
+Little Bourton LC (UWC) 88 40
+Jefferies LC (UWC) 88 58
+Whites LC (UWC) 88 73
+NRN Channel change 92 40
+Wormleighton LC (UWC) 93 37
+Fenny Compton Jn 94 20
+Down Goods Loop 94 23
+Up Goods Loop 95 27
+

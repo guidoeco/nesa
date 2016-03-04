@@ -1,0 +1,12 @@
+NRN CSR
+
+TCB Colchester SB (C0)
+
+RA7 AC: Romford _ _
+DHC - Down Hythe Curve
+UHC - Up Hythe Curve
+DCT - Down Colchester Town
+HCT - Up Colchester Town
+
+Platform - 256m (280 yd)
+

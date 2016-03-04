@@ -1,0 +1,24 @@
+YORK 0 00
+
+0 18
+
+0 22 *-
+
+0 25 *-
+Bootham LC (AHBC-X) 1 51
+
+1 52 2k
+Bootham Stray LC (UWC) 1 70
+Kettlestring Farm LC (UWC) 2 54
+
+2 60 *-
+New Earswick LC (UWC) 3 00
+Hall Farm LC (UWC) 3 19
+Haxby Road LC (CCTV) 3 27
+
+3 37 *-
+Farmstead Rise LC (UWC) 3 45
+Haxby Station LC (CCTV) 4 18
+
+4 28 *
+

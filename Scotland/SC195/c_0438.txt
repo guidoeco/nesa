@@ -1,0 +1,10 @@
+FORRES o 00
+(Change of ELR 0 00
+AN12toAN13) 119 26
+119 46 s:
+119 73 *
+120 01 9:
+Langley LC(UWC) 121 60
+Brodie LC (AHBC) 122 61
+Ellands No 3 LC (UWC) 124 23
+

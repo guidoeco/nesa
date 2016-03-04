@@ -1,0 +1,15 @@
+17 51 2k
+Somerleyton Swing Bridge SB (SB) 17 60
+
+17 63 i:
+No.58 LC 17 76
+SOMERLEYTON 18 00
+Somerleyton GF 18 07
+No.59 LC 18 23
+No.67 LC 19 57
+No. 72 LC 20 43
+No.74 LC 20 77
+Oulton Broad North SB (OB) 22 00
+Oulton Broad North LC 22 01
+OULTON BROAD NORTH 22 04
+

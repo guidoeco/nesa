@@ -1,0 +1,10 @@
+1 14 *
+Junction 1 10
+1 06 i:
+Park Jn 1 02 *
+(Change of mileage. ELR and RA) 160 24
+160 22 1:
+Gaer Tunnel 159 65
+369m (403 yards) to 159 47
+Gaer Jn 159 33
+

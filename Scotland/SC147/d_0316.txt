@@ -1,0 +1,7 @@
+NRN
+TCB Edinburgh SC (EP)
+1 = No 1 Reception/Departure
+2 = No 2 Reception/Departure
+3 = No 3 Departure
+4 = No 4 Departure
+

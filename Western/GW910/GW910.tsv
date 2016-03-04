@@ -1,0 +1,215 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	Craven Arms Jn	20	01	
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	(Change of mileage)	28	82	
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06		0	17	*
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06		0	20	*
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	Lyon Crossing	0	39	
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06		0	40	*
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06		0	48	*
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	Broome Farm 2 LC	1	56	UWC
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	BROOME	2	46	
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	Brisbane No.1 LC	2	69	UWC
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	HOPTON HEATH	5	09	
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	Heath Farm LC	5	50	UWC
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	Manor Farm 2 LC	6	46	UWC
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	Manor Farm 3 LC	6	61	UWC
+0422	GW910	001	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	05/08/06	CoxallFarm 1 LC	6	79	UWC
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	Coxall Farm 2 LC	7	32	UWC
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	Bucknell LC	8	01	AOCL
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	BUCKNELL	8	04	
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	The Hall Farm 3 LC	8	26	UWC
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	Lower Stannage Farm LC	9	60	UWC
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	Stud Farm 2 LC	11	46	UWC
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07		12	00	*
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07		12	15	*
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	KNIGHTON TREFYGLAWDD	12	23	
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	(TEP)			Z
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07		12	34	*
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	Panpunton Farm 1 LC	12	71	UWC
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	Whitterleys Farm LC	13	60	UWC
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	Lower House Farm LC	14	53	UWC
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07		14	68	
+0423	GW910	002	Craven Arms Jn to Llandeilo Jn (Central Wales line) CWL Western	08/12/07	KNUCKLAS CNUGLAS	14	69	
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Castle Gardens LC	15	24	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Lower Hall LC	16	11	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Heyope 1 LC	17	28	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Heyope 2 LC	17	53	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Llangynllo Tunnel	17	79	
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	(592m, 647yds)	18	28	
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	LLANGYHLLO	18	57	
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Deakins LC	18	61	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Lower Bailey 2 LC	19	44	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Troed-y—Rhiw Fedwen LC	21	05	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Maylord LC	21	35	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	LLANBISTER ROAD	21	55	*
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Cwm-y—Geist Farm LC	22	01	UWC
+0424	GW910	003	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Cefn Suran LC	23	06	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Dolau House Farm No.1 LC	25	18	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Dolau LC	25	24	AOCL
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	DOLAU	25	26	
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Dolau House Farm No.2 LC	25	34	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Thomas No.1 LC	25	36	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Dolau House Farm No.3 LC	25	41	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Thomas No.2 LC	25	43	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Ty-Ddu LC	26	04	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Rhydllyn 2 LC	26	40	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Rabber Farm LC	27	00	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Pen-y—bont Tunnel	27	70	
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	(369m, 404yds)	28	09	
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	PEN-Y-BONT	28	21	
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Llynmellin Farm LC	28	42	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Upper Cellws LC	30	51	UWC
+0425	GW910	004	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Llandrindod LC	31	36	TMO
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		31	57	*
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Llandrindod GF	31	60	
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	LLANDRINDOD	31	73	TEP
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		31	78	*
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Greenfields LC	33	32	UWC
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Howey LC	33	33	UWC
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Neuadd Farm 2 LC	35	49	UWC
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		37	00	*
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Speed restriction over A470 bridge	37	00	X
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		37	01	*
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		37	38	
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	BUILTH ROAD	37	40	*
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Rhosferig Tunnel	38	15	
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	(59m, 64yds) to	38	18	
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Cilmeri Tunnel	39	15	
+0426	GW910	005	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	(105m.115yds)	39	20	
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Cilmeri LC	39	36	UWC
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	CILMERI	39	39	
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Raikes LC	41	18	UWC
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Llwynpiod No.1 LC	42	20	UWC
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Llwynpiod No.2 LC	42	31	UWC
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06		42	62	*
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Bridge			Z
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06		42	62	*
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06		42	67	
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	GARTH	42	69	
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Lewis LC	42	74	UWC
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Aberdulais Farm LC	43	30	UWC
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Llangammarch Tunnel	43	79	
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	(51m, 56yds)	44	01	
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	LLANGAMMARGH	44	47	
+0427	GW910	006	Craven Arms Jn to Llandeilo Jn (Central Wales Line) CWL Western	27/11/06	Penfedw Farm No.2 LC	46	15	UWC
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Cefn Gast Farm No.2 LC	46	60	UWC
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Glanirfon LC	47	09	UWC
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		47	40	*
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		47	70	*
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	LLANWRTYD	48	03	TEP
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		48	10	*
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Cwm Henog Farm 2 LC	43	62	UWC
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Tyn-y-Maes LC	49	15	UWC
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Berthddu LC	49	47	OPEN
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Embeili Farm LC	50	01	UWC
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06		50	60	*
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	SUGAR LOAF	50	65	
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	Sugar Loaf Tunnel	50	79	
+0428	GW910	007	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL Western	05/08/06	(915m,1001yds)	51	45	
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09		52	00	*
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Gilfach Farm 3 LC	52	69	UWC
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Pant-y—Rhedyn Farm LC	53	15	UWC
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Treffoliad Farm 1 LC	53	28	UWC
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Coed lfan LC	53	40	UWC
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Yrallt Gynig 2 LC	54	09	UWC
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	CYNGHORDY	54	55	
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Dildre Crossing	54	58	
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Former site of Llandovery Jn	59	14	
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	(Change of mileage and ELR)	29	40	
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09		29	35	*
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Llandovery LC	29	26	TMO
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	LLANDOVERY	29	24	
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	LLANYMYDDYFRI (TEP)	29	24	X
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Llandovery GF	29	21	
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09		29	14	*
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09		28	41	*
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09	Llwyn Jack Farm LC	28	25	UWC
+0429	GW910	008	Craven Arms Jn to Llandeilo Jn (Central Wales lines) CWL VOT Western	24/01/09		28	24	*
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Ystrad Farm LC	27	60	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Tir-Allen Farm 3 LC	26	61	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Tir-Allen Farm 2 LC	26	30	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Tir-Allen Farm 1 LC	26	26	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Maes-y-Coed Farm LC	26	12	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Pentremeurig Farm 4 LC	25	70	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Pentremeurig Farm 3 LC	25	51	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Llanwrda LC	25	42	OPEN
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	LLANWRDA	25	40	
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Pentremeurig Farm 2 LC	25	27	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Glantowy LC	24	32	UWC
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Llangadog LC	23	62	AOCL
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06		23	61	*
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	LLANGADOG	23	59	
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Godregarreg Farm 1	23	29	
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Crossing			Z
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06		23	28	*
+0430	GW910	009	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT Western	05/08/06	Glanyrynys Farm Crossing	23	02	
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07		22	44	*
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Glanrhyd Bridge	22	44	X
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07		22	35	*
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Glanrhyd Saeson Farm 1 LC	22	25	UWC
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Glanrhyd LC	22	14	OPEN
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Caemawr Farm LC	21	14	UWC
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Down Farm 2 LC	20	77	UWC
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Down Farm 1 LC	20	70	UWC
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Talley Road LC	20	12	UWC
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Closglas Farm 3 LC	19	64	UWC
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Closglas Farm 1 LC	19	34	UWC
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Banmy-Berllan LC	18	61	UWC
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07		18	15	*
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	Llandeilo GF	18	11	
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07		18	09	
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	LLANDEILO	18	07	TEP
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07	(Change of ELR)	18	07	X
+0431	GW910	010	Craven Arms Jn to Llandeilo Jn (Central Wales line) VOT LLA Western	24/02/07		17	78	*
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		17	20	*
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	FFAIRFAGH	17	19	
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Ffairfach LC	17	16	AOCL
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Meusydd Mill LC	15	51	UWC
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		15	20	*
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Rhyd-y-Fynnon Farm LC	15	10	UWC
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Cilyrychen LC	13	77	ABCL
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Llandybie LC	13	08	AOCL
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	LLANDYBIE	13	05	
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		13	04	
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Brynmarlais LC	12	28	AOCL
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Tirydail LC	11	24	ABCL
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	AMMANFORDI	11	21	
+0432	GW910	011	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	TIRYDAIL AND RHYDAMAN	11	21	X
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Pantyffynnon LC (M06)	10	11	*
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	PANTYFFYNNON	10	08	
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Pantyffynnon SB	10	01	TEP
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Cathan Farm LC	9	60	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Sewerage Works LC	9	44	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		9	40	*
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Ynystawleg Farm No.4 LC	9	38	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Ynystawleg Farm No. 1 LC	9	07	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Ynys LC	8	66	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Hendrewen Farm3 LC	8	02	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Hendrewen Farm1 LC	7	66	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Tynycerig 3 LC	7	62	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		7	60	*
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Tynycerig 2 LC	7	56	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Tynycerig 1 LC	7	46	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Ynys Uchaf LC	7	12	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Tynycynllwyn LC	6	28	UWC
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	PONTARDDULAIS	5	26	
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		5	18	*
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Pontarddulais Tunnel	5	17	
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	80m (88 yards)	5	13	*
+0433	GW910	012	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Hendy Sewage Works LC	4	70	UWC
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Hendy Jn	4	54	
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Bryn-y-Mawr Farm LC	4	20	UWC
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Morlais Jn	3	50	
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	(Change of RA)	3	50	X
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	LLANGENNEGH	3	01	
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Llangennech LC	2	77	UWC
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Pencoed Uchaf1 LC	1	77	UWC
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Ffos Fach Isaf LC	1	31	UWC
+0434	GW910	013	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	BYNEAI BYNIE	1	07	
+0435	GW910	014	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		0	52	*
+0435	GW910	014	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Techan Fach Crossing	0	51	
+0435	GW910	014	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Genwen Jn	0	41	*
+0435	GW910	014	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Spring Point	0	35	
+0435	GW910	014	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		0	02	*
+0435	GW910	014	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06	Llandeilo Jn	0	00	
+0435	GW910	014	Craven Arms Jn to Llandeilo Jn (Central Wales line) LLA Western	05/08/06		223	49	

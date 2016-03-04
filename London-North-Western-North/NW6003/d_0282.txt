@@ -1,0 +1,29 @@
+NRN
+TCB Manchester Piccadilly SB (MP)
+AC: Crewe
+
+AC to Trafford Park Sidings only.
+Trafford Park Reversing Line
+
+222m (729ft)
+
+United FC Halt
+
+145m (159yards)
+@applies AC electric locomotives and
+
+EMusoMy
+
+@applies to all other trains
+
+Platform Lengths: Trafford Park
+
+Up 137m (150yards)
+
+Down 1 37m (1 50yards)
+
+Platform Lengths: Humphrey Park
+Up 68m (74yards)
+
+Down 68m (74yards)
+

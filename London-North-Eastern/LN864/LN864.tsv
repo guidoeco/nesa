@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0402	LN864	001	Dewsbury Railway Street Branch DRS1 London North Eastern	02/12/06	End of line			X
+0402	LN864	001	Dewsbury Railway Street Branch DRS1 London North Eastern	02/12/06	Dewsbury Railway Street	0	10	
+0402	LN864	001	Dewsbury Railway Street Branch DRS1 London North Eastern	02/12/06		0	00	
+0402	LN864	001	Dewsbury Railway Street Branch DRS1 London North Eastern	02/12/06		0	27	
+0402	LN864	001	Dewsbury Railway Street Branch DRS1 London North Eastern	02/12/06		0	06	*
+0402	LN864	001	Dewsbury Railway Street Branch DRS1 London North Eastern	02/12/06	Dewsbury East Jn	0	00	

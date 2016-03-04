@@ -1,0 +1,45 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0112	NW3005	001	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Gobowen North LC	189	56	MOB
+0112	NW3005	001	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Gobowen North SB	189	56	GN
+0112	NW3005	001	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Pitts LC	190	41	UWC
+0112	NW3005	001	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Weston Rhyn LC	191	40	AHBC
+0112	NW3005	001	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Chirk Tunnel	192	35	
+0112	NW3005	001	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	(47m I 51 yd) to	192	37	
+0112	NW3005	001	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	CHIRK	192	54	
+0112	NW3005	001	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Kronospan GF	192	76	
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Whitehurst LC	193	52	UWC
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Whitehurst Tunnel	194	07	
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	(42ml46yd)	194	09	
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08		194	40	*
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08		196	65	*
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	RUABON	197	04	
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Network Rail	197	45	*
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	London Norm Western	199	00	
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	(appendix boundary)	199	00	X
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Ruabon Road Tunnel	200	43	
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	(59m I 64 yd) to	200	46	
+0113	NW3005	002	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	26/07/08	Watery Road GF	201	17	
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06	Croes Newydd North Fork SB LG	201	43	
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06	(M03) (CN)	201	43	X
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06		201	55	
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06	(main line)	201	55	X
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06		0	43	
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06	(Bidston line)	0	43	X
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06	WREXHAM GENERAL	201	66	
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06	Wrexham Exchange Jn	0	68	
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06	(Bidston line)	0	68	X
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06	Wrexham North Jn	202	40	*
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06		203	00	*
+0114	NW3005	003	Gobowen (Exc|.) to Saltney Jn. WSJ2 WDB1 LNW North	07/10/06		203	60	
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06		204	60	
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06		205	40	
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06	Rossett LC	206	44	RIG
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06	Broad Oak LC	207	37	AHBC
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06	Pulford LC	208	11	AHBC
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06	Balderton Tunnel	209	49	
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06	(8m I 53 yd)	209	51	
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06	Balderton LC	209	67	AHBC
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06	Green Lane LC	211	01	AHBC
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06		211	60	*
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06	Saltney Jn	212	06	
+0115	NW3005	004	Gobowen (Exc|.) to Saltney Jn. WSJ2 LNW North	07/10/06		181	09	

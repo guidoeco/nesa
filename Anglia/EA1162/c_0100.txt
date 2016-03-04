@@ -1,0 +1,12 @@
+71 75 *-
+Queen Adelaide LC (AHBC—X) 72 18 *
+Sandhill LC (AHBC-X) 75 35
+
+75 70 *-
+
+75 71 *-
+Littleport (L) SB 75 79
+Littleport LC (M06) 76 00
+LITTLEI'ORT 76 00
+Littleport Footpath LC (RIG) 76 05
+

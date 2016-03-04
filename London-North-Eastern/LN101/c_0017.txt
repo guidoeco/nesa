@@ -1,0 +1,11 @@
+80 63 *
+Woodcraft LC (MCG) 81 23
+Helpston Jn 81 56
+Helpston LC (M03) 81 71
+
+81 75 al-
+Maxey LC (CCTV) 82 38
+Lolham LC (CCTV) 83 33
+No 115 LC RIG 84 06
+Tallington TSC OHNS 84 56
+

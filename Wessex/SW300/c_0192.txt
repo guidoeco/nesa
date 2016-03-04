@@ -1,0 +1,11 @@
+Route Boundary 33 10
+Hackhurst Lane BW 34 57
+GOMSHALI. 35 21
+Gomshall Station HP 35 21
+Burrows Lane LC (AHBC) 35 60 *
+Share Heath LC 36 51
+36 60 *-
+Brook LC (AHBC) 37 19 2k
+Ford Crossing 37 70
+38 03 *-
+

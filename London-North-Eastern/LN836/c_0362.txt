@@ -1,0 +1,20 @@
+20 25 *-
+20 O1 *
+Quarry Hill Jn 20 00
+19 76
+19 51 *-
+Marsh Lane Jn 19 48 *-
+19 48 7:
+Richmond Hill Tunnel 19 44
+(108m I 113 yards) 19 39
+19 18 i:
+19 06
+Neville Hill Depot
+Neville Hill West Jn 18 74
+Neville Hill Up Sidings
+18 87 5%
+18 60 2k
+18 28 *-
+Neville Hill EastJn 18 25
+18 20 2k
+

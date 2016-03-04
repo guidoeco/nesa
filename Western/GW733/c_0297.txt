@@ -1,0 +1,9 @@
+Forden LC (AOCL) 38 20
+38 61 *-
+38 77 a:
+39 16 *-
+
+Rhydwhimen LC (RIG) 39 68
+39 78 i:
+40 44 1:
+

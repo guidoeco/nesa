@@ -1,0 +1,9 @@
+35 65 *
+MILFORD 36 21
+Mitford LC (AHBC) 36 26
+Milford Crossing 36 26
+37 4O *-
+WITLEY 38 36
+42 30 1k
+42 50 *-
+

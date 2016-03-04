@@ -1,0 +1,27 @@
+NRN
+TCB Rugby SCC (NW)
+AC: Rugby ECR
+
+DNC- Down Nuneaton Chord
+
+UNC- Up Nuneaton Chord
+
+D&UPL - Down 8: Up Passenger Line
+
+DTVS - Down Trent Valley Slow
+
+DTVF - Down Trent Valley Fast
+
+GSM-R area
+
+Entry: Up Arley: 8m 100h
+
+Exit: Down Arley: 8m 10ch
+
+LA
+TCB Saltley PSB (SY)
+
+Trolleys must only be placed on this line in this
+tunnel when the line is in the Absolute Possession
+of the Engineer.
+

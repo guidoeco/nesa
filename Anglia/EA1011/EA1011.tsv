@@ -1,0 +1,107 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0014	EA1011	001	Seven Kings to Ipswich LTN Anglia	05/08/06	GOODMAYES	9	23	
+0014	EA1011	001	Seven Kings to Ipswich LTN Anglia	05/08/06		9	57	*
+0015	EA1011	002	Seven Kings to Ipswich LTN Anglia	05/08/06	CHADWELL HEATH	9	79	
+0015	EA1011	002	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	11	21	
+0015	EA1011	002	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	11	26	
+0015	EA1011	002	Seven Kings to Ipswich LTN Anglia	05/08/06		11	41	*
+0016	EA1011	003	Seven Kings to Ipswich LTN Anglia	05/08/06		11	78	*
+0016	EA1011	003	Seven Kings to Ipswich LTN Anglia	05/08/06		12	15	*
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06	ROMFORD	12	30	
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06	Romford Jn .	12	39	
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06		13	28	*
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06	GIDEA PARK	13	41	
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06		13	54	*
+0018	EA1011	005	Seven Kings to Ipswich LTN Anglia	22/07/07		13	55	*
+0018	EA1011	005	Seven Kings to Ipswich LTN Anglia	22/07/07		13	68	*
+0018	EA1011	005	Seven Kings to Ipswich LTN Anglia	22/07/07	Gidea Park Carriage sidings	14	03	
+0018	EA1011	005	Seven Kings to Ipswich LTN Anglia	22/07/07		14	15	*
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	14	45	
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06	HAROLD WOOD	14	76	
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06		15	07	*
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06	BRENTWOOD	18	16	
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06		18	24	*
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	45	
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	57	
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	63	*
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	73	*
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	74	*
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		20	00	*
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		20	03	*
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		20	05	*
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08	SHENFIELD	20	16	
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08	Shenfield Jn	20	22	
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08	Shenfield Middle Sidings	20	22	X
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08		20	40	*
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08		20	47	*
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08		20	50	*
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	20	71	
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06		23	10	*
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	Ingatestone LC	23	39	MCB
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	(supervised by Ingatestene Gate Box.)	23	39	X
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	INGATESTONE	23	50	
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06		24	60	
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	Church Lane LC	24	68	CCTV
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	(supervised by Ingatestone Gate Box.)	24	68	X
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06	Margaretting WHEELCHEX	24	75	
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		25	30	*
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06	Margaretting FP LC	25	39	RIG
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		26	40	*
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		28	00	*
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		29	27	*
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06	GHELMSFORD	29	60	
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		30	20	
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06	Arbour Lane Crossover	30	30	
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06		30	32	*
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06		30	50	*
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	33	06	
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06	Brick House Crossovers	33	24	
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06	HATFIELD PEVEREL	35	74	
+0025	EA1011	012	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	38	12	
+0025	EA1011	012	Seven Kings to Ipswich LTN Anglia	05/08/06		38	34	
+0025	EA1011	012	Seven Kings to Ipswich LTN Anglia	05/08/06	WITHAM	38	47	
+0025	EA1011	012	Seven Kings to Ipswich LTN Anglia	05/08/06	Witham Jn	38	55	
+0026	EA1011	013	Seven Kings to Ipswich LTN Anglia	05/08/06	Motts Lane FP LC	39	02	RIG-X
+0026	EA1011	013	Seven Kings to Ipswich LTN Anglia	05/08/06	Church Street LC	41	57	AHBC-X
+0026	EA1011	013	Seven Kings to Ipswich LTN Anglia	05/08/06	KELVEDON	42	21	
+0026	EA1011	013	Seven Kings to Ipswich LTN Anglia	05/08/06	Long Green FP LC	45	66	RIG-X
+0027	EA1011	014	Seven Kings to Ipswich LTN Anglia	05/08/06	MARKS TEY	46	49	
+0027	EA1011	014	Seven Kings to Ipswich LTN Anglia	05/08/06	Marks Tey Jn	46	56	
+0027	EA1011	014	Seven Kings to Ipswich LTN Anglia	05/08/06		46	57	*
+0027	EA1011	014	Seven Kings to Ipswich LTN Anglia	05/08/06	Chitts Hi||LC	49	41	MCG
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		50	72	
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	00	
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	22	*
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	26	*
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	28	*
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06	Colchester (C0) SB	51	37	
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	39	*
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09	COLCHESTER	51	52	
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09	Colchester Jn	51	65	
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09		51	75	*
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09		51	77	*
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09		52	20	*
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09	OHNS	52	21	
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Ardleigh GSP	56	00	
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Ardleigh LC	56	04	CCTV
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		57	46	*
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		58	74	*
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		59	20	*
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	MANNINGTREE	59	35	
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Manningtree South Jn . LC	59	46	CCTV
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	59	47	
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		59	60	*
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Manningtree North Jn	59	69	
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		60	30	*
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Plucks Farm LC	62	44	
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	Bentley LC	63	07	AHBC—X
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	Halifax Jn	67	67	
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		67	74	*
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		68	17	*
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	Ipswich Tunnel	68	17	X
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	(361 yards)	68	17	X
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		66	31	*
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		66	47	
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		68	48	*
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	IPSWICH	68	59	
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		66	70	*

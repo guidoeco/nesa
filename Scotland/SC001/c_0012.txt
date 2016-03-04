@@ -1,0 +1,7 @@
+73 35 *-
+Carstairs Station Jn 73 37
+OHNS 73 41
+GARSTAIRS 73 49
+
+73 55 *
+

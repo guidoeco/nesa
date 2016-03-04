@@ -1,0 +1,24 @@
+50 31
+184 56
+184 63
+185 00 *
+Footpath LC (RIG) 185 11
+NORMANTON
+185 30 *-
+Altofts Jn 185 73
+186 00
+23 57
+23 14 *
+Whitmmod Jn 22 O4
+21 69 *
+21 58 1e
+21 30 *-
+Castleford LC (MOB) 21 22
+Castleford SB (CD) 21 22
+21 18 *
+21 06 :7:
+21 04 2k
+Castleford West Jn 21 02
+CASTLEFORD 20 76
+20 70 *
+

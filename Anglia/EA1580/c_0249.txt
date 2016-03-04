@@ -1,0 +1,11 @@
+HARLING ROAD 101 35
+Harling Road LG 101 41
+Harling Road SB (HR) 101 41
+102 44 a:
+103 09 *
+104 09 :7:
+Heath No. 59 LG 104 10
+EOGLES ROAD 104 36
+Eccles Road LC (M06) 104 41
+Eccles Road SB (ER) 104 41
+

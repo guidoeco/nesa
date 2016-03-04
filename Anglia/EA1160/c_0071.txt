@@ -1,0 +1,13 @@
+BETHNAL GREEN 1 1O
+Bethnal Green East Jn 1 14
+
+1 16 a:
+
+1 30 *
+Beflnnal Green North Jn
+CAMBRIDGE HEATH 1 61
+
+1 72 9:
+LONDON FIELDS 2 35
+Reading Lane Jn 2 55
+

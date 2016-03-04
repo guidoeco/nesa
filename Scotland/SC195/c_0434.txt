@@ -1,0 +1,13 @@
+45 00
+Little Mill LC (UWC) 46 41
+48 20
+49 41 *
+Bummouth LC (UWC) 49 62
+50 60
+52 46 7*
+Keith Jn SB 53 05
+(Change of ELR 53 05
+AN11 to AN12) 30 40
+KEITH 30 20
+30 15 *
+

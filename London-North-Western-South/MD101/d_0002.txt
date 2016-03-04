@@ -1,0 +1,30 @@
+NRN CSR
+TCB Wembley Mainline SCC (WM)
+AC: Rugby ECR
+DC: Rugby ECR
+D.C. lines (Lines B 8: 0) supply
+controlled by Rugby E.C.R.
+FF is authorised on BOR1 8: BOR2
+DSS = Down Side Shed
+BOR1 = Backing Out Road 1
+BORZ = Backing Out Road 2
+g up direction
+ED 40
+40 down direction
+2_5 up direction
+® 40
+fl down direction
+50
+g up direction
+@ 30
+fl down direction
+5° CSR
+Line Lockouts:
+Line A 1m Och to Om 390h
+Line B 1m Och to Om 390h
+Line 0 Om 41 ch to Om 67Gb
+Line D Om 67Gb to Om 41Gh
+Line E Om 41 ch to Om 61 ch
+Line E Om 61 ch to Om 670h
+Line X Om 61 ch to Om 67cm
+

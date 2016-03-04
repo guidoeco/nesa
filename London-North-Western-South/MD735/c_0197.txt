@@ -1,0 +1,7 @@
+Denbigh Hall South Jn 47 52
+Change of mileage 1 71
+Flyover Junction Summit 0 68
+Flyover Junction 0 00
+Change of mileage 0 64
+Stop Block 1 31
+

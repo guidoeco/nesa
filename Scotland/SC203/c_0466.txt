@@ -1,0 +1,11 @@
+Kirkton LC (AOCL) 32 44
+82 45 *
+83 00 *
+Culmaily No2 LC (UWC) 83 17
+Culmaily No3 LC (UWC) 83 34
+Drummuie LC (UWC) 83 73
+34 13 *
+GOLSPIE 84 30
+84 51 9:
+Dunrobin LC (UWC) 86 19
+

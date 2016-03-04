@@ -1,0 +1,20 @@
+NRN CSR
+TCB Merseyrail SB (ML)
+DC: Sandhills
+
+Platform Lengths: Hoylake
+
+Up 126m (138 yards)
+
+Down 127m (139 yards)
+
+Platform Lengths: West Kirby
+
+Platform 1 Permissive PP
+
+128m (140 yards)
+
+Platform 2 Permissive PP
+
+125m (137 yards)
+

@@ -1,0 +1,101 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	East Suffolk Jn	69	41	
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Single line	69	42	
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		69	52	*
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		72	00	*
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Westerfield Station LC	72	16	AHBC
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	WESTERFIELD	72	20	TEP
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		72	22	*
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Westerfield Jn	72	23	
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		72	25	*
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Bealings LC	75	79	ABCL
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		73	54	*
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		73	59	*
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		73	75	*
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	WOODBRIDGE	79	00	TEP
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Ferry Lane LC	79	04	AOCL
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Haywards LC	79	07	AOCL
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		79	28	
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Single Line	79	28	X
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Lime Kiln LC	79	29	AOCL
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Sun Wharf LC	79	31	AOCL
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		79	39	*
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Dock Lane LC	80	06	
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Bless LC	80	15	
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	ELTON	80	28	
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Melton LC	30	31	AOCL
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Ellingers LC	80	46	
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Decoy Farm LC	80	74	
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Ufford LC	81	60	ABCL
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	WIcKHAM MARKET	84	43	
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Blackstock LC	85	29	
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Red House Farm LC	85	45	
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Blaxhall LC	86	31	AOCL
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Beversham LC	87	15	ABC-L
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Snape LC	88	22	
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Brick Kiln LC	90	30	
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Single line	90	74	
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Chantry Road LC	91	02	RC
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		91	04	*
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Saxmundham LC	91	07	MOB
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Saxmundham SB	91	08	SM
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	SAXMUNDHAM (TEP) 91	1	01	
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	GF	91	20	
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Saxmundham Jn	91	40	
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	GF	91	41	
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Red House (Kelsale) LC	92	54	
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	East Green LC	93	06	
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		93	26	*
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	North Green LC	93	27	AOCL
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Middleton LC	94	52	ABCL
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		94	53	*
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		95	22	*
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Darsham LC (AH BC)	95	31	
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	DARSHAM	95	35	
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		95	39	*
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Willow Marsh LC	96	09	AOCL
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08		96	10	*
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Barhams LC	96	70	
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Fieldens LC	97	23	
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Hubbards LC	98	12	
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Bramfield LC (ABCL)	99	19	*
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Wenhaston LC	99	52	AOCL
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		100	49	*
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	HALESWORTH (TEP) 1	00	53	
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		100	63	*
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		101	04	*
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Westhall LC (ABCL) 1	03	47	
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		103	65	*
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		104	45	*
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Brampton LC	104	46	AOCL
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	BRAMPTON	104	49	
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Weston LC	106	30	AOGL
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Cromwell Rd LC (ABCL)	107	43	*
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	London Road LC	107	68	ABCL
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		103	50	*
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		108	57	*
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Ingate Street LC	108	60	ABCL
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Grove Road LC	108	70	ABCL
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	BEchEs	109	11	
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Beccles By—pass LC	109	49	ABGL
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		109	50	*
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		109	55	*
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Black Dam LG	109	68	
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Worlingham LC	110	73	
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	North Cove LG	111	71	
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	No. 12 LG	112	34	
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	No. 13 LG	112	44	
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Gamekeepers LG	113	08	
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Bamby LG	113	23	
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Hillings Road L0	114	06	
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Spratts Water LC	114	37	
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Dawdys LC	114	75	AOCL
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		115	38	*
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	OULTON BROAD SOUTH	115	42	TEP
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		115	45	*
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Victoria Road LC	115	62	CCTV
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Oulton Broad Swing Bridge	115	76	
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Oulton Broad Swing Bridge GF	116	00	
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Gravel Pit Lc	116	12	ABCL
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Oulton Broad North Jn	116	27	
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		22	14	

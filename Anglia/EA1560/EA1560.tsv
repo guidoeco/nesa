@@ -1,0 +1,73 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Ely North Jn	71	63	
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06		71	72	*
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Queen Adelaide LC	72	12	AHBc-X
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Ely West Jn	72	39	
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Clayway LC	72	62	
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06		73	35	*
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Chettisham LC	73	55	AHBC-X
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Coffue Drove LC	74	25	
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Beald Drove LC	74	53	AHBC—X
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06	North Fen LC	74	79	AHBC-X
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06	Black Bank LC	75	24	AHBC-X
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06	Second Drove LC	75	58	AHBC-X
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06	Third Drove LC	75	76	AHBC-X
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06		78	01	*
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06		78	02	*
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06		78	60	*
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Welney Road LC	79	50	AHBC—X
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Manea SB	80	11	M
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Manea LC	80	13	MCB
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	MANEA	80	18	
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Stonea SB	82	03	B
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Stonea LC	82	04	MCG
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06		83	13	*
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06	Horsemoor LC (AHBC-X)	84	31	*
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06		84	50	*
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06	Silt Drove LC	84	69	T
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06	Badgeney Road LC	85	07	AHBC—X
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07		85	30	
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07	March South LC (MCB)	85	35	*
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07	March South SB	85	37	MS
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07	March East SB	85	68	ME
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07	March East LC	85	69	MOB
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07		85	70	*
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	MARCH	85	76	
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	March East Jn	85	78	
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	March West Jn .	86	16	*
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06		86	26	*
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	Norwood Road LC	86	30	AHBC
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06		86	35	*
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06		87	30	*
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	Whitemoor Drove LC	87	31	AHBC
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	Middle Drove LC	88	75	RIG
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	Kisby LC	88	24	
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Three Horse Shoes No.1 LC	90	03	AHBC-X
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Three Horse Shoes No.2 LC	90	42	AHBC—X
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Three Horse Shoes No.3 LC	90	76	AHBC-X
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Three Horse Shoes SB	91	05	THS
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06		91	12	*
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Burnt House Drove LC	91	15	AHBC—X
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Baileys LC	92	58	
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Eastrea LC (AH BC-X)	93	28	*
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Eastrea WHEELCH EX	93	53	
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06		94	40	*
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06		94	43	*
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Whittlesea SB	94	54	W
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	WHITrLESEA	94	60	
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Whittlesea LC GF	94	68	
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Whittlesea LC	94	63	
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06		94	70	*
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Harts Drove LC	95	02	RIG
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Ramsey Road LC	95	37	AHBC
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Blackbush LC	95	51	AHBC
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Kings Dyke LC	96	73	MOB
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Kings Dyke SB	96	75	K
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Funthams Lane LC	97	16	CCTV
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Territory Boundary	96	40	
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06		99	70	*
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06		100	16	
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06		100	37	
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Crescent Jn .	100	66	
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06		76	25	
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	PETERBOROUGH	76	29	

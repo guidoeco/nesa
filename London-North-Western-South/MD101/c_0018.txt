@@ -1,0 +1,11 @@
+48 30 *
+Denbigh Hall North Jn 48 48
+KnowlhillJn 48 75
+49 39 *-
+Milton Keynes South Jn 49 43
+MILTON KEYNES CENTRAL 49 65
+49 75 *
+Milton Keynes North Jn 50 10
+50 16 a:
+OHNS 51 16
+

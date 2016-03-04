@@ -1,0 +1,11 @@
+129 14
+129 30 9e
+CASTLE CARY 129 45
+Castle Cary Jn 129 50
+(Change of ELR) 115 32
+(129 65) *
+Territory Boundary (130 00)
+115 38 1:
+116 00 at
+Parsonage Farm LC (UWC) 117 10
+

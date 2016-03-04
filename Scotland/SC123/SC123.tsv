@@ -1,0 +1,102 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0231	SC123	001	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	01/12/07	DRUMGELLOGH	11	65	
+0231	SC123	001	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	01/12/07	AIRDRIE	10	38	*
+0231	SC123	001	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	01/12/07	GOATDYKE	9	50	
+0231	SC123	001	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	01/12/07		8	65	*
+0232	SC123	002	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	COATBRIDGE SUNNYSIDE	8	51	
+0232	SC123	002	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	Sunnyside Jn	8	43	
+0232	SC123	002	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07		8	25	*
+0232	SC123	002	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	BLAIRHILL	7	75	
+0232	SC123	002	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	EASTERHOUSE	5	30	
+0232	SC123	002	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	GARROWHILL	4	30	
+0233	SC123	003	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07		3	35	*
+0233	SC123	003	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	SHETTLESTON	3	17	
+0234	SC123	004	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	GARNTYHE	2	36	
+0234	SC123	004	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	OHNS	1	63	
+0234	SC123	004	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07		1	40	*
+0234	SC123	004	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07		1	20	*
+0235	SC123	005	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	Bellgrove Jn	0	69	
+0235	SC123	005	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07		0	60	*
+0235	SC123	005	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	BELLGROVE	0	55	
+0235	SC123	005	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	Bellgrove Tunnel	0	49	
+0235	SC123	005	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	200 yards to	0	49	X
+0235	SC123	005	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07		0	40	
+0235	SC123	005	Drumgelloch to Helensburgh (Via Singer) NEM2 Scotland	23/10/07	High St Jn	0	28	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07		0	19	*
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	HIGH ST	0	05	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	(Change of ELR	0	00	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	NEM2 to NEM3)	0	00	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	High St Tunnel	0	00	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	680 yards to	0	31	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	QUEEN STREET (Low Level)	0	40	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	Charing Cross Tunnel	0	47	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	1100 yards to	1	17	
+0236	SC123	006	Drumgelloch to Helensburgh (Via Singer) NEM2 NEM3 Scotland	23/10/07	GHARING GROSS	1	20	
+0237	SC123	007	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	Finnieston Tunnel	1	27	
+0237	SC123	007	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	750 yards to	1	61	
+0237	SC123	007	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	OHNS	2	16	
+0237	SC123	007	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	Finnieston East Jn	2	19	
+0237	SC123	007	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07		2	32	*
+0237	SC123	007	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	Finnieston West Jn	2	53	
+0237	SC123	007	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07		2	60	*
+0238	SC123	008	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	PARTICK	2	79	
+0238	SC123	008	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	HYNDLAND	3	55	
+0239	SC123	009	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	Hyndland East Jn	4	02	*
+0239	SC123	009	Drumgelloch to Helensburgh (Via Singer) NEM3 Scotland	23/10/07	Hyndland North Jn	4	26	*
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	ANNIESLAND	4	50	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	(Change of ELR	4	63	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	NEM3 to NEM4)	0	00	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	Knightswood Tunnel	0	22	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	270 yards to	0	34	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	(Change of ELR	0	34	X
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	NEM4 to NEM5)	0	74	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	Knightswood North Jn	0	74	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07		5	67	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07		5	68	*
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	WESTERTON	6	10	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07	Westerton Jn	6	19	
+0240	SC123	010	Drumgelloch to Helensburgh (Via Singer) NEM3 NEM4 NEM5 Scotland	23/10/07		6	23	*
+0241	SC123	011	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	23/10/07	DRUMCHAPEL	7	20	
+0241	SC123	011	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	23/10/07		8	02	
+0241	SC123	011	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	23/10/07	DRUMRY	8	10	
+0241	SC123	011	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	23/10/07		8	75	
+0241	SC123	011	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	23/10/07	SINGER	9	05	
+0242	SC123	012	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	01/12/07		9	24	*
+0242	SC123	012	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	01/12/07	DALMUIR	9	71	
+0242	SC123	012	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	01/12/07		9	76	*
+0242	SC123	012	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	01/12/07	Dalmuir Park Jn	10	01	
+0242	SC123	012	Drumgelloch to Helensburgh (Via Singer) NEM5 Scotland	01/12/07	OHNS	10	13	
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07	KILPATRICK	11	17	
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07	BOWLING	12	70	
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07	Bowling LC	12	78	CCTV
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07		13	30	*
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07	(Change of ELR	13	40	
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07	NEM5 to NEM6)	113	46	
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07		114	16	*
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07		115	32	*
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07		115	48	*
+0243	SC123	013	Drumgelloch to Helensburgh (Via Singer) NEM5 NEM6 Scotland	23/10/07	DUMBARTON EAST	115	59	
+0244	SC123	014	Drumgelloch to Helensburgh (Via Singer) NEM6 NEM7 Scotland	23/10/07	(Change of ELR	116	00	
+0244	SC123	014	Drumgelloch to Helensburgh (Via Singer) NEM6 NEM7 Scotland	23/10/07	NEM6to NEMT)	15	51	
+0244	SC123	014	Drumgelloch to Helensburgh (Via Singer) NEM6 NEM7 Scotland	23/10/07		15	65	*
+0244	SC123	014	Drumgelloch to Helensburgh (Via Singer) NEM6 NEM7 Scotland	23/10/07	DUMBARTON CENTRAL	16	08	
+0244	SC123	014	Drumgelloch to Helensburgh (Via Singer) NEM6 NEM7 Scotland	23/10/07		16	10	*
+0244	SC123	014	Drumgelloch to Helensburgh (Via Singer) NEM6 NEM7 Scotland	23/10/07		16	20	*
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07	DALREOCH	16	38	
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07	Dalreoch Jn	16	39	
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07		16	55	*
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07	Dalreoch Tunnels	16	59	
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07	550 yards to	17	04	
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07		19	28	*
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07		19	38	*
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07	GARDROSS	19	50	
+0245	SC123	015	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	23/10/07	Cardross LC	19	57	CCTV
+0246	SC123	016	Drumgelloch to Helehsburgh (Via Singer) NEM7 \ Scotland	09/11/08	Geilston LC	20	07	UWC
+0246	SC123	016	Drumgelloch to Helehsburgh (Via Singer) NEM7 \ Scotland	09/11/08	Geilston Farm LC	20	29	UWC
+0246	SC123	016	Drumgelloch to Helehsburgh (Via Singer) NEM7 \ Scotland	09/11/08	Brookes Farm LC	20	49	UWC
+0246	SC123	016	Drumgelloch to Helehsburgh (Via Singer) NEM7 \ Scotland	09/11/08	Ardmore East LC	21	19	AHBC-X
+0246	SC123	016	Drumgelloch to Helehsburgh (Via Singer) NEM7 \ Scotland	09/11/08	Moss Road LC	21	75	AHBC-X
+0246	SC123	016	Drumgelloch to Helehsburgh (Via Singer) NEM7 \ Scotland	09/11/08		22	52	*
+0246	SC123	016	Drumgelloch to Helehsburgh (Via Singer) NEM7 \ Scotland	09/11/08	Craigendoran Jn	22	76	
+0247	SC123	017	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	01/12/07	ORAIGENDORAN	23	18	
+0247	SC123	017	Drumgelloch to Helensburgh (Via Singer) NEMT Scotland	01/12/07	HELENSBURGH CENTRAL	24	31	

@@ -1,0 +1,15 @@
+1 00 i
+
+1 O3 :1
+
+1 18 i
+Southwark Bridge Jn 1 20
+
+1 42 i
+ELEPHANT AND CASTLE 1 47
+
+1 54 i
+
+1 70 i
+Walworth TP Hut 2 20
+

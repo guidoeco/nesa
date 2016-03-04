@@ -1,0 +1,4 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0255	SC131	001	High Street Jn to Shi-elds Jn HST Scotland	27/12/08	High Street Jn	0	04	
+0255	SC131	001	High Street Jn to Shi-elds Jn HST Scotland	27/12/08		2	17	*
+0255	SC131	001	High Street Jn to Shi-elds Jn HST Scotland	27/12/08	Shields Jn	2	35	

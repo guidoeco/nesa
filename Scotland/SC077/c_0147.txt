@@ -1,0 +1,8 @@
+Ardrossan South Beach 30 44
+(Jn with Largs line)
+
+ARDROSSAN TOWN 31 00
+Princes St LC (AOCL) 31 06
+Ardrossan Harbour LC (AOCL) 31 25
+ARDROSSAN HARBOUR 31 35
+

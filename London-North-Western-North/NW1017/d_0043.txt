@@ -1,0 +1,15 @@
+NRN
+AB Salop Goods Jn SB (33)
+AC: Crewe
+
+UFI=Up Fast Independent
+USI=Up Slow Independent
+D$|=Down Slow Independent
+DFI=Down Fast Independent
+UMI=Up Manchester Independent
+DMI=Down Manchester Independent
+US=Up Salop
+DS=Down Salop
+ULI=Up Liverpool Independent
+DLI=Down Liverpool Independent
+

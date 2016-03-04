@@ -1,0 +1,12 @@
+Graveney LG (AHBC) 54 77 *
+Graveney Substation 55 42
+56 14 *-
+Seasalter TP Hut 57 21
+57 4O *
+58 4O *
+Whitstable Substation 58 79
+WHITSTABLE 59 06
+59 12 *
+CHESTFIELD & SWALECLIFFE 60 45
+Chestfield TP Hut 60 62
+

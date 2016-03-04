@@ -1,0 +1,8 @@
+Dunkeld SB 15 25
+DUNKELD and BIRNAM 15 31
+15 45 9e
+16 45 *-
+lnverTunnel 16 55
+370 yards to 16 72
+17 00 *
+

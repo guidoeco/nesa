@@ -1,0 +1,20 @@
+NRN
+TCB Sheffield SB (S)
+RAB
+BETWEEN 158 18 AND 158 60 DOWN 158 67
+UP ALL LINES AND CONNECTIONS 15MPH
+EXCEPT AS OTHERWISE SHOWN
+CD TolFrom Carriage Sidings (Fish Dock)
+AWS Gap in Station area between 158 07
+Down I 157 79 Up and 159 08
+C2) = Up Station Siding No1
+Q) = Up Station Siding N02
+@ = Down Station Siding
+TL = Through line
+PP is authorised on Platforms 1, 2, 5, 6 and 8
+for trains booked to call at Sheffield.
+PP - Permissive Working - full use for class 1, 2,
+3 (E08), 5, 9 8: 0 trains in Platforms 20, 3, 4 & 7.
+CW Up at 158 63 (80 yards after
+passing signal S150)
+

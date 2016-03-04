@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08	St AndreW's Jn	41	18	
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08	Change of mileage	0	00	
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08		0	07	*
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08		0	12	*
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08		0	28	*
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08	Grand Jn	0	52	
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08	Change of mileage	41	26	

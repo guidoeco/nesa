@@ -1,0 +1,93 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0316	NW7009	001	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR1 FHR2 LNW North	07/10/06	Farington Curve Jn	20	08	
+0316	NW7009	001	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR1 FHR2 LNW North	07/10/06		0	00	
+0316	NW7009	001	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR1 FHR2 LNW North	07/10/06	Farington Curve Jn GF	0	06	
+0316	NW7009	001	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR1 FHR2 LNW North	07/10/06		0	08	
+0316	NW7009	001	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR1 FHR2 LNW North	07/10/06		0	61	*
+0316	NW7009	001	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR1 FHR2 LNW North	07/10/06		0	70	
+0316	NW7009	001	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR1 FHR2 LNW North	07/10/06	Lostock Hall Depot	0	75	
+0317	NW7009	002	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 LNW North	07/10/06	LOSTOCK HALL	1	20	
+0317	NW7009	002	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 LNW North	07/10/06	Lostock Hall Jn	1	42	
+0317	NW7009	002	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 LNW North	07/10/06		1	46	*
+0317	NW7009	002	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 LNW North	07/10/06	Whittle International GF	1	70	
+0317	NW7009	002	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 LNW North	07/10/06		1	73	
+0317	NW7009	002	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 LNW North	07/10/06		2	15	*
+0317	NW7009	002	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 LNW North	07/10/06		2	24	
+0317	NW7009	002	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 LNW North	07/10/06	Bamber Bridge Stn GF	2	25	
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	BAMBER BRIDGE	2	29	
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	Bamber Bridge LC (MCB) (Not block post)	2	32	
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07		2	34	*
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	Hospital LC	3	24	CCTV
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	Bank Head LC	3	52	UWC
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	Coopers LC	3	70	UWC
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	Oram's No.1 LC	3	77	UWC
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	Oram's No.3 LC	4	14	UWC
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	Gregson Lane LC	4	21	UWC
+0318	NW7009	003	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR3 FHR4 LNW North	20/10/07	Mintholme LC	4	49	CCTV
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	Hoghton LC	5	27	AHBC
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	Hoghton West EGF	5	32	
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	Hoghton East EGF	5	33	
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	Pleasington Golf Club No.1 LC	6	77	UWC
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	PLEASINGTON	7	43	
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	Cherry Tree GF	8	40	
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	CHERRY TREE	8	50	
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08		9	05	*
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	MILL HILL	9	24	
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08		9	31	*
+0319	NW7009	004	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 LNW North	05/05/08	Taylor Street	9	60	
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07	Blackburn Bolton Jn	10	11	
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07		10	17	
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07		10	23	
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07		10	25	*
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07		10	28	
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07	Blackburn GF (Outof use)	10	30	
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07	BLACKBURN	10	42	
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07	Blackburn Tunnel	10	55	
+0320	NW7009	005	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR4 FHR5 BBS1 3382 3383 LNW North	01/12/07	(398m I 435 yds) to	10	75	
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06		10	78	
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06		11	00	*
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	Daisyfield Jn	11	09	
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06		12	16	*
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06		12	68	*
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	Rishton Tunnel	12	73	
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	(62m I 68 yds) to	12	76	
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	RISHTON	13	26	
+0321	NW7009	006	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	CHURCH & OSWALDTWISTLE	14	76	
+0322	NW7009	007	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06		15	49	
+0322	NW7009	007	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	Aocrington EGF	15	56	
+0322	NW7009	007	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06		15	58	*
+0322	NW7009	007	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	ACCRINGTON	15	64	
+0322	NW7009	007	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06		15	76	*
+0322	NW7009	007	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06		17	31	
+0322	NW7009	007	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	Huncoat LC (MCB) (Not block post)	17	36	
+0322	NW7009	007	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 LNW North	07/10/06	HUNCOAT	17	41	
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07	HAPT-ON	18	73	
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07		19	77	*
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07	Rose Grove West Jn	20	05	
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07		20	15	*
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07	ROSE GROVE	20	32	
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07		20	43	*
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07		20	48	*
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07		20	50	
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07		21	00	*
+0323	NW7009	008	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR5 FHR6 LNW North	18/08/07	Gannow Jn	21	03	*
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	BURNLEY MANCHESTER ROAD	21	67	
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	Towneley LC (MCB) (Not block post)	22	46	
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	Towneley Tunnel	23	06	
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	(364ml 398yd) to	23	25	
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		23	64	*
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		23	68	*
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	Holme Tunnel	25	52	*
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	(242m/ 265yd) to	25	65	*
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	Copy Pit crossover	26	20	
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		27	05	*
+0324	NW7009	009	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	Portsmouth LC	27	30	RIG
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		28	40	*
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		28	72	*
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	Kitson Wood Tunnel	28	76	
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	(265m I 290 yds) to	29	10	
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		30	17	
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		30	20	*
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		30	24	
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06	Hall Royd Jn	30	54	*
+0325	NW7009	010	Farington Curve Jn. to Hall Royd Jn. (East Lancs lines) FHR6 LNW North	07/10/06		19	61	

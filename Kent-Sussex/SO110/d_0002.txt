@@ -1,0 +1,26 @@
+NRN CSR
+
+TCB Victoria SB (VS)
+A.W.S not provided for emergency
+and temporary speed restrictions.
+
+1 Chatham Reversible
+
+2 Up Chatham Fast
+
+3 Down Chatham Fast
+
+4 Up Chatham Slow
+
+5 Down Chatham Slow
+
+6 Up Stewarts Lane
+
+7 Down Stewarts Lane
+
+8 Up Waterloo Curve
+
+9 Down Waterloo Curve
+10 Up Chatham Main
+11 Down Chatham Main
+

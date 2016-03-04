@@ -1,0 +1,15 @@
+Chartham South Substation 66 32
+Deanery Crossing 66 60
+Chartham LC 67 10
+CHARTHAM 67 14
+Horton UWC 67 47
+Milton TP Hut 67 69
+Whitehall LC (RIG) 69 30
+Canterbury West Substation 69 44
+St Dunstans LC (CCTV) 70 15 *
+SANTERBURY WEST 70 27
+CanterburyNVye ACC (CWACC) (EBT) 70 36 9:
+Canterbury West Signal Box (EDH) 70 37
+St Stephens LC (CCTV) 70 56
+Canterbury West TP Hut 71 05
+

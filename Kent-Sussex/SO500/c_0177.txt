@@ -1,0 +1,10 @@
+Brighton Substation 50 18
+
+50 20 *
+Montpelier Jn 50 31
+
+( 0 13)
+BRIGHTON 50 49
+
+( 0 00)
+

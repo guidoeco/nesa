@@ -1,0 +1,11 @@
+Manchester Piccadilly EastJn 188 48
+MANCHESTER PIGGADILLY 188 65
+Manchester Piccadilly West Jn 188 71
+188 72 i:
+189 03 i:
+189 20 a:
+189 28 :1:
+OXFORD ROAD 189 29
+189 36 *-
+189 39 *-
+

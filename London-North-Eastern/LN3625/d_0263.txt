@@ -1,0 +1,17 @@
+NRN
+
+TCB Netherfield Jn SB
+RAB
+Platform lengths: Carlton
+Down Main-131 metres
+Up Main-111 metres
+AB Netherfield SB {
+Platform lengths: Burton Joyce
+Down Main-135 metres
+Up Main-150 metres
+
+Lowdham SB
+Platform lengths: Lowdham
+Down Main-82 metres
+Up Main-119 metres
+

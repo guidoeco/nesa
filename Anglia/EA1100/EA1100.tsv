@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09	East Gate Jn	53	14	
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09	Hythe Jn	53	14	X
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09	Colne Jn	53	30	*
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09		53	59	*
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09		53	63	
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09	COLGHESTER TOWN	53	76	

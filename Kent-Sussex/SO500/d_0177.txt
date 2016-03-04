@@ -1,0 +1,11 @@
+NRN CSR
+RAB DC: Brighton
+1 Carriage Road
+2 Up Main
+3 Down Main
+4 Goods Reception
+5 Up West Branch
+6' Down West Branch
+7 Down East Branch
+8 Up East Branch
+

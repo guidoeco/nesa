@@ -1,0 +1,10 @@
+8 57 *-
+10 40 *-
+10 43 a:
+11 29 a:
+11 32 i:
+12 20 *
+Caimlea No1 LC (UWC) 12 32
+BARRHILL SB 12 35
+Caimlea No2 LC (UWC) 12 37
+

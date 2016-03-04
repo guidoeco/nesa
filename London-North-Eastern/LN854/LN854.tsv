@@ -1,0 +1,152 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Hall Royd Jn	19	61	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Millwood Tunnel	19	63	*
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	(206m / 225 yards) to	19	73	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Casfle Hill Tunnel	20	07	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	(177m 194 yards)	20	16	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Horsfall Tunnel	20	44	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	(250m I 274 yards) to	20	56	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		22	20	*
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		22	40	*
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Network Rail LNWILNE Boundary	22	62	*
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Weasel Hall Tunnel	23	12	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	(100m 1 109 yards) to	23	17	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	HEBDEN BRIDGE	23	50	
+0378	LN854	001	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Hebden Bridge SB	23	55	HB
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008		23	73	*
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008		24	42	*
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	MYTHOLMROYD	24	68	
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	Sowerby Bridge Tunnel	27	60	
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	(600m I 657 yards) to	28	10	
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	SOWERBY BRIDGE	28	51	
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	Milner Royd Jn	29	20	*
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	Milner Royd Jn SB	29	21	MR
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008		29	25	*
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	Greetland Jn SB	30	77	G
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	Elland Tunnel	31	25	
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	(384m I 420 yards) to	31	44	
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	Elland SB	31	61	E
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	BRIGHOUSE	34	31	
+0379	LN854	002	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	14/07/2008	Bradley Wood Jn	35	59	
+0380	LN854	003	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Heaton Lodge Jn	37	30	*
+0380	LN854	003	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		37	37	*
+0380	LN854	003	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Heaton Lodge East Jn	37	48	*
+0380	LN854	003	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	MIRFIELD	38	30	
+0380	LN854	003	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		38	37	
+0380	LN854	003	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		38	20	
+0380	LN854	003	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Mirfield East Jn	39	26	
+0380	LN854	003	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	ThomhillLNW Jn	39	72	*
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Thomhill Jn Crossover	40	60	
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Dewsbury East Jn	41	43	
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Healey MillsA Jn	42	00	
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		42	30	
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		42	57	
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Healey Mills SB	42	64	HM
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		42	70	
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Healey MillsB Jn	43	21	*
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		43	40	*
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		43	60	*
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		43	63	*
+0381	LN854	004	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Horbury Station Jn	44	02	
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Horbury Jn GF	45	00	
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Horbury Jn SB	45	38	HJ
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		45	39	
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		45	41	*
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		45	48	*
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		46	20	*
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		47	10	*
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		47	38	*
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06	Wakefield Kirkgate West Jn	47	43	*
+0382	LN854	005	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	02/12/06		47	52	*
+0383	LN854	006	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	26/04/08	WAKEFIELD KIRKGATE	47	62	
+0383	LN854	006	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	26/04/08	Wakefield Kirkgate East	47	68	
+0383	LN854	006	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	26/04/08	Wakefield Kirkgate SB	47	69	
+0383	LN854	006	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	26/04/08		47	78	
+0383	LN854	006	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	26/04/08		48	05	*
+0383	LN854	006	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	26/04/08	Turners Lane Jn	48	33	
+0383	LN854	006	Hall Royd Jn. to Skelton Jn. MVN2 London North Eastern	26/04/08		49	63	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		50	31	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		184	56	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		184	63	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		185	00	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07	Footpath LC	185	11	RIG
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07	NORMANTON			Z
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		185	30	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07	Altofts Jn	185	73	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		186	00	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		23	57	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		23	14	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07	Whitmmod Jn	22	04	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		21	69	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		21	58	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		21	30	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07	Castleford LC	21	22	MOB
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07	Castleford SB	21	22	CD
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		21	18	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		21	06	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		21	04	*
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07	Castleford West Jn	21	02	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07	CASTLEFORD	20	76	
+0384	LN854	007	Hall Royd Jn. to Skelton Jn. TJCS N00 London North Eastern	15/09/07		20	70	*
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Castleford East Jn	20	39	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		19	60	*
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		19	44	*
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		19	40	*
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Fairburn Tunnel	17	52	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	(59m I 65 yards) to	17	49	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		17	24	*
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Hillam Gates LC	15	57	CCTV
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		15	10	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Milford Jn	15	07	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		15	06	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		15	00	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		14	74	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Milford SB	14	71	M
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		14	64	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		14	21	*
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06		14	18	*
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Sherburn Jn	13	20	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Sherburn in Elmet LC	12	69	CCTV
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	SHERBURN IN ELMET	12	69	
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Bramleys (Holme Farm)	13	52	UWC
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Lodge Farm	12	38	UWG
+0385	LN854	008	Hall Royd Jn. to Skelton Jn. N00 London North Eastern	02/12/06	Harrisons Farm	11	78	UWC
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	Church End Farm LC	11	20	UWC
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		11	08	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	Church Fenton South Jn	10	77	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	CHURCH FENTON	10	58	*
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		10	52	*
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		10	37	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	Church Fenton North Jn	10	31	*
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		10	27	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	ULLESKELF	8	70	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		7	31	*
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		6	40	*
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	Colton South Jn	6	25	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		6	14	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	Colton Jn	5	41	*
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		182	79	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		183	50	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	Colton North Jn	183	65	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		183	77	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06		184	04	
+0386	LN854	009	Hall Royd Jn. to Skelton Jn. NOC ECM4 London North Eastern	26/12/06	Earfit Lane LC	184	05	RIG
+0387	LN854	010	Hall Royd Jn. to Skelton Jn. ECM4 London North Eastern	02/12/06	Copmanthorpe No. 2 LC	185	19	RIG
+0387	LN854	010	Hall Royd Jn. to Skelton Jn. ECM4 London North Eastern	02/12/06		186	20	*
+0387	LN854	010	Hall Royd Jn. to Skelton Jn. ECM4 London North Eastern	02/12/06		186	43	*
+0387	LN854	010	Hall Royd Jn. to Skelton Jn. ECM4 London North Eastern	02/12/06		187	25	*
+0387	LN854	010	Hall Royd Jn. to Skelton Jn. ECM4 London North Eastern	02/12/06		187	43	
+0387	LN854	010	Hall Royd Jn. to Skelton Jn. ECM4 London North Eastern	02/12/06		187	78	*
+0387	LN854	010	Hall Royd Jn. to Skelton Jn. ECM4 London North Eastern	02/12/06	Holgate Jn	188	07	*
+0388	LN854	011	Hall Royd Jn. to Skelton Jn. ECM4 ECM5 London North Eastern	01/12/07		188	28	*
+0388	LN854	011	Hall Royd Jn. to Skelton Jn. ECM4 ECM5 London North Eastern	01/12/07	YorkSB	133	33	Y
+0388	LN854	011	Hall Royd Jn. to Skelton Jn. ECM4 ECM5 London North Eastern	01/12/07	YORK	188	40	
+0388	LN854	011	Hall Royd Jn. to Skelton Jn. ECM4 ECM5 London North Eastern	01/12/07		0	00	
+0388	LN854	011	Hall Royd Jn. to Skelton Jn. ECM4 ECM5 London North Eastern	01/12/07		0	26	*
+0388	LN854	011	Hall Royd Jn. to Skelton Jn. ECM4 ECM5 London North Eastern	01/12/07		0	42	*
+0389	LN854	012	Hall Royd Jn. to Skelton Jn. ECM5 London North Eastern	02/12/06		1	09	*
+0389	LN854	012	Hall Royd Jn. to Skelton Jn. ECM5 London North Eastern	02/12/06		1	23	*
+0389	LN854	012	Hall Royd Jn. to Skelton Jn. ECM5 London North Eastern	02/12/06		1	25	*
+0389	LN854	012	Hall Royd Jn. to Skelton Jn. ECM5 London North Eastern	02/12/06	Skelton Jn	1	50	*
+0389	LN854	012	Hall Royd Jn. to Skelton Jn. ECM5 London North Eastern	02/12/06		1	60	*
+0389	LN854	012	Hall Royd Jn. to Skelton Jn. ECM5 London North Eastern	02/12/06	OHNS	2	04	

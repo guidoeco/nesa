@@ -1,0 +1,12 @@
+Worle Jn 135 11
+135 20 *
+WESTON MILTON 136 12
+Single line 137 14 *-
+Outside relay room 137 20
+Weston-S—M Up GF 137 22
+WESTON-SUPER—MARE 137 33
+Single line 137 58 5':
+138 75 *
+Uphill Jn 139 05
+138 O4
+

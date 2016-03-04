@@ -1,0 +1,26 @@
+0 15 5':
+
+0 01 *
+
+O 00 9e
+
+16 69
+
+16 66 *
+Hillam Gates LC (CCTV) 15 57
+
+15 07 *-
+Milford Jn
+
+7 65
+Milford SB (M) 7 49
+
+7 10 *
+
+6 45 9:
+
+6 42
+
+6 39
+Gascoigne Wood SB (GW) 6 27
+

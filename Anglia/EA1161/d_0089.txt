@@ -1,0 +1,7 @@
+NRN CSR
+TCB Cambridge SB (CA) 49
+RAB AC: Romford
+Up plalform -254m (275 yd)
+Down platform -254m (275 yd)
+DGL 512m (560yds) PF
+

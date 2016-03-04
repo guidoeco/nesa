@@ -1,0 +1,20 @@
+NRN
+TCB Macclesfield SB (MD)
+AC: Crewe
+TASS fitted
+NRN
+Up at 2m OOCh.
+Area channel
+change: NRN
+Down at 1m 74ch.
+'U&D'PL='Up & Down' Platform line
+268m (879ft)
+Platform Lengths: Macclesfield
+Platform 1 Permissive PP -0
+305m (334yards)
+Platform 2 Permissive PP -0
+268m (293yards)
+Platform 3 Permissive PP -C
+268m (293yards)
+FWS in tunnel
+

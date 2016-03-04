@@ -1,0 +1,8 @@
+49 60 it
+Sawston LC (CCTV) 50 46
+Demford LC (RIG) (UWC) 51 36
+Shelford LC (CCTV) 52 32
+SHELFORD 52 36
+Granhams LC (CCTV) 52 64
+OHNS 52 69
+

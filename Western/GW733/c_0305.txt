@@ -1,0 +1,18 @@
+Nawlyns LC (UWC) 76 15
+Rhiwlas Hall No.2 LC (UWC) 76 50
+Rhiwlas Hall No.4 LC (UWC) 76 78
+Doldyfi LC (UWC) 77 13
+Quay Ward No.1 LC (UWC) 77 44
+Quay Ward No.2 LC (UWC) 77 61
+Quay Ward No.3 LC (UWC) 77 71
+Quay Ward No.4 LC (UWC) 78 08
+Dovey Juncfion 78 60
+RETB Channel Change 79 00
+DOVEY JUNCTION (TEP) 79 03
+Bridge 242 79 18
+Bridge 243 80 19
+Bridge 246 32 48
+Bridge 247 83 31
+Brickyard No.3 LC (UWC) 84 66
+Ynyslas LC (AHBC) 85 21
+

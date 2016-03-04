@@ -1,0 +1,8 @@
+108 69
+Allington West Jn 0 00
+0 18 *
+0 24 *-
+Allington North Jn o 34
+4 08
+Barkston East Jn (Former) 110 12
+

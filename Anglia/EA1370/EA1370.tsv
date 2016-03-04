@@ -1,0 +1,48 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	Gospel Oak (GO) SB	0	00	
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	GOSPEL OAK	0	04	
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08		0	43	
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	Covered Way to	0	43	X
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08		0	52	
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	Junction Road Jn	0	58	*
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08		2	42	
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08		2	44	*
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	Cripple Siding GSP	2	44	X
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	Upper Holloway SB	2	76	UH
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	UPPER HOLLOWAY	3	00	
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06		3	08	*
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06		3	28	*
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	CROUCH HILL	3	65	
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06		4	01	
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	Crouch Hill Tunnel to	4	01	X
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	(90yds)	4	05	
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	Harringay Park Jn SB	4	12	HP
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	Harringay Park Jn	4	15	
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	HARRINGAY GREEN LADIES	4	61	
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	South Tottonham West Jn	5	65	
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06		5	66	*
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	SOUTH TOTTENHAM	5	69	
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	South Tottenham Station Jn . SB (8)	5	71	*
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	South Tottenham East Jn	5	73	*
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06		5	77	*
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		6	47	*
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		6	58	*
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	BLACKHORSE ROAD	7	21	
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	WALTHAMSTOW QUEENS ROAD	8	11	
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	LEYTON MIDLAND ROAD	9	22	
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	LEYTONSTONE HIGH ROAD	10	00	
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	WANSTEAD PARK	11	15	
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		11	19	*
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		11	34	*
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		11	44	*
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		11	69	*
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		11	73	*
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		11	74	
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	Woodgrange Park Jn	11	79	
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		12	00	*
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	WOODGRANGE PARK	12	05	
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		12	16	*
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		13	05	*
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	Barking Station Jn .	13	12	
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	BARKING	12	05	
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	Barking Tilbury Line Jn West	13	42	

@@ -1,0 +1,12 @@
+Bourton HABD 72 20
+Bourton 72 30
+South Marston 74 51
+Stratton Green 75 63
+
+76 20 9:
+Rover Sidings
+
+76 26
+Highworth GF 76 30
+Highworth Jn 76 32
+

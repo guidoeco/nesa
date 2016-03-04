@@ -1,0 +1,42 @@
+NRN CSR
+
+TCB Reading SB (R)
+RAB
+@Out of use until further notice
+ATP - UW from R873 (52m 23ch)
+
+Between R.871 and R.824
+
+DW is bi-directional
+
+DPL (PP-A) Daylight Hours only
+
+Down platform - 89m, 97yds
+
+Up platform - 74m, 81yds
+
+DPL platform - 206m, 225yds
+
+UPL 359m. 1176ft
+
+DPL 442m. 1449ft
+
+DPL (PP-A), UPL (PP-A)
+
+and bi-direolional
+
+Platform 3 (PP)
+
+Down platform - 291 m, 318yds
+
+Up platform - 327m, 358de
+
+Bay platform - 129m, 141yds
+(Controlled by Kintbury LC)
+Location of known low rail adhesion
+-both lines 56m 10ch to 60m 10ch
+
+Down platform - 105m, 115yds
+
+Up platform - 106m, 1163de
+

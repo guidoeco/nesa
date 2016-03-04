@@ -1,0 +1,12 @@
+Territory Boundary 12 30
+12 37 i:
+12 37 *-
+13 20 9:
+
+Gave LC (CCTV) 13 42
+14 07 9:
+16 53 *
+
+Kirtlebridge GSP 17 02
+17 13 *-
+

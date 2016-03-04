@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	East Somerset Jn	120	73	Witham
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06		0	11	
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	Cross Cottage LC	2	57	UWC
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	Merehead Quarry Jn	3	50	
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	Foresh'y LC	4	15	UWC
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	Whites LC	4	52	UWC
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	Merehead West	4	57	
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	Cranmore East GF	5	48	
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	(Network Rail Boundary)	5	48	X
+0215	GW580	001	East Somerset Jn to Cranmore ESB Western	05/08/06	GRANMORE	5	57	ESR

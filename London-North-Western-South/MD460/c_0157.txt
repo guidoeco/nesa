@@ -1,0 +1,12 @@
+Fenny Compton Jn 94 20
+Down Goods Loop 94 23
+Change of mileage 95 00
+Kineton MOD Branch 22 60
+
+23 03 *
+
+25 00 1:
+(Network Rail Boundary) 25 55
+Burton Dassett Kineton MOD 25 60
+boundary gate
+

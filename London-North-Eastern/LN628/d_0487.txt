@@ -1,0 +1,13 @@
+NRN
+
+TCB Tyneside SB (T)
+
+AC:York ECR
+TPWS not provided
+@ speeds apply to Metro trains only
+DSH = Down South Hylton
+USH = Up South Hylton
+D: 20
+CD - TolFrom Siding 2
+E= 15
+

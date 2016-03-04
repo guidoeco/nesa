@@ -1,0 +1,11 @@
+41 60 *
+
+43 30 *
+Stonegate Substation 43 33
+STONEGATE 43 66
+Crowhurst Bridge LC (AHBC) 45 36
+Turzes TP Hut 46 50
+ETCHINGHAM 47 34
+Etchingham LC (CCTV) 47 40
+Etchingham Substation 47 63
+

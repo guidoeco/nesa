@@ -1,0 +1,12 @@
+Willesden North Jn 5 52
+5 53 *
+Willesden Jn (O 71)
+Harlesden Jn 6 O1
+6 02 a:
+6 D3 *-
+6 10 *
+Brent Sidings
+CSR change 6 16
+(1 22) i:
+6 50 5%
+

@@ -1,0 +1,16 @@
+Single line 90 74
+Chantry Road LC (RC) 91 02
+
+91 04 *
+Saxmundham LC (MOB) 91 07
+Saxmundham SB (SM) 91 08
+SAXMUNDHAM (TEP) 91 1 1
+GF 91 20
+Saxmundham Jn 91 40
+GF 91 41
+Red House (Kelsale) LC 92 54
+East Green LC 93 06
+
+93 26 *
+North Green LC (AOCL) 93 27
+

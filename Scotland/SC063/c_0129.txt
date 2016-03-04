@@ -1,0 +1,7 @@
+Cardonald Jn 0 00
+Cardonald North Jn O 36
+(Change of ELR CND1 to CNDZ) 0 36
+
+Notice board 1 18
+Deanside 1 54
+

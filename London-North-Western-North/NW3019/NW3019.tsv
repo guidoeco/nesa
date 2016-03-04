@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0137	NW3019	001	Gaerwen to Amlwch GLA LNW North	02/06/07	Gaerwen Jn	245	15	
+0137	NW3019	001	Gaerwen to Amlwch GLA LNW North	02/06/07		0	00	
+0137	NW3019	001	Gaerwen to Amlwch GLA LNW North	02/06/07	Gaerwen GF	0	16	
+0137	NW3019	001	Gaerwen to Amlwch GLA LNW North	02/06/07	Shell GF	15	51	
+0137	NW3019	001	Gaerwen to Amlwch GLA LNW North	02/06/07		16	60	*
+0137	NW3019	001	Gaerwen to Amlwch GLA LNW North	02/06/07	Network Rail Boundary	17	37	
+0137	NW3019	001	Gaerwen to Amlwch GLA LNW North	02/06/07	Amlwch			Z

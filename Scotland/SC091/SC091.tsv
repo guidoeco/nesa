@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0154	SC091	001	Dalrymple Jn to Chalmerston (Goods Line) WAT Scotland	02/12/06	Dalrymple Jn	43	53	
+0154	SC091	001	Dalrymple Jn to Chalmerston (Goods Line) WAT Scotland	02/12/06		45	40	*
+0154	SC091	001	Dalrymple Jn to Chalmerston (Goods Line) WAT Scotland	02/12/06		45	50	*
+0154	SC091	001	Dalrymple Jn to Chalmerston (Goods Line) WAT Scotland	02/12/06	Holehouse Jn GF	48	27	
+0154	SC091	001	Dalrymple Jn to Chalmerston (Goods Line) WAT Scotland	02/12/06	Waterside	52	70	*
+0154	SC091	001	Dalrymple Jn to Chalmerston (Goods Line) WAT Scotland	02/12/06	(Network Rail Boundary)	52	70	X

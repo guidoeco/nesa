@@ -1,0 +1,30 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	Bootle Branch Jn	1	78	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08		0	14	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	Picko No.1 Tunnel	0	30	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	(48ml52yd)			Z
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	O 33 to Picko No.2 Tunnel	0	33	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	(151ml165yd) to	0	40	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	Edge Lane Jn .	0	52	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	Spellow No.2 Tunnel	4	04	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	(310ml339yd) to	4	19	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	Spellow No.1 Tunnel	4	30	
+0081	NW2027	001	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	01/12/08	(57mf62yd) to	4	33	
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08	Westminster Tunnel	4	35	
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08	(263 metres I 288 yards) to	4	49	
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08	Oriel Road Tunnel	4	55	
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08	(263 metres I 288 yards) to	4	68	
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08		4	79	
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08	Underbridge No.2	5	04	*
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08	Bootle Junction	5	06	
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08	Alexandra Dock Tunnel	5	25	
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08	(259 metres I 283 yards) m	5	25	X
+0082	NW2027	002	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT1 SCT2 LNW North	02/08/08		5	38	
+0083	NW2027	003	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	02/06/07	Stop Board	5	43	*
+0083	NW2027	003	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	02/06/07	(down direction)	5	43	X
+0083	NW2027	003	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	02/06/07	Regent Road LC	5	53	AOCL
+0083	NW2027	003	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	02/06/07	Network Rail! M.D.H.C. Boundary	5	53	X
+0083	NW2027	003	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	02/06/07	Strand Road LC	5	73	00
+0083	NW2027	003	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	02/06/07	(M.D.H.C)			Z
+0083	NW2027	003	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	02/06/07	Liverpool Bulk Handling Terminal I	5	73	X
+0083	NW2027	003	Edge Hill Bootle Branch Jn. to Regent Road L.C. SCT LNW North	02/06/07	Seaforth Container Terminal	5	73	X

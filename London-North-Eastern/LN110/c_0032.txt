@@ -1,0 +1,13 @@
+CanonburyWestJn 3 12
+3 15 *
+3 16 *
+OHNSlNetwork Rail 3 20
+AnglialLNE
+Route Boundary
+Canonbury Tunnel 3 "321
+(498m 545 yards) 3 45 *
+HighburyVale Jn 3 61
+4 O7 *-
+4 26 *
+Finsbury Park Jn 4 33
+

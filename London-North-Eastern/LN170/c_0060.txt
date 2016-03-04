@@ -1,0 +1,9 @@
+Brayford Jn 82 53
+Brayford LC (CCTV) 82 57
+East Holmes Jn 82 60
+82 79 *-
+83 27
+West Holmes Jn 83 29 *
+Lincoln SCC 83 30
+83 34 it
+

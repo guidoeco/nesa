@@ -1,0 +1,25 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	HATPON	112	14	
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Hatton Station Jn	112	18	
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Change of mileage	13	12	
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08		18	07	*
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08		18	02	*
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Hatton West Jn	17	62	*
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	GLAVERDON	16	38	
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Bumham Bros LC	16	20	UWC
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Park Farm No.1 LC	16	00	UWC
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Park Farm No.2 LC	15	48	UWC
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Songar Grange Farm LC	14	38	UWC
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Edstone Hall No.1 LC	14	06	UWC
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	BEARLEY	13	19	
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09		12	71	*
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Bearley Jn	12	50	
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Change of mileage	17	69	
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09		12	49	*
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Yew Tree Farm LC	12	23	UWC
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	WILMCOTE	11	49	
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Burton Farm No.2 LC	10	59	UWC
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Burton Farm No.1 LC	10	20	UWC
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09		9	27	*
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	STRATFORD-UPON-AVON	8	77	
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09		8	63	

@@ -1,0 +1,10 @@
+Hockley LC (CCTV) 15 61
+15 51 *
+Barkers LC (UWC) 15 27
+Stathams LC (UWC) 14 50
+14 20 *
+Loxley Lane LC (AHBC-X) 14 11
+Westons LC(UWC) 13 71
+Sergeants LC (UWC) 13 52
+Bramshall LC (AHBC-X) 13 32
+

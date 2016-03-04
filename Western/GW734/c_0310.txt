@@ -1,0 +1,11 @@
+Single line 88 39 *
+Tywyn GF 88 4O
+TYWYN (TEP) 88 56
+Single line 88 67 *
+Sandilands LC (ABCL) 89 09
+Tonfanau LC (UWC) 91 06
+TONFANAU 91 09
+EM Llan1LC(UWC) 92 72
+Ty'n Llan 3 LC (UWC) 93 22
+Bronnant LC (UWC) 94 04
+

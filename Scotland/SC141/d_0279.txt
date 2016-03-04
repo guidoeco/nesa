@@ -1,0 +1,13 @@
+RETB 102 Banavie SC
+CD = Applies to single headed
+
+Class 1, 2, 3 & 5 trains
+®= Applies to Class 4, 6 & 0
+
+trains and double headed Class
+
+1, 2, 3 & 5 trains
+@ = Applies to Class 7 & 8
+
+trains
+

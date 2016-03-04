@@ -1,0 +1,23 @@
+Strensall No1 LC (CCTV) 6 00
+Strensall N02 LC (CCTV) 6 11
+
+6 20 it
+Strensall LC (MOB) 6 48
+Strensall SB (8) 8 48
+
+8 84 *-
+
+6 78 *-
+Common Road LC (MCG) 7 52
+
+8 81 *-
+Flaxton LC (AHBC—X) 9 21
+
+9 22 'k
+
+10 05 *
+
+11 00 *-
+Barton HiIILC(MCB) 11 48
+Barton Hill SB 11 48
+

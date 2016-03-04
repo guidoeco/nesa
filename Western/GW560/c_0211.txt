@@ -1,0 +1,8 @@
+Heywood Road Jn 94 45 *
+94 58 *
+Westbury East Loop Jn 94 77
+95 10 *
+Westbury North Jn 95 33
+(Change of ELR) 109 49
+Westbury SB (W) 109 50 it
+

@@ -1,0 +1,10 @@
+Ledbury Tunnel 135 15
+(1203m,1316yds) 135 75
+Single line 135 76
+Ledbury SB 136 06
+LEDBURY 136 09
+Single line 136 30 *
+139 18
+Rimmell's LC (UWC) 140 34
+Stoke Edith LC (AHBC) 142 22
+

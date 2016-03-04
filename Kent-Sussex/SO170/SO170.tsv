@@ -1,0 +1,72 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	(Tonbridge East Jn)	29	55	
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07		30	04	*
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	Somerhill Tunnel	30	14	
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	(410 yards)	30	32	
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	Southborough TP Hut	31	22	
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	High Brooms Ground Frame	32	51	
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	HIGH BROOMS	32	70	
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	C.E.G.B. Crossing	33	11	
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	Wells Tunnel	33	69	*
+0081	SO170	001	Tonbridge to Bo Peep Jn TTH Kent / Sussex	10/02/07	(823 yards) to	34	27	*
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	TUNBRIDGE WELLS	34	32	
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	Grove Hill Tunnel	34	38	
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	(287 yards) to	34	51	
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08		34	52	*
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	Grave Hill Substation	34	58	
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	Grove Jn	34	65	
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	Strawberry Hill Tunnel	35	12	
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	(286 yards) to	35	25	
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08		35	30	*
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	FRANT	36	53	
+0082	SO170	002	Tonbridge to Bo Peep Jn TTH Kent / Sussex	22/03/08	Frant TP Hut	36	60	
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		37	53	*
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		39	06	*
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Wadhurst Substation	39	10	
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		39	20	*
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	WADHURST	39	23	
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		39	26	*
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Wadhurst Ground Frame	39	27	
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Wadhurst Tunnel	39	65	
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	(1205 yards) to	40	40	*
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		40	50	*
+0083	SO170	003	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	SnapeTP Hut	41	12	
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		41	60	*
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		43	30	*
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Stonegate Substation	43	33	
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	STONEGATE	43	66	
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Crowhurst Bridge LC	45	36	AHBC
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Turzes TP Hut	46	50	
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	ETCHINGHAM	47	34	
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Etchingham LC	47	40	CCTV
+0084	SO170	004	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Etchingham Substation	47	63	
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Robertsbridge Engineers Ground Frame	49	36	
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	ROBERTSBRIDGE	49	47	
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Robertsbridge LC	49	53	
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Robertsbridge SB	49	54	RB
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		49	59	*
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Robertsbridge TP Hut	50	02	
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06		51	36	*
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	Mountfield Tunnel	51	46	
+0085	SO170	005	Tonbridge to Bo Peep Jn TTH Kent / Sussex	02/12/06	(526 yards) to	51	70	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Mountfield Sidings Ground Frme	51	78	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Mountfield Substation	52	00	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07		52	20	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Riverhall LC	52	36	CCTV
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Battle Road LC (AHBC)	52	52	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07		52	75	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Whatlington TP Hut	54	16	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Marley Lane LC	55	31	CCTV
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	BATPLE	55	46	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Battle Ground Frame	56	12	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Telham Substation	56	48	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07		57	27	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07		57	44	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	GROWHURST	57	50	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Green Street TP Hut	58	53	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07		60	08	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07		60	33	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07		60	44	*
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	WEST ST LEONARDS	60	59	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Bo Peep Jn Substation	60	64	
+0086	SO170	006	Tonbridge to Bo Peep Jn TTH Kent / Sussex	05/02/07	Bo Peep Jn	60	69	

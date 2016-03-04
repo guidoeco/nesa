@@ -1,0 +1,13 @@
+NRN CSR
+TCB Havant SB (HT)
+RAB DC: Eastleigh
+GSM-R area (IVRS)
+LA
+Axle Counter area
+1 Up Main
+2 Down Main
+3 Up Branch
+4 Down Branch
+5 Down Spur
+6 Up Spur
+

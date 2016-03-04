@@ -1,0 +1,29 @@
+NRN CSR
+TCB Rugby PSB (RY)
+AC:Rugby ECR
+To I from 82m 500h
+Rugby SOC (NR)
+CSR change: CSR
+_ DN 60-61 82m 52ch
+CSR to Rugby Station UN 61-60 82m 520h
+DC - Down Coventry
+UN - Up Northampton
+DN - Down Northampton
+GSM-R area
+7' DN - Entry:82m 52ch
+UN - Exit:82m 520h
+LA
+TASS fitted tolfrom Hillmorton Junction
+Axle Counter area:
+DN: from 83m 200h
+UN: to 82m 60ch
+Line name changes at 84m 220h (81m 750h LEC):
+Down Northampton to Down Coventry
+Down Northampton to Down Slow
+ELR change:
+HNR - LEC at 84m 400h (82m 13ch) on the Up
+Northampton line and 84m 22ch (81m 75ch) on the
+Down Northampton line
+ELR LEC mileages in brackets 0
+CD Middle Stainng siding Out Of Use
+

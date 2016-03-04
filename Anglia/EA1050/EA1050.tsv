@@ -1,0 +1,31 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	SHENFIELD	20	16	
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	Shenfield Jn	20	22	
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		20	32	*
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	OHNS	20	65	
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	OHNS	20	72	
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		21	10	*
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	Mountnessing Jn	21	32	
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		21	35	*
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		21	40	*
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		23	75	*
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		24	00	*
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		24	10	*
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		24	13	*
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	BILLERIGAY	24	23	
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		24	33	
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		26	60	*
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		28	64	*
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	WICKFORD	29	02	
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	Wickford Jn	29	13	
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		30	05	*
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	OHNS	32	79	
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	RAYLEIGH	33	09	
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		35	20	*
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	HOGKLEY	36	01	
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		36	29	*
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	ROGHFORD	38	54	
+0047	EA1050	004	Shenfield Jn to Southend Victoria SSV Anglia	01/12/07	PRITPLEWELL	40	67	
+0047	EA1050	004	Shenfield Jn to Southend Victoria SSV Anglia	01/12/07		41	11	*
+0047	EA1050	004	Shenfield Jn to Southend Victoria SSV Anglia	01/12/07	Southend GF	41	41	
+0047	EA1050	004	Shenfield Jn to Southend Victoria SSV Anglia	01/12/07	SOUTHEND VICTORIA	41	42	

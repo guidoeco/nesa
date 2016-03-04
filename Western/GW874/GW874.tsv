@@ -1,0 +1,28 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0371	GW874	001	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	BRIDGEND			Z
+0371	GW874	001	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	Llynfi Jn	190	62	
+0371	GW874	001	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		0	07	
+0371	GW874	001	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		0	25	*
+0371	GW874	001	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	WILDMILL	0	63	
+0371	GW874	001	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	SARN 2	1	01	
+0371	GW874	001	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		2	25	*
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	TONDU	2	63	
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		2	69	*
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	Tondu Jn	2	70	
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	Tondu SB	2	70	
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		0	00	
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	CW	0	02	
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	Llynfi Goods Loop	2	72	*
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	Garw GF	0	32	
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		3	14	
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		3	15	*
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	British Tissues LC	5	00	UWC
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	GARTH	7	01	
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	(MID-GLAMORGAN)			Z
+0372	GW874	002	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		7	02	*
+0373	GW874	003	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		7	16	*
+0373	GW874	003	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		7	26	*
+0373	GW874	003	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	MAESTEG	7	54	
+0373	GW874	003	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	(EWENNY ROAD)	7	54	X
+0373	GW874	003	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08		7	65	*
+0373	GW874	003	Bridgend, (Llynfi Jn) To Maesteg BAL Western	30/06/08	MAESTEG	8	06	

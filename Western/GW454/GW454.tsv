@@ -1,0 +1,31 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06	SEVERN BEACH	11	64	
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06		14	53	*
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06	Holesmouth Jn	14	60	
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06		15	14	*
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06	ST. ANDREWS ROAD	15	37	
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06	St. Andrews Jn SB (SA) &LC	16	00	MOB
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06	(change of mileage and ELR)	9	32	
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06		9	29	*
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06	Single line Jn	9	18	
+0177	GW454	001	Severn Beach to Narroways Hill Jn AMB CNX Western	05/08/06		9	15	*
+0178	GW454	002	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	Avonmouth Station LC	9	08	CCTV
+0178	GW454	002	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	AVONMOUTH	9	02	
+0178	GW454	002	Severn Beach to Narroways Hill Jn CNX Western	05/08/06		8	35	*
+0178	GW454	002	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	Avonmouth Dock LC	8	29	CCTV
+0178	GW454	002	Severn Beach to Narroways Hill Jn CNX Western	05/08/06		7	52	*
+0178	GW454	002	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	SHIREHAMPTON	7	50	
+0178	GW454	002	Severn Beach to Narroways Hill Jn CNX Western	05/08/06		7	42	*
+0179	GW454	003	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	Sea Mills LC	6	04	UWC
+0179	GW454	003	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	SEA MILLS	6	00	
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	Clifton Down Tunnel	5	06	*
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	(1601m, 1751yds) to	4	07	*
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	CLIFTON DOWN	3	72	
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06		3	52	
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	Single Line Jn	3	47	*
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	REDLAND	3	25	
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	MONTPELIER	2	68	
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	MontpelierTunnel	2	61	
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	(245m, 268yds) to	2	47	
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06		2	10	*
+0180	GW454	004	Severn Beach to Narroways Hill Jn CNX Western	05/08/06	Narroways Hill Jn	2	03	

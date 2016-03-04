@@ -1,0 +1,13 @@
+BORDESLEY 128 O3
+
+128 35 :7:
+BIRMINGHAM MOOR STREET 128 66
+Snow Hill Tunnel 128 72 i:
+(581 metres/635 yards)
+
+129 18 *
+(Snow Hill Tunnel) 129 21
+BIRMINGHAM SHOW HILL 129 36
+
+129 38 *
+

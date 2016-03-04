@@ -1,0 +1,20 @@
+NRN
+
+AB Basford Hall Jn SB (BH)
+
+AC: Crews
+
+AWS not provided on this page.
+
+C.W. Down fast Independent at
+
+156m 19ch.
+
+@(PF) DSI from signal BH.11 (down
+fast) or BH.15 (down slow) to
+signal BH.29.
+
+@(PF) DFI from signal BH.11 (down
+fast) or BH.15 (down slow) to
+signal BH.30.
+

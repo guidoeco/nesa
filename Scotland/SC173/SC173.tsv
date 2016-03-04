@@ -1,0 +1,36 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0363	SC173	001	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	02/12/06	Inverkeithing Central Jn	13	21	
+0363	SC173	001	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	02/12/06	InVerkeithing North Jn	13	57	*
+0363	SC173	001	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	02/12/06	ROSYTH	14	52	
+0364	SC173	002	Inverkeithino Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06/07/08		16	20	*
+0364	SC173	002	Inverkeithino Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06/07/08	Charlestown Jn	16	45	
+0364	SC173	002	Inverkeithino Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06/07/08	DUNFERIILINE TOWN	16	68	
+0364	SC173	002	Inverkeithino Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06/07/08		17	00	*
+0364	SC173	002	Inverkeithino Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06/07/08		17	50	*
+0364	SC173	002	Inverkeithino Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06/07/08	DUNFERMLINE QUEEN	13	36	
+0364	SC173	002	Inverkeithino Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06/07/08	MARGARET			Z
+0364	SC173	002	Inverkeithino Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06/07/08		18	45	*
+0365	SC173	003	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06I07108	Townhill Jn	18	56	
+0365	SC173	003	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 Scotland	06I07108	Halbeath LC	19	12	CCTV
+0366	SC173	004	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 CWHZ Scotland	02/12/06	COWDENBEATH	22	42	
+0366	SC173	004	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 CWHZ Scotland	02/12/06	(Change of ELR	22	76	
+0366	SC173	004	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 CWHZ Scotland	02/12/06	CWH1 to CWH2)	22	75	
+0366	SC173	004	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 CWHZ Scotland	02/12/06		0	00	
+0366	SC173	004	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 CWHZ Scotland	02/12/06		0	05	*
+0366	SC173	004	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH1 CWHZ Scotland	02/12/06		0	32	*
+0367	SC173	005	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH2 CWH3 Scotland	17/02/08		0	50	*
+0367	SC173	005	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH2 CWH3 Scotland	17/02/08	(Change of ELR	0	70	
+0367	SC173	005	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH2 CWH3 Scotland	17/02/08	CWHZ to CWH3)	27	00	
+0367	SC173	005	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH2 CWH3 Scotland	17/02/08		27	05	*
+0367	SC173	005	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH2 CWH3 Scotland	17/02/08	LOGHGELLY	27	67	
+0367	SC173	005	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH2 CWH3 Scotland	17/02/08	CARDEHDEN	30	00	
+0368	SC173	006	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath CWH3 Scotland	02/12/06	Clunybridge	32	16	
+0368	SC173	006	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath CWH3 Scotland	02/12/06	Thornton Yard	33	28	
+0368	SC173	006	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath CWH3 Scotland	02/12/06	Redford Jn	33	45	
+0368	SC173	006	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath CWH3 Scotland	02/12/06		34	05	
+0369	SC173	007	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH3 TNW Scotland	02/12/06	(Change of ELR CWH3 to TNW)	36	42	*
+0369	SC173	007	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH3 TNW Scotland	02/12/06	Thornton West Jn	34	62	*
+0369	SC173	007	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH3 TNW Scotland	02/12/06		0	70	*
+0369	SC173	007	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH3 TNW Scotland	02/12/06	GLENROTHES WITH THORNTON	34	72	
+0369	SC173	007	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH3 TNW Scotland	02/12/06		0	59	
+0369	SC173	007	Inverkeithing Central Jn to Thornton North Jn (Via Cowdenbeath) CWH3 TNW Scotland	02/12/06	Thornton North Jn	0	00	

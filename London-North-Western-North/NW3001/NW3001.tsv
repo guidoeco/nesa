@@ -1,0 +1,221 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07	CREWE			Z
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07	Crewe North Jn	158	18	*
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07	Crewe SB	158	21	CE
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07	Heritage G.F.	158	28	
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07		158	32	*
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07		158	37	*
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07		158	75	*
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07		158	77	
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07		159	01	
+0085	NW3001	001	Crewe North Jn. to Holyhead CNH1 LNW North	01/12/07	Crewe Electric Traction Depot	159	01	X
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06	Crewe Steel Works SB	159	41	SW
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		160	70	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		160	72	*
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06	Dairy House Farm LC	161	42	UWC
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		162	00	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		162	68	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		163	55	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		164	20	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		165	09	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		165	71	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		167	06	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		167	28	*
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		167	48	*
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		167	65	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		168	40	*
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		168	53	
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06	Beeston Castle & Tarporley SB (BC)	168	60	*
+0086	NW3001	002	Crewe North Jn. to Holyhead CNH1 LNW North	07/10/06		169	45	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		170	37	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		171	20	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		172	09	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		172	25	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		173	21	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		174	46	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		175	36	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		176	23	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		177	11	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		177	36	*
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06	Christleton Tunnel	177	52	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06	(146ml160yds) to	177	59	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		178	00	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		178	45	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		178	65	*
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06	Chester East Jn	178	66	
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		178	69	*
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		178	70	*
+0087	NW3001	003	Crewe North Jn. to Holyhead CHN1 CHN2 LNW North	07/10/06		178	71	*
+0088	NW3001	004	Crewe North Jn. to Holyhead CNH2 LNW North	21/01/09		178	75	*
+0088	NW3001	004	Crewe North Jn. to Holyhead CNH2 LNW North	21/01/09		178	76	*
+0088	NW3001	004	Crewe North Jn. to Holyhead CNH2 LNW North	21/01/09	Chester PSB	179	00	CR
+0088	NW3001	004	Crewe North Jn. to Holyhead CNH2 LNW North	21/01/09	CHESTER	179	11	
+0088	NW3001	004	Crewe North Jn. to Holyhead CNH2 LNW North	21/01/09		179	29	*
+0088	NW3001	004	Crewe North Jn. to Holyhead CNH2 LNW North	21/01/09	Chester West Jn	179	30	
+0089	NW3001	005	Crewe North Jn. to Holyhead CNH3 LNW North	28/04/07	Chester South Jn	179	47	
+0089	NW3001	005	Crewe North Jn. to Holyhead CNH3 LNW North	28/04/07		179	48	*
+0089	NW3001	005	Crewe North Jn. to Holyhead CNH3 LNW North	28/04/07	Windmill Lane Tunnel	179	56	
+0089	NW3001	005	Crewe North Jn. to Holyhead CNH3 LNW North	28/04/07	(95ml1 04yd) to	179	61	
+0090	NW3001	006	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Northgate Street Tunnels	179	67	
+0090	NW3001	006	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	(199m I 218 yds) to	179	77	
+0090	NW3001	006	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Roodee Jn	180	18	
+0090	NW3001	006	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		180	20	*
+0090	NW3001	006	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		180	67	*
+0090	NW3001	006	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Saltney Jn	181	09	
+0091	NW3001	007	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		181	28	
+0091	NW3001	007	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Beeches Farm LC	184	03	UWC
+0092	NW3001	008	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	SHOTPON (Low Level)	186	77	
+0092	NW3001	008	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		188	02	*
+0092	NW3001	008	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Rockcliffe Hall SB	188	74	RH
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Rockcliffe Hall Tunnel	189	47	
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	(90ml99yds) to	189	51	
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Pentre LC	190	67	UWC
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		191	40	*
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		191	41	*
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	FFLINT	191	47	
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		192	20	*
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	BagilltLC	193	52	UWC
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		194	22	*
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Fishpool Farm LC	194	61	UWC
+0093	NW3001	009	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		195	20	*
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Holywell Junction SB	195	76	
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		196	03	*
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Bodlondeb LC	196	09	UWC
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		196	10	*
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Maesteg LC	196	24	UWC
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		197	11	*
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		197	26	*
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Mostyn SB	199	12	
+0094	NW3001	010	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Mostyn Dock Exchange Sidings	199	12	X
+0095	NW3001	011	Crewe North Jn. to Holyhead CNH3 LNW North	05/05/07		201	35	*
+0095	NW3001	011	Crewe North Jn. to Holyhead CNH3 LNW North	05/05/07	Talacre SB	201	76	TE
+0095	NW3001	011	Crewe North Jn. to Holyhead CNH3 LNW North	05/05/07	Tyn-y-Morfa LC	202	65	M06
+0095	NW3001	011	Crewe North Jn. to Holyhead CNH3 LNW North	05/05/07		205	36	*
+0095	NW3001	011	Crewe North Jn. to Holyhead CNH3 LNW North	05/05/07	PRESTATYN	205	43	
+0095	NW3001	011	Crewe North Jn. to Holyhead CNH3 LNW North	05/05/07		205	49	*
+0095	NW3001	011	Crewe North Jn. to Holyhead CNH3 LNW North	05/05/07	Prestatyn SB	205	52	
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07	Sandy Lane LC	205	61	UWC
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07		207	71	*
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07		208	67	*
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07		208	70	
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07	Rhyl SB	208	74	RL
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07	RHYL	209	08	
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07		209	45	
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07		210	22	*
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07		210	28	*
+0096	NW3001	012	Crewe North Jn. to Holyhead CNH3 LNW North	06/10/07		212	60	*
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		213	23	
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Abergele SB	213	29	AE
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	ABERGELE&PENSARN	213	30	
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		213	42	*
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Signal LJ.49	216	75	Down
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Llysfaen Emergency GF	217	09	
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Signal LJ.5O (Up)	217	20	*
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Penmaenrhos Tunnel	217	32	
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	(441 m I 482 yds) to	217	54	
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	GOLWYH BAY	219	37	
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		220	07	*
+0097	NW3001	013	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		220	27	*
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		222	31	*
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		222	60	*
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		222	61	
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		223	08	*
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Llandudno Jn	223	12	
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		223	21	*
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		223	24	*
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		223	26	
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Tamper Siding GF	223	31	
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		223	36	*
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	LLANDUDNO JUNCTION	223	39	
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		223	50	*
+0098	NW3001	014	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Llandudno Junction SB	223	55	LJ
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		223	61	
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		223	69	*
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		224	00	*
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Signal LJ 71	224	05	Down
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Conwy Tubular Bridge	224	11	
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	(136m I 149 yd) to	224	18	
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	CONWY	224	40	
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Conwy Tunnel	224	44	
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	(68m I74 yd) to	224	47	
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		224	60	*
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		224	62	*
+0099	NW3001	015	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Signal LJ 76	226	30	Up
+0100	NW3001	016	Crewe North Jn. to Holyhead CNH3 LNW North	12/05/07	Penmaenbach Tunnel	226	42	*
+0100	NW3001	016	Crewe North Jn. to Holyhead CNH3 LNW North	12/05/07	(656m I 718yd) to	228	75	*
+0100	NW3001	016	Crewe North Jn. to Holyhead CNH3 LNW North	12/05/07	Little Chef LC	227	78	UWC
+0100	NW3001	016	Crewe North Jn. to Holyhead CNH3 LNW North	12/05/07	Moel Llys Tunnel	228	30	
+0100	NW3001	016	Crewe North Jn. to Holyhead CNH3 LNW North	12/05/07	(140ml154yd) to	228	37	
+0100	NW3001	016	Crewe North Jn. to Holyhead CNH3 LNW North	12/05/07		228	45	
+0100	NW3001	016	Crewe North Jn. to Holyhead CNH3 LNW North	12/05/07	Penmaenmawr SB	228	64	PR
+0100	NW3001	016	Crewe North Jn. to Holyhead CNH3 LNW North	12/05/07	PENMAENMAWR	228	69	
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Pen-y—Clip Avalanche Tunnel	229	77	
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	(242m I 265 yds) to	230	09	
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		230	23	*
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Mona LC	230	63	UWC
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		231	43	*
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	LLANFAIIIFECHAN	231	48	
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		231	52	*
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Glan—y—Mor Elias LC	232	34	UWC
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Madryn Farm LC	232	61	UWC
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Pentre Ddu LC	233	19	UWC
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Henfaes Farm LC	233	39	UWC
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		233	40	*
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Aber Emergency GF	233	53	
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Aber Bull LC	234	41	UWC
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Wig Farm LC	234	67	UWC
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Wig LC	234	75	UWC
+0101	NW3001	017	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Tai'r Meibion Farm LC	235	12	UWC
+0102	NW3001	018	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Llandegai Tunnel	237	26	
+0102	NW3001	018	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	(462m I 505yd) to	237	49	
+0102	NW3001	018	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Bangor Tunnel	238	19	
+0102	NW3001	018	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	(813m I 890W) to	238	60	
+0102	NW3001	018	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06		238	61	
+0102	NW3001	018	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	BANGOR	238	71	
+0102	NW3001	018	Crewe North Jn. to Holyhead CNH3 LNW North	07/10/06	Bangor SB	239	02	BR
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09		239	05	*
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09	Belmont Tunnel	239	06	
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09	(592m l648yd) to	239	36	
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09		239	70	*
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09		240	01	*
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09		240	62	*
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09	Menai Bridge South Jn	240	67	
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09	Britannia Bridge	241	11	
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09	(514m I 562yd) to	241	35	
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09	Menai Bridge North Jn	241	57	
+0103	NW3001	019	Crewe North Jn. to Holyhead CNH3 LNW North	23/03/09		241	64	*
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Llanfair LC (MCG) (Not block post)	242	21	
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	LLANFAIRPWLL	242	29	
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Star LC	243	27	UWC
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Llanddaniel LC	243	75	RIG
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Gaelwen Isa LC	244	37	UWC
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Gaerwen Uchaf No.1 LC	244	48	UWC
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Gaerwen Uchaf No.2 LC	244	61	UWC
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Gaelwen LC	245	09	MOB
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Gaerwen SB	245	09	GN
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Gaelwen Jn	245	15	
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		245	56	*
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Tai Line LC	246	58	UWC
+0104	NW3001	020	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		246	60	*
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Tyddyn Morfa LC	249	28	UWC
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Bodorgan No.1 Tunnel	250	59	
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	(378m [413 yds) to	250	78	
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Bodorgan No.2 Tunnel	251	01	
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	(105m I 115 yds) to	251	06	
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	BODORGAN	251	52	
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	TY OROES (Up Platform)	254	27	
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Ty Croes LC (MCG) (Not block post)	254	31	
+0105	NW3001	021	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	TY CROES (Down Platform)	254	34	
+0106	NW3001	022	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	RHOSNEIGR	256	04	
+0106	NW3001	022	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		260	04	
+0106	NW3001	022	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Valley LC	260	06	MOB
+0106	NW3001	022	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Valley SB	260	06	VY
+0106	NW3001	022	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	VALLEY	260	09	
+0106	NW3001	022	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08	Cleifiog Uchaf LC	260	57	UWC
+0106	NW3001	022	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		261	56	
+0106	NW3001	022	Crewe North Jn. to Holyhead CNH3 LNW North	14/07/08		263	06	*
+0107	NW3001	023	Crewe North Jn. to Holyhead CNH3 LNW North	01/12/07		263	07	
+0107	NW3001	023	Crewe North Jn. to Holyhead CNH3 LNW North	01/12/07	Holyhead SB	263	26	HD
+0107	NW3001	023	Crewe North Jn. to Holyhead CNH3 LNW North	01/12/07	Platform 3 GF	263	49	
+0107	NW3001	023	Crewe North Jn. to Holyhead CNH3 LNW North	01/12/07	HOLYHEAD	263	52	
+0107	NW3001	023	Crewe North Jn. to Holyhead CNH3 LNW North	01/12/07	Platform 1 GF	263	56	

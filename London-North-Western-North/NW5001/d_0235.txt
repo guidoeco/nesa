@@ -1,0 +1,18 @@
+NRN
+TCB Manchester South 300 (MS)
+AC: Crewe
+Platform Lengths: Handforth
+Up: 165 metres (180 yards)
+Down: 165 metres (180 yards)
+Patrolman's Directional Lockout. Up Wilmslow
+and Down Wilmslow lines between Wilmslow North
+Junction (exclusive) and Cheadle Hulme South
+Junction (exclusive).
+Paholman's Directional Lockout. Up Wilmslow
+line between Cheadle Hulme South Junction
+(exclusive) and Cheadle Hulme Norm Junction
+(exclusive).
+Platform Lengths: Cheadle Hulme
+Platform 1: 167 metres (183 yards)
+Platform 2: 167 metres (183 yards)
+

@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09	Newton Jn	39	42	
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09		39	69	*
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09	Down Direction	40	60	
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09	Signal PA335	40	60	X
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09	Auchencmive GF	41	41	
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09	AnnbankGF	43	51	*
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09		46	14	
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09	Mauchline SB	50	08	
+0152	SC087	001	Newton Jn to Mauchline (Goods Line) Scotland	29/03/09	Mauchline	50	16	

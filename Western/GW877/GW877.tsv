@@ -1,0 +1,35 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07		2	70	
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07	Tondu Jn	0	00	
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07	Tondu SB	0	00	
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07		0	05	*
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07		0	17	*
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07		0	25	*
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07	Fountain LC	1	05	AOCL
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07	Cwmffoes LC	2	08	TMO
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07		2	25	*
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07	Cefn Jn	2	43	
+0374	GW877	001	Tondu to Port Talbot Docks (Ogmore Vale Extension) POR OVE Western	10/04/07	(Change of ELR and mileage)	7	41	
+0375	GW877	002	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	Aberbaiden Parc Slip			X
+0375	GW877	002	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07		7	00	*
+0375	GW877	002	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	Aberbaiden North GF	6	56	
+0375	GW877	002	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	Aberbaiden South GF	6	31	
+0375	GW877	002	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07		3	65	*
+0375	GW877	002	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	Water Street bridge	3	65	X
+0375	GW877	002	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07		3	63	*
+0376	GW877	003	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	21/07/07	Depot Inwards STOP boards	2	72	
+0376	GW877	003	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	21/07/07		2	58	*
+0376	GW877	003	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	21/07/07	End oflStart of Token Section Boards	2	48	
+0376	GW877	003	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	21/07/07	Margam Abbey Works	2	41	
+0376	GW877	003	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	21/07/07	East Junction	2	41	X
+0376	GW877	003	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	21/07/07		2	36	*
+0376	GW877	003	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	21/07/07	Heal-Y—Deliaid LC	2	02	UWC
+0376	GW877	003	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	21/07/07		1	75	*
+0377	GW877	004	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	Margam OVE Loop	1	60	
+0377	GW877	004	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	Margam East Jn	1	40	
+0377	GW877	004	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	Margam Yard Jn	0	79	
+0377	GW877	004	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	CW up	0	65	
+0377	GW877	004	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	(Change of mileage)	0	00	
+0377	GW877	004	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07		0	70	
+0377	GW877	004	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	Port Talbot Docks	0	56	
+0377	GW877	004	Tondu to Port Talbot Docks (Ogmore Vale Extension) OVE Western	10/04/07	(Network Rail Boundary)	0	56	X

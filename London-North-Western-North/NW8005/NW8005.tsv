@@ -1,0 +1,30 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0357	NW8005	001	Sandhills Jn. to Ormskirk SJO1 LNW North	07/10/06	Sandhills Jn	34	75	*
+0357	NW8005	001	Sandhills Jn. to Ormskirk SJO1 LNW North	07/10/06		34	58	*
+0357	NW8005	001	Sandhills Jn. to Ormskirk SJO1 LNW North	07/10/06		34	52	*
+0357	NW8005	001	Sandhills Jn. to Ormskirk SJO1 LNW North	07/10/06	Kirkdale South Junction	34	48	
+0357	NW8005	001	Sandhills Jn. to Ormskirk SJO1 LNW North	07/10/06		34	19	*
+0357	NW8005	001	Sandhills Jn. to Ormskirk SJO1 LNW North	07/10/06	KIRKDALE	34	14	
+0357	NW8005	001	Sandhills Jn. to Ormskirk SJO1 LNW North	07/10/06	Kirkdale North Junction	34	03	
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06	Kirkdale No.2 Tunnel	33	71	
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06	(192mf210yd) to	33	60	
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06	Kirkdale No.1 Tunnel	33	56	
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06	(454ml497yd) to	33	33	
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06	Walton Jn	33	16	
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06		3	20	
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06		3	31	*
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06	WALTON	3	45	
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06		3	58	*
+0358	NW8005	002	Sandhills Jn. to Ormskirk SJO1 SJOZ LNW North	07/10/06	ORRELL PARK	3	75	
+0359	NW8005	003	Sandhills Jn. to Ormskirk SJOZ LNW North	07/10/06	Aintree Emergency GF	4	62	
+0359	NW8005	003	Sandhills Jn. to Ormskirk SJOZ LNW North	07/10/06	AINTREE	4	68	
+0359	NW8005	003	Sandhills Jn. to Ormskirk SJOZ LNW North	07/10/06		5	10	
+0359	NW8005	003	Sandhills Jn. to Ormskirk SJOZ LNW North	07/10/06	OLD ROAM	5	62	
+0359	NW8005	003	Sandhills Jn. to Ormskirk SJOZ LNW North	07/10/06		7	13	
+0359	NW8005	003	Sandhills Jn. to Ormskirk SJOZ LNW North	07/10/06	Magull L.C.	7	25	CCTV
+0359	NW8005	003	Sandhills Jn. to Ormskirk SJOZ LNW North	07/10/06	NIAGHULL	7	29	
+0360	NW8005	004	Sandhills Jn. to Ormskirk SJOZ LNW North	01/12/07		9	79	
+0360	NW8005	004	Sandhills Jn. to Ormskirk SJOZ LNW North	01/12/07	TOWN GREEN 1	0	08	
+0360	NW8005	004	Sandhills Jn. to Ormskirk SJOZ LNW North	01/12/07	AUGHTOH PARK	10	78	
+0360	NW8005	004	Sandhills Jn. to Ormskirk SJOZ LNW North	01/12/07		12	01	
+0360	NW8005	004	Sandhills Jn. to Ormskirk SJOZ LNW North	01/12/07	ORMSKIRK	12	13	

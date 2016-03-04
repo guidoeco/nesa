@@ -1,0 +1,16 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Witham Jn	38	55	
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07		24	15	
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Cut Throat Lane LC	24	05	RIG
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07		23	75	*
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	New House Farm No.43 LC	21	65	UWC
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	White Notley LC	21	11	ABCL
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	WHITE NOTLEY	21	10	
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Fairheads No. 39	20	77	UWC
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	CRESSING	20	00	
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Cressing LC	19	75	ABCL
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Cousins No.2 LC	19	18	UWC
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	BRAINTREE FREEPORT	18	54	
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07		18	27	*
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07		18	12	*
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	BRAINTREE	17	71	

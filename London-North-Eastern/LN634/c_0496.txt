@@ -1,0 +1,14 @@
+Guisborough Jn O 00
+
+0 O1 *-
+Cargo Fleet Road LC (CCTV) 0 14
+
+2 45 *
+MARTON 2 56
+
+2 59 *-
+
+3 55 *
+GYPSY LANE 3 60
+Marlon Lane LC (ABCL) 3 62
+

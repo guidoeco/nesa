@@ -1,0 +1,18 @@
+NRN CSR
+TCB West Hampstead SB
+RAB AC: York ECR
+Platform lengths:
+Platform 1 - 167 metres
+Platform 2 - 167 metres
+Platform 3 - 167 metres
+Platform 4 - 167 metres
+Platform lengths:
+Platform 1 - 169 metres
+Platform 2 - 169 metres
+Platform 3 - 172 metres
+Platform 4 - 219 metres
+Platform 5 - 219 metres
+(PP)* PP applies on Down slow line
+in Down direction, PP-C applies in
+Up direction
+

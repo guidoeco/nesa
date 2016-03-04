@@ -1,0 +1,11 @@
+Chippenham Jn 16 04
+00 63
+00 54 *-
+00 31 5%
+Change of mileage 00 00 it
+Site of former SnailwellJn 01 54
+Kings Sidings GF 2 64
+Munceys LC 4 16
+Fordham LC (AHBC-X) 4 64
+Cockspin Road LC (AHBC-X) 5 05
+

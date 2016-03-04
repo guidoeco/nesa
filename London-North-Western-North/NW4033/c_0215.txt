@@ -1,0 +1,21 @@
+KIRKBY-IN-FURNESS 38 19
+38 20 *-
+38 26 a:
+Angerlon Hall LC (UWC) 38 59
+38 60 *-
+Angerlon Hall N02 LC (UWC) 39 75
+Angerton Hall N03 LC(UWC) 40 14
+Skelly Crag LC (M66) 40 24
+4O 32 it
+FOXFIELD 4O 37
+Foxfield SB 40 4o *
+Foxfielcl LC (UWC) 40 41
+40 60 *-
+Ladyhall LC (UWC) 41 28
+41 78 *
+Dodd's L.C. (UWC) 42 19
+Green Road LC (AOCL) 42 34 *
+GREEN ROAD 42 37
+42 46 *
+42 60 it
+

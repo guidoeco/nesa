@@ -1,0 +1,10 @@
+Former Davenport JnlComwall Loop 246 15
+(Change of mileage and ELR) 247 23
+247 42 i-
+DEVONPORT 248 28
+Devonport Tunnel 248m37
+(107m,117yds) 248 42
+248 43 *
+DOCKYARD 248 60
+Keyham HABD 248 77
+

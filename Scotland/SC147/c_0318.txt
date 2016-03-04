@@ -1,0 +1,8 @@
+Waverley (East End) 0 21
+0 19 7k
+0 11 :7:
+Edinburgh 0 07
+EDINBURGH WAVERLEY 0 00
+0 00
+Waverley (West End) 0 15
+

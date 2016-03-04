@@ -1,0 +1,7 @@
+NRN GSM-R
+TCB Paisley SC Panel 2 (PH)
+AC: Cathcart ECR
+OLE on Up and Down largs line only i 
+UFL = Up Freight Line
+.LL = Largs Line
+

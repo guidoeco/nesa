@@ -1,0 +1,13 @@
+NRN CSR
+TCB Newhaven Town SB (000)
+RA7 DC: Brighton
+CSR
+TCB Newhaven HBR (NH)
+RA?r DC: Brighton
+6) Wharf Road platform line is known
+as Newhaven Marine station.
+Wharf Road PP-A
+1 Up Seaford
+2 Down Seaford
+3 Seaford Single
+

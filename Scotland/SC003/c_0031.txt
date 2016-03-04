@@ -1,0 +1,8 @@
+Torphin LC (UWC) 85 03
+87 65
+88 38 *
+88 49 a:
+Midcalder Jn 89 76
+Kirknewton LC (AHBC) 90 65
+KIRKNEWTON 90 70
+

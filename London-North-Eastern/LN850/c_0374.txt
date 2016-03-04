@@ -1,0 +1,5 @@
+Wakefield Westgate South Jn 0 00
+0 01 2k
+0 24 *
+Wakefield Kirkgate West Jn 0 26
+

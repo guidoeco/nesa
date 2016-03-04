@@ -1,0 +1,6 @@
+NRN
+RETB 101 Saxmundham SB (SM)
+RA?r
+CD Freight trains not to exceed 20mph
+Platform - 152m (106 yd)
+

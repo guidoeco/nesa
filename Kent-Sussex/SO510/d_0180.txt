@@ -1,0 +1,26 @@
+NRN CSR
+
+TCB London Bridge SB (L)
+
+A.W.S. not provided for emergency
+
+and temporary speed restrictions.
+
+G) C&P out of use until commissioned under
+the New Cross Gate East London Lines
+Interface Works
+
+1 Up Slow
+
+2 Up Fast
+
+3 Down Fast
+
+4 Down Slow
+
+5 Reversible
+
+6 Up Spur
+
+7 Down Spur
+

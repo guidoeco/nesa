@@ -1,0 +1,36 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0134	SW180	001	Raynes Park to Horsham RPE MPC Wessex	29/03/08		09	00	*
+0134	SW180	001	Raynes Park to Horsham RPE MPC Wessex	29/03/08	West Barnes LC	09	18	CCTV
+0134	SW180	001	Raynes Park to Horsham RPE MPC Wessex	29/03/08	MOTSPUR PARK	09	57	
+0134	SW180	001	Raynes Park to Horsham RPE MPC Wessex	29/03/08	Motspur Park LC	09	57	CCTV
+0135	SW180	002	Raynes Park to Horsham RPE Wessex	29/03/08	WORCESTER PARK	10	53	
+0135	SW180	002	Raynes Park to Horsham RPE Wessex	29/03/08	STONELEIGH 1	1	74	
+0135	SW180	002	Raynes Park to Horsham RPE Wessex	29/03/08	EWELL WEST	12	78	
+0136	SW180	003	Raynes Park to Horsham RPE BTH3 Wessex	29/03/08	Route Boundary			X
+0136	SW180	003	Raynes Park to Horsham RPE BTH3 Wessex	29/03/08	EPSOM	14	18	
+0137	SW180	004	Raynes Park to Horsham BTH3 LEJ Wessex	29/03/08	Ashtead LC	16	19	CCTV
+0137	SW180	004	Raynes Park to Horsham BTH3 LEJ Wessex	29/03/08	ASHTEAD	16	19	
+0137	SW180	004	Raynes Park to Horsham BTH3 LEJ Wessex	29/03/08	LEATHERHEAD	13	02	
+0137	SW180	004	Raynes Park to Horsham BTH3 LEJ Wessex	29/03/08		13	20	*
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	Mickleham Tunnel	19	55	
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	524 Yards to	19	78	
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	Mickleham FIP Crossing	20	14	
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	Route Boundary	21	09	
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	BOXHILL .& WESTHUMBLE	21	14	
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	Dorking SB	22	08	CBK
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	DORKING	22	08	
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08		22	15	*
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	Betchworth Tunnel	22	60	*
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	384 Yards to	22	73	
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	Stonebridge TP Hut	23	50	
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	Blackbrook Substation	25	30	
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	OGKLEY	29	20	
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	Tipholm TP Hut	30	30	
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	Kingsfold Substation	32	00	
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	Kingsfold Cross	32	06	
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	WARNHAM	33	46	
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	Wamham Station Road LC	33	50	RIG
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	Wamham TP Hut	33	55	
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06		35	08	*
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06		35	36	*
+0141	SW180	008	Raynes Park to Horsham BTH3 Wessex	02/12/06	HORSHAM	37	57	

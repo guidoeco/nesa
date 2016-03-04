@@ -1,0 +1,13 @@
+0 33
+Daansgate Jn 7 05 *
+Deansgate Jn SB (DJ) 7 06
+Deansgate Jn LC (MOB)
+
+7 22 *
+NAVIGATION ROAD 7 25
+Navigation Road LC (CCTV) 7 3O
+
+7 32 1:
+
+7 34 7k
+

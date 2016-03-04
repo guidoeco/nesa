@@ -1,0 +1,13 @@
+NRN
+TCB Manchester Piccadilly SB (MP)
+Platform Lengths: Lostock
+Up 155m (1 TOyards)
+Down 1 56m (1 71yards)
+
+NRN
+Area channel UP
+change at
+13m 52ch NRN
+
+Down
+

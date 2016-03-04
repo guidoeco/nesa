@@ -1,0 +1,22 @@
+NRN CSR
+TCB Petersfield SB (PF)
+RAB DC: Eastleigh
+NRN CSR
+TCB Havant SB (HT) 096
+RAB DC: Eastleigh
+GSM-R area 03R
+r Up Exit 56m 12ch
+. Down Entry 56m 12ch A
+L A
+Axle Counter area
+Up Exit 56m 120h
+Down Entry 56m 12ch
+CD PLOD at 57m 44ch
+Up Main Buriton Tunnel
+(2) PLOD at 57m 69cm
+Up Main Buriton Tunnel
+PLOD at 57m 44ch
+Down Main Buriton Tunnel
+@ PLOD at 57m 69ch
+Down Main Buriton Tunnel
+

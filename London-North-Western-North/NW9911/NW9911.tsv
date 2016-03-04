@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0425	NW9911	001	London Road Jn. to Bog Jn. (Newcastle Goods lines) NGD LNW North	02/06/07	London Road Jn	59	49	*
+0425	NW9911	001	London Road Jn. to Bog Jn. (Newcastle Goods lines) NGD LNW North	02/06/07		0	00	
+0425	NW9911	001	London Road Jn. to Bog Jn. (Newcastle Goods lines) NGD LNW North	02/06/07		0	02	*
+0425	NW9911	001	London Road Jn. to Bog Jn. (Newcastle Goods lines) NGD LNW North	02/06/07		0	03	*
+0425	NW9911	001	London Road Jn. to Bog Jn. (Newcastle Goods lines) NGD LNW North	02/06/07	Bog Jn	0	25	*
+0425	NW9911	001	London Road Jn. to Bog Jn. (Newcastle Goods lines) NGD LNW North	02/06/07		1	07	

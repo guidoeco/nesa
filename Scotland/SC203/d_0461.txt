@@ -1,0 +1,15 @@
+RETB 113 Invemess SC (I)
+
+CL 1430f (435m)
+
+(69 SLU's)
+
+CD = 15 mph through loop
+points, in both directions,
+and over loop lines
+
+(2) = Permissive arrangements in RETB
+territory.
+PP(A) - detaching, for booked
+movements only
+

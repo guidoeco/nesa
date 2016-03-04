@@ -1,0 +1,8 @@
+Redruth Tunnel 309 62
+43m (47 yards) 309 64
+REDRUTH 309 68
+310 10 *-
+Dolcoath LC (AHBC) 312 62 *
+Roskear Jn LC (MOB) 313 19
+Roskear Jn SB (R) 313 20
+

@@ -1,0 +1,11 @@
+NRN GSM-R
+RETB 109 Yoker so (YC) n
+GSM-R
+Up: Start of GSM-R area: 2m 04ch ‘
+Down: End of GSM-R area: 2m 13ch
+RETB 105 Banavie SC
+CD = Applies to Class 1 to 6
+trains
+® = Applies to Class 7, 8 & 0
+trains
+

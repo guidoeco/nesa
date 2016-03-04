@@ -1,0 +1,36 @@
+NRN
+TCB York SB (Y)
+RAQ
+Signal prefixed CF between 11 55 (Down)
+and 8 23 (Up)
+Hot Axle Box Detector on the Up
+Normanton line at 11 08
+Class 220, 221 and 222 trains are restricted to
+20mph on the Down Normanton line through
+Church Fenton Platform 2 (1O 64 to 10 54). No
+lineside signs are provided for this speed
+restriction
+UN = Up Normanton
+DN = Down Nonnanton
+UL = Up Leeds
+DL = Down Leeds
+UPL = 288m I 945 feet, also available for Down
+trains (154mf504 feet)
+TOWS 11 42 to 10 30
+
+NRN
+NRN Channel Change at 7 60
+
+AC: York ECR
+
+Class 373/2 must not exceed 110 mph on the
+Down Main line between Colton Jn 182 75 and
+York 186 20. (No lineside signs are provided for
+this speed restriction)
+UM = Up Main Line
+DM = Down Main Line
+Hot Axle Box Detector on the Down Main line
+and Down Leeds line at 134 04
+(NOTE - part of table duplicated in LNGOO seq 2
+and LN902 seq 1)
+

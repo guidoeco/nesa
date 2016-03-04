@@ -1,0 +1,10 @@
+1 23 *
+Muirhouse South Jn. 1 19
+(Change of ELR GBK to MEN2) 0 00 *
+
+0 15
+Muirhouse Central Jn.
+(Change of ELR MEN2 to MEN1)
+
+O 19
+

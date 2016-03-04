@@ -1,0 +1,19 @@
+134 18 *
+NEWSTEAD 134 20
+
+134 26 *-
+Newstead Tilford Road LC (AHBC) 134 30
+Stockyard LC (UWC) 134 68
+Warren House LC (MWL) 135 31
+Kirkby Tunnel 135 49
+(181m I 198 yards) to 135 57
+Grives Lane LC (AHBC) 135 75
+Kirkby South Jn 136 O4 9:
+
+136 14 are
+
+136 60 a:
+Kirkby Lane End Jn 136 66
+
+138 31
+

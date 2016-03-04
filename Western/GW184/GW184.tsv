@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06	Slough (S) SB	13	44	
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06	Slough New (SN) SB	13	44	X
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06	SLOUGH	18	36	
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06		18	48	*
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06		18	55	*
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06	Bath Road . Jn	13	72	*
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06		20	54	*
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06		21	00	*
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06	WINDSOR&ETON	21	19	
+0113	GW184	001	Slough to Windsor & Eton Central WIN Western	05/08/06	CENTRAL			Z

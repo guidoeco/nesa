@@ -1,0 +1,15 @@
+NRN
+AB Gobowen North SB (GN)
+RAB
+(j) Applies to all other trains
+CZ) Applies to multiple unit trains only
+Location of known low rail adhesion
+- Up 190mp. to 189m 200h
+- Down 192mp. to 193mp.
+Down and Up platforms -
+157m, 172yds
+GF released from Croes Newydd
+North Fork SB
+Location of known low rail adhesion
+- Up 193m 20oh to 192mp.
+

@@ -1,0 +1,9 @@
+2 73 *-
+3 12 *-
+Bromley—by—Bow Station (LUL) 3 18
+OHNS 3 75
+West Ham station 4 08
+Plaistow station (LUL) 4 45
+Upton Park station (LUL) 5 28
+6 DO *-
+

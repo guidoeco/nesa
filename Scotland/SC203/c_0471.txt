@@ -1,0 +1,12 @@
+106 31 *
+Oulmsdale Burn LC (UWC) 106 41
+107 74 9:
+Kilearnan LC (UWC) 108 38
+110 47 9:
+110 68 *-
+Kildonan LC (Open) 111 03
+KILDONAN 111 05
+Learable LC(UWC) 111 74
+113 20 *
+Borrobol LC (UWC) 114 74
+

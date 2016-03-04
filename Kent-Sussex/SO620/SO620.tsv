@@ -1,0 +1,61 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0241	SO620	001	Brighton to Seaford BTL Kent! Sussex	02/12/06	(Montpelier Jn)	00	13	
+0241	SO620	001	Brighton to Seaford BTL Kent! Sussex	02/12/06	London Road Viaduct	00	26	*
+0241	SO620	001	Brighton to Seaford BTL Kent! Sussex	02/12/06	to	00	44	*
+0241	SO620	001	Brighton to Seaford BTL Kent! Sussex	02/12/06	LONDON ROAD	00	57	
+0241	SO620	001	Brighton to Seaford BTL Kent! Sussex	02/12/06	Ditching Road Tunnel	0	63	
+0241	SO620	001	Brighton to Seaford BTL Kent! Sussex	02/12/06	(63 yards) to	00	66	
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06		1	40	*
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06	MOULSECOOMB	1	65	
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06		1	68	
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06	Roedale TP Hut	2	19	
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06		3	04	*
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06	FALMER	3	39	
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06	Falmer Tunnel	3	62	
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06	(490 yards)	3	66	*
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06		4	05	
+0242	SO620	002	Brighton to Seaford BTL Kent! Sussex	02/12/06	Falmer Substation	4	20	
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06	Ashcombe TP Hut	6	10	
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06		6	57	*
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06	Kingston Tunnel	7	13	
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06	(107 yards) to	7	18	
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06		7	70	*
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06	LEWES	7	77	
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06		49	74	
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06	Lewes Substation	8	01	
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06		50	01	
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06	Lewes SB (LW)	50	03	*
+0243	SO620	003	Brighton to Seaford BTL KJE2 Kent! Sussex	02/12/06	Lewes Ground Frame	50	03	
+0244	SO620	004	Brighton to Seaford KJE2 STS Kent! Sussex	02/12/06		50	47	*
+0244	SO620	004	Brighton to Seaford KJE2 STS Kent! Sussex	02/12/06	Southerham Crossing	50	69	
+0244	SO620	004	Brighton to Seaford KJE2 STS Kent! Sussex	02/12/06		51	00	*
+0244	SO620	004	Brighton to Seaford KJE2 STS Kent! Sussex	02/12/06	Southerham Jn	51	11	*
+0244	SO620	004	Brighton to Seaford KJE2 STS Kent! Sussex	02/12/06	Southerham TP Hut	51	22	
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06		51	15	
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06		52	19	*
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06		52	21	*
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06	Asheham Crossing	52	59	
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06		53	30	*
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06	Southease Substation	53	33	
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06	Itford LC	53	36	RIG
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06	SOUTHEASE	53	40	
+0245	SO620	005	Brighton to Seaford STS Kent! Sussex	02/12/06		53	50	*
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Stoor Crossing	54	16	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Durham Farm Crossing	54	30	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Tarring Neville 1 Crossing	54	56	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Tarring Neville 2 Crossing	54	71	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Piddinghoe TP Hut	54	74	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Newhaven Town SB	56	20	CCO
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Newhaven Town Level Crossing	56	20	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	NEWHAVEN TOWN	56	25	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Newhaven Substation	56	33	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	NEWHAVEN HARBOUR	56	51	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Newhaven Harbour LC	56	55	RC
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Newhaven Habour SB (NH)	56	58	*
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Beach Road LC (RC)	56	61	*
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	NEWHAVEN MARINE	56	67	
+0246	SO620	006	Brighton to Seaford STS NHB Kent! Sussex	22/03/08	Wharf Road Ground Frame	57	78	OUU
+0247	SO620	007	Brighton to Seaford STS Kent! Sussex	02/12/06	Tide Mills Crossing	57	38	
+0247	SO620	007	Brighton to Seaford STS Kent! Sussex	02/12/06	BISHOPST ONE	56	03	
+0247	SO620	007	Brighton to Seaford STS Kent! Sussex	02/12/06		58	65	*
+0247	SO620	007	Brighton to Seaford STS Kent! Sussex	02/12/06	SEAFORD	58	77	

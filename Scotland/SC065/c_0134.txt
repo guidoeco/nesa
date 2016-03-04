@@ -1,0 +1,11 @@
+CARTSDYKE 122 52
+Greenock Central GF
+GREENOGK CENTRAL 123 38
+123 43
+Wellpark Tunnel to 280 yards
+123 56
+123 67
+Anne Street Tunnel t
+200 yards 0
+123 76
+

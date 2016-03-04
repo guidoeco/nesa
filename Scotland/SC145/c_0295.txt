@@ -1,0 +1,9 @@
+Fort William Jn SB & TEP 0 05
+(Change of ELR 1 27
+MLG1 to MLG2) O 00
+Banavie LC (RIC) 0 18
+BANAVIE 0 22
+0 24 9:
+Banavie SC 0 26
+Canal Bridge 0 27
+

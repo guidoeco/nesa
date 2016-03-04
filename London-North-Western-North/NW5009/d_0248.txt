@@ -1,0 +1,12 @@
+NRN
+TCB Stoke-On-Trent SB (CH)
+AC: Crewe
+DTVF: Down Trent Valley Fast
+DTVS: Down Trent Valley Slow
+TASS fitted
+GSM-R area
+7" Entry: 34m 500h Down Main line
+LA Exit: 33m 43ch Up Main line
+Stoke-On-Trent SB (SOT)
+From Highfields L.C. (inclusive)
+

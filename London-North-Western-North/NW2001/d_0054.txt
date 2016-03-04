@@ -1,0 +1,13 @@
+NRN
+TCB Ditton SB (DN)
+AC: Crewe
+to Halewood inclusive
+RL1=Reoeption Line 1
+RL2=Reception Line 2
+EN=East Neck
+WN=West Neck
+TASS fitted:
+DDFIDF line and UFIUDF line
+throughout
+Spoke Junction SB (SE)
+

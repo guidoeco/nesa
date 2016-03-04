@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0203	SC1150	001	Maryhill Park Jn to Anniesland Bay Platform MLA Scotland	02/12/06	Maryhill Park Jn	0	00	
+0203	SC1150	001	Maryhill Park Jn to Anniesland Bay Platform MLA Scotland	02/12/06	KELVINDALE	0	26	
+0203	SC1150	001	Maryhill Park Jn to Anniesland Bay Platform MLA Scotland	02/12/06		0	64	*
+0203	SC1150	001	Maryhill Park Jn to Anniesland Bay Platform MLA Scotland	02/12/06	ANNIESLAND	0	70	

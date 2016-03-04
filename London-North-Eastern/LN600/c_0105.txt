@@ -1,0 +1,12 @@
+OHNS (Hutton Bonville FS) 35 05
+East Cowton Crossovers 37 50
+HABD 38 72
+40 05 *-
+41 50 are
+42 72
+43 00 *-
+43 42 *
+43 50
+43 52 ale
+Darlington South Jn 43 61
+

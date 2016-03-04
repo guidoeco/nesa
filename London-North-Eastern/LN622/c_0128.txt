@@ -1,0 +1,4 @@
+Newcastle West Jn O 11
+Stop Board 0 40
+Forth Banks 0 73
+

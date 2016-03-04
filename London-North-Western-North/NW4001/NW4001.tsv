@@ -1,0 +1,207 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0161	NW4001	001	Preston Ribble Jn to Cove L.C. CGJ5 LNW North	07/10/06	Preston Ribble Jn	21	13	
+0162	NW4001	002	Preston Ribble Jn to Cove L.C. CGJ5 CGJ6 LNW North	01/12/07	Preston South Jn			X
+0162	NW4001	002	Preston Ribble Jn to Cove L.C. CGJ5 CGJ6 LNW North	01/12/07		21	39	*
+0162	NW4001	002	Preston Ribble Jn to Cove L.C. CGJ5 CGJ6 LNW North	01/12/07		21	40	*
+0162	NW4001	002	Preston Ribble Jn to Cove L.C. CGJ5 CGJ6 LNW North	01/12/07		21	55	*
+0162	NW4001	002	Preston Ribble Jn to Cove L.C. CGJ5 CGJ6 LNW North	01/12/07	PRESTON	21	57	
+0162	NW4001	002	Preston Ribble Jn to Cove L.C. CGJ5 CGJ6 LNW North	01/12/07		0	00	
+0163	NW4001	003	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	07/10/06	Preston North Jn	0	21	*
+0163	NW4001	003	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	07/10/06		0	30	*
+0163	NW4001	003	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	07/10/06		0	31	*
+0163	NW4001	003	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	07/10/06	Preston Fylde Jn	0	33	
+0163	NW4001	003	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	07/10/06	Preston SB	0	41	PN
+0163	NW4001	003	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	07/10/06		1	20	*
+0163	NW4001	003	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	07/10/06		1	31	*
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08		1	40	
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08		1	64	*
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08	Oxheys Loop	1	64	X
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08		2	25	
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08		3	20	*
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08		3	39	*
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08		3	72	
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08	Barton 8; Broughton Loop	3	72	X
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08		4	53	*
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08		4	58	
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08	Brook LC	7	36	RIG
+0164	NW4001	004	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	30/11/08	OHNS	9	07	
+0165	NW4001	005	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	24/01/09	Garstang and Catterall Emergency GF's	9	28	
+0165	NW4001	005	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	24/01/09	North & South	9	28	X
+0165	NW4001	005	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	24/01/09	Bay Horse (former site of GF)	15	13	
+0165	NW4001	005	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	24/01/09		17	62	*
+0165	NW4001	005	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	24/01/09	Oubeck	17	77	
+0165	NW4001	005	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	24/01/09		13	12	
+0165	NW4001	005	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	24/01/09		19	67	*
+0165	NW4001	005	Preston Ribble Jn to Cove L.C. CGJ6 LNW North	24/01/09		20	38	
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08	Lancaster South Jn	20	59	
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08		20	66	
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08		20	70	*
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08		20	78	
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08	LANCASTER 0 m	20	78	X
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08		0	03	*
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08		0	07	*
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08		0	20	
+0166	NW4001	006	Preston Ribble Jn to Cove L.C. CGJ6 CGJ7 LNW North	17/05/08	Lancaster North Jn	0	23	*
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08		0	74	*
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	Morecambe South Jn	1	72	
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08		2	00	*
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08		2	12	*
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	OHNS	2	38	
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	H.A.B.D. Hest Bank	2	51	
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	Hest Bank Jn	3	10	
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	Hest Bank L.C.	3	11	M03
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	(not block post)	3	11	X
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	Bolton-Ie-Sands LC	4	30	CCTV
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	H.A.B.D. Bolton-Ie-Sands	5	08	
+0167	NW4001	007	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	26/10/08	Camforth South Jn	5	56	
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08	Camforth North Jn	6	08	
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		0	19	
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		6	14	*
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		0	25	
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		13	28	
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08	Milnthorpe GF's	13	32	
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		13	35	
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		14	19	*
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		14	76	*
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		15	00	*
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08		15	13	*
+0168	NW4001	008	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	08/11/08	OHNS	17	78	
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09	Oxenholme Emergency GF	18	44	
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09		18	50	*
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09		18	75	*
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09	OXENHOLME	19	11	
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09		19	28	*
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09		19	54	*
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09		21	41	*
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09		21	57	*
+0169	NW4001	009	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	24/01/09	Lambrigg (former site of GF)	24	20	
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		25	75	*
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		26	00	
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		26	07	
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09	Grayrigg Loops	26	11	*
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		26	30	
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		26	36	
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09	Low Gill HABD	27	06	
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		28	01	*
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		28	02	*
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09	Low Gill (former site of No.1 GF)	28	05	
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09	Low Gill (former site of No.2 GF)	28	06	
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		29	03	*
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		29	14	*
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		31	14	*
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09		31	17	*
+0170	NW4001	010	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	24/01/09	OHNS	31	49	
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08	Tebay South Jn	31	60	
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08	Tebay LC	32	14	00
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08	Tebay North Jn	32	18	
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08		32	75	*
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08		33	12	*
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08	Haybank LC	35	66	UWC
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08		37	00	*
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08		37	23	*
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08		37	38	
+0171	NW4001	011	Preston Ribble Jn. to Cove L.C. CGJ7 LNW North	27/12/08	Shap Summit Up GF	37	50	
+0172	NW4001	012	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08	Shap Summit GF	37	68	
+0172	NW4001	012	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		38	19	*
+0172	NW4001	012	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		33	21	*
+0172	NW4001	012	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08	Shap Hardendale Quarry	39	09	
+0172	NW4001	012	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		39	12	
+0172	NW4001	012	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08	Harrison's Siding HABD	40	03	
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08	Harrison's Sidings	41	23	
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		41	35	*
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		41	46	*
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		41	52	
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08	Harrison's Sidings GF	41	62	
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		42	14	*
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		44	05	*
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		44	14	*
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08		44	57	*
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08	OHNS	45	25	
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08	Clifton and Lowther No.1 GF	46	72	
+0173	NW4001	013	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	27/12/08	Clifton and Lowther No.2 GF	46	74	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08	Eden Valley	47	23	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		47	75	*
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		48	00	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		49	12	*
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		49	30	*
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		49	64	*
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		49	74	*
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08	Penrith Soufl1 Jn	50	14	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08	Signal CE.188 (Down Slow)	50	52	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		51	02	*
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08	PENRITH	51	20	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08	Penrith GF	51	27	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		51	30	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		51	56	*
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08	OHNS	51	62	
+0174	NW4001	014	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		51	68	*
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09	Long Ashes LC	53	16	UWC
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09		54	22	*
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09		54	31	*
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09	Plumpton (former site of No.1 GF)	56	01	
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09	Plumpton Loop	56	01	X
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09	Plumpton (former site of No.2 GF)	56	38	
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09	Southwaite (former site of GF)	61	73	
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09	Southwaite HABD	62	06	
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09		62	51	*
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09		63	54	*
+0175	NW4001	015	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	23/03/09		63	55	*
+0176	NW4001	016	Preston Ribble Jn to Cove L.C. CGJ7 UCJ LNW North	16/11/08		64	32	*
+0176	NW4001	016	Preston Ribble Jn to Cove L.C. CGJ7 UCJ LNW North	16/11/08		64	41	*
+0176	NW4001	016	Preston Ribble Jn to Cove L.C. CGJ7 UCJ LNW North	16/11/08		67	00	*
+0176	NW4001	016	Preston Ribble Jn to Cove L.C. CGJ7 UCJ LNW North	16/11/08	Upperby Bridge Jn	67	58	
+0176	NW4001	016	Preston Ribble Jn to Cove L.C. CGJ7 UCJ LNW North	16/11/08		67	62	
+0176	NW4001	016	Preston Ribble Jn to Cove L.C. CGJ7 UCJ LNW North	16/11/08		67	67	*
+0176	NW4001	016	Preston Ribble Jn to Cove L.C. CGJ7 UCJ LNW North	16/11/08	Upperby Yard GF	67	70	
+0177	NW4001	017	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		68	13	*
+0177	NW4001	017	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		66	19	*
+0177	NW4001	017	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08	Upperban	68	23	
+0177	NW4001	017	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08	OHNS	68	38	
+0177	NW4001	017	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		68	51	*
+0177	NW4001	017	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		66	54	*
+0177	NW4001	017	Preston Ribble Jn to Cove L.C. CGJ7 LNW North	16/11/08		68	61	*
+0178	NW4001	018	Preston Ribble Jn to Cove L.C. CGJ7 WCM1 LNW North	01/12/07	Carlisle SB	68	73	CE
+0178	NW4001	018	Preston Ribble Jn to Cove L.C. CGJ7 WCM1 LNW North	01/12/07	Carlisle South Jn	68	76	
+0178	NW4001	018	Preston Ribble Jn to Cove L.C. CGJ7 WCM1 LNW North	01/12/07	OARLISLE	69	09	
+0178	NW4001	018	Preston Ribble Jn to Cove L.C. CGJ7 WCM1 LNW North	01/12/07		0	00	
+0178	NW4001	018	Preston Ribble Jn to Cove L.C. CGJ7 WCM1 LNW North	01/12/07		0	14	*
+0178	NW4001	018	Preston Ribble Jn to Cove L.C. CGJ7 WCM1 LNW North	01/12/07	Carlisle North Junction	0	19	
+0178	NW4001	018	Preston Ribble Jn to Cove L.C. CGJ7 WCM1 LNW North	01/12/07		0	22	*
+0179	NW4001	019	Preston Ribble Jn. to Cove L.C. WCM1, KMG1 LNW North	02/03/09	Caldew Jn O 53	2	11	*
+0179	NW4001	019	Preston Ribble Jn. to Cove L.C. WCM1, KMG1 LNW North	02/03/09		2	15	*
+0179	NW4001	019	Preston Ribble Jn. to Cove L.C. WCM1, KMG1 LNW North	02/03/09		0	66	*
+0179	NW4001	019	Preston Ribble Jn. to Cove L.C. WCM1, KMG1 LNW North	02/03/09	0 68,	2	25	*
+0179	NW4001	019	Preston Ribble Jn. to Cove L.C. WCM1, KMG1 LNW North	02/03/09	Signal CE.453 (on UPL)	1	33	
+0179	NW4001	019	Preston Ribble Jn. to Cove L.C. WCM1, KMG1 LNW North	02/03/09		1	39	*
+0179	NW4001	019	Preston Ribble Jn. to Cove L.C. WCM1, KMG1 LNW North	02/03/09		1	40	
+0179	NW4001	019	Preston Ribble Jn. to Cove L.C. WCM1, KMG1 LNW North	02/03/09	Signal CE.463 (on UPL)	1	53	
+0180	NW4001	020	Preston Ribble Jn to Cove L.C. WCM1, KMG1 LNW North	02/03/09	Kingmoor Jn 1 79,	3	36	*
+0180	NW4001	020	Preston Ribble Jn to Cove L.C. WCM1, KMG1 LNW North	02/03/09		2	20	*
+0180	NW4001	020	Preston Ribble Jn to Cove L.C. WCM1, KMG1 LNW North	02/03/09	Brunthill Branch Jn	4	04	
+0180	NW4001	020	Preston Ribble Jn to Cove L.C. WCM1, KMG1 LNW North	02/03/09	King moor Yard	4	04	X
+0181	NW4001	021	Preston Ribble Jn to Cove L.C. WCM1. KMG1. KMGZ LNW North	02/06/07	Virtual Quarry GF	4	47	
+0181	NW4001	021	Preston Ribble Jn to Cove L.C. WCM1. KMG1. KMGZ LNW North	02/06/07	'B' Group GF	4	48	
+0181	NW4001	021	Preston Ribble Jn to Cove L.C. WCM1. KMG1. KMGZ LNW North	02/06/07	King moor Yard	4	48	X
+0181	NW4001	021	Preston Ribble Jn to Cove L.C. WCM1. KMG1. KMGZ LNW North	02/06/07		3	74	*
+0181	NW4001	021	Preston Ribble Jn to Cove L.C. WCM1. KMG1. KMGZ LNW North	02/06/07	ELR change	5	61	
+0181	NW4001	021	Preston Ribble Jn to Cove L.C. WCM1. KMG1. KMGZ LNW North	02/06/07	OHNS 4 47.	6	07	
+0182	NW4001	022	Preston Ribble Jn to Cove L.C. WCM1, KMGZ LNW North	02/06/07		7	40	*
+0182	NW4001	022	Preston Ribble Jn to Cove L.C. WCM1, KMGZ LNW North	02/06/07		6	00	
+0182	NW4001	022	Preston Ribble Jn to Cove L.C. WCM1, KMGZ LNW North	02/06/07	Floristh HABD 6 05.	7	45	
+0182	NW4001	022	Preston Ribble Jn to Cove L.C. WCM1, KMGZ LNW North	02/06/07	Floriston LC (CCTV) 6 08.	7	48	*
+0182	NW4001	022	Preston Ribble Jn to Cove L.C. WCM1, KMGZ LNW North	02/06/07	Admiralty Siding GF	8	69	
+0182	NW4001	022	Preston Ribble Jn to Cove L.C. WCM1, KMGZ LNW North	02/06/07		7	45	
+0182	NW4001	022	Preston Ribble Jn to Cove L.C. WCM1, KMGZ LNW North	02/06/07	Mossband Jn 7 57,	9	18	
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09	Gretna Jn	8	57	
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09		9	03	*
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09		9	69	*
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09		9	70	*
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09	Loop Jn	9	72	
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09	Quintinshill	10	26	*
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09	Loop Jn	10	30	
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09	Quintinshill EGF	10	33	
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09		10	37	*
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09	Route Boundary	12	30	
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09		12	37	*
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09		13	20	*
+0183	NW4001	023	Preston Ribble Jn to Cove L.C. WCM1 LNW North	09/02/09	Cove LC	13	43	CCTV

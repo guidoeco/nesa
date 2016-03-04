@@ -1,0 +1,17 @@
+270 36 *-
+270 62
+GLARBESTON ROAD 270 71
+271 00
+Clarbeston Road Jn 271 08
+Clarbeston Road Jn SB (CR) 271 09
+(Change of RA and ELR)
+274 00 it
+Spittal Tunnel 274 40
+(222m, 243yde) 274 51
+275 40
+280 30
+Letterston East GF 231 47
+(Change of Mileage and ELR) 231 53
+283 30
+Letterston West GF 283 70
+

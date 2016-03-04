@@ -1,0 +1,14 @@
+NRN GSM- '
+TCB West of Scotland SC (G)
+Cathcart Workstation
+AC: Cathcart ECR CSR
+L = Line
+#‘ Controlled from Poliokshields GF
+CSR
+West of Scotland SC (66)
+Bridge Street Workstation
+Note : Line designation change at
+Eglinton St Jn
+Up Muirhouse to Line 3
+Down Muirhouse to Line 4
+

@@ -1,0 +1,8 @@
+Dingwall Canal North LC (UWC) 19 03
+20 00 i:
+22 18 5E
+22 75 *-
+
+Foulis LC (RIG) 22 76
+22 77 i:
+

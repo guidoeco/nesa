@@ -1,0 +1,15 @@
+NRN
+TCB York so
+
+(Signals prefixed L) NRN
+Area channel change 3
+at 228m 40 ch NRN
+DGL 307m (1 OOBft) (PF)
+UGL 461m (1512ft)
+Platform Len$ths: Hellifield
+Platform Up 03m (113 yards)
+Platform Down 132m (144 yards)
+Platform Len§ths: Long Preston
+Platform Up 2m (79 yards)
+Platform Down 91m (100 yards)
+

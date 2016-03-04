@@ -1,0 +1,95 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0154	GW400	001	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	02/02/08	See LNW (S) Sectional Appendix			X
+0154	GW400	001	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	02/02/08	Territory Boundary	52	40	
+0154	GW400	001	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	02/02/08	Blackwell	53	00	*
+0154	GW400	001	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	02/02/08		53	40	*
+0154	GW400	001	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	02/02/08	Lickey Incline	53	71	
+0155	GW400	002	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	12/01/08		55	08	
+0155	GW400	002	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	12/01/08	BROMSGROVE	55	30	
+0155	GW400	002	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	12/01/08	Bromsgrove No.1 GF	55	33	
+0155	GW400	002	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	12/01/08		55	54	
+0155	GW400	002	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	12/01/08		55	59	
+0155	GW400	002	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	12/01/08	Bromsgrove No.3 & No.2 GF	55	67	
+0155	GW400	002	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	12/01/08		56	00	*
+0155	GW400	002	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	12/01/08		56	11	
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06		57	35	
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Stoke Works Jn	57	43	
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Boat LC	57	71	UWC
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06		58	00	*
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Dunhampstead LC	62	12	AHBC
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Oddingley LC	62	60	M06
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Evelench LC	63	54	UWC
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Spetchley HABD	65	17	
+0156	GW400	003	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Spetchley	66	42	
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06		68	45	*
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Abbotswood Junction	68	60	
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06		69	10	*
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Wadborough LC	70	03	AHBC
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Pirton LC	70	51	AHBC
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Eckington HABD	74	51	
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Eckington			Z
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Andrews LC	74	71	UWC
+0157	GW400	004	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Cooks1 LC	75	03	UWC
+0158	GW400	005	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Cooks 2 LC	75	23	UWC
+0158	GW400	005	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	White's Farm LC	75	32	UWC
+0158	GW400	005	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Eckington WILD	75	46	
+0158	GW400	005	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Northway LC	78	76	AHBC
+0158	GW400	005	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	ASHCHURCH FOR	79	36	
+0158	GW400	005	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	TEWKESBURY			Z
+0158	GW400	005	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Ashchurch GF	79	51	
+0158	GW400	005	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Ashchurch WD GF	79	62	
+0159	GW400	006	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Homedown LC	80	08	UWC
+0159	GW400	006	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Tredington L0	81	44	AHBC
+0159	GW400	006	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Burdetts Farm LC	84	03	UWC
+0159	GW400	006	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Swindon Road LC	84	23	CCTV
+0159	GW400	006	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Morris Hill LC	85	03	CCTV
+0159	GW400	006	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06		85	20	*
+0159	GW400	006	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Alstone			Z
+0160	GW400	007	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Cheltenham Alstone LC	86	21	MCB
+0160	GW400	007	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Alstone Carriage Sidings	86	43	
+0160	GW400	007	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06		86	45	*
+0160	GW400	007	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	GHELTENHAM SPA	86	58	
+0160	GW400	007	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06		87	06	*
+0160	GW400	007	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Lansdown Jn (former)	87	06	X
+0160	GW400	007	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 Western	05/08/06	Churchdown HABD	89	06	
+0161	GW400	008	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 CHL Western	19/01/08		92	16	
+0161	GW400	008	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 CHL Western	19/01/08	Gloucester Barnwood Jn	92	21	
+0161	GW400	008	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 CHL Western	19/01/08	(and change of ELR)	92	22	
+0161	GW400	008	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 CHL Western	19/01/08		92	33	
+0161	GW400	008	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 CHL Western	19/01/08	Bamwood No.3 GF	92	35	
+0161	GW400	008	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 CHL Western	19/01/08	Gloucester Yard	92	77	
+0161	GW400	008	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 CHL Western	19/01/08	No.2 GF	92	77	X
+0161	GW400	008	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BAG2 CHL Western	19/01/08		93	00	
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06	Gloucester Yard Jn	93	08	
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06	(Change of ELR)	93	08	X
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06		93	11	*
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06		94	01	*
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06	Change of mileage and ELR	94	10	
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06		94	60	
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06	Tuffley	94	74	
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06		95	00	*
+0162	GW400	009	Barnt Green (Excl) To Westerleigh Jn via Dunhampstead CHL BGL1 BGL2 Western	05/08/06	Brookthorpe HABD	97	58	
+0163	GW400	010	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06	Haresfield Footpath LC	98	62	RIG
+0163	GW400	010	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06	Standish Jn	99	69	
+0163	GW400	010	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06	Old Ends LC	101	27	CCTV
+0163	GW400	010	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06	0AM & DURSLEY	105	30	
+0164	GW400	011	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06	Coaley GF	105	36	
+0164	GW400	011	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06	Tumpy Green	107	33	
+0164	GW400	011	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06	Berkeley Road Jn	107	70	
+0164	GW400	011	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06		112	00	*
+0164	GW400	011	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 Western	05/08/06	Charfield	112	72	
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06	Charfield Hall Farm LC	113	77	UWC
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06	Wickwar Tunnel	115	28	
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06	(1281m, 1401yds)	115	12	
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06		116	14	
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06	Yate Middle Jn	119	57	
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06	YATE	119	60	
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06		119	74	
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06	Yate South Jn	120	03	
+0165	GW400	012	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead BGL2 YAT Western	05/08/06	(change of ELR)	120	03	X
+0166	GW400	013	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead YAT Western	05/08/06		120	17	*
+0166	GW400	013	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead YAT Western	05/08/06		120	45	*
+0166	GW400	013	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead YAT Western	05/08/06		120	67	*
+0166	GW400	013	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead YAT Western	05/08/06		121	22	*
+0166	GW400	013	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead YAT Western	05/08/06	Westerleigh Jn	121	28	
+0166	GW400	013	Barnt Green (excl) to Westerleigh Jn Via Dunhampstead YAT Western	05/08/06		107	14	

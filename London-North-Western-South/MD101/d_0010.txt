@@ -1,0 +1,17 @@
+NRN CSR
+TCB Watford Jn PSB (WJ)
+AC: Rugby ECR
+DC: Rugby ECR
+Platform Lengths:
+6 - 253 metres
+7 - 253 metres
+8 - 253 metres
+9 - 222 metres
+10 - 164 metres
+Bay platform 10 - permissive (PP)
+Down Fast line D.C. electrified
+between 17m 200h and 17m 31ch
+TASS fitted:
+DF line throughout
+UF line throughout
+

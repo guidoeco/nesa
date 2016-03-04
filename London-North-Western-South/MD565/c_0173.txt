@@ -1,0 +1,8 @@
+Aldridge 44 T3
+46 60 9:
+47 00 *
+
+Ryecroft Junction 47 48
+
+Change of mileage 6 76
+

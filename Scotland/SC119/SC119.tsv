@@ -1,0 +1,101 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0208	SC119	001	Greenhill Upper Jn to Dundee GHL SCM3 Scotland	02/12/06	Greenhill Upper Jn	0	00	
+0208	SC119	001	Greenhill Upper Jn to Dundee GHL SCM3 Scotland	02/12/06	(Change of ELR GHLto SCM3)	0	56	
+0208	SC119	001	Greenhill Upper Jn to Dundee GHL SCM3 Scotland	02/12/06	Greenhill Lower Jn	0	56	
+0208	SC119	001	Greenhill Upper Jn to Dundee GHL SCM3 Scotland	02/12/06		106	63	
+0208	SC119	001	Greenhill Upper Jn to Dundee GHL SCM3 Scotland	02/12/06		108	18	*
+0208	SC119	001	Greenhill Upper Jn to Dundee GHL SCM3 Scotland	02/12/06		108	54	*
+0209	SC119	002	Greenhill UpperJn to Dundee SCM3 Scotland	14/05/07		108	75	*
+0209	SC119	002	Greenhill UpperJn to Dundee SCM3 Scotland	14/05/07	Carmuirs West Jn SB	108	76	
+0209	SC119	002	Greenhill UpperJn to Dundee SCM3 Scotland	14/05/07		109	10	*
+0209	SC119	002	Greenhill UpperJn to Dundee SCM3 Scotland	14/05/07	Larbert Jn	109	41	
+0210	SC119	003	Greenhil Upper Jn to Dundee SCM3 Scotland	17/03/08		110	12	*
+0210	SC119	003	Greenhil Upper Jn to Dundee SCM3 Scotland	17/03/08	LARBERT	110	17	
+0210	SC119	003	Greenhil Upper Jn to Dundee SCM3 Scotland	17/03/08	Larbert North SB	110	30	
+0210	SC119	003	Greenhil Upper Jn to Dundee SCM3 Scotland	17/03/08		110	38	*
+0211	SC119	004	Greenhill Upper Jn to Dundee SCM3 Scotland	30/06/08	nu VII			X
+0211	SC119	004	Greenhill Upper Jn to Dundee SCM3 Scotland	30/06/08		110	64	*
+0211	SC119	004	Greenhill Upper Jn to Dundee SCM3 Scotland	30/06/08		110	76	*
+0212	SC119	005	Greenhill Upper Jn to Dundee SCM3 Scotland	30/06/08	Clay Slaps LC	117	21	UWC
+0212	SC119	005	Greenhill Upper Jn to Dundee SCM3 Scotland	30/06/08		117	32	*
+0213	SC119	004	Greenhill Upper Jn to Dundee SCM3 Scotland	30/06/08	Stirling Middle SB	118	08	*
+0213	SC119	004	Greenhill Upper Jn to Dundee SCM3 Scotland	30/06/08	STIRLING	118	24	
+0213	SC119	004	Greenhill Upper Jn to Dundee SCM3 Scotland	30/06/08	Stirling North SB	118	38	
+0214	SC119	007	Greenhill Upper Jn to Dundee SCM3 Scotland	08/05/07		118	47	
+0214	SC119	007	Greenhill Upper Jn to Dundee SCM3 Scotland	08/05/07		119	40	
+0214	SC119	007	Greenhill Upper Jn to Dundee SCM3 Scotland	08/05/07		119	48	
+0214	SC119	007	Greenhill Upper Jn to Dundee SCM3 Scotland	08/05/07	Cornton No 2 Footpath LC	119	60	RIG
+0214	SC119	007	Greenhill Upper Jn to Dundee SCM3 Scotland	08/05/07	Cornton LC	120	10	AHBC
+0215	SC119	008	Greenhill Upper Jn to Dundee SCM3 Scotland	02/12/06	BRIDGE OF ALLAN	121	10	
+0215	SC119	008	Greenhill Upper Jn to Dundee SCM3 Scotland	02/12/06		121	20	*
+0215	SC119	008	Greenhill Upper Jn to Dundee SCM3 Scotland	02/12/06	Kippenross Tunnel	122	38	
+0215	SC119	008	Greenhill Upper Jn to Dundee SCM3 Scotland	02/12/06	610 Yards to	122	66	
+0216	SC119	009	Greenhill Upper Jn to Dundee SCM3 SCM4 Scotland	02/12/06	DUNBLANE	123	19	
+0216	SC119	009	Greenhill Upper Jn to Dundee SCM3 SCM4 Scotland	02/12/06	Dunblane SB	123	29	
+0216	SC119	009	Greenhill Upper Jn to Dundee SCM3 SCM4 Scotland	02/12/06	(Change of ELR SCM3 to SCM4)	123	40	
+0216	SC119	009	Greenhill Upper Jn to Dundee SCM3 SCM4 Scotland	02/12/06		125	16	*
+0216	SC119	009	Greenhill Upper Jn to Dundee SCM3 SCM4 Scotland	02/12/06		126	00	
+0216	SC119	009	Greenhill Upper Jn to Dundee SCM3 SCM4 Scotland	02/12/06	Drumallan LC	126	27	UWC
+0217	SC119	010	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Quoiggs No 1 LC	128	01	UWC
+0217	SC119	010	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Greenloaning SB	129	17	
+0217	SC119	010	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Carsebreck LC	131	07	UWC
+0218	SC119	011	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Boreland Farm LC	132	20	UWC
+0218	SC119	011	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Blackford SB & LC	133	28	MCB
+0219	SC119	012	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	GLEN EAGLES	135	50	
+0219	SC119	012	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06		135	60	
+0219	SC119	012	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Auchterarder SB	137	41	
+0220	SC119	013	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Whitemoss LC	140	24	AHBC-X
+0220	SC119	013	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06		140	40	*
+0220	SC119	013	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Broadslap LC	141	02	UWC
+0220	SC119	013	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Easter Balgour LC	142	36	UWC
+0220	SC119	013	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	BaldinniesNo1LC	142	70	UWC
+0221	SC119	014	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Forteviot LC	144	44	AHBC-X
+0221	SC119	014	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Forteviot Farm LC	145	13	UWC
+0221	SC119	014	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Broombams LC	146	31	UWC
+0221	SC119	014	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Forgandenny Ford LC	147	39	UWC
+0221	SC119	014	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06		147	40	*
+0221	SC119	014	Greenhill Upper Jn to Dundee SCM4 Scotland	02/12/06	Kirkton of Mailer N02 LC	148	66	UWC
+0222	SC119	015	Greenhill UpperJn to Dundee SCM4 Scotland	01/01/09	Hilton Jn SB	149	17	*
+0222	SC119	015	Greenhill UpperJn to Dundee SCM4 Scotland	01/01/09	Moncrieffe Tunnel	149	29	
+0222	SC119	015	Greenhill UpperJn to Dundee SCM4 Scotland	01/01/09	1210 Yards to	150	04	
+0223	SC119	016	Greenhill Upper Jn to Dundee SCM4 SCM5 HGL1 Scotland	02/12/06	Down main signal P29	150	50	*
+0223	SC119	016	Greenhill Upper Jn to Dundee SCM4 SCM5 HGL1 Scotland	02/12/06	(Change of ELR SCM4 to SCM5)	150	61	
+0223	SC119	016	Greenhill Upper Jn to Dundee SCM4 SCM5 HGL1 Scotland	02/12/06	Down Fast signal P61 and up Fast	151	00	*
+0223	SC119	016	Greenhill Upper Jn to Dundee SCM4 SCM5 HGL1 Scotland	02/12/06	signal P64 and Down Dundee loop	151	00	X
+0223	SC119	016	Greenhill Upper Jn to Dundee SCM4 SCM5 HGL1 Scotland	02/12/06	signal P65	151	00	X
+0223	SC119	016	Greenhill Upper Jn to Dundee SCM4 SCM5 HGL1 Scotland	02/12/06		151	03	
+0223	SC119	016	Greenhill Upper Jn to Dundee SCM4 SCM5 HGL1 Scotland	02/12/06		21	01	
+0223	SC119	016	Greenhill Upper Jn to Dundee SCM4 SCM5 HGL1 Scotland	02/12/06	Perth SB	151	05	*
+0224	SC119	017	Greenhill UpperJn to Dundee SCM5 Scotland	19/01/08	PERTH	20	64	
+0224	SC119	017	Greenhill UpperJn to Dundee SCM5 Scotland	19/01/08		20	46	*
+0224	SC119	017	Greenhill UpperJn to Dundee SCM5 Scotland	19/01/08	Bamhill SB	19	69	
+0224	SC119	017	Greenhill UpperJn to Dundee SCM5 Scotland	19/01/08		19	62	*
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Walnut Grove LC	18	51	UWC
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Pye Road LC	18	09	UWC
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		17	40	
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		17	20	*
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		16	10	*
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Tofthill LC	15	74	UWC
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Inchyra LC	15	41	AHBC
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		14	76	*
+0225	SC119	018	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Pitcoag LC	14	21	UWC
+0226	SC119	m	Greenhill Upper Jn to Dundee SCM5 Scotland	03/05/08	Murie LC	12	35	AHBC
+0226	SC119	m	Greenhill Upper Jn to Dundee SCM5 Scotland	03/05/08	Inohoonans LC	11	55	AHBC-X
+0226	SC119	m	Greenhill Upper Jn to Dundee SCM5 Scotland	03/05/08	Errol SB & LC	10	45	MCB
+0226	SC119	m	Greenhill Upper Jn to Dundee SCM5 Scotland	03/05/08	Grange LC	9	17	AHBC-X
+0227	SC119	020	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Inchture LC	8	11	AHBC-X
+0227	SC119	020	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Kingston LC'	7	21	UWC
+0227	SC119	020	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Templehall LC	6	02	AHBC-X
+0227	SC119	020	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Longforgan SB & LC	5	55	MCB
+0227	SC119	020	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	Pilmore West LC	5	10	
+0228	SC119	021	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		4	78	*
+0228	SC119	021	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		3	54	
+0228	SC119	021	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06	INVERGOWRIE	3	50	
+0228	SC119	021	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		2	31	*
+0228	SC119	021	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		1	39	*
+0228	SC119	021	Greenhill Upper Jn to Dundee SCM5 Scotland	02/12/06		0	45	*
+0229	SC119	022	Greenhill Upper Jn to Dundee ECN2 Scotland	02/12/06	Dundee Central Jn	0	36	
+0229	SC119	022	Greenhill Upper Jn to Dundee ECN2 Scotland	02/12/06		58	69	
+0230	SC119	023	Greenhill UpperJn to Dundee ECN2 Scotland	01/12/07	DUNDEE	59	14	
+0230	SC119	023	Greenhill UpperJn to Dundee ECN2 Scotland	01/12/07		59	15	*
+0230	SC119	023	Greenhill UpperJn to Dundee ECN2 Scotland	01/12/07	Dundee SC	59	17	

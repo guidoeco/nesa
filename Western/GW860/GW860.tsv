@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0363	GW860	001	Penarth Curve North Jn To Penarth Curve South Jn CPL Western	05/08/06	Penath Curve North Jn	0	47	
+0363	GW860	001	Penarth Curve North Jn To Penarth Curve South Jn CPL Western	05/08/06		0	25	
+0363	GW860	001	Penarth Curve North Jn To Penarth Curve South Jn CPL Western	05/08/06		0	02	*
+0363	GW860	001	Penarth Curve North Jn To Penarth Curve South Jn CPL Western	05/08/06	Penarth Curve South Jn	0	00	
+0363	GW860	001	Penarth Curve North Jn To Penarth Curve South Jn CPL Western	05/08/06		0	47	

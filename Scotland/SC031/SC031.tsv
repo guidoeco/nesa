@@ -1,0 +1,121 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0058	SC031	001	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/06/07		116	13	
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08		115	43	*
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	Territory Boundary	115	40	
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08		115	37	*
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	GRETNA‘GREEN	115	12	
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	Rigg LC	113	09	UWC
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	Elmside LC	111	34	UWC
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	Stanﬁeld Farm LC	111	05	UWC
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	Muirhouse Farm LC	110	73	UWC
+0059	SC031	002	Gretna Jn to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	Eastriggs	109	75	
+0060	SC031	003	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08		107	40	*
+0060	SC031	003	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	ANNAN	107	21	
+0060	SC031	003	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08	Annan SB	107	04	
+0060	SC031	003	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08		106	55	*
+0060	SC031	003	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	04/08/08		102	64	*
+0061	SC031	004	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	25/10/08		102	04	*
+0061	SC031	004	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	25/10/08		101	20	*
+0061	SC031	004	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	25/10/08		100	40	
+0061	SC031	004	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	25/10/08		99	50	*
+0061	SC031	004	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	25/10/08	Wath LC	96	44	UWC
+0061	SC031	004	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	25/10/08	WarrenhillLC	95	14	UWC
+0061	SC031	004	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	25/10/08		95	00	*
+0061	SC031	004	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	25/10/08	Brasswell LC (AHBC)	93	49	*
+0062	SC031	005	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		92	32	*
+0062	SC031	005	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		92	00	*
+0062	SC031	005	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	DUMFRIES	91	63	
+0062	SC031	005	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Dumfries Station SB	91	59	
+0062	SC031	005	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		91	55	*
+0063	SC031	006	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Guillyhill LC	90	29	UWC
+0063	SC031	006	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Holywood SB & LC	38	33	
+0063	SC031	006	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		84	20	
+0063	SC031	006	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		82	50	*
+0063	SC031	006	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		81	00	*
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		77	60	
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	'hornhill SB	77	58	
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		75	00	*
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		74	40	*
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		74	16	*
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Drumlanrig Tunnel	73	69	
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	410 yards to	73	05	
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		73	00	*
+0064	SC031	007	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		70	00	*
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		68	00	
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		66	50	*
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		65	77	*
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	SANQUHAR	65	53	
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		65	40	
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Knockenjig LC	63	50	UWC
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	KIRKGOIINEL	62	31	
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		62	20	
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Kirkconnel SB	62	16	
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Garclaugh No.3 LC	57	15	UWC
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Garclaugh No.2 LC	56	78	UWC
+0065	SC031	008	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Garclaugh No.1 LC	56	54	UWC
+0066	SC031	009	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	NEW CUMNOCK	55	00	
+0066	SC031	009	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	New Cumnock SB	54	75	
+0066	SC031	009	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Bank Jn	54	05	
+0067	SC031	010	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		51	00	
+0067	SC031	010	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		50	30	*
+0067	SC031	010	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		49	25	*
+0067	SC031	010	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	AUCHINLECK	47	46	
+0067	SC031	010	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		47	40	
+0067	SC031	010	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		44	40	*
+0067	SC031	010	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		43	40	*
+0068	SC031	011	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Mauchline SB	43	02	
+0068	SC031	011	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Mossgiel Tunnel	41	51	
+0068	SC031	011	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	680 yards to	41	20	
+0068	SC031	011	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		38	34	*
+0068	SC031	011	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		38	07	*
+0069	SC031	012	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		37	70	*
+0069	SC031	012	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		36	49	*
+0069	SC031	012	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		36	40	*
+0069	SC031	012	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06		35	74	*
+0069	SC031	012	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW Scotland	02/12/06	Hurlford SB	35	50	
+0070	SC031	013	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW GBK Scotland	08/07/08		35	00	*
+0070	SC031	013	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW GBK Scotland	08/07/08	Kay Park Jn GF	34	41	
+0070	SC031	013	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW GBK Scotland	08/07/08		34	00	*
+0070	SC031	013	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW GBK Scotland	08/07/08	KILMARNOCK	33	59	
+0070	SC031	013	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW GBK Scotland	08/07/08	Kilmarnock SB	33	48	*
+0070	SC031	013	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW GBK Scotland	08/07/08	Change of ELR	33	44	
+0070	SC031	013	Gretna Jn. to Glasgow Central (Via Kilmarnock) GSW GBK Scotland	08/07/08	GSWto GBK	23	44	
+0071	SC031	014	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	08/07/08	KILMAIJRS	21	37	
+0071	SC031	014	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	08/07/08		16	52	*
+0071	SC031	014	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	08/07/08		18	40	
+0071	SC031	014	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	08/07/08	STEWARTON	18	20	
+0071	SC031	014	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	08/07/08		17	35	*
+0071	SC031	014	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	08/07/08	DUNLOP	16	02	
+0072	SC031	015	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	11/01/09		16	00	
+0072	SC031	015	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	11/01/09		14	03	*
+0072	SC031	015	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	11/01/09		13	60	
+0072	SC031	015	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	11/01/09		13	55	*
+0072	SC031	015	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	11/01/09	LugtonSB	13	51	
+0072	SC031	015	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	11/01/09		11	00	
+0072	SC031	015	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	11/01/09		9	60	*
+0072	SC031	015	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	11/01/09		9	00	
+0073	SC031	016	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08		8	00	*
+0073	SC031	016	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08	BARRHEAD	6	77	
+0073	SC031	016	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08	Barrhead SB	6	70	BD
+0073	SC031	016	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08		5	31	*
+0073	SC031	016	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08	NITSHILL	5	30	
+0073	SC031	016	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08	PRIESTHILL AND DARNLEY	4	56	
+0074	SC031	017	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08	KENHISHEAD	3	70	
+0074	SC031	017	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08	Busby Jn	3	18	
+0074	SC031	017	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08	POLLOKSHAWS WEST	2	60	
+0074	SC031	017	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK Scotland	27/12/08	CROSSMYLOOF	1	60	
+0075	SC031	018	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK MEN2 MEN1 Scotland	27/12/08		1	23	*
+0075	SC031	018	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK MEN2 MEN1 Scotland	27/12/08	Muirhouse South Jn .	1	19	
+0075	SC031	018	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK MEN2 MEN1 Scotland	27/12/08	(Change of ELR GBK to MEN2)	0	00	*
+0075	SC031	018	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK MEN2 MEN1 Scotland	27/12/08		0	15	
+0075	SC031	018	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK MEN2 MEN1 Scotland	27/12/08	Muirhouse Central Jn .	0	15	X
+0075	SC031	018	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK MEN2 MEN1 Scotland	27/12/08	(Change of ELR MEN2 to MEN1)	0	15	X
+0075	SC031	018	Gretna Jn. to Glasgow Central (Via Kilmarnock) GBK MEN2 MEN1 Scotland	27/12/08		0	19	
+0076	SC031	019	Gretna Jn. to Glasgow Central (Via Kilmarnock) MEN1 Scotland	27/12/08	Muirhouse North Jn .	0	32	
+0076	SC031	019	Gretna Jn. to Glasgow Central (Via Kilmarnock) MEN1 Scotland	27/12/08		0	60	*
+0076	SC031	019	Gretna Jn. to Glasgow Central (Via Kilmarnock) MEN1 Scotland	27/12/08		0	68	*
+0076	SC031	019	Gretna Jn. to Glasgow Central (Via Kilmarnock) MEN1 Scotland	27/12/08	Eglinton St Jn	0	70	
+0077	SC031	020	Gretna Jn to Glasgow Central (Via Kilmarnock) WCM2 ? Scotland	27/12/08	Bridge St Jn	101	53	*
+0077	SC031	020	Gretna Jn to Glasgow Central (Via Kilmarnock) WCM2 ? Scotland	27/12/08		101	57	*
+0078	SC031	021	Gretna Jn. to Glasgow Central (Via Kilmarnock) WCM2 Scotland	27/12/08	Gantry "A"			X
+0078	SC031	021	Gretna Jn. to Glasgow Central (Via Kilmarnock) WCM2 Scotland	27/12/08	GLASGOW CENTRAL	102	27	

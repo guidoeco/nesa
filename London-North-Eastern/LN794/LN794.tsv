@@ -1,0 +1,4 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0319	LN794	001	Bilsthorpe Colliery Branch RUBZ London North Eastern	02/12/06	Bilsthorpe Colliery	4	39	
+0319	LN794	001	Bilsthorpe Colliery Branch RUBZ London North Eastern	02/12/06		1	40	*
+0319	LN794	001	Bilsthorpe Colliery Branch RUBZ London North Eastern	02/12/06	Bilsthorpe Colliery Jn	1	08	*

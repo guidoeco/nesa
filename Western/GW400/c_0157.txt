@@ -1,0 +1,11 @@
+68 45 1:
+Abbotswood Junction 68 60
+
+69 10 *-
+Wadborough LC (AHBC) 70 03
+Pirton LC (AHBC) 70 51
+Eckington HABD 74 51
+Eckington
+Andrews LC (UWC) 74 71
+Cooks1 LC (UWC) 75 03
+

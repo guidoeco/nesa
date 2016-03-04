@@ -1,0 +1,275 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0447	SC203	001	Inverness to Wick HGL2 RSW WCK Scotland	01/12/07	Walsh's Bridge	117	56	
+0447	SC203	001	Inverness to Wick HGL2 RSW WCK Scotland	01/12/07	Rose Street LC	117	71	CCTV
+0447	SC203	001	Inverness to Wick HGL2 RSW WCK Scotland	01/12/07	Invemess T03 and RETB SC	117	77	I
+0447	SC203	001	Inverness to Wick HGL2 RSW WCK Scotland	01/12/07		118	01	
+0447	SC203	001	Inverness to Wick HGL2 RSW WCK Scotland	01/12/07		0	18	
+0447	SC203	001	Inverness to Wick HGL2 RSW WCK Scotland	01/12/07	(North lines only)	0	18	X
+0447	SC203	001	Inverness to Wick HGL2 RSW WCK Scotland	01/12/07	INVERNESS	118	03	
+0448	SC203	002	Inverness to Wick WCK Scotland	02/12/06		0	41	*
+0448	SC203	002	Inverness to Wick WCK Scotland	02/12/06		46	46	
+0448	SC203	002	Inverness to Wick WCK Scotland	02/12/06	Signal I430	0	47	
+0448	SC203	002	Inverness to Wick WCK Scotland	02/12/06		0	60	*
+0448	SC203	002	Inverness to Wick WCK Scotland	02/12/06	Clachnaharry Down Stop Signal	1	12	
+0448	SC203	002	Inverness to Wick WCK Scotland	02/12/06		1	45	*
+0448	SC203	002	Inverness to Wick WCK Scotland	02/12/06	Clachnahany Canal Bridge	1	46	
+0448	SC203	002	Inverness to Wick WCK Scotland	02/12/06		1	50	*
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09	Bruichnain LC	2	63	UWC
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09	Bullocks LC	2	73	UWC
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09	Bunchrew Farm LC	3	10	UWC
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09	Bunchrew LC	3	58	AOCL
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09		5	01	*
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09	Lentran Station LC	5	64	UWC
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09	Groam Farm South LC	7	29	UWC
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09	Groam Farm LC	7	41	UWC
+0449	SC203	003	Inverness to Wick WCK Scotland	23/03/09	Clunes TEP	7	51	
+0450	SC203	004	Inverness to Wick WCK Scotland	02/12/06		8	75	*
+0450	SC203	004	Inverness to Wick WCK Scotland	02/12/06	Beauly Ferry LC	9	29	UWC
+0450	SC203	004	Inverness to Wick WCK Scotland	02/12/06		9	36	*
+0450	SC203	004	Inverness to Wick WCK Scotland	02/12/06	BEAULY	10	12	
+0450	SC203	004	Inverness to Wick WCK Scotland	02/12/06		10	61	*
+0450	SC203	004	Inverness to Wick WCK Scotland	02/12/06		11	00	*
+0450	SC203	004	Inverness to Wick WCK Scotland	02/12/06	Wellhouse LC	11	10	UWC
+0451	SC203	005	Inverness to Wick WCK Scotland	08/09/08	Sdgs GF's			X
+0451	SC203	005	Inverness to Wick WCK Scotland	08/09/08	MUIR OF ORD TEP	13	04	
+0451	SC203	005	Inverness to Wick WCK Scotland	08/09/08	Chapelton Farm LC	13	53	UWC
+0451	SC203	005	Inverness to Wick WCK Scotland	08/09/08	Keepers House LC	15	54	UWC
+0451	SC203	005	Inverness to Wick WCK Scotland	08/09/08	Riverford LC	16	14	UWC
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06		16	53	*
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06		17	02	*
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06	Maryburgh LC	17	15	UWC
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06	Kildun No1 LC	17	51	UWC
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06	Pitglassie South LC	18	10	UWC
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06	Pitglassie Field LC	18	23	UWC
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06	Pitglassie North LC	18	29	UWC
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06	Sdg GF	18	29	X
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06	DINGWALL TEP	18	58	
+0452	SC203	006	Inverness to Wick WCK Scotland	02/12/06		18	76	*
+0453	SC203	007	Inverness to Wick WCK Scotland	02/12/06	Dingwall Canal North LC	19	03	UWC
+0453	SC203	007	Inverness to Wick WCK Scotland	02/12/06		20	00	*
+0453	SC203	007	Inverness to Wick WCK Scotland	02/12/06		22	18	*
+0453	SC203	007	Inverness to Wick WCK Scotland	02/12/06		22	75	*
+0453	SC203	007	Inverness to Wick WCK Scotland	02/12/06	Foulis LC	22	76	RIG
+0453	SC203	007	Inverness to Wick WCK Scotland	02/12/06		22	77	*
+0454	SC203	008	Inverness to Wick WCK Scotland	02/12/06	Ballachladdich Farm LC	23	15	UWC
+0454	SC203	008	Inverness to Wick WCK Scotland	02/12/06		23	54	*
+0454	SC203	008	Inverness to Wick WCK Scotland	02/12/06	Evanton TEP	25	00	
+0454	SC203	008	Inverness to Wick WCK Scotland	02/12/06		27	73	*
+0454	SC203	008	Inverness to Wick WCK Scotland	02/12/06		28	33	*
+0454	SC203	008	Inverness to Wick WCK Scotland	02/12/06	ALNESS	28	70	
+0455	SC203	010	Inverness to Wick WCK Scotland	15/12/07		28	73	*
+0455	SC203	010	Inverness to Wick WCK Scotland	15/12/07	Belleport LC	29	28	UWC
+0455	SC203	010	Inverness to Wick WCK Scotland	15/12/07		30	50	*
+0455	SC203	010	Inverness to Wick WCK Scotland	15/12/07	South end loop points	31	16	*
+0455	SC203	010	Inverness to Wick WCK Scotland	15/12/07	Sdg GF (OOU)	31	16	X
+0455	SC203	010	Inverness to Wick WCK Scotland	15/12/07	INVERGORDON TEP	31	37	
+0455	SC203	010	Inverness to Wick WCK Scotland	15/12/07	North and loop points	31	50	*
+0456	SC203	010	Inverness to Wick WCK Scotland	02/12/06	Distillery No1 GF	31	76	OOU
+0456	SC203	010	Inverness to Wick WCK Scotland	02/12/06	Distillery No 2 GF	32	07	OOU
+0456	SC203	010	Inverness to Wick WCK Scotland	02/12/06		32	15	
+0456	SC203	010	Inverness to Wick WCK Scotland	02/12/06	lnvergordon Distillery LC G)	32	20	
+0457	SC203	011	Inverness to Wick WCK Scotland	02/12/06	Balintraid LC	33	50	UWC
+0457	SC203	011	Inverness to Wick WCK Scotland	02/12/06		34	45	*
+0457	SC203	011	Inverness to Wick WCK Scotland	02/12/06		34	78	*
+0457	SC203	011	Inverness to Wick WCK Scotland	02/12/06	Delny LC	34	79	AOCL
+0458	SC203	012	Inverness to Wick WCK Scotland	02/12/06		34	79	*
+0458	SC203	012	Inverness to Wick WCK Scotland	02/12/06		35	35	*
+0458	SC203	012	Inverness to Wick WCK Scotland	02/12/06		38	37	*
+0458	SC203	012	Inverness to Wick WCK Scotland	02/12/06		39	24	*
+0458	SC203	012	Inverness to Wick WCK Scotland	02/12/06	Nigg LC	39	25	AHBC
+0458	SC203	012	Inverness to Wick WCK Scotland	02/12/06		39	26	*
+0458	SC203	012	Inverness to Wick WCK Scotland	02/12/06		40	13	*
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07		40	43	*
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07		40	45	*
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07	Feam GF	40	46	
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07	FEARN TEP	40	60	
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07	Hilton Mills LC	42	61	UWC
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07	Balkeith South LC	43	17	UWC
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07	South and loop points	44	12	*
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07	TAIN TEP	44	23	
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07	Sdg GF	44	23	X
+0459	SC203	013	Inverness to Wick WCK Scotland	22/12/07	North and loop points	44	36	*
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08		44	60	*
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08	Morangie LC	45	17	UWC
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08	Edderton No 1 LC	48	46	UWC
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08	Manse LC	49	20	UWC
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08	Ardvannie No 2 LC	51	40	UWC
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08		52	72	*
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08		54	03	*
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08	Mid Feam LC	55	26	UWC
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08	Wester Feam No1 LC	55	32	UWC
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08		55	43	*
+0460	SC203	014	Inverness to Wick WCK Scotland	08/09/08	Wester Feam No 2 LC	55	50	UWC
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08		56	08	*
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08	Ardchronie LC	56	40	UWC
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08	Kincardine Mains LC	56	75	UWC
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08	McNicols LC	57	32	UWC
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08	sag GF	57	32	X
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08	ARDGAY TEP	57	70	
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08		58	03	*
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08		58	55	*
+0461	SC203	015	Inverness to Wick WCK Scotland	15/12/08		58	56	*
+0462	SC203	016	Inverness to Wick WCK Scotland	02/12/06	Balnahinch No 4 LC	59	78	UWC
+0462	SC203	016	Inverness to Wick WCK Scotland	02/12/06	Culrain Smithey LC	60	63	UWC
+0462	SC203	016	Inverness to Wick WCK Scotland	02/12/06		60	74	*
+0462	SC203	016	Inverness to Wick WCK Scotland	02/12/06	CULRAIN	61	00	
+0462	SC203	016	Inverness to Wick WCK Scotland	02/12/06		61	10	*
+0462	SC203	016	Inverness to Wick WCK Scotland	02/12/06	INVERSHIH	61	34	
+0462	SC203	016	Inverness to Wick WCK Scotland	02/12/06		63	05	*
+0462	SC203	016	Inverness to Wick WCK Scotland	02/12/06		63	23	*
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08		64	19	*
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	Sdg GF	64	19	X
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	LAIRG TEP	66	78	
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	Lairg LC	67	11	AOCL
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08		68	00	*
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	Tomich No1 LC	68	54	UWC
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	Tomich No 2 LC	68	64	UWC
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08		70	00	*
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	Acheilidh LC	72	63	ABCL
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	Acheilidh No 3 LC	72	68	UWC
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	Acheilidh No 4 LC	72	78	UWC
+0463	SC203	017	Inverness to Wick WCK Scotland	08/09/08	Ardachu No 3 LC	73	53	UWC
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	Rossal No 2 LC	74	36	UWC
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	Rovie LC	76	35	AOCL
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	Rovie LC	76	43	UWC
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	ROGART TEP	77	01	
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	Rogart, LC	77	08	open
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	West Kinnauld No 2 LC	77	36	UWC
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	West Kinnauld No 3 LC	77	53	UWC
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	Kinnauld East No 1 LC	78	01	UWC
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	Kinnauld East No 2 LC	78	25	UWC
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	Morvich No1 LC	78	38	UWC
+0464	SC203	018	Inverness to Wick WCK Scotland	14/07/08	Morvich No 3 LC	78	62	UWC
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09	Morvich No4 LC	78	71	UWC
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09	Morvich No 6 LC	79	03	UWC
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09	Morvich No 7 LC	79	22	UWC
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09	Morvich No 8 LC	79	62	UWC
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09		80	20	*
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09		80	65	*
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09		81	47	*
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09		82	08	*
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09	Baddan LC	82	30	UWC
+0465	SC203	019	Inverness to Wick WCK Scotland	23/03/09		32	43	*
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06	Kirkton LC	32	44	AOCL
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06		82	45	*
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06		83	00	*
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06	Culmaily No2 LC	83	17	UWC
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06	Culmaily No3 LC	83	34	UWC
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06	Drummuie LC	83	73	UWC
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06		34	13	*
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06	GOLSPIE	84	30	
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06		84	51	*
+0466	SC203	020	Inverness to Wick WCK Scotland	02/12/06	Dunrobin LC	86	19	UWC
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06	DUNROBIN	86	22	
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06	Mellaig No1LC	88	64	UWC
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06		87	71	*
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06		88	23	*
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06	Strathsteven LC	88	27	UWC
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06	Doll LC	89	02	UWC
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06		89	13	*
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06	MacBeaths LC	89	24	UWC
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06		89	25	*
+0467	SC203	021	Inverness to Wick WCK Scotland	02/12/06	Inver Brora No1 LC	89	34	UWC
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	Inver Brora No 2 LC	89	68	UWC
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07		89	75	*
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	Brora LC	90	31	AOCL
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	BRORA TEP	90	48	
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	Sdg GF	90	48	X
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	Mclvors LC	90	71	UWC
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	East Brora Muir No 1 LC	91	00	UWC
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	East Brora Muir No 2 LC	91	11	UWC
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	Dalchalm LC	91	30	AOCL
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	Greenhill LC	92	05	UWC
+0468	SC203	022	Inverness to Wick WCK Scotland	22/12/07	Clynemilton East LC	92	40	UWC
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08	KintradwellNo1LC	93	00	UWC
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08		93	14	*
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08	Kintradwell N02 LC	93	27	UWC
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08		93	36	*
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08	Old Castle LC	93	63	UWC
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08		94	36	*
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08		94	53	*
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08	Lothbeg LC	95	03	UWC
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08	Culgower No 1 LC	97	22	UWC
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08	Culgower N03 LC	97	74	UWC
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08		97	78	*
+0469	SC203	023	Inverness to Wick WCK Scotland	14/07/08	Portgower No1LC	99	33	UWC
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08	Portgower Station LC	99	73	UWC
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08	HELMSDALE TEP	101	40	
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08	Sdg GF	101	40	X
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08	Bual No 1 LC	101	62	UWC
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08	Bual No 2 LC	101	75	UWC
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08	Marrel LC	102	38	ABCL
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08		103	25	*
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08		103	54	*
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08	Eldrable No 1 LC	104	54	UWC
+0470	SC203	024	Inverness to Wick WCK Scotland	08/09/08		105	68	*
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08		106	31	*
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08	Oulmsdale Burn LC	106	41	UWC
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08		107	74	*
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08	Kilearnan LC	108	38	UWC
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08		110	47	*
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08		110	68	*
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08	Kildonan LC	111	03	Open
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08	KILDONAN	111	05	
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08	Learable LC	111	74	UWC
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08		113	20	*
+0471	SC203	025	Inverness to Wick WCK Scotland	08/09/08	Borrobol LC	114	74	UWC
+0472	SC203	026	Inverness to Wick WCK Scotland	02/12/06		115	62	*
+0472	SC203	026	Inverness to Wick WCK Scotland	02/12/06		116	23	*
+0472	SC203	026	Inverness to Wick WCK Scotland	02/12/06		113	03	*
+0472	SC203	026	Inverness to Wick WCK Scotland	02/12/06	KIN‘BRACE	113	20	
+0472	SC203	026	Inverness to Wick WCK Scotland	02/12/06		113	24	*
+0472	SC203	026	Inverness to Wick WCK Scotland	02/12/06	Kinbrace LC	113	25	AOCL
+0472	SC203	026	Inverness to Wick WCK Scotland	02/12/06		113	26	*
+0472	SC203	026	Inverness to Wick WCK Scotland	02/12/06		113	52	*
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08	Lochside LC	121	00	UWC
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08	Ballach LC	122	30	UWC
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08		123	40	*
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08		123	71	*
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08		125	24	*
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08	Sdg GF	125	24	X
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08	Farsinard LC	125	67	AOCL
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08	FORSINARD TEP	125	69	
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08		126	48	*
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08		127	35	*
+0473	SC203	027	Inverness to Wick WCK Scotland	14/07/08		131	72	*
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08	Altnabreac LC	133	46	UWC
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08	Altnabreac GF	133	73	
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08	ALTNABREAC	133	76	
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08		142	67	*
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08		142	71	*
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08	SCOTSCALDER	143	02	
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08	Tongside No1 LC	143	30	UWC
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08	Tongside N02 LC	143	71	UWC
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08		144	72	*
+0474	SC203	028	Inverness to Wick WCK Scotland	13/09/08		145	37	*
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08		145	40	*
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	Halkirk LC	145	59	AOCL
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	Sibsterburn LC	146	47	UWC
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	Halkirk TEP (Down direction only)	146	53	
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	Sibster Buoltor LC	147	00	UWC
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	South and loop points	147	09	*
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	Up South GF	147	09	X
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	GEORGEMAS JN TEP	147	20	
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	Up North GF	147	20	X
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	Georgemas No 1 GF	147	20	X
+0475	SC203	029	Inverness to Wick WCK Scotland	11/08/08	North end loop points	147	34	*
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06	Bower TEP (Up direction only)	147	56	
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06	Sibster Moss LC	147	58	UWC
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06		148	05	*
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06	East Clayock LC	148	54	UWC
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06	Gelshﬁeld Gates LC	149	00	UWC
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06	Gelshﬁeld LC	149	28	UWC
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06	Loch View Farm LC	149	48	UWC
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06		150	20	*
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06		150	40	*
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06		151	74	*
+0476	SC203	030	Inverness to Wick WCK Scotland	02/12/06	Watien LC	153	68	AOCL
+0477	SC203	031	Inverness to Wick WCK Scotland	08/09/08	East Watten LC	154	61	UWC
+0477	SC203	031	Inverness to Wick WCK Scotland	08/09/08	Bilbster LC	156	26	UWC
+0477	SC203	031	Inverness to Wick WCK Scotland	08/09/08		156	50	*
+0477	SC203	031	Inverness to Wick WCK Scotland	08/09/08		159	13	*
+0477	SC203	031	Inverness to Wick WCK Scotland	08/09/08		159	16	*
+0477	SC203	031	Inverness to Wick WCK Scotland	08/09/08	Milton No1 LC	160	27	UWC
+0477	SC203	031	Inverness to Wick WCK Scotland	08/09/08		160	58	*
+0477	SC203	031	Inverness to Wick WCK Scotland	08/09/08	WIGK TEP	161	35	

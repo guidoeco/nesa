@@ -1,0 +1,9 @@
+NRN CSR
+TCB Lewes SB (LW)
+RAB DC:Brighton
+CSR
+1 Up Main
+2 Down Main
+3 Up Seaford
+4 Down Seaford
+

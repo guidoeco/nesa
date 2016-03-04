@@ -1,0 +1,13 @@
+KintradwellNo1LC(UWC) 93 00
+93 14 *
+Kintradwell N02 LC (UWC) 93 27
+93 36 *-
+Old Castle LC (UWC) 93 63
+94 36 *-
+94 53 *-
+Lothbeg LC (UWC) 95 03
+Culgower No 1 LC (UWC) 97 22
+Culgower N03 LC (UWC) 97 74
+97 78 *
+Portgower No1LC(UWC) 99 33
+

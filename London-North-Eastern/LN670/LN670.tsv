@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0515	LN670	001	Jarrow Branch JAW1 London North Eastern	02/12/06	Pelaw Jn	0	09	
+0515	LN670	001	Jarrow Branch JAW1 London North Eastern	02/12/06		0	27	*
+0515	LN670	001	Jarrow Branch JAW1 London North Eastern	02/12/06		1	35	*
+0515	LN670	001	Jarrow Branch JAW1 London North Eastern	02/12/06		1	65	*
+0515	LN670	001	Jarrow Branch JAW1 London North Eastern	02/12/06		2	50	*
+0515	LN670	001	Jarrow Branch JAW1 London North Eastern	02/12/06	Shell Mex Depot Jarrow	3	56	*

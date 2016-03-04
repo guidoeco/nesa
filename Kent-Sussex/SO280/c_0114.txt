@@ -1,0 +1,16 @@
+FARRINGDON 0 62
+
+O 58 *-
+Farringdon Jn 0 00
+Farringfiion Substation 0 04
+Snow ill Tunnel 0 04
+(North Portal)
+Territory Boundary 0 07 7k
+Smithfields Sidings 0 15
+CITY THAMESLINK 0 28
+
+0 35 :7:
+Snow Hill Tunnel 0 39
+(South Portal) 0 21
+(Change of Mileage)
+

@@ -1,0 +1,9 @@
+NRN
+TCB Glasgow Central SC (G)
+AC: Cathcart ECR
+UCD = Up Clydesdale
+DCD = Down Clydesdale
+@ =Throughjn
+® =Through connections to and from,
+and over Chord line
+

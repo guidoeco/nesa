@@ -1,0 +1,9 @@
+Mossend East Jn 0 40
+3 63
+(Change of ELR E682 to EGS1) 3 63
+Mossend West Jn 3 04
+BELLSHILL 2 3O
+OHNS 0 66
+Viewpark Sdgs 0 53
+Uddingston Jn -0 03
+

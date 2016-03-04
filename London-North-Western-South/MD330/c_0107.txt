@@ -1,0 +1,7 @@
+Soho East Jn 2 38
+Change of mileage 0 00
+
+0 20 *
+Soho North Jn 0 22
+Change of mileage 2 33
+

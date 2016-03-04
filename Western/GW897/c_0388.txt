@@ -1,0 +1,8 @@
+Grovesend Colliery Loop Jn 10 05 i:
+0 00
+O 05 1e
+0 07 i:
+0 45
+Handy Jn 0 46
+4 54
+

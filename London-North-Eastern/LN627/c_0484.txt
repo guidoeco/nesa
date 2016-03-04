@@ -1,0 +1,10 @@
+FELLGATE 96 08
+Pelaw Metro Jn 97 64 *-
+97 70 *-
+98 02 *
+Pelaw Jn for Jarrow 98 07
+Pelaw Jn for Leamside 98 16
+Pelaw 98 33
+98 4O
+98 47
+

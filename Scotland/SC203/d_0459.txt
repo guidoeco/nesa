@@ -1,0 +1,16 @@
+RETB 101 Invemess SC (I)
+G) Permissive arrangements in
+RETB territory.
+PP(A) - detaching, for booked
+movements only
+See Local Instructions for
+conditions under which trains may
+detach
+(2) = 15mph through loop
+points, in both directions,
+and over loop lines
+CL 840f (255m)
+(40 SLU's)
+RETB 112
+RETB 113
+

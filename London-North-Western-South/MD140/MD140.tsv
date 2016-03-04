@@ -1,0 +1,45 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08	Bletchley Jn	46	43	
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08	Change of Mileage	46	50	
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08		0	00	
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08	BLETGHLEY	0	04	
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08	Bletchley East Jn	0	17	
+0049	MD140	002	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06		0	40	*
+0049	MD140	002	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	To Single Line	0	49	
+0049	MD140	002	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06		0	74	*
+0049	MD140	002	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Fenny StratfordlBletchley Flyover Jn	0	76	*
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	FENNY STRATFORD	1	05	
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Fenny Stratford LC	1	13	CCTV
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Single & Double Jn	1	42	
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06		1	44	*
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	BOW BRICKHILL	2	05	
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Bow Brickhill LC (CCTV)	2	05	X
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	WOBURN SANDS	4	08	
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Wobum Sands LC	4	11	CCTV
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Aspley Guise LC	5	04	CCTV
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	ASPLEY GUISE	5	06	
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Berry Lane LC	5	33	UWC
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	RIDGMOHT			Z
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Marston Vale SOC	6	59	
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Ridgmont LC	6	61	CCTV
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Lidlington LC	8	49	CCTV
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	LIDLINGTON	8	52	
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Marston LC	9	02	AHBC—X
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Millbrook LC	10	02	CCTV
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	MILLBROOK	10	05	
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Green Lane LC	11	17	AHBC-X
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	STEWARTBY	11	18	
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Stewartby Brickworks LC	11	33	CCTV
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Arrival & Departure	11	55	
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Forders Sidings	11	55	X
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Arrival & Departure	12	02	
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Wootton Broadmead LC	12	08	CCTV
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	KEMPSTON HARDWICK	12	76	
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Kempston Hardwiok LC	12	77	AHBG-X
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06		15	64	*
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Double to Single Jn	15	67	
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	BEDFORD ST. JOHNS	16	05	
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Territory Boundary	16	07	
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Continued in London North Eastern	16	07	X
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Sectional Appendix	16	07	X
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	LN3140 seq 1	16	07	X

@@ -1,0 +1,15 @@
+NRN CSR
+TCB Slough SB (8)
+RAB
+DM bi-directional between 8.165
+and 8.20
+UR bi-directional between 3.118
+and 8.162
+ATP - UM and DM
+Platform 1 - 122m (133 yards)
+Platform 2 - 208m (227 yards)
+Platform 3 - 192m (210 yards)
+Platform 4 - 161m (176 yards)
+Platform 5 - 161m (176 yards)
+Platform 6 - 92m (101 yards)
+

@@ -1,0 +1,11 @@
+NRN GSM-R
+TCB West of Scotland SC (G)
+Shields Workstation
+AC: Cathcart ECR
+CSR
+(D = Through jn. connections
+= Through connections to and from,
+and over, Chord line
+1= No 1 Line
+2= No 2 Line
+

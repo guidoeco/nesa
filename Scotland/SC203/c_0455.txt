@@ -1,0 +1,8 @@
+28 73 1|
+Belleport LC (UWC) 29 28
+30 50 1|
+South end loop points 31 16 1|
+Sdg GF (OOU)
+INVERGORDON TEP 31 37
+North and loop points 31 50 1|
+

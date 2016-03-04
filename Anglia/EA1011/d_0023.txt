@@ -1,0 +1,16 @@
+NRN CSR
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+UM, HABD in rear of signal L726 at 25m 41 ch
+Instruction in section 1 applies at
+Maldon Road (Bridge 143) at 25m 78ch
+FWS Down 8: Up lines - 29mp & 29m 55oh
+General instruction applies at
+Duke St. (Bridge 151) at 29m 53ch
+LOD(P) (ChelmsfordlChurch Lane
+Crossovers) at 29m 560h
+Up Platform - 248m (268yds)
+Down Platform - 248m (268yds)
+FWS Down & Up lines - 29m 55ch & 30m 13oh
+DPL 256m (280yds) PF
+

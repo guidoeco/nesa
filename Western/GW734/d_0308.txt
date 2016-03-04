@@ -1,0 +1,13 @@
+RETB 125 Machynlleth SB (MH)
+RA5
+RETB 105
+Platform - 99m, 108yds
+
+ED 10 mph over bridge for other
+
+than Class 15): trains
+
+Signalled by Radio Elech'onic Token
+Block between Davey Junction and
+Pwllheli
+

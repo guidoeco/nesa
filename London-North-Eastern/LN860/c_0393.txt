@@ -1,0 +1,22 @@
+Diggle Jn SB (DE) 14 59
+15 00 1:
+Network Rail LNW LNE Boundary 15 11
+Standed?e Tunnel 15 11
+(4888m 3m 66 yards) 18 14
+15 16 are
+18 O7 *-
+18 17
+18 19 5':
+18 37 *-
+IIARSDEN 18 59
+18 63 i:
+18 66
+18 76 *
+19 20 *
+SLAITHWAITE 21 19
+24 28 i:
+24 48 i:
+24 62 a:
+Gledholt North and South Tunnel 25 04
+(222m / 243 yards) to 25 15
+

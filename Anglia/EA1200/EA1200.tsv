@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	Clapton Jn .	4	37	
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	OHNS	4	46	
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	ST. JAMES STREET	5	55	
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06		5	67	*
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	Walthamstow GF	6	12	
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	WALTHAMSTOW CENTRAL	6	16	
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06		6	44	*
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06		6	49	*
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	Hoe Street Tunnel to (71 yards)	6	52	
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06	wooo STREET	7	07	
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06		7	25	*
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06		7	30	*
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06	Highams Park Lc	3	45	CCTV
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06	HIGHAIUIS PARK	8	52	
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06		9	60	*
+0116	EA1200	003	Clapton Junction to Chingford CJC Anglia	01/12/07		10	07	*
+0116	EA1200	003	Clapton Junction to Chingford CJC Anglia	01/12/07	CHINGFORD	10	33	
+0116	EA1200	003	Clapton Junction to Chingford CJC Anglia	01/12/07	Chingford Platform GF	10	33	X

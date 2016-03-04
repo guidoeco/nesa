@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0264	NW5012	001	Foley Crossing (exc|.) to Stoke Jn. NSS LNW North	07/10/06	Foley Crossing SB	1	56	
+0264	NW5012	001	Foley Crossing (exc|.) to Stoke Jn. NSS LNW North	07/10/06	Network Rail London North Western	1	40	
+0264	NW5012	001	Foley Crossing (exc|.) to Stoke Jn. NSS LNW North	07/10/06	Appendix Boundary	1	40	X
+0264	NW5012	001	Foley Crossing (exc|.) to Stoke Jn. NSS LNW North	07/10/06		0	07	*
+0264	NW5012	001	Foley Crossing (exc|.) to Stoke Jn. NSS LNW North	07/10/06	Stoke Jn	0	00	
+0264	NW5012	001	Foley Crossing (exc|.) to Stoke Jn. NSS LNW North	07/10/06		20	36	

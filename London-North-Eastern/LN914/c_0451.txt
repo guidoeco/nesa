@@ -1,0 +1,21 @@
+30 49 *
+Bridlington SB (EN) 30 58
+BRIDLINGTON 3O 72
+
+30 77 :7:
+
+31 00 *-
+Bridlington Quay LC (CCTV) 31 06
+
+31 10 *
+
+32 01 *
+Sewarby LC (AH BC) 32 35
+Flamborough LC (AHBC) 33 31
+Bempton Sands Lane LC (UWC) 34 19
+
+34 30 *-
+Bempton LC (AHBC) 34 43
+BEMPTON 34 43
+Buckton Lane LC (AHBC) 35 16 *-
+

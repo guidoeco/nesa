@@ -1,0 +1,11 @@
+NRN
+TCB York SB
+RAQ AC: York ECR
+Controlled by York Signal box (signals prefixed L)
+from L673 signal at 161 28 Down/to L662 signal
+at 163 34 Up
+DD=Down Doncaster
+UD=Up Doncaster
+DPL = 845m I 2772 feet
+UPL = 670m I 2198 feet
+

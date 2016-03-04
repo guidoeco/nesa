@@ -1,0 +1,4 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0516	LN672	001	Wardley to Pelaw Jn FEP London North Eastern	02/06/07	Wardley	19	70	
+0516	LN672	001	Wardley to Pelaw Jn FEP London North Eastern	02/06/07		20	50	*
+0516	LN672	001	Wardley to Pelaw Jn FEP London North Eastern	02/06/07	Pelaw Jn	20	75	

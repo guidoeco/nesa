@@ -1,0 +1,10 @@
+Terrys Crossing 82 30
+82 59 *
+Thurstons Crossing 82 60
+Butlers Crossing 83 5
+Kimbridge LC (AHBC) 33 45 i:
+DUNBRIDGE 84 21
+Dunbridge LC (AHBC) 84 24
+Dunbridge Crossing 84 37
+Dean Hill LC (AHBC) 86 57
+

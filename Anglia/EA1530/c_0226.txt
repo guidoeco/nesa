@@ -1,0 +1,8 @@
+28 52 it
+31 00 9c
+31 4B *-
+THURSTON 32 51
+Thurston Footpath LC (RIG) 32 54
+32 72 i:
+33 15 *
+

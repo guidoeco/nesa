@@ -1,0 +1,11 @@
+284 10
+Hendrewen LC (UWC) 285 10
+285 20 at
+Network Rail Boundary (Change of ELR) 287 52
+Harbour Station GF 288 10
+Fishguard Harbour Station LC (AOCL) 288 11 7k
+288 13
+FISHGUARD HARBOUR / PORTHLADD ABERGWAUN 288 18
+North GF 288 27
+End of Line 233 36
+

@@ -1,0 +1,10 @@
+Stainton LC (AHBC-X) 33 60
+Scothem LC (AHBC-X) 34 51
+Langworth LC (MOB) 35 25
+Langworth SB (L) 35 25
+Walton Crossover 35 74
+Walton Oil Sidings
+
+Manor Farm LC (UWC) 36 25
+Reepham LC (CCTV) 36 61
+

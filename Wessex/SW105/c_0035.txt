@@ -1,0 +1,5 @@
+78 30 *
+Southampton Tunnel 78 52
+(528 yards) 78 76
+SOUTHAMPTON 79 19
+

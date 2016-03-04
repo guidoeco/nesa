@@ -1,0 +1,23 @@
+NRN
+TCB Rugby SCC (LS)
+AC: Crewe
+DTVF: Down Trent Valley Fast
+DTVS: Down Trent Valley Slow
+Tolfrom 121m 500h
+UTVF: Up Trent Valley Fast
+UTVS: Up Trent Valley Slow
+TASS fitted: DTVF and DTVS lines throughout
+UFIUTVF and USIUTVS lines throughout
+GSM-R area
+r Exit: DTVF and DTVS - 121 m 66ch
+. Entry: UF and US - 121m 661m
+LA
+NRN
+Area channel change
+at 121m 20ch NRN
+Down
+Line name change: UF to UTVF at 121m 50ch
+Line name change: US to UTVS at 121 m 50ch
+Stoke-on-Trent 3.0. (CH)
+Fromlto 121m 50ch
+

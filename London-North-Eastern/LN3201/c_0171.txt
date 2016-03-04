@@ -1,0 +1,20 @@
+145 29 i:
+145 63 7k
+145 66 5%
+
+Clay Cross Tunnel 146 21
+
+(1 mile. 24 yards) 0
+
+(1 kilometre, 631 metres) 147 22
+147 40 1-
+147 58 1:
+
+Clay Cross South Jn (former) 147 69
+142 10
+142 30 :1:
+
+Clay Cross North .Jn 142 77
+143 23 :1:
+144 66 i:
+

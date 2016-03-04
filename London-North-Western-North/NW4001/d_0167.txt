@@ -1,0 +1,12 @@
+NRN
+TCB Preston SB (PN) 088
+AC: Crewe
+TASS fitted:
+DM line throughout
+UM line throughout
+(D No.1 'up a down' goods loop
+(PF) 435m (1428ft)
+® No.2 'up & down' goods loop
+(PF) 435m (1428ft)
+(PF) UPL 512m (1680ft)
+

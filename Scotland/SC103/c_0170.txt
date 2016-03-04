@@ -1,0 +1,13 @@
+(Change of ELR 103 41
+0302 to SGN) 0 61
+Sighthill East Jn O 56
+SPRINGBURN 0 42
+
+0 40 *-
+Sighthill West Jn 0 32
+
+-O 01
+Cowlairs West Jn
+
+-0 20
+

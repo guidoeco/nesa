@@ -1,0 +1,9 @@
+6 04
+Brent Curve Jn O 00
+
+0 08 *-
+Route Boundary 0 54
+Continued in Network Rail
+Anglia Route Sectional Appendix
+Dudding Hill Jn 1 03
+

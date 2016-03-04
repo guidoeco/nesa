@@ -1,0 +1,18 @@
+NRN CSR
+
+TCB Slough SC (SN)
+RAB AC: Romford
+ATP - provided
+LOD(T) (DA Tunnel Portall'l'1,2,3 and
+UA Tunnel PortalIT1,2.3) at 20564m
+LOD(T) (DA Tunnel PortallT1,2,3 and
+UA Tunnel Portalrl'1,2.3) at 21530m
+LOD(T) (DA Tunnel Portal/T123 and
+UA Tunnel PortalIT1,2,3) at 22481 m
+
+UA - Up Airport
+
+DA - Down Airport
+
+UA & DA - Bi-directional
+

@@ -1,0 +1,15 @@
+NRN
+TCB Carllsle SB (CE)
+AWS not provided at signals CE51
+and CE53 at Oxenholme station.
+OT(S)
+Platform Lengths: Oxenholme
+Platform 3 Permissive Down PP—C
+Platform 3 Down 8: Up Windermere 139m (152 yds)
+Auxiliary token instrument located on
+the platform at Oxenholme station.
+Platform Lengths: Kendal
+Platform Down & Up Windermere 83m (91 yds)
+Platform Lengths: Bumeside
+Platform Down & Up Windermere 92m (101 yds)
+

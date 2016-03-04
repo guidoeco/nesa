@@ -1,0 +1,12 @@
+Hambleton South Jn 174 15
+OHNS (Hambleton Jn TSC) 174 58
+Hambleton North Jn 174 75
+Colton Jn 182 79
+
+183 50
+Bolton North Jn 183 65
+
+183 77
+HABDs 184 O4
+Earfit Lane LC (RIG) 184 05
+

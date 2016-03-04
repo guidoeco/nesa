@@ -1,0 +1,24 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0174	LN3204	001	Trent South Junction to Nottingham East Junction TSN London North Eastern	04/08/07	Trent South Jn	119	17	
+0174	LN3204	001	Trent South Junction to Nottingham East Junction TSN London North Eastern	04/08/07	Trent East Jn	119	69	*
+0174	LN3204	001	Trent South Junction to Nottingham East Junction TSN London North Eastern	04/08/07	Trent SB	120	01	
+0174	LN3204	001	Trent South Junction to Nottingham East Junction TSN London North Eastern	04/08/07	Trent Yard	120	18	GF
+0174	LN3204	001	Trent South Junction to Nottingham East Junction TSN London North Eastern	04/08/07	Meadow Lane LC	120	31	CCTV
+0175	LN3204	002	Trent South Jn to Nottingham East Junction TSN London North Eastern	04/08/07	Attenborough Jn	121	02	
+0175	LN3204	002	Trent South Jn to Nottingham East Junction TSN London North Eastern	04/08/07	Barton Lane LC (AH BC)	121	36	
+0175	LN3204	002	Trent South Jn to Nottingham East Junction TSN London North Eastern	04/08/07	Attenborough LC	121	70	CCTV
+0175	LN3204	002	Trent South Jn to Nottingham East Junction TSN London North Eastern	04/08/07	ATTENBOROUGH	121	76	
+0175	LN3204	002	Trent South Jn to Nottingham East Junction TSN London North Eastern	04/08/07	BEESTON	123	22	
+0175	LN3204	002	Trent South Jn to Nottingham East Junction TSN London North Eastern	04/08/07	Beeston South Jn	123	62	
+0175	LN3204	002	Trent South Jn to Nottingham East Junction TSN London North Eastern	04/08/07	Beeston Depot GF	123	74	
+0175	LN3204	002	Trent South Jn to Nottingham East Junction TSN London North Eastern	04/08/07	Beeston No. 2 GF	124	23	
+0176	LN3204	003	Trent South Junction to Nottingham East Junction TSN London North Eastern	02/12/06	Beeston No 4 GF			X
+0176	LN3204	003	Trent South Junction to Nottingham East Junction TSN London North Eastern	02/12/06	Beeston No 3 GF			X
+0176	LN3204	003	Trent South Junction to Nottingham East Junction TSN London North Eastern	02/12/06	Beeston North Jn	124	60	
+0176	LN3204	003	Trent South Junction to Nottingham East Junction TSN London North Eastern	02/12/06	Lenton South Jn	125	27	
+0176	LN3204	003	Trent South Junction to Nottingham East Junction TSN London North Eastern	02/12/06	Mansfield Jn	125	64	*
+0176	LN3204	003	Trent South Junction to Nottingham East Junction TSN London North Eastern	02/12/06		124	22	
+0177	LN3204	004	Trent South Junction to Nottingham East Junction TSN London North Eastern	01/12/07		124	20	
+0177	LN3204	004	Trent South Junction to Nottingham East Junction TSN London North Eastern	01/12/07	Nottingham West Jn	123	52	*
+0177	LN3204	004	Trent South Junction to Nottingham East Junction TSN London North Eastern	01/12/07	NOTTINGHAM	123	39	
+0177	LN3204	004	Trent South Junction to Nottingham East Junction TSN London North Eastern	01/12/07	Nottingham East Jn	123	27	

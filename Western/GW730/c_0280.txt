@@ -1,0 +1,16 @@
+0 7D *-
+Former Red Hill Jn 1 74 *
+(Change of ELR) 2 11
+
+2 25 a:
+
+2 32 *-
+Ashley LC (UWC) 2 33
+Red Hill Tunnel 3 15
+46m (50 yards) 3 18
+Coed Moor LC (UWC) 4 66
+Tram Inn SB 5 37
+Tram Inn LC (MOB) 5 37
+Willox Bridge 1 LC (UWC) 5 55
+Manning Upper House LC (UWC) 6 3D
+

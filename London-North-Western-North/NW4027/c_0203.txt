@@ -1,0 +1,7 @@
+End of line 96 09
+Stainton Jn 95 67
+(O 02)
+Brunthill Branch Jn (0 66)
+4 04
+Brunthilll Network Rail boundary 95 06
+

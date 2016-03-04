@@ -1,0 +1,1197 @@
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0008	SW105	001	Clapham Junction to Weymouth BML1 Wessex	02/12/06	CLAPHAM JUNCTION	03	74		03.74
+0008	SW105	001	Clapham Junction to Weymouth BML1 Wessex	02/12/06		04	00	*	04.00
+0008	SW105	001	Clapham Junction to Weymouth BML1 Wessex	02/12/06		04	15	*	04.15
+0009	SW105	002	Clapham Junction to Weymouth BML1 Wessex	02/12/06	EARLSFIELD	05	46		05.46
+0009	SW105	002	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Staff Halt	06	28		06.28
+0010	SW105	003	Clapham Junction to Weymouth PPW BML1 Wessex	21/02/09		07	03	*	07.03
+0010	SW105	003	Clapham Junction to Weymouth PPW BML1 Wessex	21/02/09	WIMBLEDON	07	19		07.19
+0010	SW105	003	Clapham Junction to Weymouth PPW BML1 Wessex	21/02/09		03	47		03.47
+0011	SW105	004	Clapham Junction to Weymouth BML1 SMSZ Wessex	02/12/06		07	30	*	07.30
+0011	SW105	004	Clapham Junction to Weymouth BML1 SMSZ Wessex	02/12/06	Wimbledon SB	07	49	W	07.49
+0011	SW105	004	Clapham Junction to Weymouth BML1 SMSZ Wessex	02/12/06	Wimbledon West Jn	07	49	X	07.49
+0012	SW105	005	Clapham Junction to Weymouth BML1 RPE Wessex	29/03/08	HAYNES PARK	08	51		08.51
+0012	SW105	005	Clapham Junction to Weymouth BML1 RPE Wessex	29/03/08		08	66	*	08.66
+0012	SW105	005	Clapham Junction to Weymouth BML1 RPE Wessex	29/03/08		08	68	*	08.68
+0013	SW105	006	Clapham Junction to Weymouth NMS1 BML1 Wessex	02/12/06	NEW MALDEN	09	62	*	09.62
+0013	SW105	006	Clapham Junction to Weymouth NMS1 BML1 Wessex	02/12/06		10	00	*	10.00
+0013	SW105	006	Clapham Junction to Weymouth NMS1 BML1 Wessex	02/12/06	BERRYLANDS	10	78		10.78
+0013	SW105	006	Clapham Junction to Weymouth NMS1 BML1 Wessex	02/12/06	Berrylands Jn	11	19		11.19
+0014	SW105	007	Clapham Junction to Weymouth BML1 Wessex	02/12/06		11	50	*	11.50
+0014	SW105	007	Clapham Junction to Weymouth BML1 Wessex	02/12/06		11	60	*	11.60
+0014	SW105	007	Clapham Junction to Weymouth BML1 Wessex	02/12/06	SURBITON	12	03		12.03
+0014	SW105	007	Clapham Junction to Weymouth BML1 Wessex	02/12/06		12	10	*	12.10
+0014	SW105	007	Clapham Junction to Weymouth BML1 Wessex	02/12/06		12	40	*	12.40
+0015	SW105	008	Clapham Junction to Weymouth BML1 HAM Wessex	02/12/06		13	06	*	13.06
+0015	SW105	008	Clapham Junction to Weymouth BML1 HAM Wessex	02/12/06	Hampton Court Jn	13	27		13.27
+0016	SW105	009	Clapham Junction to Weymouth BML1 Wessex	02/12/06		13	40	*	13.40
+0016	SW105	009	Clapham Junction to Weymouth BML1 Wessex	02/12/06		13	42	*	13.42
+0016	SW105	009	Clapham Junction to Weymouth BML1 Wessex	02/12/06		13	70	*	13.70
+0016	SW105	009	Clapham Junction to Weymouth BML1 Wessex	02/12/06	ESHER	14	31		14.31
+0016	SW105	009	Clapham Junction to Weymouth BML1 Wessex	02/12/06		15	20	*	15.20
+0016	SW105	009	Clapham Junction to Weymouth BML1 Wessex	02/12/06		15	50	*	15.50
+0016	SW105	009	Clapham Junction to Weymouth BML1 Wessex	02/12/06	HERSHAM	15	73		15.73
+0016	SW105	009	Clapham Junction to Weymouth BML1 Wessex	02/12/06	WALTON-ON-THAMES	17	06		17.06
+0017	SW105	010	Clapham Junction to Weymouth BML1 VWW Wessex	22/03/08		18	40	*	18.40
+0017	SW105	010	Clapham Junction to Weymouth BML1 VWW Wessex	22/03/08		18	70	*	18.70
+0017	SW105	010	Clapham Junction to Weymouth BML1 VWW Wessex	22/03/08	WEYBRIDGE	19	12		19.12
+0018	SW105	011	Clapham Junction to Weymouth VWW BML1 Wessex	02/12/06	Byfleet Jn	20	23		20.23
+0018	SW105	011	Clapham Junction to Weymouth VWW BML1 Wessex	02/12/06		00	71		00.71
+0018	SW105	011	Clapham Junction to Weymouth VWW BML1 Wessex	02/12/06	BYFLEET AND NEW HAW	20	32		20.32
+0018	SW105	011	Clapham Junction to Weymouth VWW BML1 Wessex	02/12/06		20	60	*	20.60
+0018	SW105	011	Clapham Junction to Weymouth VWW BML1 Wessex	02/12/06	WEST BYFLEET	21	54	*	21.54
+0019	SW105	012	Clapham Junction to Weymouth BML1 Wessex	22/03/08	Woking SB (WK)			X	.
+0019	SW105	012	Clapham Junction to Weymouth BML1 Wessex	22/03/08	WOKING	24	27		24.27
+0020	SW105	013	Clapham Junction to Weymouth BML1 WPH1 Wessex	02/12/06	Waking Jn	24	62		24.62
+0020	SW105	013	Clapham Junction to Weymouth BML1 WPH1 Wessex	02/12/06		24	56	*	24.56
+0020	SW105	013	Clapham Junction to Weymouth BML1 WPH1 Wessex	02/12/06		24	70	*	24.70
+0020	SW105	013	Clapham Junction to Weymouth BML1 WPH1 Wessex	02/12/06		24	60	*	24.60
+0021	SW105	014	Clapham Junction to Weymouth BML1 PAA1 Wessex	02/12/06	BROOKWOOD	27	79		27.79
+0021	SW105	014	Clapham Junction to Weymouth BML1 PAA1 Wessex	02/12/06	Pirbright Jn	29	39		29.39
+0022	SW105	015	Clapham Junction to Weymouth BML1 Wessex	02/12/06		29	70	*	29.70
+0022	SW105	015	Clapham Junction to Weymouth BML1 Wessex	02/12/06		30	30	*	30.30
+0022	SW105	015	Clapham Junction to Weymouth BML1 Wessex	02/12/06		31	20	*	31.20
+0022	SW105	015	Clapham Junction to Weymouth BML1 Wessex	02/12/06		31	50	*	31.50
+0022	SW105	015	Clapham Junction to Weymouth BML1 Wessex	02/12/06		33	08	*	33.08
+0022	SW105	015	Clapham Junction to Weymouth BML1 Wessex	02/12/06	FARMBOROUGH 33	1	07		1.07
+0022	SW105	015	Clapham Junction to Weymouth BML1 Wessex	02/12/06		33	31	*	33.31
+0022	SW105	015	Clapham Junction to Weymouth BML1 Wessex	02/12/06		33	43	*	33.43
+0023	SW105	016	Clapham Junction to Weymouth BML1 Wessex	02/12/06	FLEET	36	38		36.38
+0023	SW105	016	Clapham Junction to Weymouth BML1 Wessex	02/12/06	WINCHFIELD	39	66		39.66
+0023	SW105	016	Clapham Junction to Weymouth BML1 Wessex	02/12/06	HOOK 42	1	03		1.03
+0023	SW105	016	Clapham Junction to Weymouth BML1 Wessex	02/12/06		45	00	*	45.00
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08		47	30	*	47.30
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08		47	40	*	47.40
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08		51	10	*	51.10
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08	Basingstoke SB	47	42	YW	47.42
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08		47	50	*	47.50
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08	Basingstoke SB	47	55	BE	47.55
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08		47	56	*	47.56
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08	BASINGSTOKE	47	61		47.61
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08		47	74	*	47.74
+0024	SW105	017	Clapham Junction to Weymouth BKE1 BML1 Wessex	22/03/08		48	12	*	48.12
+0025	SW105	018	Clapham Junction to Weymouth BML1 Wessex	06/05/08	Worthing Jn	50	21	*	50.21
+0025	SW105	018	Clapham Junction to Weymouth BML1 Wessex	06/05/08		50	29	*	50.29
+0025	SW105	018	Clapham Junction to Weymouth BML1 Wessex	06/05/08		50	30	*	50.30
+0026	SW105	019	Clapham Junction to Weymouth BML1 BAE1 Wessex	06/05/08		50	69	*	50.69
+0026	SW105	019	Clapham Junction to Weymouth BML1 BAE1 Wessex	06/05/08		50	70	*	50.70
+0026	SW105	019	Clapham Junction to Weymouth BML1 BAE1 Wessex	06/05/08		53	00	*	53.00
+0026	SW105	019	Clapham Junction to Weymouth BML1 BAE1 Wessex	06/05/08	Steventon UWC	54	12		54.12
+0027	SW105	020	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Litchfield Tunnel	55	58		55.58
+0027	SW105	020	Clapham Junction to Weymouth BML1 Wessex	02/12/06	(198 yards)	55	67		55.67
+0027	SW105	020	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Popham No 1 Tunnel	57	17		57.17
+0027	SW105	020	Clapham Junction to Weymouth BML1 Wessex	02/12/06	(265 yards)	57	29		57.29
+0027	SW105	020	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Popham No 2 Tunnel	57	35		57.35
+0027	SW105	020	Clapham Junction to Weymouth BML1 Wessex	02/12/06	(199 yards)	57	44		57.44
+0027	SW105	020	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Micheldever Oil Terminal	57	44	X	57.44
+0027	SW105	020	Clapham Junction to Weymouth BML1 Wessex	02/12/06	MICHELDEVER	58	04		58.04
+0028	SW105	021	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Weston	60	13		60.13
+0028	SW105	021	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Wallers Ash	61	06		61.06
+0028	SW105	021	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Wallers Ash Tunnel	62	22		62.22
+0028	SW105	021	Clapham Junction to Weymouth BML1 Wessex	02/12/06	(501 yards)	62	45		62.45
+0029	SW105	022	Clapham Junction to Weymouth BML1 Wessex	02/12/06	WINCHESTER	66	39		66.39
+0029	SW105	022	Clapham Junction to Weymouth BML1 Wessex	02/12/06	St Cross Tunnel	68	31		68.31
+0029	SW105	022	Clapham Junction to Weymouth BML1 Wessex	02/12/06	(62 yards)	63	33		63.33
+0030	SW105	023	Clapham Junction to Weymouth BML1 Wessex	02/12/06	SHAWFORD	69	50		69.50
+0030	SW105	023	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Allbrook	72	46		72.46
+0031	SW105	024	Clapham Junction to Weymouth ECR BML1 ETF Wessex	02/12/06		73	20	*	73.20
+0031	SW105	024	Clapham Junction to Weymouth ECR BML1 ETF Wessex	02/12/06	Eastleigh SB (E)	73	20	X	73.20
+0031	SW105	024	Clapham Junction to Weymouth ECR BML1 ETF Wessex	02/12/06		73	28	*	73.28
+0031	SW105	024	Clapham Junction to Weymouth ECR BML1 ETF Wessex	02/12/06	EASTLEIGH	73	35		73.35
+0031	SW105	024	Clapham Junction to Weymouth ECR BML1 ETF Wessex	02/12/06		73	42	*	73.42
+0032	SW105	025	Clapham Junction to Weymouth BML1 Wessex	02/12/06	SOUTHAMPTON AIRPORT	74	66		74.66
+0032	SW105	025	Clapham Junction to Weymouth BML1 Wessex	02/12/06	(PARKWAY)			Z	.
+0032	SW105	025	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Swaythling uwc	75	25		75.25
+0032	SW105	025	Clapham Junction to Weymouth BML1 Wessex	02/12/06		75	33	*	75.33
+0032	SW105	025	Clapham Junction to Weymouth BML1 Wessex	02/12/06	SWAYTHLING	75	56		75.56
+0032	SW105	025	Clapham Junction to Weymouth BML1 Wessex	02/12/06		75	71	*	75.71
+0033	SW105	026	Clapham Junction to Weymouth BML1 SDP1 Wessex	02/12/06		77	00	*	77.00
+0033	SW105	026	Clapham Junction to Weymouth BML1 SDP1 Wessex	02/12/06	ST DENYS	77	10	*	77.10
+0034	SW105	027	Clapham Junction to Weymouth BML2 SOY Wessex	02/12/06	Mount Pleasant LC	77	54	CCTV	77.54
+0034	SW105	027	Clapham Junction to Weymouth BML2 SOY Wessex	02/12/06	Northam Jn	78	15	*	78.15
+0035	SW105	028	Clapham Junction to Weymouth BML2 Wessex	22/03/08		78	30	*	78.30
+0035	SW105	028	Clapham Junction to Weymouth BML2 Wessex	22/03/08	Southampton Tunnel	78	52		78.52
+0035	SW105	028	Clapham Junction to Weymouth BML2 Wessex	22/03/08	(528 yards)	78	76		78.76
+0035	SW105	028	Clapham Junction to Weymouth BML2 Wessex	22/03/08	SOUTHAMPTON	79	19		79.19
+0036	SW105	029	Clapham Junction to Weymouth BML2 Wessex	02/12/06		79	42	*	79.42
+0037	SW105	030	Clapham Junction to Weymouth BML2 MI5 Wessex	02/12/06	MILLBROOK	80	11		80.11
+0037	SW105	030	Clapham Junction to Weymouth BML2 MI5 Wessex	02/12/06		80	45	*	80.45
+0038	SW105	031	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Maritime Freightliner Terminal			X	.
+0039	SW105	032	Clapham Junction to Weymouth BML2 RTJ1 Wessex	02/12/06	REDBRIDGE	81	70		81.70
+0039	SW105	032	Clapham Junction to Weymouth BML2 RTJ1 Wessex	02/12/06		81	76		81.76
+0039	SW105	032	Clapham Junction to Weymouth BML2 RTJ1 Wessex	02/12/06		23	31		23.31
+0039	SW105	032	Clapham Junction to Weymouth BML2 RTJ1 Wessex	02/12/06		82	02	*	82.02
+0039	SW105	032	Clapham Junction to Weymouth BML2 RTJ1 Wessex	02/12/06		82	24	*	82.24
+0040	SW105	033	Clapham Junction to Weymouth BML2 Wessex	02/12/06	TOTPON	32	43		32.43
+0040	SW105	033	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Totton Lc	32	53	CCTV	32.53
+0040	SW105	033	Clapham Junction to Weymouth BML2 Wessex	02/12/06		32	70	*	32.70
+0041	SW105	034	Clapham Junction to Weymouth BML2 TTF Wessex	02/12/06		83	30	*	83.30
+0042	SW105	035	Clapham Junction to Weymouth BML2 Wessex	02/12/06		85	20	*	85.20
+0042	SW105	035	Clapham Junction to Weymouth BML2 Wessex	02/12/06	ASHURST NEW FOREST	85	34		85.34
+0042	SW105	035	Clapham Junction to Weymouth BML2 Wessex	02/12/06		85	75	*	85.75
+0042	SW105	035	Clapham Junction to Weymouth BML2 Wessex	02/12/06	BEAULIEU ROAD	88	06		88.06
+0042	SW105	035	Clapham Junction to Weymouth BML2 Wessex	02/12/06		89	14	*	89.14
+0042	SW105	035	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Woodfidley Crossing	89	59		89.59
+0042	SW105	035	Clapham Junction to Weymouth BML2 Wessex	02/12/06		90	00	*	90.00
+0042	SW105	035	Clapham Junction to Weymouth BML2 Wessex	02/12/06		92	35	*	92.35
+0043	SW105	036	Clapham Junction to Weymouth BML2 BLP Wessex	23/06/07	Brockenhurst LC	92	55		92.55
+0043	SW105	036	Clapham Junction to Weymouth BML2 BLP Wessex	23/06/07	Brockenhurst SB (BH)	92	55	X	92.55
+0043	SW105	036	Clapham Junction to Weymouth BML2 BLP Wessex	23/06/07	BROGKENHURST	92	66		92.66
+0043	SW105	036	Clapham Junction to Weymouth BML2 BLP Wessex	23/06/07		93	26	*	93.26
+0043	SW105	036	Clapham Junction to Weymouth BML2 BLP Wessex	23/06/07		93	41	*	93.41
+0044	SW105	037	Clapham Junction to Weymouth BML2 Wessex	12/04/08		93	58	*	93.58
+0044	SW105	037	Clapham Junction to Weymouth BML2 Wessex	12/04/08	SWAY	95	45		95.45
+0044	SW105	037	Clapham Junction to Weymouth BML2 Wessex	12/04/08		95	60	*	95.60
+0044	SW105	037	Clapham Junction to Weymouth BML2 Wessex	12/04/08		96	00	*	96.00
+0044	SW105	037	Clapham Junction to Weymouth BML2 Wessex	12/04/08	NEW MILTON	93	44		93.44
+0044	SW105	037	Clapham Junction to Weymouth BML2 Wessex	12/04/08	HINTON ADMIRAL	101	05		101.05
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08		103	60	*	103.60
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08		104	00	*	104.00
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08		104	02	*	104.02
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08		104	16	*	104.16
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08	CH RISTOHURGH 1	04	28		04.28
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08		104	40	*	104.40
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08		104	62	*	104.62
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08		105	60	*	105.60
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08	PO KESDOWN	106	24		106.24
+0045	SW105	038	Clapham Junction to Weymouth BML2 Wessex	12/04/08		106	65	*	106.65
+0046	SW105	039	Clapham Junction to Weymouth BML2 BLP Wessex	12/04/08		107	40	*	107.40
+0046	SW105	039	Clapham Junction to Weymouth BML2 BLP Wessex	12/04/08		107	68	*	107.68
+0046	SW105	039	Clapham Junction to Weymouth BML2 BLP Wessex	12/04/08		107	70	*	107.70
+0046	SW105	039	Clapham Junction to Weymouth BML2 BLP Wessex	12/04/08	Bournemouth SB (BC)	107	70	X	107.70
+0046	SW105	039	Clapham Junction to Weymouth BML2 BLP Wessex	12/04/08	BOURNEMOUTH	103	02		103.02
+0046	SW105	039	Clapham Junction to Weymouth BML2 BLP Wessex	12/04/08		108	15	*	108.15
+0046	SW105	039	Clapham Junction to Weymouth BML2 BLP Wessex	12/04/08		108	19	*	108.19
+0047	SW105	040	Clapham Junction to Weymouth BML2 BBD9 Wessex	02/12/06		108	32	*	108.32
+0047	SW105	040	Clapham Junction to Weymouth BML2 BBD9 Wessex	02/12/06		108	54	*	108.54
+0047	SW105	040	Clapham Junction to Weymouth BML2 BBD9 Wessex	02/12/06		109	70	*	109.70
+0047	SW105	040	Clapham Junction to Weymouth BML2 BBD9 Wessex	02/12/06		110	30	*	110.30
+0047	SW105	040	Clapham Junction to Weymouth BML2 BBD9 Wessex	02/12/06	BRANKSOME	110	51		110.51
+0047	SW105	040	Clapham Junction to Weymouth BML2 BBD9 Wessex	02/12/06		110	65	*	110.65
+0048	SW105	041	Clapham Junction to Weymouth BML2 Wessex	12/04/08		111	29	*	111.29
+0048	SW105	041	Clapham Junction to Weymouth BML2 Wessex	12/04/08		111	72	*	111.72
+0048	SW105	041	Clapham Junction to Weymouth BML2 Wessex	12/04/08	PARKSTONE 1	11	76		11.76
+0048	SW105	041	Clapham Junction to Weymouth BML2 Wessex	12/04/08		113	20	*	113.20
+0048	SW105	041	Clapham Junction to Weymouth BML2 Wessex	12/04/08		113	47	*	113.47
+0049	SW105	042	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Poole (PO) LC	113	50	CCTV	113.50
+0049	SW105	042	Clapham Junction to Weymouth BML2 Wessex	02/12/06	POOLE	113	62		113.62
+0049	SW105	042	Clapham Junction to Weymouth BML2 Wessex	02/12/06		113	68	*	113.68
+0049	SW105	042	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Poole SB	113	75	P0	113.75
+0049	SW105	042	Clapham Junction to Weymouth BML2 Wessex	02/12/06		114	05	*	114.05
+0050	SW105	043	Clapham Junction to Weymouth BML2 Wessex	10/02/07		114	45	*	114.45
+0050	SW105	043	Clapham Junction to Weymouth BML2 Wessex	10/02/07		115	70	*	115.70
+0050	SW105	043	Clapham Junction to Weymouth BML2 Wessex	10/02/07	Hamworthy Jn SB	115	77	HW	115.77
+0050	SW105	043	Clapham Junction to Weymouth BML2 Wessex	10/02/07	HAMWORTHY	115	77	*	115.77
+0050	SW105	043	Clapham Junction to Weymouth BML2 Wessex	10/02/07		116	30	*	116.30
+0050	SW105	043	Clapham Junction to Weymouth BML2 Wessex	10/02/07	Holton Heath Ground Frame	118	28	OOU	118.28
+0051	SW105	044	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Admiralty Crossing	118	57		118.57
+0051	SW105	044	Clapham Junction to Weymouth BML2 Wessex	02/12/06	HOLTON HEATH	118	61		118.61
+0051	SW105	044	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Keysworth Crossing	119	46		119.46
+0051	SW105	044	Clapham Junction to Weymouth BML2 Wessex	02/12/06		120	60		120.60
+0051	SW105	044	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Wareham SB (WR)	120	60	X	120.60
+0051	SW105	044	Clapham Junction to Weymouth BML2 Wessex	02/12/06	WAREHAM	120	70		120.70
+0051	SW105	044	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Footpath LC (RC CD)	120	70	X	120.70
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06		121	76	*	121.76
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Worgret Jn GF	121	77		121.77
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06		122	38	*	122.38
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Holme (No 31) LC	122	78	AHBC	122.78
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Rushton No 2 LC	123	58	RIG	123.58
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Stoke LG	124	12		124.12
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Hethfelton No 1 Crossing	124	73		124.73
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Hethfelton No 2 Crossing	125	09		125.09
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Bindon No 1 Crossing	125	23		125.23
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Colemans UWC	125	32		125.32
+0052	SW105	045	Clapham Junction to Weymouth BML2 FUR Wessex	02/12/06	Bindon No 2 Crossing	125	35		125.35
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	WOOL	125	69		125.69
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Wool (W0) SB	125	69		125.69
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Wool Footpath UWC	126	03		126.03
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Wool West UWC	126	25		126.25
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Darkies UWO	126	40		126.40
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	East Burton LC	126	56	CCTV	126.56
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Burton Common UWC	127	03		127.03
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Hyford UWC	127	54		127.54
+0053	SW105	046	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Winfrith UWC	127	65		127.65
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06		130	00	*	130.00
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06		130	20	*	130.20
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Moreton LC	130	21	AHBC	130.21
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06	MORETON	130	24		130.24
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06		130	40	*	130.40
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06		130	61	*	130.61
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Woodsford (No 37) LC	131	17	AHBC	131.17
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Higher Barn UWC	131	57		131.57
+0054	SW105	047	Clapham Junction to Weymouth BML1 Wessex	02/12/06	Woodsford (No 38) LC (AHBC)	131	77	*	131.77
+0055	SW105	048	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Knighton (No 33A) Crossing	132	38		132.38
+0055	SW105	048	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Lewell (No 39) Crossing	132	55		132.55
+0055	SW105	048	Clapham Junction to Weymouth BML2 Wessex	02/12/06		134	71	*	134.71
+0055	SW105	048	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Syward UWC	135	02		135.02
+0055	SW105	048	Clapham Junction to Weymouth BML2 Wessex	02/12/06		135	13	*	135.13
+0055	SW105	048	Clapham Junction to Weymouth BML2 Wessex	02/12/06	Dorchester South SB (DR)	135	13	X	135.13
+0055	SW105	048	Clapham Junction to Weymouth BML2 Wessex	02/12/06	DORCHESTER SOUTH	135	70		135.70
+0056	SW105	049	Clapham Junction to Weymouth BML2 WEY Wessex	02/12/06	Dorchester Jn	136	15		136.15
+0056	SW105	049	Clapham Junction to Weymouth BML2 WEY Wessex	02/12/06		162	14		162.14
+0056	SW105	049	Clapham Junction to Weymouth BML2 WEY Wessex	02/12/06		162	14	*	162.14
+0056	SW105	049	Clapham Junction to Weymouth BML2 WEY Wessex	02/12/06		162	43	*	162.43
+0056	SW105	049	Clapham Junction to Weymouth BML2 WEY Wessex	02/12/06		164	02	*	164.02
+0057	SW105	050	Clapham Junction to Weymouth BML2 BML3 Wessex	02/12/06	Bincombe Tunnel	164	44		164.44
+0057	SW105	050	Clapham Junction to Weymouth BML2 BML3 Wessex	02/12/06	(819 yards)	165	02		165.02
+0057	SW105	050	Clapham Junction to Weymouth BML2 BML3 Wessex	02/12/06	UPWEY	166	30		166.30
+0057	SW105	050	Clapham Junction to Weymouth BML2 BML3 Wessex	02/12/06		163	21	*	163.21
+0058	SW105	051	Clapham Junction to Weymouth WTQ BML3 Wessex	22/03/08		163	31	*	163.31
+0058	SW105	051	Clapham Junction to Weymouth WTQ BML3 Wessex	22/03/08	WEYMOUTH	168	63		168.63
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Worting Jn			X	.
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Parlour Gates	51	15	UWC	51.15
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08		51	27	*	51.27
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	OVERTON	55	42		55.42
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Forty Steps	56	31	UWC	56.31
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	WHITCHURCH	59	08		59.08
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Enham	64	55	UWC	64.55
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	ANDOVER	66	19		66.19
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Andover Ground Frame	66	27		66.27
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08		66	51	*	66.51
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Gallachers	66	75	UWC	66.75
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08		67	61		67.61
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08		0	00		0.00
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Ludgershall	5	64		5.64
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08	GRATELEY	72	49		72.49
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08		78	00	*	78.00
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08	Targetts Crossing	78	21		78.21
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08		82	00	*	82.00
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08	Laverstock North Jn	82	05		82.05
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06	Salisbury Tunnel Jn	32	36		32.36
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06		96	05		96.05
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06	Fisherton Tunnel 82 m3?	96	05	X	96.05
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06	(443 yards)	82	57		82.57
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06		82	67	*	82.67
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06		83	14	*	83.14
+0078	SW115	005	Worting Junction to Exeter St. Davids BAE2 Wessex	22/03/08		33	26	*	33.26
+0078	SW115	005	Worting Junction to Exeter St. Davids BAE2 Wessex	22/03/08	Salisbury SB	33	43	SY	33.43
+0078	SW115	005	Worting Junction to Exeter St. Davids BAE2 Wessex	22/03/08	SALISBURY	83	43		83.43
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		83	60	*	83.60
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06	Gramshaw Road Crossing	84	22		84.22
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		85	23	*	85.23
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06	Quidhampton Siding	132	54		132.54
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06	Wilton Jn	85	37		85.37
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		132	33		132.33
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		85	70	*	85.70
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		88	20	*	88.20
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06	Wilton South	86	25		86.25
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09		87	40	*	87.40
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09		88	33	*	88.33
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Hurdcott Lodge LC	89	74	RIG	89.74
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Barford FIP Crossing	90	05		90.05
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Moms Farm No.2 Crossing	90	35		90.35
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Dinton Manor Farm Crossing	91	35		91.35
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Baverstock Navy Siding	91	35	X	91.35
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Teffont Mill LC	92	39	RIG	92.39
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Chilmark Air Siding	92	39	X	92.39
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Sweatmans Crossing	93	21		93.21
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09		93	33	*	93.33
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09		94	02	*	94.02
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Tisbury Quarry LC	94	75	RIG	94.75
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		95	18	*	95.18
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Mill Path	95	27	Footpath	95.27
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		95	52	*	95.52
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Chantry	96	10	Footpath	96.10
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	TISBURY	96	14		96.14
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Tisbury West LC	97	11	AHBC	97.11
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hatch Path	97	50		97.50
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		99	40	*	99.40
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		100	10	*	100.10
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Kings Court FIP Crossing	104	45		104.45
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hunts Path No. 1 Crossing	103	45		103.45
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hunts Path No. 2 Crossing	103	52		103.52
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Shutes Crossing	104	71		104.71
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	GILLINGHAM	105	23		105.23
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Gillingham SB (GM)	105	23	X	105.23
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Gillingham Tunnel	107	44		107.44
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(742 yards)	107	78		107.78
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	Ashford LC	109	41	R/G	109.41
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	TEMPLECOMBE	112	02		112.02
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	Templecombe SB	112	02		112.02
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06		112	76	*	112.76
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06		113	36	*	113.36
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06		115	35	*	115.35
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06		115	76	*	115.76
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	Castleton Farm Crossing	117	31		117.31
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	Sherbome LC	118	00		118.00
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	SHERBORNE	118	04		118.04
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Lenthay Crossing	119	15		119.15
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	(tel not available to traincrew)	119	15	X	119.15
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Bedmill Farm No.1 Crossing	119	73		119.73
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Wyke No. 2 Crossing	120	60		120.60
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		122	30	*	122.30
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Yeovil Jn SB (YJ)	122	30	X	122.30
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		0	12	*	0.12
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Yeovil Jn	122	31		122.31
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		0	00		0.00
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Up sidings	0	00	X	0.00
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		122	39	*	122.39
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	YEOVIL JUNCTION	122	48		122.48
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Down Sidings	122	48	X	122.48
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		122	58	*	122.58
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Grove Farm No. 1	127	34	UWC	127.34
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Grove Farm No. 2	127	34	UWC	127.34
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	GREWKERNE	131	33		131.33
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		131	74	*	131.74
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Crewkeme LC	132	03	AHBC	132.03
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Crewkeme Tunnel	132	39		132.39
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(205 yards)	132	48		132.48
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		133	20	*	133.20
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hewish LC	134	04	AHBC	134.04
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hay Crossing	136	35		136.35
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Marshwood Farm No.2 Crossing	133	73		133.73
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Chard Jn L0	139	32		139.32
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Chard Jn Down Sidings GF	139	48		139.48
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Westford	139	65	UWC	139.65
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Broom LC	141	14	AHBC	141.14
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Axe LC	141	56	AHBG	141.56
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Axminster LC	144	15	CCTV	144.15
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	AXMINSTER	144	41		144.41
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Abbey Farm No.20rossing	145	15		145.15
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Slymlakes Crossing	145	46		145.46
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Oxenlears Crossing	145	78		145.78
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		148	40	*	148.40
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		149	00	*	149.00
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Honiton Tunnel 152m45	149	00	X	149.00
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(1345 yards)	153	26		153.26
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Northootez Crossing	153	61		153.61
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		153	30	*	153.30
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		154	20	*	154.20
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	HONITON	154	60		154.60
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Honiton GF	154	62		154.62
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Honiton SB	154	62	H	154.62
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	DE's Siding	154	62	X	154.62
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		155	00	*	155.00
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		155	40	*	155.40
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		159	22	*	159.22
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	FENITON	159	24		159.24
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Feniton LG	159	27		159.27
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		161	75	*	161.75
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	WHIMPLE	163	02		163.02
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Territory Boundary	164	30		164.30
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Crannaford LC	165	20	AHBC	165.20
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		168	23	*	168.23
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Single Line Down	168	24		168.24
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		168	38	*	168.38
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Pinhoe LC	168	39	CCTV	168.39
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	PINHOE	168	44		168.44
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		170	00	*	170.00
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Up Sidings	170	00	X	170.00
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Exmouth Jn SB	170	21	EJ	170.21
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Blackboy Tunnel	170	44		170.44
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(262 yards)	170	56		170.56
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	ST JAMES PARK	170	72		170.72
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		171	15	*	171.15
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	EXETER CENTRAL	171	30		171.30
+0091	SW115	018	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		171	52	*	171.52
+0091	SW115	018	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Exeter St. Davids Tunnel	171	53		171.53
+0091	SW115	018	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(184 yards)	171	61		171.61
+0091	SW115	018	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		171	73	*	171.73
+0092	SW115	019	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		172	04		172.04
+0092	SW115	019	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		194	00		194.00
+0092	SW115	019	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	EXETER ST. DAVIDS	193	72	E	193.72
+0092	SW115	019	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Red Cow LC	193	62	CCTV	193.62
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0156	SW210	001	Clapham Junction to Southcote Junction (via Reading) RDG1 PPW Wessex	02/12/06	GLAPHAM JUNCTION	3	74		3.74
+0156	SW210	001	Clapham Junction to Southcote Junction (via Reading) RDG1 PPW Wessex	02/12/06	WANDSWORTH TOWN	4	60		4.60
+0156	SW210	001	Clapham Junction to Southcote Junction (via Reading) RDG1 PPW Wessex	02/12/06	Point Pleasant Jn	5	09		5.09
+0157	SW210	002	Clapham Junction to Southcote Junction (via Reading) RDG1 HOU Wessex	02/12/06	PUTNEY	5	72		5.72
+0157	SW210	002	Clapham Junction to Southcote Junction (via Reading) RDG1 HOU Wessex	02/12/06	BARNES	7	07		7.07
+0157	SW210	002	Clapham Junction to Southcote Junction (via Reading) RDG1 HOU Wessex	02/12/06	Vine Road Barnes (Richmond Line)	7	26		7.26
+0157	SW210	002	Clapham Junction to Southcote Junction (via Reading) RDG1 HOU Wessex	02/12/06	LC (CCTV)	7	26	X	7.26
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	White Hart LC	7	52	CCTV	7.52
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Mortlake LC	8	21	CCTV	8.21
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	MORTLAKE	8	21		8.21
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	NORTH SHEEN	9	03		9.03
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	North Sheen LC	9	12	CCTV	9.12
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06		9	50	*	9.50
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	RIGHMOND	9	57		9.57
+0159	SW210	004	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	22/03/08		10	20	*	10.20
+0159	SW210	004	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	22/03/08	ST MARGARETS	10	66		10.66
+0159	SW210	004	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	22/03/08	TWICKENHAM	11	22		11.22
+0160	SW210	005	Clapham Junction to Southcote Junction (via Reading) RDG1 TSJ HJW Wessex	02/12/06	WHITTON	12	43		12.43
+0160	SW210	005	Clapham Junction to Southcote Junction (via Reading) RDG1 TSJ HJW Wessex	02/12/06	Whitton Jn	13	03		13.03
+0160	SW210	005	Clapham Junction to Southcote Junction (via Reading) RDG1 TSJ HJW Wessex	02/12/06		14	39		14.39
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	Feltham Jn	13	35	*	13.35
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	Feltham SB	14	68	F	14.68
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	FELTHAM	14	68		14.68
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	Feltham West LC	14	74	CCTV	14.74
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	ASHFORD	17	40		17.40
+0162	SW210	007	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	02/12/06	Oakmead Crossing	18	30		18.30
+0162	SW210	007	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	02/12/06		18	60	*	18.60
+0162	SW210	007	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	02/12/06	STAINES	19	02	*	19.02
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06		19	50	*	19.50
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06		19	58	*	19.58
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Thorpe Lane LC	19	67	CCTV	19.67
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Pooley Green LC	20	51	CCTV	20.51
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	EGHAM	21	02		21.02
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Egham LC	21	02	CCTV	21.02
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Rusham LC (AHBC)	21	61	*	21.61
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Stroude Crossing	22	51		22.51
+0164	SW210	009	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	22/11/08	VIRGINIA WATER	23	15		23.15
+0164	SW210	009	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	22/11/08	LONGGROSS	25	11		25.11
+0164	SW210	009	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	22/11/08	Sunningdale LC	26	71	CCTV	26.71
+0164	SW210	009	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	22/11/08	SUNNINGDALE	26	71		26.71
+0165	SW210	010	Clapham Junction to Southcote Junction (via Reading) RDG1 AAV Wessex	02/12/06	ASCOT	23	79		23.79
+0165	SW210	010	Clapham Junction to Southcote Junction (via Reading) RDG1 AAV Wessex	02/12/06	Englemere Crossing	29	36		29.36
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	MARTINS HERON	31	09		31.09
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	BRACKNELL	32	24		32.24
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07		32	34	*	32.34
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	Watefloo LC	34	76	AHBG	34.76
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	Star Lane LG (CCTV)	35	30	*	35.30
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	Smiths Crossing	35	73		35.73
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07		36	17	*	36.17
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07		36	26	*	36.26
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07		61	65	*	61.65
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	Wokingham Jn	36	35		36.35
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07		61	72		61.72
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	Wokingham SB (WM)	61	72	X	61.72
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	Wokingham LC	62	08		62.08
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	WOKINGHAM			Z	.
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07		62	14	*	62.14
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	WINNERSH	64	10		64.10
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	WINNERSH TRIANGLE	64	72		64.72
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06	EARLEY	66	01		66.01
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06	Reading Spur Jn	67	76		67.76
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06	(Territory Boundary)	67	76	X	67.76
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06		68	20	*	68.20
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06	Reading New Jn	68	35		68.35
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06		35	40		35.40
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06		68	51	*	68.51
+0169	SW210	014	Clapham Junction to Southcote Junction (via Reading) RDG2 MLN1 Wessex	22/03/08		35	60	*	35.60
+0169	SW210	014	Clapham Junction to Southcote Junction (via Reading) RDG2 MLN1 Wessex	22/03/08	Reading SB	68	68	R	68.68
+0169	SW210	014	Clapham Junction to Southcote Junction (via Reading) RDG2 MLN1 Wessex	22/03/08		35	78		35.78
+0169	SW210	014	Clapham Junction to Southcote Junction (via Reading) RDG2 MLN1 Wessex	22/03/08	READING	68	68		68.68
+0170	SW210	015	Clapham Junction to Southcote Junction (via Reading) MLN1 Wessex	02/12/06	Westbury Line Jn	36	17	*	36.17
+0170	SW210	015	Clapham Junction to Southcote Junction (via Reading) MLN1 Wessex	02/12/06		36	27	*	36.27
+0170	SW210	015	Clapham Junction to Southcote Junction (via Reading) MLN1 Wessex	02/12/06		36	29	*	36.29
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06	Oxford Road Jn	36	67		36.67
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06		36	67	*	36.67
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06	READING WEST	36	75		36.75
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06		37	02	*	37.02
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06	Southcote Jn	37	62		37.62
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0059	SW110	001	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Waking Jn	24	62		24.62
+0059	SW110	001	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	WORPLESDOH	26	55		26.55
+0059	SW110	001	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		28	40	*	28.40
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		29	40	*	29.40
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		30	43	*	30.43
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		29	43	*	29.43
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		30	09	*	30.09
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		30	16	*	30.16
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08	GUILDFORD	30	27		30.27
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		30	33	*	30.33
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08	Guildford ASC (GD)	30	33	X	30.33
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	Chalk Tunnel	30	43	*	30.43
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	(845 yards) to	31	01		31.01
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06		31	11	*	31.11
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	St Catherine's Tunnel	310	13		310.13
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	(132 yards)	31	19		31.19
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	Shalford Jn	31	42	*	31.42
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		33	20	*	33.20
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	Farncombe East LC	33	29	CCTV	33.29
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	FARNCOMBE			Z	.
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		33	39	*	33.39
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	Famcombe LC	33	40		33.40
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	Famcombe SB	33	40	W2	33.40
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		34	25	*	34.25
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	GODALMING	34	37		34.37
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		34	50	*	34.50
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		35	15	*	35.15
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		35	65	*	35.65
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	MILFORD	36	21		36.21
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Mitford LC	36	26	AHBC	36.26
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Milford Crossing	36	26		36.26
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		37	40	*	37.40
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	WITLEY	38	36		38.36
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		42	30	*	42.30
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		42	50	*	42.50
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Up Siding No. 3			X	.
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	HASLEMERE	42	79		42.79
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Haslemere SB	42	79	EW	42.79
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Up Siding No. 1	42	79	X	42.79
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		44	40	*	44.40
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	LIPHOOK	46	67		46.67
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Liss Common LC (AHBC)	50	75	*	50.75
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	LISS	51	35		51.35
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	Liss LC	51	35	CCTV	51.35
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07		52	11	*	52.11
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	Princes Bridge LC	52	12	AHBC	52.12
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07		53	48	*	53.48
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	Sheet LC (AHBC)	53	72	*	53.72
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	Kings Fernsden LC	54	10	AHBC	54.10
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	Petersfield SB (PF)			X	.
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	Petersfield LC (PF)			X	.
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	PETERSFIELD	54	71		54.71
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008		55	23	*	55.23
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008		57	30	*	57.30
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	Buriton Tunnel	57	43	*	57.43
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	(485 yards) to	57	69	*	57.69
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		59	24	*	59.24
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		59	46	*	59.46
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		59	71	*	59.71
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		62	67	*	62.67
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		63	07	*	63.07
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008	ROWLAN BS CASTLE	63	18		63.18
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		63	45	*	63.45
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		64	20	*	64.20
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		65	60	*	65.60
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		36	60		36.60
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	WARBLINGTON	36	66		36.66
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	Warblington LC	36	71	CCTV	36.71
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	13	*	37.13
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	20	*	37.20
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		66	10	*	66.10
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		66	17		66.17
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	Havant LC	37	26	CCTV	37.26
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	Havant SB (HT)	37	26	X	37.26
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	28		37.28
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	34	*	37.34
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	HAVANT	37	41		37.41
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	61	*	37.61
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	63	*	37.63
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		37	76	*	37.76
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008	Bedhampton LC	38	10	CCTV	38.10
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008	BEDHAMPTON	38	14		38.14
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		38	28	*	38.28
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		38	29	*	38.29
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		38	60	*	38.60
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008	Farlington Jn	40	33		40.33
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		91	14		91.14
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		91	00	*	91.00
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		91	00	*	91.00
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		40	77	*	40.77
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		90	75	*	90.75
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		90	75	*	90.75
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008	Portcreek Jn	41	03	*	41.03
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		91	01		91.01
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		41	08	*	41.08
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		41	24	*	41.24
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008	HILSEA	41	41		41.41
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		42	33	*	42.33
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		43	16	*	43.16
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		43	23	*	43.23
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008	Fratton East	43	23	X	43.23
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		43	41	*	43.41
+0071	SW110	013	Woking Junction to Portsmouth Harbour WPH2 Wessex	29/10/2007	FRATPON	43	64		43.64
+0071	SW110	013	Woking Junction to Portsmouth Harbour WPH2 Wessex	29/10/2007		43	77	*	43.77
+0071	SW110	013	Woking Junction to Portsmouth Harbour WPH2 Wessex	29/10/2007		44	13	*	44.13
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	24	*	44.24
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008	Blackfriars Jn	44	26		44.26
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	23	*	44.23
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	29	*	44.29
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	39	*	44.39
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008	PORTSMOUTH & SOUTHSEA	44	50		44.50
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	57	*	44.57
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008		45	05	*	45.05
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008		45	07	*	45.07
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008		45	16	*	45.16
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008		45	22	*	45.22
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008	PORTSMOUTH HARBOUR	45	36		45.36
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0202	SW305	001	Brighton to Havant TBH2 Wessex	02/12/06	BRIGHTON	00	00		00.00
+0202	SW305	001	Brighton to Havant TBH2 Wessex	02/12/06		00	22	*	00.22
+0202	SW305	001	Brighton to Havant TBH2 Wessex	02/12/06	Hove Tunnel	01	25		01.25
+0202	SW305	001	Brighton to Havant TBH2 Wessex	02/12/06	220 Yards	00	40		00.40
+0203	SW305	002	Brighton to Havant TBH2 Wessex	02/12/06	HOVE	1	35		1.35
+0203	SW305	002	Brighton to Havant TBH2 Wessex	02/12/06		1	47	*	1.47
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	ALDRINGTON	1	74		1.74
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	PO RTSLADE	2	73		2.73
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	Portslade LC	2	73	CCTV	2.73
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	FISHERGATE	3	47		3.47
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	SOUTHWICK	4	30		4.30
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	Shoreham East LC	5	50	CCTV	5.50
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	SHOREHAM—BY—SEA	5	69		5.69
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	Shoreham East LC	5	69	CCTV	5.69
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	Lancing SB	8	19	LG	8.19
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	Lancing LC	8	19	CCTV	8.19
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	LANGING	8	19		8.19
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	EAST WORTHING	9	55		9.55
+0206	SW305	005	Brighton to Havant TBH2 Wessex	02/12/06	won-mus	10	46		10.46
+0206	SW305	005	Brighton to Havant TBH2 Wessex	02/12/06	Worthing Lc	10	46	CCTV	10.46
+0206	SW305	005	Brighton to Havant TBH2 Wessex	02/12/06	West Worthing LC	11	30	CCTV	11.30
+0206	SW305	005	Brighton to Havant TBH2 Wessex	02/12/06	WEST won-rams	11	30		11.30
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	DURRINGTON-ON—SEA	12	13		12.13
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	GORING-BY-SEA	13	07		13.07
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Goring-By—Sea LC	13	07	CCTV	13.07
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Ferring LC	13	56	CCTV	13.56
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Langmeads No.1 Crossing	14	31		14.31
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Roundstone LC	15	00	CCTV	15.00
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	ANGMERING	15	44		15.44
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Angmering LC	15	44	CCTV	15.44
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Brook Lane Crossing	16	46		16.46
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Nomay Crossing	17	12		17.12
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Toddington LC (AHBC)	17	49	*	17.49
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Tyminster LC	18	02	CCTV	18.02
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Bowermans Crossing	18	51		18.51
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06		18	65	*	18.65
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06		18	67	*	18.67
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Arundel Jn	19	01		19.01
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Hutchings Crossing	19	02		19.02
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Ford Jn	19	31	*	19.31
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Ford River Bridge	19	36		19.36
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Ford LC	19	36	CCTV	19.36
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	FORD	19	55		19.55
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Withy Tree Crossing	20	23		20.23
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Yapton (AHBC)	20	79	*	20.79
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Lake Lane Crossing	21	18		21.18
+0210	SW305	009	Brighton to Havant TBH2 Wessex	02/12/06	BARNHAM	22	29		22.29
+0210	SW305	009	Brighton to Havant TBH2 Wessex	02/12/06	Barnham SB	22	29	BH	22.29
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Woodgate LC	23	53	CCTV	23.53
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Park Lane Crossing	23	70		23.70
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Decoy Crossing	24	64		24.64
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Woodhorn LC	25	20	AHBC	25.20
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Oving Crossing	26	26		26.26
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Drayton LC	26	48	AHBC	26.48
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Whyke Road LC	27	70	CCTV	27.70
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Basin Road LC	28	39	CCTV	28.39
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Stockbridge Road LC	28	43	CCTV	28.43
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	CHICHESTER	28	51		28.51
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Chichester SB	28	51	00	28.51
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06		29	25	*	29.25
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Fishbourne Footpath LC	29	27	RIG	29.27
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Clay Lane LC	29	49	AHBC	29.49
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06		29	52	*	29.52
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	New Fishbourne LC (AHBC)	30	08	*	30.08
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	FISHBOURNE	30	12		30.12
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Black Boys LC (AH BC)	30	25		30.25
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	BOSHAM	31	43		31.43
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Bosham LC	31	43	AHBC	31.43
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Funtington LC	32	19	AHBC	32.19
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Green Lane Crossing	32	29		32.29
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Drift Lane LC	32	60	AHBC	32.60
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Nutboume LC (AH BC)	33	14		33.14
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	NUTBOURNE	33	14		33.14
+0214	SW305	013	Brighton to Havant TBH2 Wessex	02/12/06	Inlands Road Lc	33	72	AHBC	33.72
+0214	SW305	013	Brighton to Havant TBH2 Wessex	02/12/06	SOUTHBOURNE	34	16		34.16
+0214	SW305	013	Brighton to Havant TBH2 Wessex	02/12/06	Southboume LC	34	16	CCTV	34.16
+0214	SW305	013	Brighton to Havant TBH2 Wessex	02/12/06	EMSWORTH	35	50		35.50
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0134	SW180	001	Raynes Park to Horsham RPE MPC Wessex	29/03/08		09	00	*	09.00
+0134	SW180	001	Raynes Park to Horsham RPE MPC Wessex	29/03/08	West Barnes LC	09	18	CCTV	09.18
+0134	SW180	001	Raynes Park to Horsham RPE MPC Wessex	29/03/08	MOTSPUR PARK	09	57		09.57
+0134	SW180	001	Raynes Park to Horsham RPE MPC Wessex	29/03/08	Motspur Park LC	09	57	CCTV	09.57
+0135	SW180	002	Raynes Park to Horsham RPE Wessex	29/03/08	WORCESTER PARK	10	53		10.53
+0135	SW180	002	Raynes Park to Horsham RPE Wessex	29/03/08	STONELEIGH 1	1	74		1.74
+0135	SW180	002	Raynes Park to Horsham RPE Wessex	29/03/08	EWELL WEST	12	78		12.78
+0136	SW180	003	Raynes Park to Horsham RPE BTH3 Wessex	29/03/08	Route Boundary			X	.
+0136	SW180	003	Raynes Park to Horsham RPE BTH3 Wessex	29/03/08	EPSOM	14	18		14.18
+0137	SW180	004	Raynes Park to Horsham BTH3 LEJ Wessex	29/03/08	Ashtead LC	16	19	CCTV	16.19
+0137	SW180	004	Raynes Park to Horsham BTH3 LEJ Wessex	29/03/08	ASHTEAD	16	19		16.19
+0137	SW180	004	Raynes Park to Horsham BTH3 LEJ Wessex	29/03/08	LEATHERHEAD	13	02		13.02
+0137	SW180	004	Raynes Park to Horsham BTH3 LEJ Wessex	29/03/08		13	20	*	13.20
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	Mickleham Tunnel	19	55		19.55
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	524 Yards to	19	78		19.78
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	Mickleham FIP Crossing	20	14		20.14
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	Route Boundary	21	09		21.09
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	BOXHILL .& WESTHUMBLE	21	14		21.14
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	Dorking SB	22	08	CBK	22.08
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08	DORKING	22	08		22.08
+0138	SW180	005	Raynes Park to Horsham BTH3 Wessex	29/03/08		22	15	*	22.15
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	Betchworth Tunnel	22	60	*	22.60
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	384 Yards to	22	73		22.73
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	Stonebridge TP Hut	23	50		23.50
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	Blackbrook Substation	25	30		25.30
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	OGKLEY	29	20		29.20
+0139	SW180	006	Raynes Park to Horsham BTH3 Wessex	02/12/06	Tipholm TP Hut	30	30		30.30
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	Kingsfold Substation	32	00		32.00
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	Kingsfold Cross	32	06		32.06
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	WARNHAM	33	46		33.46
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	Wamham Station Road LC	33	50	RIG	33.50
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06	Wamham TP Hut	33	55		33.55
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06		35	08	*	35.08
+0140	SW180	007	Raynes Park to Horsham BTH3 Wessex	02/12/06		35	36	*	35.36
+0141	SW180	008	Raynes Park to Horsham BTH3 Wessex	02/12/06	HORSHAM	37	57		37.57
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	Adelaide LC	1	69	CCTV	1.69
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	Bridge No.2	2	16	*	2.16
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		2	22		2.22
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	BITTERNE	2	36		2.36
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		2	60	*	2.60
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		3	20	*	3.20
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		3	68	*	3.68
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	WOOLSTON	4	11		4.11
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		4	19	*	4.19
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		4	40	*	4.40
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	snouue	4	53		4.53
+0106	SW140	003	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		6	40	*	6.40
+0106	SW140	003	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	NETLEY	6	45		6.45
+0106	SW140	003	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	HAMBLE	7	19		7.19
+0106	SW140	003	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		7	40	*	7.40
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		8	20	*	8.20
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	BURSLEDON	8	49		8.49
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	Hamble Viaduct	6	70		6.70
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		8	79		8.79
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		9	20	*	9.20
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	SWANWIGK	10	50		10.50
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		13	20	*	13.20
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		13	60	*	13.60
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		14	00	*	14.00
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		14	15	*	14.15
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		84	10		84.10
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	FAREHAM	84	21		84.21
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007		84	39	*	84.39
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	Quay Viaduct	84	77		84.77
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	(155 yards) to	85	04		85.04
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007		85	23	*	85.23
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	Wallngton Viaduct	85	32		85.32
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	(242 yards) to	85	43		85.43
+0110	SW140	008	St. Denys to Portcreek Junction SDP2 FJJ Wessex	29/10/2007		90	43		90.43
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007	PORTcHESTER	37	35		37.35
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007		39	31	*	39.31
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007	Cosham LC	90	06	CCTV	90.06
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007	cosnAM	90	06		90.06
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007		90	15	*	90.15
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0001	SW100	001	Waterloo to Clapham Junction JAT RDG1 BML1 Wessex	22/03/08	WATERLOO	00	00		00.00
+0001	SW100	001	Waterloo to Clapham Junction JAT RDG1 BML1 Wessex	22/03/08	South Sidings	00	00	X	00.00
+0002	SW100	002	Waterloo to Clapham Junction JAT RDG1 BML1 Wessex	02/12/06		00	29	*	00.29
+0002	SW100	002	Waterloo to Clapham Junction JAT RDG1 BML1 Wessex	02/12/06	International Jn	00	29	X	00.29
+0002	SW100	002	Waterloo to Clapham Junction JAT RDG1 BML1 Wessex	02/12/06	West Crossings	00	29	X	00.29
+0002	SW100	002	Waterloo to Clapham Junction JAT RDG1 BML1 Wessex	02/12/06	Carlisle Lane Jn	00	29	X	00.29
+0003	SW100	003	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06		01	00	*	01.00
+0003	SW100	003	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06		01	16	*	01.16
+0003	SW100	003	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06	VAUXHALL	01	29		01.29
+0003	SW100	003	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06		01	40	*	01.40
+0003	SW100	003	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06		01	55	*	01.55
+0003	SW100	003	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06		01	60	*	01.60
+0003	SW100	003	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06		01	61	*	01.61
+0004	SW100	004	Waterloo to Clapham Junction RDG1 BML1 AHG Wessex	02/12/06	Nine Elms Jn	01	78		01.78
+0004	SW100	004	Waterloo to Clapham Junction RDG1 BML1 AHG Wessex	02/12/06		02	30	*	02.30
+0005	SW100	005	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06	Wheelchex on UMF and UMS lines	02	44		02.44
+0005	SW100	005	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06	QUEENSTOWN ROAD	02	50		02.50
+0005	SW100	005	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06	(BATTERSEA)			Z	.
+0005	SW100	005	Waterloo to Clapham Junction RDG1 BML1 Wessex	02/12/06	West London Jn	03	17		03.17
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		03	53	*	03.53
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		03	63	*	03.63
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		03	65	*	03.65
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09	Clapham Yard GF (CY)	03	65	X	03.65
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		03	67	*	03.67
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		03	70	*	03.70
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09	CLAPHAM JUNGTION	03	74		03.74
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		03	75	*	03.75
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09	Kensington GF	03	75	X	03.75
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		04	00	*	04.00
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		04	12	*	04.12
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		04	15	*	04.15
+0007	SW100	007	Waterloo to Clapham Junction RDG1 BML1 Wessex	05/01/09		04	25	*	04.25
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	CASTLE CARY	129	45		129.45
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Castle Cary Jn	129	50		129.50
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08		129	65	*	129.65
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Territory Boundary	130	00		130.00
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Thomey Marsh Lane Crossing	132	06		132.06
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Sparkford Emergency Telephone	134	29		134.29
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Marston Magna Emergency Telephone	137	00		137.00
+0129	SW175	002	Castle Cary to Dorchester Junction WEY Wessex	13/07/08		141	05	*	141.05
+0129	SW175	002	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Yeovil Pen Mill SB (Y PM)	141	05	X	141.05
+0129	SW175	002	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	YEOVIL PEN MILL	141	22		141.22
+0129	SW175	002	Castle Cary to Dorchester Junction WEY Wessex	13/07/08		141	35	*	141.35
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Thomford Bridge Crossing	144	24		144.24
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	THORNFORD	144	35		144.35
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Beer Hacket Crossing	144	63		144.63
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	YETIiIINS'PER	145	46		145.46
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07		145	50	*	145.50
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Mill Farm Crossing	145	70		145.70
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Meads Farm Crossing	146	16		146.16
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Pound Lane Crossing	147	10		147.10
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	CHETNOLE	147	50		147.50
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07		149	30	*	149.30
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Evershot Tunnel	149	49		149.49
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	308 Yards to	149	63		149.63
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		149	70	*	149.70
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Burl Farm	150	20	UWC	150.20
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Hunter	151	56	UWC	151.56
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	MAIDEN NEWTON	154	12		154.12
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		154	65	*	154.65
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Crockway Crossing	155	58		155.58
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Hyde	155	78	UWC	155.78
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Grimston and Frampton	156	70		156.70
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	661 Yards to	157	20	*	157.20
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		158	20	*	158.20
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Stratton No.1	158	21	UWC	158.21
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Chicks Farm Crossing	156	33		156.33
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Chicks Farm Foot	158	50	UWC	158.50
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Poundbury Tunnel	161	03		161.03
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	267 Yards to	161	15		161.15
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		161	50	*	161.50
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	DORGHESTER WEST	161	63		161.63
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		162	00	*	162.00
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Dorchester Jn	162	14		162.14
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		136	15		136.15
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Pirbright Jn	29	39		29.39
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		29	40	*	29.40
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		29	60	*	29.60
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		30	00	*	30.00
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		30	40	*	30.40
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Foxhills Tunnel	300	64		300.64
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06	(418 yards)	31	03		31.03
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		31	30	*	31.30
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06	Ash Vale Jn	32	30	HW	32.30
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06		40	57		40.57
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06	ASH VALE	32	38		32.38
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06	Aldershot North Jn	33	40		33.40
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06		50	43		50.43
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06		34	33	*	34.33
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Aldershot Tunnel	34	46		34.46
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	(76 Yards)	34	50		34.50
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Aldershot SB	35	00	AS	35.00
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	ALDERSHOT	35	00		35.00
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Down Siding	35	00	X	35.00
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		35	35	*	35.35
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		36	55	*	36.55
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		36	75		36.75
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		39	22		39.22
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		39	23	*	39.23
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06	Famham LC	40	33	CCTV	40.33
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06	Famham SB	40	33	FN	40.33
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06	FARNHAM	40	33		40.33
+0097	SW120	005	PirbrightJunction to Alton PAA2 Wessex	02/12/06		41	00	*	41.00
+0097	SW120	005	PirbrightJunction to Alton PAA2 Wessex	02/12/06	Farnham Depot Shunt Panel (FD)	41	00	X	41.00
+0097	SW120	005	PirbrightJunction to Alton PAA2 Wessex	02/12/06	BENTLEY	44	24		44.24
+0098	SW120	006	PirbrightJunction to Alton PAA2 Wessex	02/12/06	ALTON	49	13		49.13
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0150	SW200	001	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	Hampton Court Jn	13	47		13.47
+0150	SW200	001	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		13	47	*	13.47
+0150	SW200	001	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	HINCHLEY WOOD	14	04		14.04
+0150	SW200	001	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	GLAYGATE	15	11		15.11
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	OXSHOTP	16	79		16.79
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		17	26	*	17.26
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	Cooks LC	17	39	CCTV	17.39
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	Polyapes	17	57	UWC	17.57
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		18	10	*	18.10
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	OOBHAM AND STOKE D'ABERNON	18	63		18.63
+0152	SW200	003	Hampton Court Junction to Guildford (via Cobham) NGL LEJ Wessex	02/12/06	Effingham Jn	21	04		21.04
+0152	SW200	003	Hampton Court Junction to Guildford (via Cobham) NGL LEJ Wessex	02/12/06	EFFINGHAM JUNCTION	21	10		21.10
+0152	SW200	003	Hampton Court Junction to Guildford (via Cobham) NGL LEJ Wessex	02/12/06	Down Sidings	21	14		21.14
+0152	SW200	003	Hampton Court Junction to Guildford (via Cobham) NGL LEJ Wessex	02/12/06	HORSLEY	22	16		22.16
+0153	SW200	004	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	GLANBON	25	26		25.26
+0153	SW200	004	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		28	18	*	28.18
+0153	SW200	004	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	LONDON ROAD	28	47		28.47
+0154	SW200	005	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		28	59	*	28.59
+0154	SW200	005	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	(Guildford)	29	70		29.70
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06	Malden Crossing LC (CCTV)	10	13	*	10.13
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06		10	22	*	10.22
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06		10	40	*	10.40
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06		11	15	*	11.15
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06	NORBITON	11	24		11.24
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06		11	40	*	11.40
+0145	SW190	002	New Malden to Shepperton NMS1 Wessex	22/03/08	KINGSTON	12	09	*	12.09
+0145	SW190	002	New Malden to Shepperton NMS1 Wessex	22/03/08	HAMPTON WICK	12	44	*	12.44
+0145	SW190	002	New Malden to Shepperton NMS1 Wessex	22/03/08	TEDDINGTON	13	54		13.54
+0146	SW190	003	New Malden to Shepperton NMS1 SHF TSJ Wessex	02/12/06	Shacklegate Jn	14	29	*	14.29
+0146	SW190	003	New Malden to Shepperton NMS1 SHF TSJ Wessex	02/12/06	Staff Crossing	14	20		14.20
+0146	SW190	003	New Malden to Shepperton NMS1 SHF TSJ Wessex	02/12/06	FulwelI Jn	14	53	*	14.53
+0146	SW190	003	New Malden to Shepperton NMS1 SHF TSJ Wessex	02/12/06		12	56		12.56
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	FULWELL	12	75	*	12.75
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	Fulwell Tunnel	13	03		13.03
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	62 Yards	13	06		13.06
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06		13	10	*	13.10
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	HAMPTON	14	47	*	14.47
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	Hampton LC	14	57	CCTV	14.57
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	KEMPTON PARK	16	28		16.28
+0148	SW190	005	New Malden to Shepperton NM82 Wessex	09/06/07	SUNBUIIY 1	6	64		6.64
+0148	SW190	005	New Malden to Shepperton NM82 Wessex	09/06/07	UPPER HALLIFORD	17	34		17.34
+0148	SW190	005	New Malden to Shepperton NM82 Wessex	09/06/07	SHEPPERTON	18	73		18.73
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0123	SW170	001	Westbury to Wilton Junction SWY WEY Wessex	02/12/06	Westbury North Jn	95	37		95.37
+0123	SW170	001	Westbury to Wilton Junction SWY WEY Wessex	02/12/06		109	54		109.54
+0123	SW170	001	Westbury to Wilton Junction SWY WEY Wessex	02/12/06	WESTBURY	109	64		109.64
+0124	SW170	002	Westbury to Wilton Junction WEY Wessex	02/12/06	Westbury South Jn	110	07		110.07
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06		110	28	*	110.28
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06	DILTON MARSH	111	11		111.11
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06		114	33	*	114.33
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06	WARMINSTER	114	37		114.37
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06		114	40	*	114.40
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06	Warminster North GF	114	41		114.41
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Warminster South GF	114	54		114.54
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Beeohgrove GF	115	27		115.27
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Territory Boundary	115	40		115.40
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Corton Steps Crossing	119	41		119.41
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Upton Lovell LC	119	70	AHBC	119.70
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Codford LC	120	45	AHBC	120.45
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Sherrington Crossing	121	02		121.02
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Sherrington FIP Crossing	121	08		121.08
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06		121	20	*	121.20
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06		121	40	*	121.40
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Stockton Crossing	122	40		122.40
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Tyning LC	12	75		12.75
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Middle Road Crossing	123	36		123.36
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Townsend Crossing	124	12		124.12
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Wylye LC	124	41	AHBC	124.41
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Hindon Road Crossing	125	29		125.29
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Eton College Road	125	38		125.38
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06		128	38	*	128.38
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06		129	20	*	129.20
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Couston Bottom Crossing	130	16		130.16
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0198	SW302	001	Redhill to Gatwick Airport RED2 VTB3 Wessex	02/12/06	EARLSWOOD	21	50		21.50
+0199	SW302	002	Redhill to Gatwick Airport VTB3 Wessex	02/12/06	SALFORDS	23	37		23.37
+0200	SW302	003	Redhill to Gatwick Airport VTB3 Wessex	21/04/07		25	40	*	25.40
+0200	SW302	003	Redhill to Gatwick Airport VTB3 Wessex	21/04/07	HORLEY	25	60		25.60
+0200	SW302	003	Redhill to Gatwick Airport VTB3 Wessex	21/04/07	GATWIGK AIRPORT	26	47		26.47
+0201	SW302	004	Redhill to Gatwick Airport VTB3 Wessex	02/12/06		26	58	*	26.58
+0201	SW302	004	Redhill to Gatwick Airport VTB3 Wessex	02/12/06		26	66	*	26.66
+0201	SW302	004	Redhill to Gatwick Airport VTB3 Wessex	02/12/06	Tinsley Green Jn	27	34		27.34
+0201	SW302	004	Redhill to Gatwick Airport VTB3 Wessex	02/12/06		28	73	*	28.73
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0194	SW301	001	Redhill to Gomshall RED2 RSJ Wessex	07/06/08	REDHILL	22	40		22.40
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06		22	72	*	22.72
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	REIGATE	24	27		24.27
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Reigate SB	24	31	RG	24.31
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Reigate LC	24	31		24.31
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Buckland LC	26	49	AHBC	26.49
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Betchworth LC	27	14	CCTV	27.14
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	BETOHWORTH	27	17		27.17
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Betchworth Ground Frame	27	21		27.21
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Brockham LC	28	08	AHBC	28.08
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	DORKING (DEEPDEN E)	29	65		29.65
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	DORKING WEST	30	42		30.42
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Dorking West Ground Frame	30	50		30.50
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Milton Court Crossing	31	30		31.30
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Little Bullsdown Crossing	31	51		31.51
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Big Bullsdown Crossing	31	68		31.68
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Combe Lane Crossing	32	24	*	32.24
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Routs Boundary	33	10		33.10
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06		31	07	*	31.07
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06	WANBOROUGH	34	29		34.29
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06		35	50	*	35.50
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06		48	34		48.34
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06		48	48	*	48.48
+0189	SW265	002	Guildford to Wokingham GTW2 Wessex	02/12/06	Ash LO	49	15	CCTV	49.15
+0189	SW265	002	Guildford to Wokingham GTW2 Wessex	02/12/06	ASH	49	18		49.18
+0189	SW265	002	Guildford to Wokingham GTW2 Wessex	02/12/06	Aldershot South Jn	50	01		50.01
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	NORTH CAMP	51	18		51.18
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	North Camp LC	51	18	CCTV	51.18
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	Farnborough North Footpath LC	53	11	RIG	53.11
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	FARNBOROUGH NORTH	53	16		53.16
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	Synhurst FC	54	00		54.00
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	BLAGKWATER	55	58		55.58
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	Darby Green UWC	56	22		56.22
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	SANDHURST	57	22		57.22
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	Haweys UWC	58	12		58.12
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	GROWTHORNE	58	86		58.86
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0176	SW230	001	Barnes to Feltham Junction (via Hounslow) HOU Wessex	02/12/06	Vine Road Barnes (Hounslow line) LC	7	25	CCTV	7.25
+0176	SW230	001	Barnes to Feltham Junction (via Hounslow) HOU Wessex	02/12/06	BARNES BRIDGE	7	54		7.54
+0176	SW230	001	Barnes to Feltham Junction (via Hounslow) HOU Wessex	02/12/06	CHISWIGK	3	47		3.47
+0176	SW230	001	Barnes to Feltham Junction (via Hounslow) HOU Wessex	02/12/06	Grove Park LC	8	75	CCTV	8.75
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	New Kew Jn	09	34		09.34
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	Route Boundary	03	39	*	03.39
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06		09	64	*	09.64
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	KEW BRIDGE	09	53		09.53
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	Route Boundary	03	39	*	03.39
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	Old Kew Jn	10	01		10.01
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	BRENTFORD	10	52		10.52
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	SYON LANE	11	34		11.34
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	Wood Lane LC	11	69	CCTV	11.69
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	ISLEWORTH	12	10		12.10
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	HOUNSLOW	13	40		13.40
+0179	SW230	004	Barnes to Feltham Junction (via Hounslow) HOU HJW Wessex	02/12/06	Hounslow Jn	14	09		14.09
+0179	SW230	004	Barnes to Feltham Junction (via Hounslow) HOU HJW Wessex	02/12/06		14	38	*	14.38
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06	Chandlers Crossing	23	02		23.02
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		23	13	*	23.13
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		22	40	*	22.40
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06	Banks Crossing	22	32		22.32
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		18	16		18.16
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		80	35		80.35
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06	ROMSEY	80	47		80.47
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		81	05	*	81.05
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Terrys Crossing	82	30		82.30
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06		82	59	*	82.59
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Thurstons Crossing	82	60		82.60
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Butlers Crossing	83	05		83.05
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Kimbridge LC (AHBC)	33	45	*	33.45
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	DUNBRIDGE	84	21		84.21
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Dunbridge LC	84	24	AHBC	84.24
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Dunbridge Crossing	84	37		84.37
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Dean Hill LC	86	57	AHBC	86.57
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Bishops Crossing	86	73		86.73
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	East Dean Crossing	87	40		87.40
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	BEAM	88	10		88.10
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Dean LC	88	12	AHBC	88.12
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	West Grimstead Crossing	90	64		90.64
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	East Grimstead GF	90	64	X	90.64
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06		94	70	*	94.70
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06		95	20	*	95.20
+0116	SW150	004	Redbridge to Salisbury Tunnel Junction RTJ2 LAV Wessex	02/12/06		95	60	*	95.60
+0116	SW150	004	Redbridge to Salisbury Tunnel Junction RTJ2 LAV Wessex	02/12/06	Laverstock South Jn	95	61		95.61
+0116	SW150	004	Redbridge to Salisbury Tunnel Junction RTJ2 LAV Wessex	02/12/06		82	39		82.39
+0116	SW150	004	Redbridge to Salisbury Tunnel Junction RTJ2 LAV Wessex	02/12/06		95	78	*	95.78
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0117	SW155	001	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Jacobs Gutter Lane LC (AH BC)	84	12		84.12
+0117	SW155	001	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Trotts Lane LC	35	11	AHBC	35.11
+0117	SW155	001	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Tavells Lane LC	85	66	AHBC	85.66
+0118	SW155	002	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Marchwood SB (MW) LC	36	06		36.06
+0118	SW155	002	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	MARCHWOOD	86	10		86.10
+0118	SW155	002	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Pumpfield Farm	86	37	RIG	86.37
+0118	SW155	002	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Veals Lane LC	86	69	AHBC	86.69
+0119	SW155	003	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	West Street LC	88	33	AHBC	88.33
+0119	SW155	003	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	School Road LC	88	68		88.68
+0119	SW155	003	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Frost Lane LC	89	60	AHBC	89.60
+0119	SW155	003	Totth to Fawley (Goods Line) TTF Wessex	02/12/06		89	73	*	89.73
+0119	SW155	003	Totth to Fawley (Goods Line) TTF Wessex	02/12/06		90	01	*	90.01
+0119	SW155	003	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Hardley Siding GF	90	66		90.66
+0119	SW155	003	Totth to Fawley (Goods Line) TTF Wessex	02/12/06	Fawley GF	91	42		91.42
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0101	SW135	001	Eastleigh to Fareham ETF Wessex	02/12/06	Eastleigh South Jn	74	04		74.04
+0102	SW135	002	Eastleigh to Fareham ETF Wessex	02/12/06	HEDGE END	76	76		76.76
+0102	SW135	002	Eastleigh to Fareham ETF Wessex	02/12/06	BOTLEY	78	72		78.72
+0102	SW135	002	Eastleigh to Fareham ETF Wessex	02/12/06	Tapnage Tunnel	81	35		81.35
+0102	SW135	002	Eastleigh to Fareham ETF Wessex	02/12/06	122 Yards	81	40		81.40
+0103	SW135	003	Eastleigh to Fareham ETF Wessex	02/12/06	Fareham No.1 Tunnel	33	13		33.13
+0103	SW135	003	Eastleigh to Fareham ETF Wessex	02/12/06	147 Yards to	33	20		33.20
+0103	SW135	003	Eastleigh to Fareham ETF Wessex	02/12/06	Fareham No.2 Tunnel	83	21		83.21
+0103	SW135	003	Eastleigh to Fareham ETF Wessex	02/12/06	553 Yards	83	46		83.46
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0215	SW310	001	Littlehampton Junction to Littlehampton TBH2 FJL BLI2 Wessex	02/12/06	Litflehampton Jn	61	60	*	61.60
+0216	SW310	002	Littlehampton Junction to Littlehampton BLI2 Wessex	02/12/06		62	03		62.03
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Route Boundary	33	10		33.10
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Hackhurst Lane BW	34	57		34.57
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	GOMSHALI.	35	21		35.21
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Gomshall Station HP	35	21		35.21
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Burrows Lane LC (AHBC)	35	60	*	35.60
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Share Heath LC	36	51		36.51
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06		36	60	*	36.60
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Brook LC (AHBC)	37	19	*	37.19
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Ford Crossing	37	70		37.70
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06		38	03	*	38.03
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	CHILWORTH	39	15		39.15
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Chilworth LC	39	15	CCTV	39.15
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Tangley LC (AHBC)	39	48	*	39.48
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	East Shalford Crossing	40	20		40.20
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	SHALFORD	41	02		41.02
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06		41	10	*	41.10
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0186	SW260	001	Ascot to Ash Vale Junction AAV Wessex	02/12/06		29	25	*	29.25
+0186	SW260	001	Ascot to Ash Vale Junction AAV Wessex	02/12/06	BAGSHOT	32	08		32.08
+0186	SW260	001	Ascot to Ash Vale Junction AAV Wessex	02/12/06	Jenkins Hill Crossing	33	23		33.23
+0186	SW260	001	Ascot to Ash Vale Junction AAV Wessex	02/12/06	Bagshot Tunnel	33	60		33.60
+0186	SW260	001	Ascot to Ash Vale Junction AAV Wessex	02/12/06	121 Yards	33	66		33.66
+0187	SW260	002	Ascot to Ash Vale Junction AAV Wessex	02/12/06	Camberley LO (CCTV)	35	30	*	35.30
+0187	SW260	002	Ascot to Ash Vale Junction AAV Wessex	02/12/06	GAMBERLEY	35	30		35.30
+0187	SW260	002	Ascot to Ash Vale Junction AAV Wessex	02/12/06		36	00	*	36.00
+0187	SW260	002	Ascot to Ash Vale Junction AAV Wessex	02/12/06	FRIMLEY	37	48		37.48
+0187	SW260	002	Ascot to Ash Vale Junction AAV Wessex	02/12/06	Frimley Crossing	38	29		38.29
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0184	SW255	001	Virginia Water to Weybridge VWW Wessex	02/12/06		24	51	*	24.51
+0184	SW255	001	Virginia Water to Weybridge VWW Wessex	02/12/06	GHERTSEY	22	25		22.25
+0184	SW255	001	Virginia Water to Weybridge VWW Wessex	02/12/06	Chertsey LC	22	25	CCTV	22.25
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06	ADDLESTONE	20	71		20.71
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06	Addlestone LC	20	71	CCTV	20.71
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06	Addlestone Jn	19	74	*	19.74
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06		00	00		00.00
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06		00	48	*	00.48
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0182	SW250	001	Staines to Windsor and Eton Riverside SWE Wessex	02/12/06		19	20	*	19.20
+0182	SW250	001	Staines to Windsor and Eton Riverside SWE Wessex	02/12/06	WRAYSBURY	21	40		21.40
+0183	SW250	002	Staines to Windsor and Eton Riverside SWE Wessex	22/03/08	SUNNYMEADS	22	48		22.48
+0183	SW250	002	Staines to Windsor and Eton Riverside SWE Wessex	22/03/08	DATOHET	23	63		23.63
+0183	SW250	002	Staines to Windsor and Eton Riverside SWE Wessex	22/03/08	Datchet LC	23	69	CCTV	23.69
+0183	SW250	002	Staines to Windsor and Eton Riverside SWE Wessex	22/03/08	Mays LC	23	74	CCTV	23.74
+0183	SW250	002	Staines to Windsor and Eton Riverside SWE Wessex	22/03/08		23	28	*	23.28
+0183	SW250	002	Staines to Windsor and Eton Riverside SWE Wessex	22/03/08	WINDSOR AND ETON RIVERSIDE	25	48		25.48
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0174	SW225	001	Point Pleasant Junction to Wimbledon PPW Wessex	02/12/06	EAST PUTNEY	5	60		5.60
+0174	SW225	001	Point Pleasant Junction to Wimbledon PPW Wessex	02/12/06	East Putney Tunnel	6	03	*	6.03
+0174	SW225	001	Point Pleasant Junction to Wimbledon PPW Wessex	02/12/06	311 Yards	6	17		6.17
+0175	SW225	002	Point Pleasant Junction to Wimbledon PPW Wessex	02/12/06	SOUTHFIELDS	6	57		6.57
+0175	SW225	002	Point Pleasant Junction to Wimbledon PPW Wessex	02/12/06	WIMBLEDON PARK	7	50		7.50
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0172	SW220	001	Latchmere Junction to Kensington Olympia CJL SCC WLL CKL Wessex	02/12/06		2	32	*	2.32
+0172	SW220	001	Latchmere Junction to Kensington Olympia CJL SCC WLL CKL Wessex	02/12/06	Latchmere Jn No.3	2	39		2.39
+0172	SW220	001	Latchmere Junction to Kensington Olympia CJL SCC WLL CKL Wessex	02/12/06		0	40		0.40
+0172	SW220	001	Latchmere Junction to Kensington Olympia CJL SCC WLL CKL Wessex	02/12/06		2	42	*	2.42
+0172	SW220	001	Latchmere Junction to Kensington Olympia CJL SCC WLL CKL Wessex	02/12/06	Latchmere Jn No.1	0	63		0.63
+0172	SW220	001	Latchmere Junction to Kensington Olympia CJL SCC WLL CKL Wessex	02/12/06	Latchmere Jn No.2	0	71		0.71
+0173	SW220	002	Latchmere Junction to Kensington Olympia WLL Wessex	02/12/06		1	10	*	1.10
+0173	SW220	002	Latchmere Junction to Kensington Olympia WLL Wessex	02/12/06		1	40	*	1.40
+0173	SW220	002	Latchmere Junction to Kensington Olympia WLL Wessex	02/12/06	WEST BROMPTON	2	43		2.43
+0173	SW220	002	Latchmere Junction to Kensington Olympia WLL Wessex	02/12/06	KENSINGTON OLYMPIA	3	42	*	3.42
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0142	SW185	001	Motspur Park to Chessington South MPC Wessex	29/03/08		10	15	*	10.15
+0142	SW185	001	Motspur Park to Chessington South MPC Wessex	29/03/08		10	46	*	10.46
+0142	SW185	001	Motspur Park to Chessington South MPC Wessex	29/03/08	MALDEN MANOR	11	05		11.05
+0142	SW185	001	Motspur Park to Chessington South MPC Wessex	29/03/08	TOLWORTH	12	06		12.06
+0143	SW185	002	Motspur Park to Chessington South MPC Wessex	29/03/08	CHESSINGTON NORTH 1	3	25		3.25
+0143	SW185	002	Motspur Park to Chessington South MPC Wessex	29/03/08	1	3	60		3.60
+0143	SW185	002	Motspur Park to Chessington South MPC Wessex	29/03/08	CHESSINGTON SOUTH	13	73		13.73
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0120	SW160	001	Brockenhurst to Lymington Pier BLP Wessex	02/12/06		93	60	*	93.60
+0120	SW160	001	Brockenhurst to Lymington Pier BLP Wessex	02/12/06		93	70	*	93.70
+0120	SW160	001	Brockenhurst to Lymington Pier BLP Wessex	02/12/06		94	31	*	94.31
+0120	SW160	001	Brockenhurst to Lymington Pier BLP Wessex	02/12/06		95	73	*	95.73
+0121	SW160	002	Brockenhurst to Lymington Pier BLP Wessex	02/12/06	AMPRESS WORKS	96	61		96.61
+0121	SW160	002	Brockenhurst to Lymington Pier BLP Wessex	02/12/06	(Private)			Z	.
+0121	SW160	002	Brockenhurst to Lymington Pier BLP Wessex	02/12/06		97	47	*	97.47
+0121	SW160	002	Brockenhurst to Lymington Pier BLP Wessex	02/12/06	Lymington Town LC	97	57	CCTV	97.57
+0121	SW160	002	Brockenhurst to Lymington Pier BLP Wessex	02/12/06	LYMINGTON TOWN	97	57		97.57
+0121	SW160	002	Brockenhurst to Lymington Pier BLP Wessex	02/12/06	Lymington Pier (Sealink) Crossing	98	05		98.05
+0121	SW160	002	Brockenhurst to Lymington Pier BLP Wessex	02/12/06	LYMINGTON PIER	98	15		98.15
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0217	SW315	001	Barnham to Bognor Regis BBZ Wessex	02/12/06	Sack Lane Crossing	23	69		23.69
+0217	SW315	001	Barnham to Bognor Regis BBZ Wessex	02/12/06	Cow Lane Crossing	24	35		24.35
+0217	SW315	001	Barnham to Bognor Regis BBZ Wessex	02/12/06	LEC (Cox's) Crossing	24	68		24.68
+0217	SW315	001	Barnham to Bognor Regis BBZ Wessex	02/12/06	Bognor Regis SB	24	68	BR	24.68
+0217	SW315	001	Barnham to Bognor Regis BBZ Wessex	02/12/06	BOGNOR REGIS	25	75		25.75
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0181	SW245	001	Twickenham to Shacklegate Junction TSJ Wessex	02/12/06	STRAWBERRY HILL	12	22		12.22
+0181	SW245	001	Twickenham to Shacklegate Junction TSJ Wessex	02/12/06	Strawberry Hill LC	12	22	CCTV	12.22
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0180	SW240	001	Kew East Junction to Old Kew Junction BOKB Wessex	02/12/06	Kew East Jr:	03	27	*	03.27
+0180	SW240	001	Kew East Junction to Old Kew Junction BOKB Wessex	02/12/06	Route Boundary	03	39		03.39
+0180	SW240	001	Kew East Junction to Old Kew Junction BOKB Wessex	02/12/06		09	64		09.64
+0180	SW240	001	Kew East Junction to Old Kew Junction BOKB Wessex	02/12/06		03	35	*	03.35
+0180	SW240	001	Kew East Junction to Old Kew Junction BOKB Wessex	02/12/06		03	61		03.61
+0180	SW240	001	Kew East Junction to Old Kew Junction BOKB Wessex	02/12/06		09	68		09.68
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06		18	37	*	18.37
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06		19	08	*	19.08
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06	Bookham Tunnel 20t°31	19	08	X	19.08
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06	(91 Yards)	20	35		20.35
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06		20	40	*	20.40
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06	BOOKHAM	20	45		20.45
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06		20	54	*	20.54
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06	Bethell's Crossing	21	20		21.20
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06		21	65	*	21.65
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06		22	10	*	22.10
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06	Effingham Jn	22	15		22.15
+0155	SW205	001	Leatherhead to Effingham Junction LEJ Wessex	02/12/06		21	04		21.04
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0149	SW195	001	Hampton Court Junction to Hampton Court HAM Wessex	22/03/08		13	60	*	13.60
+0149	SW195	001	Hampton Court Junction to Hampton Court HAM Wessex	22/03/08	THAMES DITTOII	14	01		14.01
+0149	SW195	001	Hampton Court Junction to Hampton Court HAM Wessex	22/03/08		14	32	*	14.32
+0149	SW195	001	Hampton Court Junction to Hampton Court HAM Wessex	22/03/08	Hampton Court LC	14	51	CCTV	14.51
+0149	SW195	001	Hampton Court Junction to Hampton Court HAM Wessex	22/03/08	HAMPTON COURT	14	76		14.76
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0122	SW165	001	Hamworthy to Hamworthy Goods (Goods Line) BML2 Wessex	02/12/06	Hamworthy Park LC	117	20	AOCL	117.20
+0122	SW165	001	Hamworthy to Hamworthy Goods (Goods Line) BML2 Wessex	02/12/06	Hamworthy Goods (Stop board)	118	05		118.05
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0112	SW145	001	Northam Junction to Canute Road BML2 Wessex	02/12/06	Chapel Road LC	78	52	AOCL	78.52
+0112	SW145	001	Northam Junction to Canute Road BML2 Wessex	02/12/06	Canute Road LC	79	02	AOCL	79.02
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0100	SW130	001	Eastleigh to Romsey ECR Wessex	02/12/06		73	34		73.34
+0100	SW130	001	Eastleigh to Romsey ECR Wessex	02/12/06		73	73	*	73.73
+0100	SW130	001	Eastleigh to Romsey ECR Wessex	02/12/06	CHANDLERS FORD	75	25		75.25
+0100	SW130	001	Eastleigh to Romsey ECR Wessex	02/12/06	Chandlers Ford UWC	75	40		75.40
+0100	SW130	001	Eastleigh to Romsey ECR Wessex	02/12/06	Crawford UWC	78	40		78.40
+0100	SW130	001	Eastleigh to Romsey ECR Wessex	02/12/06	Crampmoor Crossing	78	60		78.60
+0100	SW130	001	Eastleigh to Romsey ECR Wessex	02/12/06	Halterworth LC	79	24	AHBC	79.24
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Southcote Jn	37	62		37.62
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Territory Boundary	37	76		37.76
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07		38	08	*	38.08
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07		39	05	*	39.05
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Grazeley Green	39	78	UWC	39.78
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Danes	41	28	UWG	41.28
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Great Park	42	58	UWC	42.58
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	MORTIMER	43	14		43.14
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Odd Lane	44	63	UWC	44.63
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Branley LC	46	38	CCTV	46.38
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	BRAMLEY	46	41		46.41

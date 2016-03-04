@@ -1,0 +1,14 @@
+Hoo Jn 27 19
+Cliffe Ground Frame 28 56
+Signal NK509 28 59
+Wyboume LC (AOCL) 32 06
+Stoke Creek LC 35 64
+Recreation LC 36 20
+Middle Stoke LC 36 26
+36 45
+Stoke LC (ABOL) 36 77
+37 12
+37 42
+Flood Gates 38 00
+Grain LC 38 22 *
+

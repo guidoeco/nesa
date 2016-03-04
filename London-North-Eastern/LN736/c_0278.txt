@@ -1,0 +1,12 @@
+109 29 *-
+Garden Street LC (CCTV) 109 26
+GRIMSBY TOWN 109 20
+Wellowgate LC (CCTV) 109 14
+109 10 i:
+Friargate LC (CCTV) 109 03
+Littlefield Lane LC (CCTV) 108 73
+107 79 *
+Marsh Jn SB (M) 107 77
+Marsh West .Jn 107 69
+107 56 *
+

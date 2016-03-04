@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06		117	46	
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06	North Somerset Jn	0	00	
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06		0	14	*
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06	B.632			Z
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06	B.326/B.343			Z
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06	St. Philips Marsh	0	34	
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06	St. Philips Marsh GF	0	40	
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06		0	59	*
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06	Bristol West Jn	1	08	
+0205	GW528	001	Bristol, North Somerset Jn to Bristol West Jn via St. Philips Marsh BRL Western	03/12/06		118	58	

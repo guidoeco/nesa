@@ -1,0 +1,7 @@
+RETB 104 Fort William Jn. SB
+CL 865i (260m)
+(41 SLU's)
+The line between Fort William Jn
+and LOCH EIL OUTWARD BOUND
+is one single line block section
+

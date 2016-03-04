@@ -1,0 +1,7 @@
+NRN
+TCB Carlisle PSB (CE) 083
+AC: Cathcart
+AWS and TPWS not provided.
+(FF) is authorised in both directions between
+Upperby Jn and London Road Jn.
+

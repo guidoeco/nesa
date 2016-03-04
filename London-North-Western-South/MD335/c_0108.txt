@@ -1,0 +1,4 @@
+Perry Barr West Jn 0 39
+Perry Barr South Jn 0 00
+Change of mileage 3 44
+

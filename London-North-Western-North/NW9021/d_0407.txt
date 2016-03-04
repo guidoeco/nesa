@@ -1,0 +1,31 @@
+NRN
+
+AB Fumess Vale SB
+Platform Lengths: New Mills Newtown
+Platform Up 102m (112 yds)
+
+Platform Down 101m (110 yds)
+@Applies to Class 1, 2 and 5 trains
+@Applies to light locomotives
+@Applies to Class 3, 4, 6, 7 and
+
+8 trains
+
+Platform Lengths: Disley
+
+Platform Up 137m (150 yds)
+
+Platform Down 136m (149 yds)
+
+Platform Lengths: Middlewood
+
+Platform Up: 91m (100 yds)
+
+Platform Down: 91m (100 yds)
+'U&D'HV='Up & Down' Hope Valley
+UHV=Up Hope Valley
+
+DHV=Down Hope Valley
+
+TCB Hazel Grove SB
+

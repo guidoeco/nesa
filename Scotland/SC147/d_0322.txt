@@ -1,0 +1,25 @@
+NRN
+
+TCB Edinburgh 80 (EH)
+
+N = North Lines
+
+8 = South Lines
+
+North Iines' mileages differ from
+
+South lines' mileages between
+
+the top of the page and
+
+Haymarket West Jn
+
+North Lines' mileages are
+
+shown in brackets []
+
+ELR - ECN2 = North/Fife lines
+EGM2 = South lines to Haymarket West Jn.
+EGM1 = Glasgow lines, Haymarket West Jn.
+and beyond.
+

@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0454	LN916	001	Hessle Road to Saltend HJS London North Eastern	21/09/08	Hessle Road SB	0	00	HR
+0454	LN916	001	Hessle Road to Saltend HJS London North Eastern	21/09/08		0	06	
+0454	LN916	001	Hessle Road to Saltend HJS London North Eastern	21/09/08	Springbank South Jn	0	77	*
+0454	LN916	001	Hessle Road to Saltend HJS London North Eastern	21/09/08	Springbank North Jn	1	38	
+0455	LN916	002	Hessle Road to Saltend HJS London North Eastern	21/09/08		3	72	*
+0455	LN916	002	Hessle Road to Saltend HJS London North Eastern	21/09/08	Hull River Swing Bridge	3	76	
+0455	LN916	002	Hessle Road to Saltend HJS London North Eastern	21/09/08		3	79	*
+0455	LN916	002	Hessle Road to Saltend HJS London North Eastern	21/09/08	Bridgean	5	15	
+0455	LN916	002	Hessle Road to Saltend HJS London North Eastern	21/09/08	Network RaillABP Boundary	5	62	
+0455	LN916	002	Hessle Road to Saltend HJS London North Eastern	21/09/08		5	62	*

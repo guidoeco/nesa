@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06	Gas Factory Jn	2	57	
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06		2	59	*
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06	OHNS	2	75	
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06	Bow Road	3	07	Closed
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06		3	16	*
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06	Bow . Jn	3	24	
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06		2	69	

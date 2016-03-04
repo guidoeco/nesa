@@ -1,0 +1,12 @@
+NRN
+TCB Birmingham New St PSB (NS)
+AC: Rugby ECR
+
+Walsall PSB (WL)
+Platform lengths: Hamstead
+Down-109 metres (To WL.201)
+Up-129 metres
+Platform lengths: Tame Bridge Parkway
+Down-101 metres
+Up-101 metres
+

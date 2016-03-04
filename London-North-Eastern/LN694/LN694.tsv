@@ -1,0 +1,46 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06	Benton North Jn	0	00	
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		0	05	
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		0	64	
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		0	68	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		2	19	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		2	53	
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		7	08	
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		7	39	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06	Holywell LC	7	41	ABCL
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		7	42	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		8	60	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06	Seghill North LG	9	06	AHBC
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06	Mares Close LC	9	36	UWC
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		10	10	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		10	49	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06	Hartley LC	11	12	AHBC
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06	Red House Farm LC	11	30	UWC
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		11	53	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		11	70	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		12	42	*
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06	Newsham SB	12	45	
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06	Newsham LC	12	45	MCB
+0530	LN694	001	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	02/12/06		12	46	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Newsham North Jn	12	74	
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Plessey Road LC	13	16	CCTV
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Bebside LC	14	67	AHBC-X
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		15	04	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		15	49	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Bedlington South SB	15	60	
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Bedlington South LC	15	60	MOB
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Bodlington North FP LC	15	71	
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Bedlington North SB	15	71	EN
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		15	76	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		16	07	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		16	08	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Coatsworth Farm No.2 LC	16	26	UWC
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		17	03	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Choppington LC	17	06	AHBC
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Hepscott LC	19	21	AHBC
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Park House Farm LC	19	38	UWC
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Hepsoott Jn	19	44	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		20	07	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		20	29	*
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09		20	32	
+0531	LN694	002	Benton North Jn. to Morpeth North Jn. via Bedlington BNE EJM London North Eastern	28/02/09	Morpeth North Jn	20	46	

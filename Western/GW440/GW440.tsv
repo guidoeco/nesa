@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0169	GW440	001	Yate South Jn to Westerleigh BGL2 Western	27/08/08	Yate South Jn	120	03	
+0169	GW440	001	Yate South Jn to Westerleigh BGL2 Western	27/08/08	Broad Lane LC	121	32	UWC
+0169	GW440	001	Yate South Jn to Westerleigh BGL2 Western	27/08/08	Start/End of 02 Line	122	17	
+0169	GW440	001	Yate South Jn to Westerleigh BGL2 Western	27/08/08	GE's Training School LC	122	20	UWC
+0169	GW440	001	Yate South Jn to Westerleigh BGL2 Western	27/08/08		122	22	
+0169	GW440	001	Yate South Jn to Westerleigh BGL2 Western	27/08/08	Westerleigh Yard	122	65	
+0169	GW440	001	Yate South Jn to Westerleigh BGL2 Western	27/08/08	(End of Line)	122	65	X

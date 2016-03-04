@@ -1,0 +1,9 @@
+Copenhagen Jn 0 00
+North London Incline OHNS 0 03
+York Way North Jn (Future) 0 13
+Network Rail LNEI O 20
+Anglia Route Boundary
+
+Camden Road Incline Jn 0 44
+Camden Road Central Jn 0 51
+

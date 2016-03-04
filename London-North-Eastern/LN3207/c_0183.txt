@@ -1,0 +1,9 @@
+127 66 i:
+128 18 are
+LANGLEY MILL 129 68
+Stoneyford HABD 131 19
+Stoneyford sidings 131 53
+132 36 *
+132 68 :7:
+Codnor Park Jn 132 76
+

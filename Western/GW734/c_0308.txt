@@ -1,0 +1,13 @@
+Davey Junction 78 60
+RETB Channel Change 79 00 *-
+DOVEY Junction (TEP) 79 03
+79 12 *
+Bridge1 79 12
+79 20
+Ynys LC (UWC) 79 53
+80 73 2k
+Aberdovey Tunnel No.1 31 11
+183m (200 yards) 81 20
+Aberdovey Tunnel No.2 82 07
+200m (219 yards) 32 17
+

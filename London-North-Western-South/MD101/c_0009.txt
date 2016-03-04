@@ -1,0 +1,13 @@
+13 71 *-
+14 60 i-
+15 20 *
+15 68 *
+BUSHEY 15 79
+16 00 *
+16 2D *-
+16 71 *
+Watford South Junction 17 06
+17 20 *
+Watfcrd Yard GF 17 21
+Watford Jn PSB (WJ) 17 25
+

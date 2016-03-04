@@ -1,0 +1,9 @@
+NRN
+TCB Trent SB ('I'l')
+RAB
+AWS not provided on goods lines
+@ PF authorised between signals
+1T131 8: 'I'l' 169
+® Non-Permissive from signal 11157
+to Toton Centre
+

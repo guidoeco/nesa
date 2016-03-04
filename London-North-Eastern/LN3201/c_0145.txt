@@ -1,0 +1,6 @@
+Luton North Jn 30 52
+30 73 a:
+30 79 *-
+Limbury Rd Up Line GF (No. 1) 31 45
+Limbury Rd Dn. Line GF (No. 2) 31 69
+

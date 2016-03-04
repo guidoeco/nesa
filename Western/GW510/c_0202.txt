@@ -1,0 +1,21 @@
+Freshford LC (UWC) 4 68
+Fisher's LC (UWC) 3 50
+Young's LC (UWC) 3 25
+
+3 13.5
+Dundas Aqueduct 3 12
+
+3 10 it
+Claverton LC (UWC) 1 73
+
+1 00 *
+
+0 50 2k
+Glass' LC 0 2O
+
+0 13 i:
+
+0 00
+Bathampton Jn (UP) 104 45
+Bathampton Jn (DN) 104 55
+

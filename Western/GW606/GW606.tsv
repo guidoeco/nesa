@@ -1,0 +1,73 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06	Cowley Bridge Jn	173	50	
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06		173	54	*
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06		173	74	*
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06		175	07	*
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06	Norton Farm 1 LC	175	64	UWC
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06	Norton Farm 2 LC	176	21	UWC
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06	NEWTON ST. GYRES	176	51	
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06	Newton St. Cyres HABD	176	60	
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06		178	69	*
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06	Single line Jn	178	70	
+0223	GW606	001	Cowley Bridge Jn to Bamstaple DAC Western	05/08/06	CREDITOR	179	20	
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07	Crediton LC	179	26	MOB
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07	Crediton (CN) SB	179	26	
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07	(change of ELR)	179	26	X
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07		179	32	*
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07		179	36	*
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07		179	60	*
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07	Salmon Pool LC	180	09	AOCL
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07	Stockeydown Farm LC	181	70	UWC
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07		182	70	
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07	YEOFORD	182	72	
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07		184	00	*
+0224	GW606	002	Cowley Bridge Jn to Bamstaple DAC NDN Western	01/10/07		184	40	*
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	COPPLESTONE	185	67	
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08		185	74	*
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	ORCHARD ROAD	187	38	
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	Lapford South GF	189	57	
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	LAPFORD	189	65	
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	Lapford North GF	189	73	
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	Chanson No1	191	24	UWC
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	Chanson No 2	191	62	UWC
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	Chanson No 3	192	08	UWC
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	Single line Jn	193	49	*
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	Eggesford LC (T MO)	193	54	
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	EGGESFORD	193	57	TEP
+0225	GW606	003	Cowley Bridge Jn to Bamstaple NDN Western	15/03/08	Single line Jn	193	71	*
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Collaton Barton Farm 1 LC	196	02	UWC
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06		197	40	*
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	KINGS NYMPTON	197	51	
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06		197	60	*
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Newnham Barton Farm LC	198	01	UWC
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Higher Doomsford LC	198	59	UWC
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Braggamarsh 1 LC	199	15	UWC
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Braggamarsh 2 LC	199	42	UWC
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Portsmouth Arms 1 LC	200	38	UWC
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	PORTSMOUTH ARMS	200	38	
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Portsmouth Arms 2 LC	200	51	UWC
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Scoop 1 LC	201	47	UWC
+0226	GW606	004	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Harris LC	202	11	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Shortridge Farm 2 LC	202	54	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Shortridge Farm 3 LC	202	71	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Brightly Weir Farm 1 LC	203	23	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Brightly Weir Farm 2 LC	203	34	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Brightly Weir Farm 3 LC	203	44	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Brightly Mill LC	203	66	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Brightly Barton 1 LC	204	00	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Umberleigh LG	204	32	AOCL
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07		204	40	*
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	UMBERLEIGH	204	52	
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07		204	67	*
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Little Weir Farm 2 LC	205	06	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Umberleigh Barton 3 LC	205	70	UWC
+0227	GW606	005	Cowley Bridge Jn to Bamstaple NDN Western	28/07/07	Fishley LC	206	43	UWC
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	CHAPELTON	207	02	
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Chapelton Station LC	207	06	UWC
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Great Fisherton Farm1 LC	207	72	UWC
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Great Fisherton Farm 2 LC	208	27	UWC
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06		210	78	
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06		211	17	*
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Bamstaple GF	211	18	
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	BARNSTAPLE	211	25	
+0228	GW606	006	Cowley Bridge Jn to Bamstaple NDN Western	05/08/06	Endofline	211	31	

@@ -1,0 +1,15 @@
+NRN
+TCB Colohester SB (C0)
+RAB AC: Romford
+LC - Line C
+LD - Line D
+FWS Line 0 and Line D 123m 40ch and 123m 73ch
+LE - Line E
+LW - Line W
+Platform 1 - 298m (9.18de) PP
+Platform 2 - 296m (320yds) PP
+Platform 3 - 250m (270yds) PP
+Platform 4 - 255m (275yds) PP
+Platform 5 - 198m (214yds) PP
+Platform 6 - 132m (142yds) PP
+

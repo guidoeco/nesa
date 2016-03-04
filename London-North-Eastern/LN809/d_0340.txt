@@ -1,0 +1,12 @@
+NRN
+
+TCB Woodburn Jn SB (W)
+RA10
+AWS not provided
+TPWS not provided
+WDA = West DeparturelArrival Line.
+
+Tinsley Yard SB (TY)
+EAL = East Arrival line
+EDL = East Departure line
+

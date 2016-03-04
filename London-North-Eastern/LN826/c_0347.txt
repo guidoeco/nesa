@@ -1,0 +1,12 @@
+South Yorkshire Jn (US) 22 57
+South Yorkshire Jn (DS) 22 55
+22 42
+22 39 *
+St James Jn 22 38
+22 35 a:
+22 34
+22 27 *
+22 25 a:
+21 09
+Hexthorpe Jn 20 72 *
+

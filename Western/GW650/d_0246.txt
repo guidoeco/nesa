@@ -1,0 +1,9 @@
+NRN
+OT(S) Lostwithiel SB (LL) 093
+RAB
+AWS inductor for Up
+Branch distant not suppressed
+for down direction movements
+6) End/Start of Staff Section
+See Local Instructions
+

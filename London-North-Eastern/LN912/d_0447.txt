@@ -1,0 +1,16 @@
+NRN
+TCB Goole SB (G)
+RAB
+X10 between 5 00 and 5 25 when making a
+wrong direction movement
+Swing Bridge (Goole)
+Goole Bridge SB (GB)
+NRN Channel Change NRN
+Down 4 35 fl
+Up 4 4O
+NRN
+v
+AB Saltmarshe SB (SA)
+(3A8 signal at 2 62 DownlSAZO signal at 2 69 Up)
+Gilberdyke Jn SB
+

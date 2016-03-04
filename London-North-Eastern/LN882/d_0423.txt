@@ -1,0 +1,10 @@
+NRN
+TCB Sudforih Lane SB (3)
+RAB
+URS = 2176m I 7140 feet
+DTS = Down Through Siding
+DL = Departure Line
+AL = Arrival Line
+6) - TolFrom Eggborough Power Station
+Hensall SB (H)
+

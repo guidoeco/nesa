@@ -1,0 +1,15 @@
+Littlebrook TP Hut 17 79
+18 32 *
+STONE CROSSING 19 07
+Stone LC 19 14
+Stone Crossing Substation 19 15
+GREENHITHE 19 69
+Greenhithe Tunnel 20 03
+(253 yards) to 20 15
+Swanscombe TP Hut 20 70
+SWANSCOMBE 21 14
+NORTHFLEET 21 69
+Northfleet Substation 22 25
+Springhead Road Jn Up 22 27
+Springhead Road Jn Down 22 42
+

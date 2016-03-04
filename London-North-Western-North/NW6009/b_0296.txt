@@ -1,0 +1,19 @@
+Four Lane Ends LC (RIG)
+
+Shaws LC (RIG)
+
+Burscough Bridge Jn SB (BB)
+BURSCOUGI-I BRIDGE
+Crabtree LC (RIG)
+
+NEW LANE (Up Platform)
+New Lane LC (AHBC)
+
+NEW LANE (Down Platform)
+Martins Lane LC (RIG)
+
+BESGAR LANE (Up Platform)
+Bescar Lane LC (AHBC)
+BESGAR LANE (Down Platform)
+Wyke Cop LC (AHBC)
+

@@ -1,0 +1,17 @@
+NRN
+
+AB Acton Canal Wharf SB (ACW)
+
+RAB
+CD Signal ACW29 is not interlocked with the block
+
+instrument
+
+{2) Telephone linked to Wembley Main Line SOC
+
+CW. 455 yds before reaching Acton
+
+Canal Wharf home signal
+
+Acton Wells Jn SB (AW)
+

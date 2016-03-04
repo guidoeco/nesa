@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Denbigh Hall South Jn	47	52	
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Change of mileage	1	71	
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Flyover Junction Summit	0	68	
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Flyover Junction	0	00	
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Change of mileage	0	64	
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Stop Block	1	31	
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Stop Block	1	31	
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Claydon LC	11	18	AOCL
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Stop Block Gate	12	00	
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Single Line	12	10	*
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Claydon L&NE Jn SB	12	57	*
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Claydon L&NE Jn	12	57	X
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Launton LC	17	12	AOCL
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07		18	00	*
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Bicester Eastern Perimeter Rd LC (T MOB	18	25	
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Route Boundary	18	40	
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	London Rd LC	19	30	TMO
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	BICESTEII TOWN	19	34	

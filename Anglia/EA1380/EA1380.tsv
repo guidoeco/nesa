@@ -1,0 +1,80 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	FENGHURGH STREET	0	00	
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	Tower Gateway station (DLR)	0	00	X
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07		0	33	*
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	Royal Mint Street Jn . (DLR)	0	33	X
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	Christian Street Jn	0	61	
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Shadwell station	1	04	DLR
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		1	43	*
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Limehouse station (DLR)	1	43	X
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	LIMEHOUSE	1	53	
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		1	63	*
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		2	25	
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		2	51	*
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Gas Factoan	2	57	
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		2	73	*
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		3	12	*
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Bromley—by—Bow Station	3	18	LUL
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	OHNS	3	75	
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	West Ham station	4	08	
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Plaistow station	4	45	LUL
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upton Park station	5	28	LUL
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		6	00	*
+0158	EA1380	004	Fenchurch St to Shoeburyness FSS Anglia	21/04/07	East Ham Station	6	18	LUL
+0158	EA1380	004	Fenchurch St to Shoeburyness FSS Anglia	21/04/07		6	40	*
+0158	EA1380	004	Fenchurch St to Shoeburyness FSS Anglia	21/04/07		6	50	*
+0158	EA1380	004	Fenchurch St to Shoeburyness FSS Anglia	21/04/07	Barking Tilbury Line Jn	7	08	*
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08	Barking Flyover			X
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08	Barking Tilbury Line Jn West	7	33	*
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08	BARKING	7	42	
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08		7	60	*
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08	Barking Tilbury Line Jn East	7	60	X
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		8	10	*
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upney Jn .	8	10	X
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upney Station	8	46	LUL
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		8	55	*
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	OHNS	8	56	
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Becontree	9	48	LUL
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Dagsnham Heathway	10	36	LUL
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Dagsnham East	11	25	LUL
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Dagenham East Crossovers	11	60	
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Elm Park	12	57	LUL
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Homchurch	13	56	LUL
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upminster Bridge	14	38	LUL
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	UPMINSTER	15	20	
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upminster GF	15	36	
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upminster (UR) IECC	15	38	
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	OHNS	15	69	
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Whipps Farm LC	17	45	
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04		18	70	
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04	WEST HORNDON	19	15	
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04	OHNS	20	76	
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04		22	45	*
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04	LAINDON	22	69	
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04		23	05	*
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	BASILDON	24	26	
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	OHNS	25	69	
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		26	33	*
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	PITSEA	26	42	
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Pitsea Jn	26	52	
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		26	68	*
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	BENFLEET	29	11	
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Kersey No.1 LC	30	11	
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Kersey No.7 LC	30	65	
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Salvation Army Colony 2 LC	31	14	
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	LEIGH-ON-sEA	32	43	*
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		33	06	*
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		33	43	*
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	CHALKWELL	33	69	
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	WESTCLIFFHD N-SEA	34	66	
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		35	16	*
+0167	EA1380	013	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	OHNS	35	27	
+0167	EA1380	013	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	SOUTHEND CENTRAL	35	55	
+0167	EA1380	013	Fenchurch St to Shoeburyness FSS Anglia	01/12/07		35	70	*
+0168	EA1380	014	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		36	42	*
+0168	EA1380	014	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	SOUTHEND EAST	36	49	
+0168	EA1380	014	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	THORPE BAY	37	73	
+0168	EA1380	014	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		38	48	*
+0169	EA1380	015	Fenchurch St to Shoeburyness FSS Anglia	01/12/07		39	15	*
+0169	EA1380	015	Fenchurch St to Shoeburyness FSS Anglia	01/12/07		39	18	*
+0169	EA1380	015	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	SHOEBURYNESS	39	40	

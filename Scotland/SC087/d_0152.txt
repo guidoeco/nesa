@@ -1,0 +1,15 @@
+NRN GSM-R
+TCB Paisley 30 Panel 3 (PA)
+GSM-R
+Up: Start of GSM-R area: 39m 51 ch A
+Down: End of GSM-R area: 39m 51 ch
+"No Signaller" Key Token
+instrument at Signal PA 335
+See local Instructions
+:
+DB = Down branch
+Mauchline SB
+UB = Up branch
+6) 20mph between Up 8: Down
+branches and main line
+

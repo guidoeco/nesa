@@ -1,0 +1,17 @@
+Leominster (LE) SB 38 60
+4O 15 *
+Ford Bridge LC (UWC) 40 69
+42 55 i:
+42 65 *-
+42 67
+Dinmore Tunnels 42 68
+964m (1054 yards) 43 36
+43 60 *
+Ox Pasture Farm 1 LC (UWC) 44 38
+44 39 :7:
+Dolmeadow LC (UWC) 44 76
+Wellington HABD 45 32 *-
+Wellington LC (AHBC) 45 33
+45 78 *
+46 00 a:
+

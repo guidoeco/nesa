@@ -1,0 +1,8 @@
+UPTON 1 67
+0 52 9:
+0 33 *-
+Bidston Dee Jn 0 08 7k
+4 78
+BIDSTON 4 75
+Bidston WestJn 4 71
+

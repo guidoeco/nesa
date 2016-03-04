@@ -1,0 +1,8 @@
+WATERLOO EAST O 61
+(Blackfriars Jn) ( 0 63)
+Southwark Substation 1 O3
+Metropolitan Jn 1 31 i:
+( 1 14)
+(CANNON STREET) ( 1 73)
+(Borough Market Jn) ( 1 50)
+

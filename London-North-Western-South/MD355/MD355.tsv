@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Lichfield Trent Valley Junction SB	18	15	TV
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Lichfield TV Jn	18	13	
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Change of mileage	0	22	
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08		0	17	*
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Lichfield Trent Valley	0	02	
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Change of mileage	116	28	

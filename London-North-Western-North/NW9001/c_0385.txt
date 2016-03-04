@@ -1,0 +1,13 @@
+Newtown Tunnel 172 74
+(82m190yd) to 172 78
+173 60 'k
+174 16 *-
+Disley Tunnel 174 17
+(3534ml3866yd) to 176 33
+177 09
+177 25 *
+177 35
+Hazel Grove High Level Jn 177 40 a:
+2 62
+177 46 i:
+

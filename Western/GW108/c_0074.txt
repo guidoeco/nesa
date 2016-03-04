@@ -1,0 +1,8 @@
+221 55 *-
+Totnes East 222 39
+TOTNES 222 66
+
+225 13
+Marley Tunnels 227t062
+(793m, 867yds) 228 22
+

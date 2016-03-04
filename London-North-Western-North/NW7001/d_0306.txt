@@ -1,0 +1,9 @@
+NRN
+TCB Manchester North SB (MN)
+DR = Down Rochdale
+UR = Up Rochdale
+UPL 455m (1493ft)
+DPL (PF) 479m (1572ft)
+D0 = Down Oldham
+U0 = Up Oldham
+

@@ -1,0 +1,54 @@
+NRN
+TCB Birmingham New St. PSB (NS)
+
+UST = Up Stour
+
+DST = Down Stour
+
+UDby = Up Derby
+
+DDby = Down Derby
+
+Platform Lengths:
+
+1 - 350 metres
+
+2 - 322 metres
+
+3 - 322 metres
+
+4 - 359 metres
+
+5 - 260 metres
+
+6 - 315 metres
+
+7 - 318 metres
+
+8 - 339 metres
+
+9 - 321 metres
+
+10 - 321 metres
+
+11 - 333 metres
+
+12 - 236 metres
+
+No.1 Siding - 195 metres
+
+No.2 Siding - 237 metres
+
+No.3 Siding - 239 metres
+
+Maximum speed 10mph, all
+
+lines Birmingham New Street.
+AWS inductors are not provided
+for Birmingham New St Station
+platform & platform starting
+signals
+PP is authorised over platform
+lines in clear weather only
+except Platform 4C.
+

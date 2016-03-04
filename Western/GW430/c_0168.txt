@@ -1,0 +1,13 @@
+Yate Middle Jn 119 57
+
+0 00
+Yate West (Start of OT section) 0 22
+Single Line Jn o 24
+Iron Acton Station LC (AOCL) 1 66
+Iron Acton By-pass LC (TMO) 2 09
+Latteridge LC (T M0) 2 47
+Tytherington Tunnel 5 46
+(205m, 224yds) to 5 56
+Tytherington 6 24
+(end of line)
+

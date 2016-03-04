@@ -1,0 +1,15 @@
+MERTHYR TYDFIL 24 44
+24 34 *-
+24 11 *-
+23 63 *-
+PENTRE-BACH 23 O3
+21 73 *
+21 72 *
+TROED—Y-RHIW 21 69
+21 64 *-
+Troed-Y—Rhiw South Jn 21 52
+21 26 *
+MERTHYR VALE 19 77
+19 68 *-
+Blacklion Junction 19 62 :1:
+

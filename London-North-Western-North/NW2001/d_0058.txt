@@ -1,0 +1,18 @@
+NRN
+TCB Liverpool Lime St SB (LS)
+AC: Crewe
+
+Mileages in brackets relate to slow
+
+lines only
+Platform Lengths: Liverpool Lime Street
+Platform 1 Permissive PP 164m (179yds)
+Platform 2 Permissive PP 145m (159yds)
+Platform 3 Permissive PP 145m (159yds)
+Platform 4 Permissive PP 164m (179yds)
+Platform 5 Permissive PP 164m (179yds)
+Platform 6 Permissive PP 247m (270yds)
+Platform 7 Permissive PP 245m (268yds)
+Platform 3 Permissive PP 247m (270yds)
+Platform 9 Permissive PP 224m (245yds)
+

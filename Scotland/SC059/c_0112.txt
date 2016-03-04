@@ -1,0 +1,8 @@
+32 73 it
+BARASSIE 32 77
+Barassie M 33 06 *-
+(Change of ELR 33 08
+AYR4 to AYR5) 0 00
+0 17 it
+0 43 *
+

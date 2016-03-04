@@ -1,0 +1,20 @@
+196 42 *
+Kirkstall Loops OHNS 197 21
+197 31
+Kirkstall Loops
+198 00
+200 24 *-
+HABD 201 40
+201 75 *
+rle Jn 202 00
+Appe y 202 05 *
+Apperley TSL OHNS 202 15
+203 42 *-
+Thaokley Tunnel 203m 43
+(1496 yards) 204 31
+205 00 *-
+Dockfield Jn 205 47
+205 53 *
+Shipley East Jn 205 54
+SHIPLEY 205 72
+

@@ -1,0 +1,10 @@
+36 65 *-
+BARMING 37 43
+33 00 *-
+Barming Substation 38 05
+39 25 *
+Maidstone Substation 39 55 *
+39 59 *
+Maidstone East SB (ME) 39 72
+MAIDSTONE EAST 39 76
+

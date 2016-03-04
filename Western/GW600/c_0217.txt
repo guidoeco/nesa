@@ -1,0 +1,10 @@
+86 60 *-
+NRN Channel change 93 DO
+DGL 97 7O
+Hullavington
+DGLIUGL 94 23
+94 33 *-
+94 40
+UGL 94 62
+97 30 i:
+

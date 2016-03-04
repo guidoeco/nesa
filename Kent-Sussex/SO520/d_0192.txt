@@ -1,0 +1,14 @@
+NRN CSR
+TCB Three Bridges SB (T)
+RAB DC: Brighton
+DPL 35
+UPL 35
+Platform 1 PP
+Platform 2 PP-A
+Platform 3 PP
+Platform 4 PP
+1 Up Main
+2 Down Main
+3 Up Horsham
+4 Down Horsham
+

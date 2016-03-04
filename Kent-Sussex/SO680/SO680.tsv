@@ -1,0 +1,105 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0270	SO680	001	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/12/06	(South Bermonsey Jn)	1	49	
+0270	SO680	001	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/12/06		1	62	*
+0270	SO680	001	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/12/06	SOUTH BERMONDSEY	1	63	
+0270	SO680	001	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/12/06	QUEEN'S ROAD PEGKHAM	2	58	
+0270	SO680	001	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/12/06	PECKHAM RYE	3	36	
+0270	SO680	001	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/12/06	Peckham Rye Jn	3	47	
+0270	SO680	001	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/12/06	Peckham Rye TP Hut	3	49	
+0270	SO680	001	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/12/06		3	50	*
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06		4	15	*
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	EAST DULWIGH	4	23	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	Route Boundary	4	44	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	NORTH DULWICH	4	64	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	West Dulwioh Substation	5	32	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	Knight's Hill Tunnel	5	56	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	(331 yards) to	5	71	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	(Heme Hill)	4	37	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	Route Boundary	4	63	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06		4	65	*
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	TULSE HILL	6	07	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06		5	02	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	Tulsa Hill Substation	6	20	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	(Leigham Jn)	6	40	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06	(West NOMOOd Jn)	6	41	
+0271	SO680	002	South Bermondsey Jn to Horsham BTH1 HHT Kent/Sussex	02/12/06		6	10	*
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08		6	25	*
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08	Leigham Tunnel	6	62	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08	(302 yards) to	6	76	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08	Streatham Tunnel	7	09	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08	(220 yards) to	7	19	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08	STREATHAM	7	48	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08	(Streatham North Jn)	6	14	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08		6	30	*
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08	Streatham South Jn	8	11	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08		6	43	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08		0	00	
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08		0	20	*
+0272	SO680	003	South Bermondsey Jn to Horsham BTH1 SSC SLJ Kent/Sussex	22/03/08	Grove Road TP Hut	9	21	
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08	MITGHAM EASTFIELDS	9	19	
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08	Eastfields Road LC	9	19	CCTV
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08		9	75	*
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08	MITCHAM JN	10	30	
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08	Mitcham Jn Substation	10	40	
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08		10	63	*
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08	HACKBRIDGE	11	41	
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08	Carshalton TP Hut	12	03	
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08		12	15	*
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08		12	25	*
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08	CARSHALTON	12	30	
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08		12	36	*
+0273	SO680	004	South Bermondsey Jn to Horsham BTH1 Kent/Sussex	02/06/08		12	41	*
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06		13	35	*
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	Change of Mileage	13	45	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06		14	66	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	Sutton Ground Frame	14	71	*
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	Sutton Substation	14	67	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	SUTTON	14	75	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06		12	50	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06		15	03	*
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06		12	40	*
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	CHEAM	15	76	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	Cheam TP Hut	16	06	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	Ewell East Substation	17	23	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	EWELL EAST	17	27	
+0274	SO680	005	South Bermondsey Jn to Horsham BTH1 BTH2 NFE Kent/Sussex	02/12/06	Route Boundary	17	33	
+0275	SO680	006	South Bermondsey Jn to Horsham BTH2 BTH3 RPE Kent/Sussex	29/03/08		18	50	*
+0275	SO680	006	South Bermondsey Jn to Horsham BTH2 BTH3 RPE Kent/Sussex	29/03/08		18	66	
+0275	SO680	006	South Bermondsey Jn to Horsham BTH2 BTH3 RPE Kent/Sussex	29/03/08		14	10	
+0275	SO680	006	South Bermondsey Jn to Horsham BTH2 BTH3 RPE Kent/Sussex	29/03/08	EPSOM	18	73	
+0275	SO680	006	South Bermondsey Jn to Horsham BTH2 BTH3 RPE Kent/Sussex	29/03/08		14	27	
+0275	SO680	006	South Bermondsey Jn to Horsham BTH2 BTH3 RPE Kent/Sussex	29/03/08	Change of Mileage	19	03	
+0275	SO680	006	South Bermondsey Jn to Horsham BTH2 BTH3 RPE Kent/Sussex	29/03/08		14	27	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08	Ashtead Substation	15	42	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08	Ashtead LC	16	14	CCTV
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08	ASHTEAD	16	19	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08		16	72	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08	Barnett Wood TP Hut	16	77	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08	LEATHERHEAD	18	02	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08		18	05	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08	Leatherhead Substation	18	18	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08	Mickleham Tunnel 19 55 to	19	78	
+0276	SO680	007	South Bermondsey Jn to Horsham BTH3 LEJ Kent/Sussex	29/03/08		18	20	*
+0277	SO680	008	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	18/10/08	Mickleham TP Hut	20	09	
+0277	SO680	008	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	18/10/08	Route Boundary	21	09	
+0277	SO680	008	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	18/10/08	BOXHILL & WESTHUMBLE	21	14	
+0277	SO680	008	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	18/10/08	Dorking Substation	22	00	
+0277	SO680	008	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	18/10/08	Dorking SB (CBK)	22	01	*
+0277	SO680	008	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	18/10/08	DORKING	22	08	
+0277	SO680	008	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	18/10/08		22	15	*
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Betchworth Tunnel	22	60	*
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	(384 yards) to	23	23	*
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Stonebridge TP Hut	23	50	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Blackbrook Substation	25	30	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	HOLMWOOD	27	05	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Holmwood TP Hut	27	08	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Ockley Substation	28	63	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	OGKLEY	29	20	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Tipholm TP Hut	30	30	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Kingsfold Substation	32	00	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Kingsfold Crossing	32	06	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	WARNHAM	33	46	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Wamham Station Road LC	33	50	RIG
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	Wamham TP Hut	33	55	
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06		35	08	*
+0278	SO680	009	South Bermondsey Jn to Horsham BTH3 Kent/Sussex	02/12/06	(Horsham Jn)	35	34	

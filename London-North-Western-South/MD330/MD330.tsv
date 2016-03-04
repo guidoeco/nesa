@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06	Soho East Jn	2	38	
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06	Change of mileage	0	00	
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06		0	20	*
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06	Soho North Jn	0	22	
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06	Change of mileage	2	33	

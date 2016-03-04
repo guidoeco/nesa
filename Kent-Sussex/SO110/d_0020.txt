@@ -1,0 +1,11 @@
+NRN CSR
+RAB DC: Canterbury
+CSR
+
+1 Up Main A
+2 Down Main "
+3 Up Spur
+4 Down Spur
+5 Up Branch
+6 Down Branch
+

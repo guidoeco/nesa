@@ -1,0 +1,13 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	Stechford South Jn	106	66	
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	STECHFORD	109	06	
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	Stechford North Jn	109	12	
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	Change of mileage	109	16	
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		0	00	
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		0	04	*
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		0	05	*
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	OHNS	2	10	
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		2	40	*
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		2	56	*
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	Aston South Jn	2	61	
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		1	60	

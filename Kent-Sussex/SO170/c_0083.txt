@@ -1,0 +1,16 @@
+37 53 *
+
+39 06 *-
+Wadhurst Substation 39 10
+
+39 20 *-
+WADHURST 39 23
+
+39 26 *
+Wadhurst Ground Frame 39 27
+Wadhurst Tunnel 39 65
+(1205 yards) to 40 4O 1-
+
+40 50 *-
+SnapeTP Hut 41 12
+

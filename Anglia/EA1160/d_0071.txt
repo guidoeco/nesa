@@ -1,0 +1,39 @@
+NRN CSR
+
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+
+General instruction applies at
+
+the following bridges:
+
+Collingwood Street (Bridge 26) at 1m 17ch
+
+Witan Street (Bridge 1339) at 1m 27ch
+
+Birbeck Street (Bridge 1340) at 1m 29ch
+
+West Street (Bridge 1345) at 1m 590h 03R
+
+Hare Row (Bridge 1349) at 1m 70ch
+
+Up Platform - 185m (ZOOyds)
+
+Down Platform - 189m (204yds)
+
+General instruction applies at
+
+the following bridges:
+
+Beck Road (Bridge 1352) at 2m 10ch
+
+Helmsley Place (Bridges 1357) at 2m 24ch
+
+Up Platform - 196m (212yd)
+
+Down Platform - 197m (213yd)
+
+Instructions in Section 1 applies at
+
+Reading Lane (Bridge 1365) at 2m 520h
+

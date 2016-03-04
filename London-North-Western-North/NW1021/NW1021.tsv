@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08		185	41	*
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08		185	43	*
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08	Winwick Jn	185	49	
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08		186	60	
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08	Earlestown South Jn	186	74	*
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08	EARLESTOWN	187	03	
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08	Earlestown East Jn	187	10	*
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08		14	75	
+0046	NW1021	001	Winwick Jn. to Golborne Jn. (Via Earlestown) WEE DSE LNW North	24/05/08	NEWTON-LE-WILLOWS	15	60	
+0047	NW1021	002	Winwick Jn. to Golborne Jn. (Via Earlestown) DSE NGJ LNW North	24/05/08	Newton-le-Willows Jn	16	19	
+0047	NW1021	002	Winwick Jn. to Golborne Jn. (Via Earlestown) DSE NGJ LNW North	24/05/08		0	00	*
+0047	NW1021	002	Winwick Jn. to Golborne Jn. (Via Earlestown) DSE NGJ LNW North	24/05/08	OHNS	0	05	
+0047	NW1021	002	Winwick Jn. to Golborne Jn. (Via Earlestown) DSE NGJ LNW North	24/05/08	OHNS	0	11	
+0047	NW1021	002	Winwick Jn. to Golborne Jn. (Via Earlestown) DSE NGJ LNW North	24/05/08	Lowton Jn	0	26	
+0047	NW1021	002	Winwick Jn. to Golborne Jn. (Via Earlestown) DSE NGJ LNW North	24/05/08		0	46	*
+0047	NW1021	002	Winwick Jn. to Golborne Jn. (Via Earlestown) DSE NGJ LNW North	24/05/08		0	48	
+0047	NW1021	002	Winwick Jn. to Golborne Jn. (Via Earlestown) DSE NGJ LNW North	24/05/08	Golbome Jn	0	53	*

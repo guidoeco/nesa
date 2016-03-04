@@ -1,0 +1,11 @@
+NRN CSR
+TCB Wool to Moreton
+RAB DC:Eastleigh
+CSR Channel 47 applies in Up direction only
+CSR
+AB Wool to Moreton
+AB applies Up line only (W0)
+CSR
+CSR
+'
+

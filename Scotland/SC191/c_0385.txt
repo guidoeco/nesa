@@ -1,0 +1,14 @@
+2 19 i:
+
+2 55 i:
+Harecraig LC (UWC) 2 56
+
+2 59 *-
+
+3 12 1|:
+BROUGHTY FERRY 3 38
+Broughty Ferny LC (CCTV) 3 42
+
+3 50 *
+BALMOSSIE 5 00
+

@@ -1,0 +1,9 @@
+NRN GSM-R
+TCB Paisley SC Panel 3 (PA)
+AC: Cathcart ECR
+CSR
+Limit of OLE GSM'R
+Up: Start of GSM-R area: 41 m OBch A
+Down: End of GSM-R area: 41m 220h
+Kilkerran SB (KK)
+

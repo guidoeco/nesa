@@ -1,0 +1,13 @@
+NRN
+TCB Preston SB (PN)
+Platform Lengths: Lostock Hall
+Up: 83m (91 yards)
+Down: 83m (91 yards)
+CD Applies to passenger trains only
+(2) Applies to all other trains
+CW. Down at 1m 47eh. (414 yards
+before reaching signal PM .491)
+CW. Down at 2m O1ch. (634 yards
+before reaching signal PN.486)
+ERL=Engineer's Reception Line
+

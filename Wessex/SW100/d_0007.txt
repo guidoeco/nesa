@@ -1,0 +1,37 @@
+NRN CSR
+
+TCB Wimbledon SC (W) - Main Line
+RAB DC: Raynes Park
+
+1 Up Ludgate
+
+2 Down Ludgate
+
+3 Up Windsor Slow
+
+4 Up Windsor Fast
+
+5 Down Windsor Fast
+
+6 Down Windsor Slow
+
+7 Up Main Fast
+
+8 Down Main Fast
+
+9 Up Main Slow
+10 Down Main Slow
+
+CSR
+Wimbledon sc (W) — Windsor Lines
+
+Platform 2 PP
+
+T.0.W.S. on Up Main Lines
+
+London end of Station
+
+(See local instructions section)
+
+UPL 819 ft.
+

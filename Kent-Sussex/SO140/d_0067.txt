@@ -1,0 +1,8 @@
+NRN CSR
+TCB Maidstone East SB (ME) 89
+RAB DC: Paddock Wood
+Horn Code - Down trains 18 when
+leaving platform.
+1 Up Maidstone
+2 Down Maidstone
+

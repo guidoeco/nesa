@@ -1,0 +1,11 @@
+NRN
+
+OT(S) East Usk Jn SB
+RAB
+TPWS and AWS not provided
+
+CD out of use
+AWS inductor for Down Branch
+Distant not suppressed for
+Up direction movements
+

@@ -1,0 +1,12 @@
+145 40 *-
+Halkirk LC (AOCL) 145 59
+Sibsterburn LC (UWC) 146 47
+Halkirk TEP (Down direction only) 146 53
+Sibster Buoltor LC (UWC) 147 00
+South and loop points 147 09 it
+Up South GF
+GEORGEMAS JN TEP 147 20
+Up North GF
+Georgemas No 1 GF
+North end loop points 147 34 *-
+

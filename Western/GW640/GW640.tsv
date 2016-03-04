@@ -1,0 +1,22 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	LISKEARD	8	67	
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	Liskeard Jn	264	66	
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	(ELR-LIJ)	8	72	
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	Liskeard GF	8	52	
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	Bolitho1LC	8	17	UWC
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	Coombe Jn	6	75	
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06		6	52	
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	CoombeNo.1GF	6	52	
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	Coombe LC	6	53	UWC
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	600MBE	6	63	
+0243	GW640	001	Liskeard to Looe Via Coombe LIL Western	05/08/06	Coombe No.2GF	6	66	*
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06	CoombeNo1G.F.	6	52	
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06	Lodge Farm LC	6	22	OPEN
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06		6	01	*
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06	STKEYNE	5	03	
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06		4	75	*
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06	GAUSELAND	3	58	
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06	SANDPLACE	2	29	
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06	Terras LC (OPEN)	1	32	*
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06		0	24	*
+0244	GW640	002	Liskeard to Looe Via Coombe LOO Western	05/08/06	LOOE	0	19	

@@ -1,0 +1,10 @@
+NRN
+TCB Manchester South scc (MS)
+CL 494m (1621ft) NRN
+Area channel Up
+change at 3m 46ch 
+U&D = Up & Down branch NRN
+Greenbank PSB (GK)
+U&DM = Up 8: Down Middlewich branch
+U&DN = Up & Down Northwich branch
+

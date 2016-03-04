@@ -1,0 +1,147 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0425	SC195	001	Aberdeen to Inverness ECN5 AN|1 Scotland	03/05/08	Ferryhill Jn	240	40	
+0425	SC195	001	Aberdeen to Inverness ECN5 AN|1 Scotland	03/05/08		240	60	*
+0425	SC195	001	Aberdeen to Inverness ECN5 AN|1 Scotland	03/05/08	Aberdeen SB	240	63	
+0425	SC195	001	Aberdeen to Inverness ECN5 AN|1 Scotland	03/05/08	ABERDEEN	241	06	
+0425	SC195	001	Aberdeen to Inverness ECN5 AN|1 Scotland	03/05/08	(Change of ELR	241	08	
+0425	SC195	001	Aberdeen to Inverness ECN5 AN|1 Scotland	03/05/08	ECN5 to ANI1)	0	00	
+0425	SC195	001	Aberdeen to Inverness ECN5 AN|1 Scotland	03/05/08		0	20	*
+0426	SC195	002	Aberdeen to Inverness AN11 Scotland	02/12/06	Schoolhill Tunnel	0	32	
+0426	SC195	002	Aberdeen to Inverness AN11 Scotland	02/12/06	250 Yds to	0	43	
+0426	SC195	002	Aberdeen to Inverness AN11 Scotland	02/12/06	Hutcheon St. Tunnel	0	54	
+0426	SC195	002	Aberdeen to Inverness AN11 Scotland	02/12/06	280 Yds to	0	67	
+0426	SC195	002	Aberdeen to Inverness AN11 Scotland	02/12/06	Kittybrewster GF	1	59	
+0426	SC195	002	Aberdeen to Inverness AN11 Scotland	02/12/06		1	60	*
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		2	09	*
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		4	00	
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		4	06	*
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		4	03	*
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		5	71	*
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07	Dyce SB	6	11	
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07	DYCE	6	20	
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		6	42	*
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		6	44	*
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		7	12	*
+0427	SC195	003	Aberdeen to Inverness AN11 Scotland	26/11/07		7	40	
+0428	SC195	004	Aberdeen to Inverness AN11 Scotland	02/12/06	Pitmedden LC	8	20	R/G
+0428	SC195	004	Aberdeen to Inverness AN11 Scotland	02/12/06		9	40	*
+0428	SC195	004	Aberdeen to Inverness AN11 Scotland	02/12/06	Kirkton of Kinellar LC	11	29	UWC
+0428	SC195	004	Aberdeen to Inverness AN11 Scotland	02/12/06		12	36	*
+0428	SC195	004	Aberdeen to Inverness AN11 Scotland	02/12/06	Boat of Kintore LC (AHBC)	12	78	*
+0428	SC195	004	Aberdeen to Inverness AN11 Scotland	02/12/06		13	40	*
+0429	SC195	005	Aberdeen to Inverness AN11 Scotland	02/12/06	Caimhall LC	14	22	UWC
+0429	SC195	005	Aberdeen to Inverness AN11 Scotland	02/12/06	Fullerton LC	14	46	UWC
+0429	SC195	005	Aberdeen to Inverness AN11 Scotland	02/12/06	Port Elphinstone GF	15	16	
+0429	SC195	005	Aberdeen to Inverness AN11 Scotland	02/12/06		15	54	*
+0429	SC195	005	Aberdeen to Inverness AN11 Scotland	02/12/06		15	63	*
+0430	SC195	006	Aberdeen to Inverness AN11 Scotland	15112108		16	57	*
+0430	SC195	006	Aberdeen to Inverness AN11 Scotland	15112108	INVERURIE	16	72	
+0430	SC195	006	Aberdeen to Inverness AN11 Scotland	15112108	lnverurie SB	16	79	
+0430	SC195	006	Aberdeen to Inverness AN11 Scotland	15112108		17	09	*
+0431	SC195	007	Aberdeen to Inverness AN11 Scotland	02/12/06		18	58	*
+0431	SC195	007	Aberdeen to Inverness AN11 Scotland	02/12/06		18	59	*
+0431	SC195	007	Aberdeen to Inverness AN11 Scotland	02/12/06		18	60	
+0431	SC195	007	Aberdeen to Inverness AN11 Scotland	02/12/06		19	66	*
+0431	SC195	007	Aberdeen to Inverness AN11 Scotland	02/12/06		19	68	*
+0431	SC195	007	Aberdeen to Inverness AN11 Scotland	02/12/06		22	40	
+0431	SC195	007	Aberdeen to Inverness AN11 Scotland	02/12/06		24	11	*
+0431	SC195	007	Aberdeen to Inverness AN11 Scotland	02/12/06	Oyne LC	24	51	AHBC
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08	Buchanstone LC	25	37	UWC
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08	Lamington Farm LC	25	57	UWC
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08		25	69	*
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08		26	13	*
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08	Drakewell Farm LC	26	55	UWC
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08		27	33	*
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08	INSGH	27	42	
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08	Insch SB and LC	27	47	MCB
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08	Shevock LC	28	64	UWC
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08		31	00	
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08	Kennethmont Station LC	32	61	UWC
+0432	SC195	008	Aberdeen to Inverness AN11 Scotland	22/09/08	Kennethmont SB	32	71	
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06		33	00	
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06	Leith Hall LC	33	11	UWC
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06	Candy Farm LC	34	40	UWC
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06	Toll of Cults LC	34	74	UWC
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06	Gartly LC	35	67	AHBC
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06		37	60	
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06	Huntly SB	40	40	
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06	HUNTLY	40	67	
+0433	SC195	009	Aberdeen to Inverness AN11 Scotland	02/12/06		43	20	
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08		45	00	
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08	Little Mill LC	46	41	UWC
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08		48	20	
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08		49	41	*
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08	Bummouth LC	49	62	UWC
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08		50	60	
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08		52	46	*
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08	Keith Jn SB	53	05	
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08	(Change of ELR	53	05	
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08	AN11 to AN12)	30	40	
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08	KEITH	30	20	
+0434	SC195	010	Aberdeen to Inverness AN11 AN12 Scotland	02/02/08		30	15	*
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06	Bridgend LC	29	22	UWC
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06		23	38	*
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06	Mildearie No 2 LC	28	20	UWC
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06	Bush No1 LC	27	29	UWC
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06	Rosarie LC	27	20	AOCR
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06		26	49	*
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06	Tarn LC	25	76	UWC
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06		25	20	
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06		24	72	*
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06		21	60	
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06		21	32	*
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06	Deanshillock LC	19	69	UWC
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06		13	40	
+0435	SC195	011	Aberdeen to Inverness AN12 Scotland	02/12/06		15	40	
+0436	SC195	012	Aberdeen to Inverness AN12 Scotland	02/12/06	Sidings GF			X
+0436	SC195	012	Aberdeen to Inverness AN12 Scotland	02/12/06	ELGIN	12	18	
+0436	SC195	012	Aberdeen to Inverness AN12 Scotland	02/12/06	Elgin SB and LC	11	74	MOB
+0436	SC195	012	Aberdeen to Inverness AN12 Scotland	02/12/06	Allarbum Farm LC	10	55	UWC
+0436	SC195	012	Aberdeen to Inverness AN12 Scotland	02/12/06	Inverlochty No 1 LC	10	09	UWC
+0436	SC195	012	Aberdeen to Inverness AN12 Scotland	02/12/06	Lochinvar Farm LC	10	02	UWC
+0436	SC195	012	Aberdeen to Inverness AN12 Scotland	02/12/06	Whitehills LC	9	35	UWC
+0436	SC195	012	Aberdeen to Inverness AN12 Scotland	02/12/06	Wards LC	7	79	UWC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Alves GF	6	42	
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Newton of Struthers LC	3	64	UWC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Kinloss LC	2	75	AHBC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Seapark No 2 LC	2	51	UWC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Springﬁeld No1 LC	1	07	UWC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Bogton Nursery LC	0	71	UWC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Bogton Sewage Works LC	0	56	UWC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Christies Nursery LC	0	42	UWC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Mosset Park LC	0	28	UWC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08		0	25	*
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Waterford LC	0	23	RC
+0437	SC195	013	Aberdeen to Inverness AN12 Scotland	07/07/08	Forres SB and LC	0	16	MCB
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06	FORRES	0	00	
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06	(Change of ELR	0	00	
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06	AN12toAN13)	119	26	
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06		119	46	*
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06		119	73	*
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06		120	01	*
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06	Langley LC	121	60	UWC
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06	Brodie LC	122	61	AHBC
+0438	SC195	014	Aberdeen to Inverness AN12 AN13 Scotland	02/12/06	Ellands No 3 LC	124	23	UWC
+0439	SC195	015	Aberdeen to Inverness AN13 Scotland	08/03/08	Easterton LC	125	22	UWC
+0439	SC195	015	Aberdeen to Inverness AN13 Scotland	08/03/08	Drumduan No 2 LC	126	61	UWC
+0439	SC195	015	Aberdeen to Inverness AN13 Scotland	08/03/08	Naim East	128	63	*
+0439	SC195	015	Aberdeen to Inverness AN13 Scotland	08/03/08	NAIR	128	72	
+0439	SC195	015	Aberdeen to Inverness AN13 Scotland	08/03/08	Sdg GF	128	72	X
+0439	SC195	015	Aberdeen to Inverness AN13 Scotland	08/03/08	Nairn West	129	04	*
+0440	SC195	016	Aberdeen to Inverness AN13 Scotland	02/12/06	Easter Glackton LC	132	51	UWC
+0440	SC195	016	Aberdeen to Inverness AN13 Scotland	02/12/06	Balspardon LC	134	20	UWC
+0440	SC195	016	Aberdeen to Inverness AN13 Scotland	02/12/06	Milton of Gollanﬁeld LC	135	26	UWC
+0440	SC195	016	Aberdeen to Inverness AN13 Scotland	02/12/06	Dalcross LC	137	17	AHBC
+0440	SC195	016	Aberdeen to Inverness AN13 Scotland	02/12/06	Lower Cullemie LC (UWC)	140	00	*
+0440	SC195	016	Aberdeen to Inverness AN13 Scotland	02/12/06	Allanfearn LC	140	55	AHBC
+0441	SC195	017	Aberdeen to Inverness AN13 HGL2 Scotland	02/12/06	Raigmore LC	143	09	CCTV
+0441	SC195	017	Aberdeen to Inverness AN13 HGL2 Scotland	02/12/06		143	33	*
+0442	SC195	018	Aberdeen to Inverness HGL2 Scotland	02/12/06	Millbum Jn	143	39	*
+0442	SC195	018	Aberdeen to Inverness HGL2 Scotland	02/12/06		117	37	*
+0443	SC195	019	Aberdeen to Inverness HGL2 RSW WCK Scotland	01/12/07	Walsh's Bridge	117	56	
+0443	SC195	019	Aberdeen to Inverness HGL2 RSW WCK Scotland	01/12/07	Rose Street LC	117	71	CCTV
+0443	SC195	019	Aberdeen to Inverness HGL2 RSW WCK Scotland	01/12/07	lnverness TCB and RETB SC	117	77	I
+0443	SC195	019	Aberdeen to Inverness HGL2 RSW WCK Scotland	01/12/07		118	01	
+0443	SC195	019	Aberdeen to Inverness HGL2 RSW WCK Scotland	01/12/07		0	18	
+0443	SC195	019	Aberdeen to Inverness HGL2 RSW WCK Scotland	01/12/07	(North lines only)	0	18	X
+0443	SC195	019	Aberdeen to Inverness HGL2 RSW WCK Scotland	01/12/07	INVERNESS	118	03	

@@ -1,0 +1,12 @@
+Maryport LC (CCTV) 12 04
+12 05
+0 00
+O 15 *
+Maryport Station SB (MS) 0 21
+MARYPORT O 27
+O 36 i:
+2 40 1c
+3 20 5':
+4 16 9:
+4 29 9:
+

@@ -1,0 +1,10 @@
+Law Jn 84 08
+84 20 *-
+OHNS 84 23
+84 50 5k
+84 53 *-
+WISHAW 86 31
+86 36 *
+Wishaw Central Jn 86 63
+87 03 i:
+

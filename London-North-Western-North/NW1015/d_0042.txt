@@ -1,0 +1,14 @@
+NRN
+TCB Salop Goods Jn SB (33)
+AC: Crewe
+AWS not provided
+UFI—Up Fast Independent
+USI-Up Slow Independent
+DSI-Down Slow Independent
+DFl-Down Fast Independent
+UMI=Up Manchester Independent
+DMI=Down Manchester Independent
+ULI=Up Liverpool Independent
+DLI=Down Liverpool Independent
+Crewe SB (GE)
+

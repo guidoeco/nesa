@@ -1,0 +1,13 @@
+Tweed Hill Substation 19 16
+Farningham Road Ground Frame 20 32
+FARNINGHAM ROAD 20 41
+Darenth Substation 20 78
+Fawkham Junction 20 49
+Fawkham Substation 22 59
+LONGFIELD 23 30
+Hartley Substation 24 30
+MEOPHAM 25 76
+26 00 *-
+Meopham Substation 26 02
+26 20 *
+

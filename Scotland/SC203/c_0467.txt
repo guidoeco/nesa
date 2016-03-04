@@ -1,0 +1,11 @@
+DUNROBIN 86 22
+Mellaig No1LC(UWC) 88 64
+87 71 a:
+88 23 *
+Strathsteven LC (UWC) 88 27
+Doll LC (UWC) 89 02
+89 13 *-
+MacBeaths LC (UWC) 89 24
+89 25 *
+Inver Brora No1 LC (UWC) 89 34
+

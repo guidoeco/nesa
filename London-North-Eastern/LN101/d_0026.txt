@@ -1,0 +1,11 @@
+NRN
+TCB Doncaster SB (D)
+RAQ AC:York ECR
+DPL = (755m I 2478 feet)
+UPL = (755m 12478 feet)
+Crossovers worked from Ranskill Gate Box.
+TOWS Bawtry curve both lines between
+Bawtry Viaduct and Bawtry Emergency
+Crossover. Must not be used when
+Emergency Crossover is to be used.
+

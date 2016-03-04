@@ -1,0 +1,15 @@
+Fassfem No.1 LC (UWC) 6 04
+Fassfem No.2 LC (UWC) 6 21
+Drumbeg Farm LC (UWC) 7 26
+Corriebeg Farm No.1 LC (UWC) 7 42
+Corriebeg No.2 LC (UWC) .7 68
+LOCHEILSIDE T 79
+Camus An Eng Farm No.1 LC (UWC) 9 15
+Camus An Eng Farm No.2 LC (UWC) 9 22
+Camus An Eng Farm No.3 LC (UWC) 9 29
+Heads of Lochiel LC (UWC) 9 36
+
+11 77 *-
+
+13 00 *
+

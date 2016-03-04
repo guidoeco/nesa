@@ -1,0 +1,10 @@
+84 43 *
+Garriongill Jn 84 62
+84 66 *
+85 30 a:
+35 31 *
+OHNS 86 02
+87 00 9:
+Shieldmuir South Jn 87 07
+Shieldmuir Royal Mail Terminal 87 26
+

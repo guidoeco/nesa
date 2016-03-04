@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0196	NW4017	001	Morecambe Jn. to Heysham Port MHH LNW North	07/10/06	Morecambe Jn GF	1	71	
+0196	NW4017	001	Morecambe Jn. to Heysham Port MHH LNW North	07/10/06		0	00	
+0196	NW4017	001	Morecambe Jn. to Heysham Port MHH LNW North	07/10/06		0	42	*
+0196	NW4017	001	Morecambe Jn. to Heysham Port MHH LNW North	07/10/06		2	49	*
+0196	NW4017	001	Morecambe Jn. to Heysham Port MHH LNW North	07/10/06	Heysham Power Station Sidings GF	3	53	
+0196	NW4017	001	Morecambe Jn. to Heysham Port MHH LNW North	07/10/06	Port of Heysham LC	3	69	UWC
+0196	NW4017	001	Morecambe Jn. to Heysham Port MHH LNW North	07/10/06	HEYSHAM PORT	4	01	

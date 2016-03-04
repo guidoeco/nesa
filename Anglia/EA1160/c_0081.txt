@@ -1,0 +1,12 @@
+19 40 *
+ROYDON 20 09
+Roydon Station LC (CCTV) 20 1O
+Roydon Lock LC (UWC) 20 3D
+20 34 *-
+20 45 i:
+Camps LC (UWC) 21 23
+Harlow Town GF 22 4O
+22 45
+HARLOW TOWN 22 59
+22 79
+

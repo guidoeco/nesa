@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0353	LN724	001	Holgate Jn to Skelton Jn HOS London North Eastern	02/12/06	Holgate Jn	0	00	
+0353	LN724	001	Holgate Jn to Skelton Jn HOS London North Eastern	02/12/06	York Yard South	0	21	
+0353	LN724	001	Holgate Jn to Skelton Jn HOS London North Eastern	02/12/06	York Yard North	0	79	
+0353	LN724	001	Holgate Jn to Skelton Jn HOS London North Eastern	02/12/06		1	03	
+0353	LN724	001	Holgate Jn to Skelton Jn HOS London North Eastern	02/12/06		1	13	*
+0353	LN724	001	Holgate Jn to Skelton Jn HOS London North Eastern	02/12/06		1	35	*
+0353	LN724	001	Holgate Jn to Skelton Jn HOS London North Eastern	02/12/06	Skelton Jn	1	54	*

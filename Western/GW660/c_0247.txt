@@ -1,0 +1,16 @@
+Par Loop Jn 281 57
+PAR 281 66
+Par (PR) SB 281 69
+
+St. Blazey Yard
+
+St. Blazey Jn 282 16
+(Change of ELR and RA)
+
+St. Blazey SB (SB) 282 19
+
+282 20 *
+
+Single line Jn 282 28
+Middleway LC (CCTV) 282 31
+

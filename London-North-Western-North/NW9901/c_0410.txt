@@ -1,0 +1,15 @@
+246 70 1e
+RIBBLEHEAD (down) 247 13
+247 16 *
+RIBBLEHEAD (up) 247 20
+Ribblehead GF 247 22
+247 40
+248 24
+248 28
+248 34 *
+Blea Moor SB 248 39
+249 20
+249 22
+Blea MoorTunnel 249 25
+(2403m I 1 mile 869 yds) to 249 40 * to 250 65
+

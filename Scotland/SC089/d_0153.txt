@@ -1,0 +1,9 @@
+NRN
+0T(S) Mauchline SB
+Train staff kept in Annbank GF
+Controlled by section token.
+
+Intermediate instrument
+controlled by Mauohline SB
+See local instructions
+

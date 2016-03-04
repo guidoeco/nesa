@@ -1,0 +1,17 @@
+NRN CSR
+
+TCB Wembley Mainline SOC (W3)
+
+DC: Rugby ECR
+CD EMU's fitted with Tripcock
+apparatus and LUL trains
+(see NOTE on M0120 seq 2)
+Platform Lengths: Harlesden
+Down - 123 metres
+Up- 123 metres
+Platferm Lengths: Stonebridge Park
+Down - 125 metres
+Up- 125 metres
+Instructions for DC lines are given
+in the General Instructions of this Appendix
+

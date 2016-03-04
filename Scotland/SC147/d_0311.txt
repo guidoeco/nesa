@@ -1,0 +1,8 @@
+NRN
+TCB Edinburgh SC (EF) 068
+AC:Cathcart ECR
+UPL 1325f (400m)
+(63 SLU's)
+DPL 1555f (470m)
+(74 SLU's)
+

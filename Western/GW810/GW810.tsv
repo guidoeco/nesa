@@ -1,0 +1,73 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	End of Line	24	00	
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	Rhymney North GF	23	72	
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	RHYMNEYIRHYMNI	23	64	
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	Rhymney South GF	23	51	
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08		23	50	*
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	Reads GF	23	31	
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08		23	30	*
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08		23	03	*
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	PONTLOTPYII	22	65	
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08		21	79	*
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08		21	30	*
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	Craig Rhymney LC	20	72	UWC
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	TIR-PHIL	20	40	
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08		19	79	*
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08		19	60	*
+0334	GW810	001	Rhymney to Queen Street North Jn CAR Western	29/11/08	BRITHDIR	19	31	
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08		18	78	*
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08		18	13	*
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08	Single Line Jn	18	09	
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08	Bargoed SB	18	07	
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08		18	06	*
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08	BARGOED	18	03	
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08		18	00	*
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08		17	59	*
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08	Bargoed South	17	54	*
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08	GILFAGH FARGOED	17	35	
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08		17	33	*
+0335	GW810	002	Rhymney to Queen Street North Jn CAR Western	30/06/08		17	18	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08		18	10	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08		16	55	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08	PENGAM	16	30	
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08		15	57	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08	Gibbons LC	15	40	UWC
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08		15	20	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08	HENGOED	14	55	
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08		14	10	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08		13	70	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08	YSTRAD MYNACH	13	63	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08		13	57	*
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08	Ystrad Mynach South Jn	13	41	
+0336	GW810	003	Rhymney to Queen Street North Jn CAR Western	30/06/08		13	40	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08	Ystrad Mynach SB	13	33	YM
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		12	72	
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		12	11	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		12	10	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		11	40	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		11	18	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08	LLANBRADAGH	10	74	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		10	68	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		10	25	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		10	17	*
+0337	GW810	004	Rhymney to Queen Street North Jn CAR Western	30/06/08		9	35	*
+0338	GW810	005	Rhymney to Queen Street North Jn CAR Western	30/06/08	ABER	8	70	
+0338	GW810	005	Rhymney to Queen Street North Jn CAR Western	30/06/08	CAERPHILLYI	3	21	
+0338	GW810	005	Rhymney to Queen Street North Jn CAR Western	30/06/08	CAERFFILI			Z
+0338	GW810	005	Rhymney to Queen Street North Jn CAR Western	30/06/08		8	14	*
+0338	GW810	005	Rhymney to Queen Street North Jn CAR Western	30/06/08		8	13	*
+0338	GW810	005	Rhymney to Queen Street North Jn CAR Western	30/06/08		7	15	*
+0338	GW810	005	Rhymney to Queen Street North Jn CAR Western	30/06/08	Caerphilly Tunnel 7t°14	7	15	X
+0338	GW810	005	Rhymney to Queen Street North Jn CAR Western	30/06/08	1775m (1941 yards)	6	06	
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08		5	76	*
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08	LISVANE AND THORNHILL / LLYS-FAEN	5	45	
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08	LLANISHEN	4	61	
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08		4	05	*
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08		4	00	*
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08	HEATH HIGH LEVEL!	3	52	
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08	LEFEL UCHEL HEATH	3	52	X
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08	Heath Jn	3	32	
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08	Heath Jn SB	3	29	HJ
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08		1	28	*
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08	Queen Street North Jn	1	22	
+0339	GW810	006	Rhymney to Queen Street North Jn CAR Western	30/06/08		1	17	

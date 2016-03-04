@@ -1,0 +1,11 @@
+RETB 109 Banavie SC
+(1) = 15 mph mrough loop
+
+points, in both directions,
+
+and over loop lines
+
+CL 6451‘ (197m)
+
+(30 SLU's)
+

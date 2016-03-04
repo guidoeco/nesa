@@ -1,0 +1,10 @@
+15 14 *
+
+14 43 *-
+Welbeck Colliery Jn 13 17
+
+10 60 *-
+Warsop Jn 10 59
+Shirebrook South Jn 1O 19
+Shirebrook East Jn 9 72
+

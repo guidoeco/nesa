@@ -1,0 +1,19 @@
+46 77 are
+47 00 *
+Swale TP Hut 47 O7
+SWALE 47 15
+Kingsferry Bridge 47 26
+(Lift Bridge)
+47 66 at:
+South Marsh Crossing 48 02
+48 76 *
+49 O4 1-
+49 14 i-
+49 18 *
+QUEENBOROUGH 49 22
+49 30 *
+Queenborough Substation 49 33
+49 34 it
+49 45 *-
+49 47 *-
+

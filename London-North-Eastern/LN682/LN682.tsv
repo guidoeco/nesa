@@ -1,0 +1,141 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	King Edward Bridge South Jn	0	48	*
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06		0	53	*
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	Askew Road Tunnel	0	62	
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	(48 ml53 yards) to	0	64	
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	Bensham Tunnel	1	01	
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	(114 ml125 yards) to	1	06	
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06		1	68	*
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	Nonrvood Jn	1	71	
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06		2	07	*
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	DUNSTON	2	17	
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06		3	20	*
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06		3	30	*
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	METRO CENTRE	3	33	
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06		3	72	*
+0522	LN682	001	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 London North Eastern	02/12/06	Swalwell Jn	3	78	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06		4	00	*
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Skiff Inn LC	4	13	UWC
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Chain Bridge LC	5	19	MCB
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Blaydon SB	5	22	B
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06		5	28	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06		3	78	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	BLAYDON	4	03	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06		4	20	*
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06		4	73	*
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Addison LC	5	03	AHBC
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Boat House LC	6	34	UWC
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Golf Course Bridleway	7	08	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Clara Vale LC	7	40	AHBC-X
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	WYLAM	8	35	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Wylam LC	8	35	MCB,03
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Wylam SB)	8	35	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06		8	48	*
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06		8	78	*
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06		10	45	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	PRUDHOE	10	47	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Prudhoe LC EMCB)	10	49	
+0523	LN682	002	King Edward Bridge South Jn. to Carlisle North Jn. NEC1 NEC2 London North Eastern	02/12/06	Prudhoe SB PE)	10	49	
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Mickley LC	11	40	RIG
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	STOCKSFIELD	13	11	
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09		13	24	*
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09		13	42	*
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	RIDING MILL	15	35	
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	CORBRIDGE	17	59	
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Dilston LC	18	20	AHBC-X
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Hexham SB	213	53	HE
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	HEXHAM	20	66	
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09		22	53	*
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09		22	63	*
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09		23	05	*
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Warden LC	23	54	AHBC-X
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09		23	60	*
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	HAYDON BRIDGE	28	32	
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Haydon Bridge SB	23	35	
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Haydon Bridge LC	28	35	MCB
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Famley Haugh	16	48	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Devils Water West	18	57	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Wide Haugh	19	34	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Tyne Green	21	30	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Spital	21	60	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Quality	23	20	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Fourstones Farm	23	68	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Moss Cottages	23	79	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	East Fourstones	24	32	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Fourstones Station	24	62	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Crossgates	25	08	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Gooseholme	26	17	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	Altonside	27	24	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	East Mill Hills	27	35	UWC
+0524	LN682	003	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	26/01/09	West Mill Hills	27	63	UWC
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Willow Gap LC	29	48	UWC
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Lipwood LC	29	72	UWC
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		31	49	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Bardon Mill LC (RIG)	32	23	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		32	24	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	BARDON MILL	32	29	
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Bardon Mill SB	32	41	
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		33	14	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Haugh Gardens LC	33	40	UWC
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		35	12	
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Greengates LC	35	35	UWC
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		35	65	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	V¥|81gchf3t82r TUIhnel	350	70	
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	(m yar s)	35	79	
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		36	00	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		37	13	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	HALTWHISTLE	37	17	
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Haltwhistle SB	37	20	HW
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		37	22	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	West Lodge LC	39	00	UWC
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		40	00	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Blenkinsop Footpath LC	40	19	RIG-X
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007		40	32	*
+0525	LN682	004	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	16/06/2007	Long Byre LC	41	05	AHBC-X
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Baron House LC	41	56	RIG-X
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09		42	44	*
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Danton School LC (AHBC-X)	43	23	*
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Denton Farm LC cgUWCEa	43	43	
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Benton Village L	43	65	MC
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Upper Danton LC	44	01	AHBC-X
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Benton Mains Farm LC	44	18	UWC
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Upper Denton West LC	44	34	UWC
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09		44	64	*
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Hightown Farm LC	44	66	UWC
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Hioksons LC	45	11	UWC
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Lane Head LC (M06)	45	38	*
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Baggarah Farm LC	45	48	UWC
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	t3s 33s ES'MCB' 18 £1	45	48	X
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09		46	34	*
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09		46	60	*
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Denton Mill LC	47	19	UWC
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Naworth LC	47	67	AHBC—X
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Milton Village LC	48	60	M03
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	BRAMPTON	49	21	
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09		49	70	*
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Brampton Fell LC	50	10	MOB
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09	Brampton Fell SB	50	10	
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09		51	17	*
+0526	LN682	005	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	31/01/09		51	49	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	How Mill LC	52	66	AHBC—X
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06		53	01	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06		53	40	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	Broadwath LC (AHBC—X)	54	62	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06		55	20	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	Corby Gates LC	55	54	MCB
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	Corby Gates SB	55	54	
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06		55	69	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	WETHERAL	55	76	
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06		56	03	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	Scotby LC	56	76	LJWCIQI
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	Network Raul LN	58	00	
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	LNW Route Boundary	58	00	X
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	Petteril Bridge Jn	59	26	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06	London Road Jn	59	45	*
+0527	LN682	006	King Edward Bridge South Jn. to Carlisle North Jn. NECZ London North Eastern	02/12/06		59	49	
+0528	LN682	007	King Edward Bridge South Jn. to Carlisle North Jn. NECZ CGJ London North Eastern	02/12/06	Carlisle South Jn	59	76	
+0528	LN682	007	King Edward Bridge South Jn. to Carlisle North Jn. NECZ CGJ London North Eastern	02/12/06		60	02	
+0528	LN682	007	King Edward Bridge South Jn. to Carlisle North Jn. NECZ CGJ London North Eastern	02/12/06	Carlisle SB	68	73	CE
+0528	LN682	007	King Edward Bridge South Jn. to Carlisle North Jn. NECZ CGJ London North Eastern	02/12/06	GARLISLE	69	09	
+0528	LN682	007	King Edward Bridge South Jn. to Carlisle North Jn. NECZ CGJ London North Eastern	02/12/06		0	00	
+0528	LN682	007	King Edward Bridge South Jn. to Carlisle North Jn. NECZ CGJ London North Eastern	02/12/06	Carlisle North Jn	0	19	

@@ -1,0 +1,15 @@
+Broomston LC (UWC) 108 13
+Park Drain LC (CCTV) 108 52
+109 72 *
+Beech Hill LC (AHBC) 109 73
+Wroot Road LC (CCTV) 111 53
+Finningley LC (MOB) 112 08
+Auckley LC (AHBC) 112 73 *
+113 63 2k
+Hayfields LC (UWC) 114 06
+Bessacarr Halt LC (RIG) 115 48
+115 57 *
+Bessacarr Jn 115 72
+Carr Lane LC (UWC) 115 72
+Flyover East Jn 116 20
+

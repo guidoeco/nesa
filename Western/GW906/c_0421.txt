@@ -1,0 +1,7 @@
+215 43
+Swansea Loop East Jn O 53
+Single Line Jn 0 48
+Swansea Loop West Jn O O
+
+215 14
+

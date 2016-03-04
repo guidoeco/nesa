@@ -1,0 +1,12 @@
+NRN
+
+TCB Castleford SB (CD)
+RAB
+DMD=Down Midland
+UMD=Up Midland
+G) - Wakefield Europort
+
+York SB (Y)
+(signals prefixed S from $951 signal at 189 59
+Down! to $950 signal at 190 03 Up)
+

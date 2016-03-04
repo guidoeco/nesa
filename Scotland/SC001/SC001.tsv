@@ -1,0 +1,158 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0001	SC001	001	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	11/02/07	Gretna Jn	8	57	
+0002	SC001	002	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/06/07		9	03	*
+0002	SC001	002	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/06/07		9	69	*
+0002	SC001	002	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/06/07		9	70	*
+0002	SC001	002	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/06/07		9	77	*
+0002	SC001	002	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/06/07	Quintinshill	10	13	
+0002	SC001	002	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/06/07	Quintinshill GF	10	33	
+0002	SC001	002	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/06/07		10	37	*
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Territory Boundary	12	30	
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		12	37	*
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		12	37	*
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		13	20	*
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Gave LC	13	42	CCTV
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		14	07	*
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		16	53	*
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Kirtlebridge GSP	17	02	
+0003	SC001	003	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		17	13	*
+0004	SC001	004	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	OHN S 20	1	07	
+0004	SC001	004	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		20	53	*
+0004	SC001	004	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		22	60	*
+0004	SC001	004	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	24	1	07	*
+0004	SC001	004	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		24	23	*
+0004	SC001	004	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		25	08	*
+0004	SC001	004	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		25	09	*
+0005	SC001	005	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	16/06/07	Lockerbie South GSP	25	35	
+0005	SC001	005	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	16/06/07	Up Sidings GF	25	40	
+0005	SC001	005	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	16/06/07	LOCKERBIE	25	66	
+0005	SC001	005	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	16/06/07	Lockerbie North GSP	26	08	
+0005	SC001	005	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	16/06/07	Nethercleugh HABD	28	51	Up
+0005	SC001	005	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	16/06/07	Wamphray GSP	34	35	
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Wamphray HABD	34	42	Down
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	OHNS	36	68	
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		37	00	*
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		38	15	*
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Beattock South	39	40	
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Up sidings GF	39	69	
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Beattock North GSP	40	03	
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		40	18	*
+0006	SC001	006	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		40	40	*
+0007	SC001	007	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	06/12/08		43	63	*
+0007	SC001	007	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	06/12/08		44	00	*
+0007	SC001	007	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	06/12/08		44	60	*
+0007	SC001	007	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	06/12/08		46	00	*
+0007	SC001	007	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	06/12/08		46	01	*
+0007	SC001	007	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	06/12/08	Harthope Viaduct	47	00	
+0007	SC001	007	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	06/12/08	(130 yds)	48	42	*
+0007	SC001	007	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	06/12/08		48	50	*
+0008	SC001	008	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Summit GSP	49	18	
+0008	SC001	008	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Up Siding GF	49	51	
+0008	SC001	008	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Summit	49	64	
+0008	SC001	008	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08		50	34	*
+0008	SC001	008	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Bodsbury LC	51	47	RIG
+0008	SC001	008	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08		52	51	
+0008	SC001	008	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	OHNS	55	53	*
+0008	SC001	008	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Crawford HABD	55	76	Up
+0009	SC001	009	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08		57	50	*
+0009	SC001	009	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Abington South GF	57	60	
+0009	SC001	009	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Up Siding GF	57	68	
+0009	SC001	009	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Abington	57	70	
+0009	SC001	009	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Down Siding GF	58	01	
+0009	SC001	009	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	17/08/08	Abington North GF	58	34	
+0010	SC001	010	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		58	39	*
+0010	SC001	010	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		59	32	*
+0010	SC001	010	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		60	60	*
+0010	SC001	010	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		62	30	*
+0010	SC001	010	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		63	08	*
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Symington GSP	66	02	
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		69	41	*
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Leggatfoot HABD	70	20	Down
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		71	11	*
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		72	32	*
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		72	40	*
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		73	00	*
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	OHNS	73	05	
+0011	SC001	011	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Carstairs South Jn	73	17	
+0012	SC001	012	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		73	35	*
+0012	SC001	012	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Carstairs Station Jn	73	37	
+0012	SC001	012	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	OHNS	73	41	
+0012	SC001	012	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	GARSTAIRS	73	49	
+0012	SC001	012	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		73	55	*
+0013	SC001	013	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Down Yard GF	74	15	OOU
+0013	SC001	013	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		74	23	*
+0013	SC001	013	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		74	24	*
+0013	SC001	013	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Ravenstruther	75	07	
+0014	SC001	014	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Lanark Jn	76	08	
+0014	SC001	014	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Cleghom LC	76	24	CCTV
+0014	SC001	014	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		77	79	*
+0014	SC001	014	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		79	14	*
+0014	SC001	014	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	Braidwood HABD	80	57	Up
+0014	SC001	014	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06	CARLUKE	81	75	
+0014	SC001	014	Gretna Jn to Glasgow Central (Via Beattock) WCM1 Scotland	02/12/06		83	11	*
+0015	SC001	015	Gretna Jn to Glasgow Central (Via Beattock) WCM1 WCMZ Scotland	02/12/06	Law South GF	83	38	OOU
+0015	SC001	015	Gretna Jn to Glasgow Central (Via Beattock) WCM1 WCMZ Scotland	02/12/06	Up Siding GF	83	41	
+0015	SC001	015	Gretna Jn to Glasgow Central (Via Beattock) WCM1 WCMZ Scotland	02/12/06		83	78	*
+0015	SC001	015	Gretna Jn to Glasgow Central (Via Beattock) WCM1 WCMZ Scotland	02/12/06	Law Down GF	84	00	*
+0015	SC001	015	Gretna Jn to Glasgow Central (Via Beattock) WCM1 WCMZ Scotland	02/12/06	Law Jn	34	08	
+0015	SC001	015	Gretna Jn to Glasgow Central (Via Beattock) WCM1 WCMZ Scotland	02/12/06	(Change of ELR WCM1 to WCM2)	84	08	
+0015	SC001	015	Gretna Jn to Glasgow Central (Via Beattock) WCM1 WCMZ Scotland	02/12/06		84	25	*
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		84	43	*
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Garriongill Jn	84	62	
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		84	66	*
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		85	30	*
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		35	31	*
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	OHNS	86	02	
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		87	00	*
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Shieldmuir South Jn	87	07	
+0016	SC001	016	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Shieldmuir Royal Mail Terminal	87	26	
+0017	SC001	017	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	14/12/08		87	29	*
+0017	SC001	017	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	14/12/08	Shieldmuir North Jn	87	41	
+0017	SC001	017	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	14/12/08	SHIELDMUIR	87	59	
+0017	SC001	017	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	14/12/08	Motherwell SC	88	77	
+0017	SC001	017	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	14/12/08		39	07	*
+0018	SC001	Gretna	Jn to Glasgow Central (Via Beattock) WCMZ Scotland	14/12/08		89	25	*
+0018	SC001	Gretna	Jn to Glasgow Central (Via Beattock) WCMZ Scotland	14/12/08	MOTHERWELL	89	33	
+0018	SC001	Gretna	Jn to Glasgow Central (Via Beattock) WCMZ Scotland	14/12/08	Jn with Hamilton Lines	89	50	
+0018	SC001	Gretna	Jn to Glasgow Central (Via Beattock) WCMZ Scotland	14/12/08	Jn with Coatbridge Lines	89	51	
+0018	SC001	Gretna	Jn to Glasgow Central (Via Beattock) WCMZ Scotland	14/12/08		89	61	*
+0019	SC001	019	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Logan's Road LC	89	77	CCTV
+0019	SC001	019	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		90	51	*
+0019	SC001	019	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		93	07	*
+0019	SC001	019	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Uddingston Jn	93	58	
+0019	SC001	019	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	UDDINGSTON	93	71	
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Newton East Jn	95	14	
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		0	07	
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Newton, Hamilton Jn	95	47	
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		0	01	
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		95	52	
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	NEWTON	95	57	
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		95	76	*
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Newton, Kirkhill Jn	95	77	
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		96	10	*
+0020	SC001	020	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	Newton West Jn	96	34	
+0021	SC001	021	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06		96	35	*
+0021	SC001	021	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	OHNS	96	36	
+0021	SC001	021	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	02/12/06	CAM BUSLANG	97	24	
+0022	SC001	022	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	21/02/09		98	02	*
+0022	SC001	022	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	21/02/09	Rutherglen East Jn	98	32	
+0023	SC001	023	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		98	59	*
+0023	SC001	023	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		98	60	*
+0023	SC001	023	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Rutherglen Central Jn	98	77	
+0023	SC001	023	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		99	14	*
+0023	SC001	023	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Rutherglen West Jn	99	20	
+0023	SC001	023	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		99	29	*
+0025	SC001	025	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Reception Roads notice boards			X
+0025	SC001	025	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Polmadie	100	15	
+0026	SC001	026	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		100	53	
+0026	SC001	026	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Larkﬁeld Jn	100	65	
+0026	SC001	026	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		100	70	*
+0026	SC001	026	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		101	00	*
+0027	SC001	027	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Eglinton St Tunnels	101	13	
+0027	SC001	027	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	200 yards to	101	22	
+0027	SC001	027	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		101	33	*
+0027	SC001	027	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Eglinton St Jn	101	39	
+0028	SC001	028	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Bridge St Jn	101	53	*
+0028	SC001	028	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08		101	57	*
+0029	SC001	029	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	Gantry "A"			X
+0029	SC001	029	Gretna Jn to Glasgow Central (Via Beattock) WCM2 Scotland	27/12/08	GLASGOW CENTRAL	102	27	

@@ -1,0 +1,9 @@
+NRN
+TCB Edinburgh SC (E) 068
+AC:Cathcart ECR
+For details of tunnel lockouts
+see Local Instructions
+N = North Line
+8 = South Line
+SL = South Platform Loop
+

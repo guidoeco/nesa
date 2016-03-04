@@ -1,0 +1,14 @@
+REDDISH SOUTH 1 50
+1 58 'k
+3 1O
+3 12 *-
+3 27 *
+3 38 *
+BENTON 3 39
+3 50 9:
+Benton Jn SB (DJ) 4 13
+4 45 are
+4 49
+Guide Bridge Station Jn 4 73
+GUIDE BRIDGE 4 76
+

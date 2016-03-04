@@ -1,0 +1,11 @@
+83 30
+Dawdon Jn 84 11
+84 15 ale
+Dawdon (DN) SB 84 22
+Seaham (8) SB 34 44
+SEAHAM 34 49
+84 58 *-
+85 20 *
+Hall Dene [HDeMSB 85 24
+Hall Dene C CB) 85 24
+

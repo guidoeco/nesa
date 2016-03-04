@@ -1,0 +1,9 @@
+Change of Mileage 256 38
+(and change of ELR) 256 40 :1:
+258 26
+261 00 i:
+MENHENIOT 261 61
+261 63
+Liskeard (LD) 33 264 66
+LISKEARB 264 71
+

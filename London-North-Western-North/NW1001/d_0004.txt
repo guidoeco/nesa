@@ -1,0 +1,22 @@
+NRN
+TCB Stafford No.4 SB (SD 4)
+AC: Crews
+DP=Down Platform
+U&DP=Up & Down platform line
+U&DG=Up & Down goods line
+RM=Royal Mail Terminal
+Platform Lengths: Stafford
+Platform 1 Permissive PP-A
+Up & Down 308m (337yards)
+matron" 3 Permissive PP-A
+Down 312m (341yards)
+Platform 4 Permissive PP-A
+Up 312m (341yards)
+Platform 5 Permissive PP-A
+Down 312m (341yards)
+Platform 6 Permissive PP
+Up 8: Down 312m (341yards)
+TASS fitted:
+DF line and UF line throughout
+Stafford No.5 SB (SD 5)
+

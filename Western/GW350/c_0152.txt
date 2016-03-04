@@ -1,0 +1,12 @@
+Worcester Tunnel Jn 120 78
+0 30
+0 O6 *-
+0 01
+Former Rainbow Hill Jn O 00
+(Change of ELR) 120 64
+120 66 *-
+WORGESTER FOREGATE STREE 121 12
+Henwick LC (MOB) 121 65
+Henwick SB (HK) 121 65
+121 72
+

@@ -1,0 +1,58 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0318	GW735	001	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07	Crewe Jn	171	57	
+0318	GW735	001	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07		32	29	
+0318	GW735	001	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07		32	20	*
+0318	GW735	001	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07	Crews Bank SB	31	79	
+0319	GW735	002	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07		31	47	
+0319	GW735	002	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07	Harlesoott SB	30	29	
+0319	GW735	002	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07	Harlescott LC	30	29	MOB
+0319	GW735	002	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07		30	20	*
+0319	GW735	002	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07		29	22	*
+0319	GW735	002	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07		29	02	*
+0319	GW735	002	Shrewsbury, Crewe Jn to Nantwich SYC Western	02/02/07	Bridgeway LC	28	35	UWC
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	YORTON	25	14	
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Lyons Wood Farm LC	23	54	UWC
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Wem Emergency	21	76	
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Trailing Crossover GF	21	76	X
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Wem Emergency	21	72	
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Facing Crossover GF	21	72	X
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	WEM	21	57	
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Wem SB	21	57	
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Wem LC	21	55	MOB
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Creamore Farm LC	20	50	UWC
+0320	GW735	003	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06		19	40	*
+0321	GW735	004	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06		19	20	*
+0321	GW735	004	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Prees SB	18	39	
+0321	GW735	004	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Prees LC	18	39	M03
+0321	GW735	004	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	PREES	18	36	
+0321	GW735	004	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06		17	45	*
+0321	GW735	004	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06		17	25	*
+0321	GW735	004	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Darlingtons LC	14	32	UWC
+0321	GW735	004	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06		13	53	*
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	WHITGHURCH	13	44	
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Whitchurch SB	13	35	
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06		13	06	*
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Brick Kiln Lane LC	12	50	UWC
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Kynaston LC	12	30	UWC
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Marley Green Emergency	10	17	
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Trailing Crossover GF	10	17	X
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Marley Green Emergency	10	14	
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Facing Crossover GF	10	14	X
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Marley Green LC	10	10	UWC
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Wrenbury SB	8	52	
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Wrenbury LC	8	52	M03
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	WRENBURY	8	48	
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Reeds Farm LC	6	51	UWC
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Green Lane LC	4	74	UWC
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Fields Farm LC	4	57	UWC
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06		4	53	*
+0322	GW735	005	Shrewsbury, Crewe Jn to Nantwich SYC Western	09/12/06	Shrewbridge Rd LC	4	32	AHBC—X
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06	Nantwich SB	4	19	
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06	Nantwich LC	4	19	MOB
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06	NANTWICH	4	14	
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06	Nantwich Emergency GF	4	07	
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06	Newcastle Rd L.C.	3	46	AHBC—X
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06		3	38	*
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06	Territory Boundary	2	60	
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06	See LNW (N) Territory	2	60	X
+0323	GW735	006	Shrewsbury, Crewe Jn to Nantwich SYC Western	05/08/06	Sectional Appendix	2	60	X

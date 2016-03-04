@@ -1,0 +1,19 @@
+NRN CSR
+TCB Marylebone IECC (ME)
+CD Maximum permissible speed
+for trains composed entirely
+of class 150-166 and 168 units
+Maximum permissible speed
+for all other trains
+Banbury South SB (BS)
+Patrolmane directional line lockouts (PDL):
+Down Bicester line: A
+Starts: 18m 23ch (Aynho Junction)
+Ends: 9m Gfich (Bicester North)
+Up Bicester line:
+Starts: 9m 66ch (Bicester North)
+Ends: 18m 19ch (Aynho Junction)
+@ Mileage on Down Bicester line
+from Aynho Flyover varies to Up
+Bicester line
+

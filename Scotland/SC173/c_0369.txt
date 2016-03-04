@@ -1,0 +1,8 @@
+(Change of ELR CWH3 to TNW) 36 42 *
+Thornton West Jn 34 62 *
+0 70 *
+
+GLENROTHES WITH THORNTON 34 72
+0 59
+Thornton North Jn 0 00
+

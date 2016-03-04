@@ -1,0 +1,26 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	Wigan Wallgate Jn 18 JP 04			X
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06		18	07	*
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	Wigan Wallgate SB	13	09	WW
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06		18	16	*
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	.	19	48	
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	Change of mileage	19	09	
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	PEMBEIITON	19	23	
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	Pemberton Tunnel	19	27	
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	(37ml40yd)			Z
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	to	19	29	
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06		19	53	*
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	ORRELL	20	77	
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	Upholland Tunnel	21	37	
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06	(877W959yd)	21	40	*
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06		22	01	
+0302	NW6015	001	Wigan Wallgate to Kirkby WKL1 WKL2 LNW North	07/10/06		22	03	*
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06	UPHOLLAND	22	24	
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06		23	10	*
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06	Dukes Wood LC	23	11	UWC
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06	RAINFORD	24	30	
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06		24	34	*
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06	Rainford Junction SB	24	35	
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06		24	39	*
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06	Dale Lane GSP	28	25	
+0303	NW6015	002	Wigan Wallgate to Kirkby WKL2 LNW North	07/10/06	KIRKBY	29	40	

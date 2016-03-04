@@ -1,0 +1,12 @@
+HEADGORN 45 20
+Headoorn Substation 45 62
+New Bridge Lane (FIP) 46 00
+East End Crossing 46 11
+Swifts Green Substation 47 45
+Pluckley Substation 49 28
+PLUCKLEY 50 35
+Dowls Street Substation 51 12
+Hoads Wood Substation 52 76
+Chart Crossing 54 00
+Chart Substation 54 58
+

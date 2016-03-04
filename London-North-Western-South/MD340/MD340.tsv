@@ -1,0 +1,41 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	Aston North Jn	1	73	
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	Change of mileage	0	00	
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06		0	01	*
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06		0	28	*
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	GRAVELLY HILL	1	18	*
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	ERDINGTON	2	31	
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	CHESTER ROAD	2	77	
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	WYLDE GREEN	3	59	
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07		4	71	*
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07	SUTTON OOLDFIELD	4	74	
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07	Sutton Coldfield Tunnel	5	04	
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07	(157 metres I 172 yards) to	5	12	
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07		5	16	*
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07		5	67	*
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07	FOUR OAKS	6	26	
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		6	35	*
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06	BUTLERS LANE	7	27	
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		8	08	*
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06	BLAKE STREET	8	15	
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		8	40	*
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06	SHENSTONE	10	53	
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		12	20	*
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		12	40	*
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07		13	20	*
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Lichfield City Jn	13	33	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Change of mileage	16	47	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07		16	51	*
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07		16	54	*
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	LICHFIELD CITY	16	70	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07		17	10	*
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	LIGHFIELD TRENT VALLEY	18	05	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Lichfield TV Jn	18	13	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Liohfield TV LG	18	14	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Lichfield Trent Valley Junction SB	18	15	TV
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Hollands (Streehay) LC	18	41	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Corks Farm No.2 LC	18	66	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Territory Boundary	19	00	
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	To Alrewas SB continued	19	00	X
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	in London North Eastern	19	00	X
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Sectional Appendix	19	00	X

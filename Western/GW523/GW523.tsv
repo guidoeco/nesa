@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	Thingley Jn	96	10	
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06		96	12	*
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	Manor Farm LC	99	33	UWC
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06		100	00	*
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	MELKSHAM	100	13	
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06		100	20	*
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	Frying Pan Farm LC	101	10	UWC
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	Church Farm No.1 LC	101	39	UWC
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	Church Farm No.2 LC	102	10	UWC
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	Avon View Farm LC	103	09	UWC
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	Staverton Farm LC	103	60	UWC
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06		104	37	*
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06	Bradford Jn	104	40	
+0204	GW523	001	Thingley Jn to Bradford Jn WEY Western	05/08/06		9	12	

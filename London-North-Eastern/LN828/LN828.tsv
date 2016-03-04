@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0350	LN828	001	Mexborough Jn to Aldwarke Jn via Kilnhurst WME London North Eastern	21/02/09	Mexborough Jn	10	17	
+0350	LN828	001	Mexborough Jn to Aldwarke Jn via Kilnhurst WME London North Eastern	21/02/09		9	71	*
+0350	LN828	001	Mexborough Jn to Aldwarke Jn via Kilnhurst WME London North Eastern	21/02/09	Kilnhurst	8	50	
+0350	LN828	001	Mexborough Jn to Aldwarke Jn via Kilnhurst WME London North Eastern	21/02/09	Thrybergh Jn	7	73	*
+0350	LN828	001	Mexborough Jn to Aldwarke Jn via Kilnhurst WME London North Eastern	21/02/09		7	42	*
+0350	LN828	001	Mexborough Jn to Aldwarke Jn via Kilnhurst WME London North Eastern	21/02/09	Aldwarke Jn	7	26	

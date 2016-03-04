@@ -1,0 +1,12 @@
+Paradise LO (UWC) 302 16
+304 30
+304 49
+Tallicks LC (UWC) 305 33
+305 60 1':
+Change of mileage 305 65
+(and change of ELR) 305 67
+306 03
+306 20 1:
+306 50 i:
+309 60 *
+

@@ -1,0 +1,10 @@
+Ashburys West Jn 1 36
+1 30
+OHNS 1 12
+0 76
+
+Ardwick TPE Train Care Depot 0 75 *
+ARDWICK 0 64
+Ardwick Jn 0 40
+188 08
+

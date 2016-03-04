@@ -1,0 +1,94 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Ely North Jn	71	72	
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		72	02	*
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Queen Adelaide LC	72	32	AHBC-X
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Palmers No.142 LC	73	63	
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Mile End LC	74	76	AHBC-X
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Bedford No.151A LC	76	54	
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	SHIPPEA HILL	76	54	X
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Shippea Hill SB	77	17	SH
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		77	21	
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Shippea Hill LC	77	23	M06
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Chivers LC	78	54	AHBC-X
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Pools (No.2) LC	79	16	
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	The Drove (No.5) LC	79	66	
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Lakenheath No.3 LC	80	65	RIG
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		81	56	*
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Bryants (No.12) LC	81	61	
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	LAKENHEATH	82	39	
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Lakenheath LC (MCG)	62	44	*
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Lakenheath SB	82	44	L
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		83	64	*
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hiams Fen House No.20 LC	83	67	
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		85	32	*
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Brandon SB	86	26	B
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Branden LC	86	29	
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	BRANDON	86	32	
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	DGL	86	52	
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	DGL	87	16	
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Forestry LC	87	17	
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		87	50	*
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		87	70	*
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Santon LC	88	72	AHBC-X
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Two Mile Bottom LC (AHBC-X)	91	16	*
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	No.33 LC	91	35	
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		92	36	*
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	GF	93	30	
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Thetford SB	93	45	T
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	THETFORD	93	50	
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		94	20	*
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Gooderham's No.41 LC	94	70	
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Gooderham's No.42 LC	95	28	
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	meton LC (AHBC-X)	96	44	*
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Shadwell LC	98	50	
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Drove Road LC	99	51	
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hockham Road LC	99	67	
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Roudham Hall Road LG	100	17	
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		100	27	*
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		100	47	*
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	HARLING ROAD	101	35	
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Harling Road LG	101	41	
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Harling Road SB	101	41	HR
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		102	44	*
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		103	09	*
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		104	09	*
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Heath No. 59 LG	104	10	
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	EOGLES ROAD	104	36	
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Eccles Road LC	104	41	M06
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Eccles Road SB	104	41	ER
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hargham No.1 LC	105	30	AHBC
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hargham No.2 LG	106	15	
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Fowlers Lane LG	106	75	
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Poplar Farm LC (MCG)	107	21	*
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Poplar Farm Gate Box	107	21	
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Sandy Lane LC	108	29	
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	ATTLEBOROUGH	108	19	
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Attleborough LC	108	20	MCG
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Attleborough SB	108	21	A
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Spronces LC	108	66	AHBC—X
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Rose Lane LC	109	33	
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		109	43	*
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Baldwin's No.78 LG	109	66	
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		110	14	*
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Sluts Hole LG	110	32	
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	No. 79A LG	110	33	
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Spooner Row SB	111	25	SP
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Spooner Row L0	111	26	
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	SPOONER ROW	111	27	
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		112	15	*
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Suton LC	112	30	AHBC—X
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Park Lane LC	113	34	
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Wymondham SB	113	63	W
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	WYMONDHAM	113	72	
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		113	75	*
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Wymondham GF	114	05	*
+0252	EA1580	009	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Browick Road LC	114	34	AHBC-X
+0252	EA1580	009	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Spinks Lane LC	115	14	RIG-X
+0252	EA1580	009	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hethersett GF	117	77	
+0252	EA1580	009	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	lntwood LC	119	48	AHBC—X
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Keswick LC (AH BC—X)	120	02	
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Eaton LC	120	29	RIG-X
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	No. 93 LC	120	60	
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		122	72	*
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Single line	122	78	
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Trowse Jn	123	00	

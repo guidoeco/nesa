@@ -1,0 +1,33 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	South Yorkshire Jn	22	57	US
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	South Yorkshire Jn	22	55	DS
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		22	42	
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		22	39	*
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	St James Jn	22	38	
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		22	35	*
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		22	34	
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		22	27	*
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		22	25	*
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		21	09	
+0347	LN826	001	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	Hexthorpe Jn	20	72	*
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		19	28	
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	Conisbrough Tunnel 1913000 *	19	28	X
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	(238yards)	13	69	*
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	Codeby	18	60	
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		18	37	*
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		18	29	*
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		18	20	
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	CONISBROUGH	18	13	
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06	Denaby LC	17	12	CCTV
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		16	44	*
+0348	LN826	002	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 London North Eastern	02/12/06		16	29	*
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06		15	75	*
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06	MEXBOROUGH	15	71	
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06	Mexborough Jn	15	64	
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06		15	37	*
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06		14	78	*
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06		167	15	
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06	Swinton Jn North	167	03	
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06		166	76	
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06	SWINTON	166	74	
+0349	LN826	003	Doncaster South Yorkshire Jn to Swinth Jn North / South PED5 SJM1 London North Eastern	02/12/06	Swinton Jn South	166	56	

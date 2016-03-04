@@ -1,0 +1,29 @@
+NRN
+TCB Manchester Piccadilly SB (MP)
+AC: Crews
+Platform Lengths: Manchester Piccadilly
+Platform 13
+Up 277m (303yards) Permissive PP—C CD
+Down 277m (303yards) Permissive PP-C
+Platform 14
+Up 265m (290yards) Permissive PP-C @
+Down 266m (291yards) Permissive PP-C @
+6) Between MP.386 and MP.382
+{2) Between MP.391 and MP.387
+@ Between MP.388 and MP.384
+@ Between MP.393 and MP.389
+Platform Lengths: Oxford Road
+Platform 1 Permissive PP-A
+1 05m (1 1 5yards)
+Platform 2 Permissive PP-A
+1 60m (175yards)
+Platform 3 Permissive PP-A
+Up 160m (175yards)
+Down 137m (150yards)
+Platform 4 Permissive PP-A
+1 62m (177yards)
+Platform 5 Permissive PP
+105m (1 15yards)
+DOX=Down Oxford Road
+UOX=Up Oxford Road
+

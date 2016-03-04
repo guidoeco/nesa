@@ -1,0 +1,17 @@
+NRN CSR
+
+TCB Ramsgate SB (HE)
+RAB DC: Canterbury
+
+UPL 35
+
+DPL 35
+
+Platforms 1-4 PP
+
+All platform lines are reversible.
+
+1 Up Main
+
+2 Down Main
+

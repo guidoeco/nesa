@@ -1,0 +1,13 @@
+40 19 *
+40 59 *-
+ASHWELL & MORDEN 41 00
+41 08 *-
+Litlington TSC OHNS 43 03
+Litlington LC AHBC 43 13 *
+A505 Roundabout (South) Public 43 51
+Bridleway LC
+Ivy Farm LC RIG 44 19
+44 20 *-
+44 46
+44 59
+

@@ -1,0 +1,58 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	Continued in London			X
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	North Eastem Sectional			X
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	Appendix			Z
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	Territory Boundary	23	30	
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	TAMWORTH (HIGH LEVEL)	23	58	
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	WILNEGOTE	25	47	
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	(Birch Coppice Exchange Sidings)			X
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Kingsbury Branch Sidings			X
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Kingsbury SF	28	26	KY
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Kingsbury Branch Jn	28	33	
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06		29	30	*
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Kingsbury Jn	29	39	
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06		32	37	*
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06		33	10	*
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Water Orton East Jn	33	22	
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Change of mileage	34	43	
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	WATER ORTON	34	54	
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Water Orton West Jn	35	15	
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		36	08	*
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		36	11	*
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Castle Bromwich Jn	36	14	
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		36	40	*
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Jaguar Cars Sidings			X
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		37	10	*
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Headlands Power Station	37	10	X
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Sidings (0.0.U.)	37	10	X
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		37	70	*
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		38	15	*
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Esso Sidings	38	15	X
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Bromford Bridge	38	18	
+0162	MD501	005	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	British Steel Sidings. former			X
+0162	MD501	005	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		38	40	*
+0162	MD501	005	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Washwood Heath East Jn	38	44	
+0162	MD501	005	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Washwood Heath R.M.C. Sidings	38	44	X
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		39	30	*
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		39	40	*
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Washwood Heath Down Sidings	39	44	
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Signal SY.218	39	44	X
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	(See note on M0501 seq 7)	39	44	X
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Metro-Cammell GF	39	50	
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		39	63	*
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Washwood Heath No.1 SF	39	65	
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		39	69	*
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Signal SY.213 (see note)	40	00	
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		40	20	*
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Duddeston Jn	40	31	
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	West Midlands SC	40	38	
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	Saltley Loco Servicing Depot, former	40	38	X
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	European Metals Recycling Sidings	40	38	X
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	Saltley PSB	40	48	SY
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	Lawley Street Freightliner Terminal	40	48	X
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07		40	57	
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	Lander Street Jn	40	60	
+0166	MD501	009	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		41	21	*
+0166	MD501	009	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		41	22	*
+0166	MD501	009	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Grand Jn	41	26	
+0166	MD501	009	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Proof House Jn	41	51	

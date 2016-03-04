@@ -1,0 +1,13 @@
+CASTLETON 8 69
+8 75 7k
+10 20 *
+ROGHDALE 10 36
+Rochdale SB (RE) 10 53
+1O 58 *-
+10 62 *
+Rochdale East Jn 1O 63
+SMITHY BRIDGE 12 60
+Smithy Bridge LC EMCB) 12 65
+Smithy Bridge SB SB) 12 65
+LITTLEBOROUGH 13 65
+

@@ -1,0 +1,54 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0336	NW7021	001	Miles Platting Jn. to Marsden MVL1 LNW North	15/03/08		1	22	*
+0336	NW7021	001	Miles Platting Jn. to Marsden MVL1 LNW North	15/03/08		1	23	*
+0336	NW7021	001	Miles Platting Jn. to Marsden MVL1 LNW North	15/03/08	Miles Platting Jn	1	30	
+0336	NW7021	001	Miles Platting Jn. to Marsden MVL1 LNW North	15/03/08		1	41	*
+0336	NW7021	001	Miles Platting Jn. to Marsden MVL1 LNW North	15/03/08		1	45	*
+0336	NW7021	001	Miles Platting Jn. to Marsden MVL1 LNW North	15/03/08	Philips Park West Jn	1	59	
+0336	NW7021	001	Miles Platting Jn. to Marsden MVL1 LNW North	15/03/08		1	66	*
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08	Baguley Fold Jn	2	39	
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08	Baguley Fold Jn SB (BF)	2	39	X
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08	Clayton Bridge LC	3	22	CCTV
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08		4	32	*
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08		4	48	*
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08	Moss Lane LC	5	17	UWC
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08	Jaum Field Farm LC	5	27	UWC
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08	Ashton Moss North Jn	5	41	
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08		0	40	
+0337	NW7021	002	Miles Platting Jn. to Marsden MVL1 LNW North	18/10/08	Ashton Moss North Jn SB	5	52	
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09		6	20	*
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09	ASHTON	6	33	
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09		6	40	*
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09	Katherine Street Tunnel	6	55	
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09	(Mm/92w) to	6	60	
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09		7	42	*
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09	smlybndge Jn	7	46	*
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09		7	47	*
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09		7	50	
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09	Stalybridge SB	7	52	SE
+0338	NW7021	003	Miles Platting Jn. to Marsden MVL1 MVL2 MVL3 LNW North	11/02/09	STALYBRIDGE	7	63	
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06		7	79	*
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06		8	00	*
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06	Stalybridge Tunnel Jn	8	08	
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06	Stalybridge Tunnel	8	10	
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06	(628m I 668 yds) to	8	41	*
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06	Scout Tunnel	9	79	
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06	(184m I 202 yds) to	10	08	
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06	MOSSLEY	10	39	
+0339	NW7021	004	Miles Platting Jn. to Marsden MVL2 MVL3 LNW North	07/10/06	GREENFIELD	12	54	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06	Diggle Junction SB	14	59	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		14	61	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		14	67	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		15	00	*
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		15	05	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06	Network Rail London North Western	15	11	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06	(Appendix Boundary)	15	11	X
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06	Standedge Tunnel	15	16	*
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06	(4887ml5346yd)	15	75	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		16	69	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		17	32	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		17	58	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		18	07	*
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		18	14	
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06		18	37	*
+0340	NW7021	005	Miles Platting Jn. to Marsden MVL3 LNW North	07/10/06	MARSDEN	18	59	

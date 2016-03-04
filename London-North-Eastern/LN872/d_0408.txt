@@ -1,0 +1,17 @@
+NRN
+TCB York SB
+RAB
+(signals prefixed S to 8927 signal at
+193 12 Downlfrom 3914 signal at 193 51 Up)
+(signals prefixed L from L3853 signal at
+193 69 Downlto L3852 signal at 194 22 Up)
+CD - TolFrom Stourton Freightliner Terminal
+AD = Arrival I Departure
+DMD =Down Midland
+UMD =Up Midland
+® - TolFrom Hunslet Down Sidings
+@ - TolFrorn Balm Road Sidings
+@ - TolFrom RMC Stone Discharge Terminal
+@ - TolFrom Middleton Light Railway (Private)
+- TolFrom Holbeek Depot
+

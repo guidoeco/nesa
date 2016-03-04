@@ -1,0 +1,18 @@
+(Longhedge Jn) ( 0 39)
+
+0 03 'k
+
+6 67
+Factory Jn ( 1 68) "5"
+Route Boundary '3 53
+
+6 61 *-
+Wandsworth Road Jn 6 53 *
+WANDSWORTH ROAD 6 52
+
+( 1 75)
+Voltaire Road Jn 6 39
+
+( 2 15)
+Voltaire Road TP Hut ( 2 10)
+

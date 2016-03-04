@@ -1,0 +1,11 @@
+Rat-ford South Jn 138 23
+138 26 *
+138 27 *-
+RETFORD 138 49
+Retford West Jn 138 56 ale
+138 62
+139 07
+Retford F. S. OHNS 139 41
+139 47
+Retford North 139 71
+

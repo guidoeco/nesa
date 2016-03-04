@@ -1,0 +1,29 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	Glebe Street Jn .	20	08	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	_	20	33	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	Change of mileage	0	00	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	Fenton Manor Tunnel	0	63	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	(97 metres I 106 yards) to	0	68	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07		0	70	*
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	Abbey LC	3	20	TMO
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07		3	51	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	Change of mileage	0	00	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	Stockton Brook Tunnel	2	09	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	(66 metres I 72 yards) to	2	12	
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	Endon LC	3	11	AOCL
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07		6	36	*
+0260	NW5010	001	Glebe Street Jn. to Caldon Quarry SCQ LNW North	16/06/07	Junction	6	37	
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07	Former Leek Brook Jn .	6	65	
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07		0	00	
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07	Single	0	08	
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07		0	40	*
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07	LC	1	54	
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07	Apesford LC	3	20	MCG
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07	LC	3	69	
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07		4	26	*
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07		4	76	*
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07		5	40	*
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07	Level Crossing	5	40	X
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07		6	00	*
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07	Caldon Low GF	7	62	
+0261	NW5010	002	Glebe Street Jn. to Caldon Quarry SCQ LNW North	30/06/07	Caldon Quarry	8	01	

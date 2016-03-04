@@ -1,0 +1,14 @@
+NRN CSR
+
+TCB Arundel SB (AR)
+CSR
+
+1 Up Main
+2 Down Main
+3 Up Horsham
+4 Down Horsham
+5 Up Brighton
+6 Down Brighton
+7 Down East Curve
+8 Up East Curve
+

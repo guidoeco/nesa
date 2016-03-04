@@ -1,0 +1,7 @@
+Pinxton LC (CCTV) 135 46 1:
+Lower Portland Farm LC (UWC) 136 29
+Upper Porfland LC (AHBC) 136 71
+Kirkby Lane End Jn 138 31
+
+138 32 *
+

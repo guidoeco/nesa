@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0245	NW5007	001	Manchester Airport to Heald Green North Jn. MIA LNW North	16/03/09	MANCHESTER AIRPORT	0	00	
+0245	NW5007	001	Manchester Airport to Heald Green North Jn. MIA LNW North	16/03/09		0	16	*
+0245	NW5007	001	Manchester Airport to Heald Green North Jn. MIA LNW North	16/03/09		0	19	*
+0245	NW5007	001	Manchester Airport to Heald Green North Jn. MIA LNW North	16/03/09		0	32	*
+0245	NW5007	001	Manchester Airport to Heald Green North Jn. MIA LNW North	16/03/09	Heald Green West Jn	1	10	*
+0245	NW5007	001	Manchester Airport to Heald Green North Jn. MIA LNW North	16/03/09	OHNS	1	39	
+0245	NW5007	001	Manchester Airport to Heald Green North Jn. MIA LNW North	16/03/09	Heald Green North Jn	1	51	
+0245	NW5007	001	Manchester Airport to Heald Green North Jn. MIA LNW North	16/03/09		3	13	

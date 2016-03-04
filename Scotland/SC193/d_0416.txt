@@ -1,0 +1,8 @@
+NRN
+TCB Aviemore SB (A)
+UL - Up Loop
+CL 1660f (505m)
+(80 SLU's)
+DRS 1075f (325m)
+(52 SLU's)
+

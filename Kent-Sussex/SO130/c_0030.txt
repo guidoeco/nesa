@@ -1,0 +1,11 @@
+CANNON STREET 0 00
+
+( 1 73)
+Cannon Street Substation 0 20
+
+( 1 53))
+(Metropolitan Jn) ( 1 31)
+Borough Market Jn O 38
+(Change of mileage) ( 1 51)
+(LONDON BRIDGE) ( 1 69)
+

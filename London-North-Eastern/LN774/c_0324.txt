@@ -1,0 +1,17 @@
+Barrow Hill North Jn 149 53
+150 24
+Hall Lane Jn 150 56
+150 62
+152 14
+Seymour Jn SB (SE) 152 21
+155 06
+155 00
+SeymourJn 154 77
+154 15
+0 00 *
+EndlCommencement of
+Staff Section boards 0 49
+O 56
+OxcroftDP 0 78
+End of Line
+

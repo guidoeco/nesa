@@ -1,0 +1,6 @@
+NRN
+AB Castleton East Jn SB (CE)
+UTS=Up Through Siding
+DGL (PF) 269m (332m)
+U&DTS='Up & Down' Through Siding
+

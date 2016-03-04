@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0194	SW301	001	Redhill to Gomshall RED2 RSJ Wessex	07/06/08	REDHILL	22	40	
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06		22	72	*
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	REIGATE	24	27	
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Reigate SB	24	31	RG
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Reigate LC	24	31	
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Buckland LC	26	49	AHBC
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Betchworth LC	27	14	CCTV
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	BETOHWORTH	27	17	
+0196	SW301	003	Redhill to Gomshall RSJ Wessex	02/12/06	Betchworth Ground Frame	27	21	
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Brockham LC	28	08	AHBC
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	DORKING (DEEPDEN E)	29	65	
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	DORKING WEST	30	42	
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Dorking West Ground Frame	30	50	
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Milton Court Crossing	31	30	
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Little Bullsdown Crossing	31	51	
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Big Bullsdown Crossing	31	68	
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Combe Lane Crossing	32	24	*
+0197	SW301	004	Redhill to Gomshall RSJ Wessex	02/12/06	Routs Boundary	33	10	

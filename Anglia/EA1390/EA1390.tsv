@@ -1,0 +1,66 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Barking Tilbury Line Jn East	7	60	
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	OHNS	7	79	
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06		8	40	
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06		9	16	*
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Renwick Road Jn	9	31	
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Freightliner Depot West End GF	9	50	
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Stora Sidings GSP	9	54	*
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Ripple Lane East Jn (Up TiburylGoods)	9	54	X
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08	Freightliner Depot East End GF	10	06	
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08	Ripple Lane East Jn	10	06	X
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08	(Down TilburylGoods)	10	06	X
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08	DAGENHAIIII DOCK	10	45	
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08		10	52	
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Manor Way LC	12	02	CCTV
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	RAINHAM	12	54	
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Rainham LC	12	60	CCTV
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06		15	07	*
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Purfleet Rifle Range LC	15	27	UWC
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	PURFLEET	16	02	
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07		16	03	*
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Purfleet LC	16	07	CCTV
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Thames Board Mills LC	16	38	
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07		16	42	*
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Esso LC	16	49	UWC
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Deep Wharf Siding	16	65	
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Deep Wharf LC	16	68	
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Foster Yeoman Sidings	17	06	
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Jurgens LC	17	25	MCB
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	LaFarge Marine Terminal Sidings	17	53	
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Thames Matex Sidings	17	55	
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07		17	73	
+0174	EA1390	005	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Procter & Gamble Siding	18	65	
+0174	EA1390	005	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	West Thurrock Jn .	19	03	
+0175	EA1390	006	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	01/12/08	19 4a :1:			X
+0175	EA1390	006	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	01/12/08	GRAYS	19	70	
+0175	EA1390	006	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	01/12/08	Grays LC	19	76	CCTV
+0175	EA1390	006	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	01/12/08	OHNS	21	07	
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	TILBURY TOWN	21	48	
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Former Tilbury West Jn	22	06	*
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Tllbury Riverside International	22	06	X
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Rail Freight Terminal	22	30	*
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06		22	38	*
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06		22	46	*
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Walton Common LC	23	40	
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	No.168 LC	24	02	
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Low Street LC	24	11	CCTV
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Goal Road LC	24	43	
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	EAST TILBURY	25	07	
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	East Tilbury LC	25	12	CCTV
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06		25	67	*
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	Mucking LC (AHBC)	26	40	*
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	Thames Haven Jn	26	41	
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	STANFORD-LE-HOPE	27	13	
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	Stanford-le-hope LC	27	17	CCTV
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06		27	65	*
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	Fobbing LC	30	36	AHBC—X
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Gardners LC	30	75	CCTV
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Merrings LC	31	11	UWC
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Vange Wharf LC	31	43	CCTV
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	OHNS	32	03	
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	OHNS	32	20	
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Pitsea Hall LC (CCTV)	32	24	*
+0179	EA1390	010	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	PITSEA	32	37	
+0179	EA1390	010	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06		32	38	*
+0179	EA1390	010	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Pitsea Jn	32	43	

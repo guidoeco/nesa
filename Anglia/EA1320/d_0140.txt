@@ -1,0 +1,17 @@
+TCB Dalston Jn SB (D) NRN
+RA8 AC:Romford
+
+DC(3): Romford
+Up platform (W) - 121m (1:51de)
+Down platform (E) - 124m (134de)
+
+NRN
+UN2 - Up North London No.2 line (DC only)
+DN2 - Down North London No.2 line (DC only)
+NL1 - North London No.1 line (bi-directional)
+(AC only)
+Up platform (W) - 131 m (142yds)
+Down platform (E) - 136m (147yds)
+No.1 line platform (8)
+CD Class 3.4, and 0 trains must observe lower speed
+

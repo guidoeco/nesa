@@ -1,0 +1,16 @@
+TALYBONT 104 37
+Bennar Fawr LC (AOCL) 105 04
+DYFFRYN ARDUDWY 105 50
+Llwyn Cadwgan LC (UWC) 105 54
+(Manned)
+Talwm Bach LC (AOCL) 107 67
+LLANBEDR 107 70
+108 20 *
+Bridge 66 108 t028
+108 34
+Pensarn LC (UWC) 108 41
+PENSARN 108 46
+Pensarn North LC (UWC) 108 51
+108 60 *
+lewch LC (UWC) 108 72
+

@@ -1,0 +1,8 @@
+NRN
+TCB Gloucester SB (G)
+RAB
+UW Up Worcester
+DW Down Worcester
+DGL 512m, 1680ft
+UGL 448m, 1470ft
+

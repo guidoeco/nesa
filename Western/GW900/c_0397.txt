@@ -1,0 +1,7 @@
+Pengam Jn 168 20
+Long Dyke Jn 169 22
+Long Dyke Down GF 169 24
+169 60 *
+Newtown West 169 75
+170 04
+

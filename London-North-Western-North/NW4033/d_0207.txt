@@ -1,0 +1,6 @@
+NRN
+AB Carnforth Station Jn SB (CS) 088
+AC: Crewe
+TPWS not provided on Down Fumess Goods line.
+DFG = Down Fumess Goods
+

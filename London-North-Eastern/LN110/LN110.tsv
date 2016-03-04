@@ -1,0 +1,13 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06	CanonburyWest Jn	3	12	
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06		3	15	*
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06		3	16	*
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06	OHNSlNetwork Rail	3	20	
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06	AnglialLNE			Z
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06	Route Boundary	3	20	X
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06	Canonbury Tunnel 3 "321	3	20	X
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06	(498m 545 yards)	3	45	*
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06	HighburyVale Jn	3	61	
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06		4	07	*
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06		4	26	*
+0032	LN110	001	Canonbury West Jn to Finsbury Park Jn CFP London North Eastern	02/12/06	Finsbury Park Jn	4	33	

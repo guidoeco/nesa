@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06		31	07	*
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06	WANBOROUGH	34	29	
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06		35	50	*
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06		48	34	
+0188	SW265	001	Guildford to Wokingham WPHI GTWI Wessex	02/12/06		48	48	*
+0189	SW265	002	Guildford to Wokingham GTW2 Wessex	02/12/06	Ash LO	49	15	CCTV
+0189	SW265	002	Guildford to Wokingham GTW2 Wessex	02/12/06	ASH	49	18	
+0189	SW265	002	Guildford to Wokingham GTW2 Wessex	02/12/06	Aldershot South Jn	50	01	
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	NORTH CAMP	51	18	
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	North Camp LC	51	18	CCTV
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	Farnborough North Footpath LC	53	11	RIG
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	FARNBOROUGH NORTH	53	16	
+0190	SW265	003	Guildford to Wokingham GTW2 Wessex	02/12/06	Synhurst FC	54	00	
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	BLAGKWATER	55	58	
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	Darby Green UWC	56	22	
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	SANDHURST	57	22	
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	Haweys UWC	58	12	
+0191	SW265	004	Guildford to Wokingham GTW2 Wessex	21/07/07	GROWTHORNE	58	86	

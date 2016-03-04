@@ -1,0 +1,20 @@
+4 65 *-
+Wood Green South Jn 4 68
+
+4 75
+ALEXANDRA PALACE 4 78
+
+5 04 i:
+Wood Green North Jn 5 07
+Wood Green F.S.OHN$ 5 15
+
+5 22
+
+5 39 *
+Wood Green Tunnels 5 41
+(644m 1 705 yards) to 5 73
+
+5 73 i:
+
+5 76 *-
+

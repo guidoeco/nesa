@@ -1,0 +1,18 @@
+Mickley LC (RIG) 11 40
+STOCKSFIELD 13 11
+13 24 5':
+13 42 *
+RIDING MILL 15 35
+CORBRIDGE 17 59
+Dilston LC (AHBC-X) 18 20
+Hexham SB (HE) 213 53
+HEXHAM 2O 66
+22 53 *-
+22 63 are
+23 05 are
+Warden LC (AHBC-X) 23 54
+23 60 *-
+HAYDON BRIDGE 28 32
+Haydon Bridge SB 23 35
+Haydon Bridge LC(MCB) 28 35
+

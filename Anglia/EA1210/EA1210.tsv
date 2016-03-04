@@ -1,0 +1,27 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Broxbourne Jn	18	35	
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		18	40	*
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		18	50	*
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	RYE HOUSE	18	71	
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		19	20	*
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Cranbourne LC	19	42	RIG-X
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	St Margarets LC	20	23	CCTV
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	ST MARGARETS	20	25	
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Maltings LC	20	39	UWG
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Amwell Marsh LC	20	75	UWC
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Hardmead LC	21	36	UWC
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		21	43	*
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	00	*
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	02	*
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Single line	22	07	
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	10	*
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	WARE	22	16	
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Ware LC	22	21	CCTV
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	22	*
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	26	*
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	54	*
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Viaduct Maintenance LC	23	13	UWC
+0119	EA1210	003	Broxbourne Jcn to Hartford East HEB Anglia	01/12/07	Mead Lane FP	23	57	RIG-X
+0119	EA1210	003	Broxbourne Jcn to Hartford East HEB Anglia	01/12/07		23	73	*
+0119	EA1210	003	Broxbourne Jcn to Hartford East HEB Anglia	01/12/07		23	78	*
+0119	EA1210	003	Broxbourne Jcn to Hartford East HEB Anglia	01/12/07	HERTFORD EAST	24	19	

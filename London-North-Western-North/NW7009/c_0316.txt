@@ -1,0 +1,12 @@
+Farington Curve Jn 20 08
+
+0 00
+Farington Curve Jn GF 0 06
+
+0 08
+
+0 61 *
+
+O 70
+Lostock Hall Depot 0 75
+

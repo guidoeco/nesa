@@ -1,0 +1,19 @@
+NRN CSR
+TCB Three Bridges SB (T)
+6:) C&P out of use until commissioned under
+the South Croydon East London Lines Project.
+Platform 4 PP-A (attaching only)
+Platform 5 PP-A
+Up direction attaching only
+Both directions detaching
+Platform 6 PP-A (detaching only)
+1 Up Fast
+2 Down Fast
+3 Up Slow
+4 Down Slow
+5 Up Caterham
+6 Down Caterham
+7 Down East Grinstead
+8 Up East Grinstead
+9 Slow Reversible
+

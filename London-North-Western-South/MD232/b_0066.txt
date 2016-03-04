@@ -1,0 +1,15 @@
+r Junction 9
+
+9
+
+1d Yard Junction 10
+
+10
+
+rf Electrification 10
+n up direction)
+
+EATON 10
+
+10
+

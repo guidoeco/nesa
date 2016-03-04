@@ -1,0 +1,8 @@
+NRN
+TCB Perth SB (P)
+Down line and
+Up line only from signal P212 (incl) (152m 54¢:h)
+Stanley Jn (SJ)
+Up line only to
+signal P212‘(jexcl) (152m 54ch)
+

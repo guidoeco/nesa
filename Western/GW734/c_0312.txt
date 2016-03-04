@@ -1,0 +1,14 @@
+Bridge 40
+(99m 400h to 100mp)
+Barmouth Swing Bridge 99 78
+North GF 100 00
+Barmouth Tunnel 100 08
+64m (70 yards) 100 11
+100 30 *
+Single Line 100 40 *-
+Barmouth South LC (TMO) 100 44
+BARMOUTH (TEP) 100 50
+Barmouth North GF 100 56
+Single Line 100 68 *
+LLANABER (TEP) 102 13
+

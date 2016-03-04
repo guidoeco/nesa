@@ -1,0 +1,22 @@
+NRN CSR
+
+TCB Chester PSB (CR)
+
+DC: Sandhills
+DC: Sandhills (Platform 7 and Birkenhead lines only).
+AWS not provided between Chester East Jn and
+Chester West Jn.
+Platform Lengths: Chester
+Platform 1: 124 metres (136 yrds)
+Platform 2: 121 metres (132 yards)
+Platform 3: 375 metres (410 yards) (both directions)
+Platform 4: 310 metres (339 yards) (both directions)
+Platform 5: 112 metres (122 yards)
+Platform 6: 112 metres 2122 yards;
+Platform 7: 307 metres 336 yards (both directions)
+(PF) 'Down & Up' Main, in Down direction only.
+(PP-A) Platforms 3. 4 and 7
+(PP) Platforms 1, 2. 5 and 6
+UP BH: Up Birkenhead.
+DOWN BH: Down Birkenhead.
+

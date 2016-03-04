@@ -1,0 +1,44 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Swindon Jn	77	36	
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Foot crossing	77	42	WL
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06		77	60	*
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Single Line Jn ("Loco Yard")	76	20	
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Purton Collins Lane LC	81	09	AHBC
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Purton Common LC	81	65	UWC
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06		82	70	*
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Gambols LC	63	57	UWC
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Gryphon Lodge LC	84	66	UWC
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	NRN Channel change	66	72	
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	(Up direction)	66	72	X
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Minety LC	86	74	M06
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	NRN Channel change	66	76	
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	(Down direction)	66	76	X
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06		90	40	*
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	Kemble Tunnel	90	41	
+0181	GW480	001	Swindon to Standish Jn SWM1 Western	05/08/06	374m (409 yards)	90	60	
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08	Single Line Jn	90	61	*
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08		90	68	*
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08	Kemble GF	90	74	
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08	KEMBLE	90	79	
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08		93	30	*
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08		94	03	*
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08		94	48	
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08	Sapperton Short Tunnel	94	50	
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08	(322m, 352 yds)	94	65	
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08		94	68	
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08	Sapperton Long Tunnel	94	70	
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08	(1704m, 1mile 104yds) to	95	74	*
+0182	GW480	002	Swindon to Standish Jn SWM1 Western	18/10/08		96	00	
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06	Frampton LC	96	32	UWC
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06		98	60	*
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06	St. Mary's LC	98	64	MCG
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06	Brimscombe Footpath LC	99	22	UWC
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06		100	10	*
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06		102	00	*
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06	STROUD	102	13	
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06	Ebley LC	103	49	UWC
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06	STONEHOUSE	104	74	
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06		106	58	*
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06		106	70	*
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06	Standish Jn	106	74	
+0183	GW480	003	Swindon to Standish Jn SWM1 Western	05/08/06		99	69	

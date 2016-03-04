@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08	Territory Boundary	3	60	
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08		10	10	*
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08	Norlholt Jn	10	15	
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08	Change of mileage	0	00	
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08		0	02	*
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08	sour" RUISLIP	0	07	

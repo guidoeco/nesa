@@ -1,0 +1,14 @@
+44 50 *
+44 58 *-
+Muston LC (AHBC) 45 41
+Gristhorpe LC (MCG) 46 39
+46 40 *
+Lebberston Road LC (M06) 46 72
+Cayton LC (AHBC) 48 19
+Grove Farm LC (UWC) 49 06
+Carr House Farm LC(UWC) 49 18
+Taylors LC (UWC) 49 48
+Seamer South Jn 49 77 *-
+50 36 *-
+Seamer West Jn 50 43
+

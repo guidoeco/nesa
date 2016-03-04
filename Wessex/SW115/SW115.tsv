@@ -1,0 +1,154 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Worting Jn			X
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Parlour Gates	51	15	UWC
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08		51	27	*
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	OVERTON	55	42	
+0074	SW115	001	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Forty Steps	56	31	UWC
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	WHITCHURCH	59	08	
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Enham	64	55	UWC
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	ANDOVER	66	19	
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Andover Ground Frame	66	27	
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08		66	51	*
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Gallachers	66	75	UWC
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08		67	61	
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08		0	00	
+0075	SW115	002	Worting Junction to Exeter St. Davids BAE1 Wessex	06/05/08	Ludgershall	5	64	
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08	GRATELEY	72	49	
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08		78	00	*
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08	Targetts Crossing	78	21	
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08		82	00	*
+0076	SW115	003	Worting Junction to Exeter St. Davids BAE1 LAV Wessex	06/05/08	Laverstock North Jn	82	05	
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06	Salisbury Tunnel Jn	32	36	
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06		96	05	
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06	Fisherton Tunnel 82 m3?	96	05	X
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06	(443 yards)	82	57	
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06		82	67	*
+0077	SW115	004	Worting Junction to Exeter St. Davids BAE1 RTJ2 BAE2 Wessex	02/12/06		83	14	*
+0078	SW115	005	Worting Junction to Exeter St. Davids BAE2 Wessex	22/03/08		33	26	*
+0078	SW115	005	Worting Junction to Exeter St. Davids BAE2 Wessex	22/03/08	Salisbury SB	33	43	SY
+0078	SW115	005	Worting Junction to Exeter St. Davids BAE2 Wessex	22/03/08	SALISBURY	83	43	
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		83	60	*
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06	Gramshaw Road Crossing	84	22	
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		85	23	*
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06	Quidhampton Siding	132	54	
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06	Wilton Jn	85	37	
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		132	33	
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		85	70	*
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06		88	20	*
+0079	SW115	006	Worting Junction to Exeter St. Davids BAE2 SAL Wessex	02/12/06	Wilton South	86	25	
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09		87	40	*
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09		88	33	*
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Hurdcott Lodge LC	89	74	RIG
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Barford FIP Crossing	90	05	
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Moms Farm No.2 Crossing	90	35	
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Dinton Manor Farm Crossing	91	35	
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Baverstock Navy Siding	91	35	X
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Teffont Mill LC	92	39	RIG
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Chilmark Air Siding	92	39	X
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09	Sweatmans Crossing	93	21	
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09		93	33	*
+0080	SW115	007	Worting Junction to Exeter St. Davids BAE2 Wessex	07/02/09		94	02	*
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Tisbury Quarry LC	94	75	RIG
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		95	18	*
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Mill Path	95	27	Footpath
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		95	52	*
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Chantry	96	10	Footpath
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	TISBURY	96	14	
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Tisbury West LC	97	11	AHBC
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hatch Path	97	50	
+0081	SW115	008	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		99	40	*
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		100	10	*
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Kings Court FIP Crossing	104	45	
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hunts Path No. 1 Crossing	103	45	
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hunts Path No. 2 Crossing	103	52	
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Shutes Crossing	104	71	
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	GILLINGHAM	105	23	
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Gillingham SB (GM)	105	23	X
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Gillingham Tunnel	107	44	
+0082	SW115	009	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(742 yards)	107	78	
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	Ashford LC	109	41	R/G
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	TEMPLECOMBE	112	02	
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	Templecombe SB	112	02	
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06		112	76	*
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06		113	36	*
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06		115	35	*
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06		115	76	*
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	Castleton Farm Crossing	117	31	
+0083	SW115	010	Worting to Exeter St. Davids BAE2 Wessex	02/12/06	Sherbome LC	118	00	
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	SHERBORNE	118	04	
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Lenthay Crossing	119	15	
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	(tel not available to traincrew)	119	15	X
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Bedmill Farm No.1 Crossing	119	73	
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Wyke No. 2 Crossing	120	60	
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		122	30	*
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Yeovil Jn SB (YJ)	122	30	X
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		0	12	*
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Yeovil Jn	122	31	
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		0	00	
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Up sidings	0	00	X
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		122	39	*
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	YEOVIL JUNCTION	122	48	
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06	Down Sidings	122	48	X
+0084	SW115	011	Worting Junction to Exeter St. Davids YJP BAE2 Wessex	02/12/06		122	58	*
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Grove Farm No. 1	127	34	UWC
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Grove Farm No. 2	127	34	UWC
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	GREWKERNE	131	33	
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		131	74	*
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Crewkeme LC	132	03	AHBC
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Crewkeme Tunnel	132	39	
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(205 yards)	132	48	
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		133	20	*
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hewish LC	134	04	AHBC
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Hay Crossing	136	35	
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Marshwood Farm No.2 Crossing	133	73	
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Chard Jn L0	139	32	
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Chard Jn Down Sidings GF	139	48	
+0085	SW115	012	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Westford	139	65	UWC
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Broom LC	141	14	AHBC
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Axe LC	141	56	AHBG
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Axminster LC	144	15	CCTV
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	AXMINSTER	144	41	
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Abbey Farm No.20rossing	145	15	
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Slymlakes Crossing	145	46	
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Oxenlears Crossing	145	78	
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		148	40	*
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		149	00	*
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Honiton Tunnel 152m45	149	00	X
+0086	SW115	013	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(1345 yards)	153	26	
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Northootez Crossing	153	61	
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		153	30	*
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		154	20	*
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	HONITON	154	60	
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Honiton GF	154	62	
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Honiton SB	154	62	H
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	DE's Siding	154	62	X
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		155	00	*
+0087	SW115	014	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		155	40	*
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		159	22	*
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	FENITON	159	24	
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Feniton LG	159	27	
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		161	75	*
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	WHIMPLE	163	02	
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Territory Boundary	164	30	
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Crannaford LC	165	20	AHBC
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		168	23	*
+0088	SW115	015	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Single Line Down	168	24	
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		168	38	*
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Pinhoe LC	168	39	CCTV
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	PINHOE	168	44	
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		170	00	*
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Up Sidings	170	00	X
+0089	SW115	016	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Exmouth Jn SB	170	21	EJ
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Blackboy Tunnel	170	44	
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(262 yards)	170	56	
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	ST JAMES PARK	170	72	
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		171	15	*
+0090	SW115	017	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	EXETER CENTRAL	171	30	
+0091	SW115	018	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		171	52	*
+0091	SW115	018	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Exeter St. Davids Tunnel	171	53	
+0091	SW115	018	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	(184 yards)	171	61	
+0091	SW115	018	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		171	73	*
+0092	SW115	019	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		172	04	
+0092	SW115	019	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06		194	00	
+0092	SW115	019	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	EXETER ST. DAVIDS	193	72	E
+0092	SW115	019	Worting Junction to Exeter St. Davids BAE2 Wessex	02/12/06	Red Cow LC	193	62	CCTV

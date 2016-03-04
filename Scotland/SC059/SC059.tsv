@@ -1,0 +1,153 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0100	SC059	001	Glasgow Central to Stranraer WCM2 Scotland	27/12/08	GLASGOW CENTRAL	102	27	
+0100	SC059	001	Glasgow Central to Stranraer WCM2 Scotland	27/12/08	Gantry "A"	102	27	X
+0101	SC059	002	Glasgow Central to Stranraer WCM2 AYR1 Scotland	27/12/08		101	57	*
+0101	SC059	002	Glasgow Central to Stranraer WCM2 AYR1 Scotland	27/12/08	Bridge St Jn	101	53	
+0101	SC059	002	Glasgow Central to Stranraer WCM2 AYR1 Scotland	27/12/08	(Change of ELR WCM2 to AYR1)	0	00	*
+0102	SC059	003	Glasgow Central to Stranraer AYR1 Scotland	27/12/08	OHNS	0	10	
+0102	SC059	003	Glasgow Central to Stranraer AYR1 Scotland	27/12/08		0	13	*
+0102	SC059	003	Glasgow Central to Stranraer AYR1 Scotland	27/12/08	Cook Street	0	19	
+0102	SC059	003	Glasgow Central to Stranraer AYR1 Scotland	27/12/08		0	47	*
+0102	SC059	003	Glasgow Central to Stranraer AYR1 Scotland	27/12/08		101	69	*
+0102	SC059	003	Glasgow Central to Stranraer AYR1 Scotland	27/12/08	Shields Jn	1	00	
+0103	SC059	004	Glasgow Central to Stranraer AYR1 Scotland	27/12l08		102	02	*
+0103	SC059	004	Glasgow Central to Stranraer AYR1 Scotland	27/12l08		102	16	
+0103	SC059	004	Glasgow Central to Stranraer AYR1 Scotland	27/12l08		1	06	
+0103	SC059	004	Glasgow Central to Stranraer AYR1 Scotland	27/12l08		1	12	*
+0104	SC059	005	Glasgow Central to Stranraer AYR1 Scotland	27112/08	CARBONALD	3	11	
+0104	SC059	005	Glasgow Central to Stranraer AYR1 Scotland	27112/08	Cardonald Jn	3	31	
+0104	SC059	005	Glasgow Central to Stranraer AYR1 Scotland	27112/08	HILLINGTON EAST	3	62	
+0104	SC059	005	Glasgow Central to Stranraer AYR1 Scotland	27112/08	HILLINGTON WEST	4	29	
+0105	SC059	Glasgow	Central to Stranraer AYR1 Scotland	11/11I08	Arkleston Jn	5	42	
+0105	SC059	Glasgow	Central to Stranraer AYR1 Scotland	11/11I08		6	21	*
+0105	SC059	Glasgow	Central to Stranraer AYR1 Scotland	11/11I08		6	24	*
+0105	SC059	Glasgow	Central to Stranraer AYR1 Scotland	11/11I08	Paisley SC	6	30	
+0105	SC059	Glasgow	Central to Stranraer AYR1 Scotland	11/11I08	Wallneuk Jn	6	34	
+0105	SC059	Glasgow	Central to Stranraer AYR1 Scotland	11/11I08	PAISLEY GILMOUR STREET	6	46	
+0106	SC059	007	Glasgow Central to Stranraer AYR1 AYR2 AYR3 Scotland	11/11/08	(Change of ELR	5	53	
+0106	SC059	007	Glasgow Central to Stranraer AYR1 AYR2 AYR3 Scotland	11/11/08	AYR1 to AYRZ)	6	73	
+0106	SC059	007	Glasgow Central to Stranraer AYR1 AYR2 AYR3 Scotland	11/11/08	(Change of ELR	7	00	*
+0106	SC059	007	Glasgow Central to Stranraer AYR1 AYR2 AYR3 Scotland	11/11/08	AYRZ to AYR3)	7	00	X
+0106	SC059	007	Glasgow Central to Stranraer AYR1 AYR2 AYR3 Scotland	11/11/08	Elderslie	9	03	
+0107	SC059	008	Glasgow Central to Stranraer AYR3 Scotland	11/11/08	JOHNSTOHE	10	09	
+0107	SC059	008	Glasgow Central to Stranraer AYR3 Scotland	11/11/08		10	28	*
+0107	SC059	008	Glasgow Central to Stranraer AYR3 Scotland	11/11/08	MILLIKEH PARK	11	40	
+0107	SC059	008	Glasgow Central to Stranraer AYR3 Scotland	11/11/08	HOWWOOD	12	77	
+0107	SC059	008	Glasgow Central to Stranraer AYR3 Scotland	11/11/08	Lochwinnoch Crossovers	15	24	
+0107	SC059	008	Glasgow Central to Stranraer AYR3 Scotland	11/11/08	LOGHWINNOOH	15	57	
+0108	SC059	m	Glasgow Central to Stranraer AYR3 Scotland	11/11l08	OHNS	15	71	
+0108	SC059	m	Glasgow Central to Stranraer AYR3 Scotland	11/11l08	GLENGARNOGK	19	63	
+0109	SC059	010	Glasgow Central to Stranraer AYR3 AYR4 Scotland	11/11/08	CE Sdg GF	21	07	
+0109	SC059	010	Glasgow Central to Stranraer AYR3 AYR4 Scotland	11/11/08	Brownhill	21	28	
+0109	SC059	010	Glasgow Central to Stranraer AYR3 AYR4 Scotland	11/11/08	DALRY	22	42	
+0109	SC059	010	Glasgow Central to Stranraer AYR3 AYR4 Scotland	11/11/08	(Change Of ELR AYR3 to AYR4)	23	00	
+0110	SC059	011	Glasgow Central to Stranraer AYR4 Scotland	11/11/08	Kilwinning Jn	25	65	
+0110	SC059	011	Glasgow Central to Stranraer AYR4 Scotland	11/11/08	KILWINNING	26	00	
+0111	SC059	012	Glasgow Central to Stranraer AYR4 Scotland	11/11/08	Byrehill Jn	26	75	
+0111	SC059	012	Glasgow Central to Stranraer AYR4 Scotland	11/11/08	Bogside	27	71	
+0111	SC059	012	Glasgow Central to Stranraer AYR4 Scotland	11/11/08	IRVINE	29	28	
+0111	SC059	012	Glasgow Central to Stranraer AYR4 Scotland	11/11/08	Gailes	31	17	AHBC-X
+0112	SC059	013	Glasgow Central to Stranraer AYR4 AYR5 Scotland	11/11/08		32	73	*
+0112	SC059	013	Glasgow Central to Stranraer AYR4 AYR5 Scotland	11/11/08	BARASSIE	32	77	
+0112	SC059	013	Glasgow Central to Stranraer AYR4 AYR5 Scotland	11/11/08	Barassie M	33	06	*
+0112	SC059	013	Glasgow Central to Stranraer AYR4 AYR5 Scotland	11/11/08	(Change of ELR	33	08	
+0112	SC059	013	Glasgow Central to Stranraer AYR4 AYR5 Scotland	11/11/08	AYR4 to AYR5)	0	00	
+0112	SC059	013	Glasgow Central to Stranraer AYR4 AYR5 Scotland	11/11/08		0	17	*
+0112	SC059	013	Glasgow Central to Stranraer AYR4 AYR5 Scotland	11/11/08		0	43	*
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08	TROON	1	16	
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08		1	22	*
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08		1	26	*
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08	(Change of ELR	2	15	
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08	AYR5 to AYRG)	35	05	
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08		35	16	*
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08	Monkton GF	36	28	
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08	PRESTWICK INTERNATIONAL AIRPORT	36	76	
+0113	SC059	Glasgow	Central to Stranraer AYR5 AYR6 Scotland	11/11/08	PRESTWICK TOWN	37	34	
+0114	SC059	015	| Glasgow Central to Stranraer AYR6 Scotland	11/11/08	Falkland	38	73	
+0114	SC059	015	| Glasgow Central to Stranraer AYR6 Scotland	11/11/08		39	01	*
+0114	SC059	015	| Glasgow Central to Stranraer AYR6 Scotland	11/11/08	NEWTON-ON-AYR	39	33	
+0114	SC059	015	| Glasgow Central to Stranraer AYR6 Scotland	11/11/08	Newton Jn	39	44	
+0115	SC059	016	Glasgow Central to Stranraer AYR6 Scotland	11/11/08		40	13	*
+0115	SC059	016	Glasgow Central to Stranraer AYR6 Scotland	11/11/08		40	40	*
+0115	SC059	016	Glasgow Central to Stranraer AYR6 Scotland	11/11/08		40	42	*
+0115	SC059	016	Glasgow Central to Stranraer AYR6 Scotland	11/11/08	AYR	40	49	
+0116	SC059	017	Glasgow Central to Stranraer STR1 Scotland	11/11/08		40	79	*
+0116	SC059	017	Glasgow Central to Stranraer STR1 Scotland	11/11/08	Belmont LC	41	45	CCTV
+0116	SC059	017	Glasgow Central to Stranraer STR1 Scotland	11/11/08	Dalrymple Jn	43	53	
+0117	SC059	018	Glasgow Central to Stranraer STR1 Scotland	02/12/06		46	66	*
+0117	SC059	018	Glasgow Central to Stranraer STR1 Scotland	02/12/06	Myremill Farm LC	48	32	UWC
+0117	SC059	018	Glasgow Central to Stranraer STR1 Scotland	02/12/06		49	25	*
+0117	SC059	018	Glasgow Central to Stranraer STR1 Scotland	02/12/06	MAYBOLE	49	46	
+0117	SC059	018	Glasgow Central to Stranraer STR1 Scotland	02/12/06		51	60	
+0117	SC059	018	Glasgow Central to Stranraer STR1 Scotland	02/12/06	Kilkerran SB & LC	53	76	
+0118	SC059	019	Glasgow Central to Stranraer STR1 Scotland	02/12/06		54	40	*
+0118	SC059	019	Glasgow Central to Stranraer STR1 Scotland	02/12/06		55	10	*
+0118	SC059	019	Glasgow Central to Stranraer STR1 Scotland	02/12/06		56	00	*
+0118	SC059	019	Glasgow Central to Stranraer STR1 Scotland	02/12/06		57	40	
+0118	SC059	019	Glasgow Central to Stranraer STR1 Scotland	02/12/06		59	29	*
+0118	SC059	019	Glasgow Central to Stranraer STR1 Scotland	02/12/06		59	40	
+0119	SC059	020	Glasgow Central to Stranraer STR1 STR2 Scotland	02/12/06		61	50	*
+0119	SC059	020	Glasgow Central to Stranraer STR1 STR2 Scotland	02/12/06	(Change of ELR	61	60	*
+0119	SC059	020	Glasgow Central to Stranraer STR1 STR2 Scotland	02/12/06	STR1 to STR2)	0	00	
+0119	SC059	020	Glasgow Central to Stranraer STR1 STR2 Scotland	02/12/06	GIRVAN	0	15	
+0119	SC059	020	Glasgow Central to Stranraer STR1 STR2 Scotland	02/12/06	Girvan SB	0	18	
+0119	SC059	020	Glasgow Central to Stranraer STR1 STR2 Scotland	02/12/06		0	32	*
+0119	SC059	020	Glasgow Central to Stranraer STR1 STR2 Scotland	02/12/06		1	33	*
+0119	SC059	020	Glasgow Central to Stranraer STR1 STR2 Scotland	02/12/06		1	59	*
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		3	60	
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		4	07	
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Pinmore Tunnel to 440 yards	4	27	
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		4	60	
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		5	49	*
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		5	57	*
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		5	67	*
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		6	35	*
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		7	23	*
+0120	SC059	021	Glasgow Central to Stranraer STR2 Scotland	02/12/06		7	26	*
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06		8	57	*
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06		10	40	*
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06		10	43	*
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06		11	29	*
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06		11	32	*
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06		12	20	*
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Caimlea No1 LC	12	32	UWC
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06	BARRHILL SB	12	35	
+0121	SC059	022	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Caimlea No2 LC	12	37	UWC
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06		13	60	*
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06		14	20	*
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06		16	20	
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Miltonise LC	13	20	UWC
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06	MarkdhuNo1LC	18	79	UWC
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Marklach No1LC	19	74	UWC
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06		20	02	*
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Marklach N03 LC	20	07	UWC
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Glenwhilly SB	20	70	
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06		21	07	*
+0122	SC059	023	Glasgow Central to Stranraer STR2 Scotland	02/12/06		22	40	*
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06		23	40	*
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06		25	27	*
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06		25	68	
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Milton of Larg No1 LC	25	73	UWC
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Milton of Larg No 2 LC	26	50	UWC
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Craig N02'LC	28	10	UWC
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06		29	61	*
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06		30	30	*
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06		30	60	*
+0123	SC059	024	Glasgow Central to Stranraer STR2 Scotland	02/12/06	Challoch LC	30	63	UWC
+0124	SC059	025	Glasgow Central to Stranraer STR2 STR3 Scotland	09/09/07	(Change of ELR	30	67	
+0124	SC059	025	Glasgow Central to Stranraer STR2 STR3 Scotland	09/09/07	STRZ to STR3)	46	54	
+0124	SC059	025	Glasgow Central to Stranraer STR2 STR3 Scotland	09/09/07		46	60	
+0124	SC059	025	Glasgow Central to Stranraer STR2 STR3 Scotland	09/09/07		47	34	*
+0124	SC059	025	Glasgow Central to Stranraer STR2 STR3 Scotland	09/09/07	DunragitSB&LC	47	72	
+0124	SC059	025	Glasgow Central to Stranraer STR2 STR3 Scotland	09/09/07	Little Genoch No 1 LC	48	48	UWC
+0124	SC059	025	Glasgow Central to Stranraer STR2 STR3 Scotland	09/09/07		48	55	*
+0124	SC059	025	Glasgow Central to Stranraer STR2 STR3 Scotland	09/09/07		48	70	*
+0125	SC059	026	Glasgow Central to Stranraer STR3 STR4 Scotland	09/09/07	Little Genoch N02 LC	48	80	UWC
+0125	SC059	026	Glasgow Central to Stranraer STR3 STR4 Scotland	09/09/07		50	10	
+0125	SC059	026	Glasgow Central to Stranraer STR3 STR4 Scotland	09/09/07		52	30	*
+0125	SC059	026	Glasgow Central to Stranraer STR3 STR4 Scotland	09/09/07	Stranraer Yard GF	53	05	
+0125	SC059	026	Glasgow Central to Stranraer STR3 STR4 Scotland	09/09/07	(Change of ELR STR3 to STR4)	53	05	
+0125	SC059	026	Glasgow Central to Stranraer STR3 STR4 Scotland	09/09/07		53	15	*
+0126	SC059	027	Glasgow Central to Stranraer STR4 Scotland	01/12/07	Stanraer Harbour SB	53	74	
+0126	SC059	027	Glasgow Central to Stranraer STR4 Scotland	01/12/07	STRANRAER	53	77	
+0126	SC059	027	Glasgow Central to Stranraer STR4 Scotland	01/12/07	End of line	54	05	

@@ -1,0 +1,13 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06	Welbeok Colliery Jn	0	00	
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06		0	05	
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06		0	38	
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06		0	40	*
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06		2	13	*
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06		2	20	*
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06		2	27	*
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06	Network RailIRJB Boundary	2	63	*
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06	Wellbeck Colliery EastGF	2	65	
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06	Wellbeck Colliery West GF	3	15	
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06	Wellbeck Colliery	3	15	X
+0323	LN802	001	Welbeck Colliery Branch WKC London North Eastern	02/12/06	End of line	3	54	

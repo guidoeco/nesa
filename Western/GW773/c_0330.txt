@@ -1,0 +1,18 @@
+End of Line 4 69
+Machen Quarry Inlet GF 4 45
+Machen Quarry 4 19
+Machen Quarry Outlet GF 3 50
+Machen Fach Farm LC (UWC) 2 68
+Keepers LC (UWC) 2 49
+Rhiwderin LC (AOCL) 1 35
+
+0 65 5k
+
+0 60 *
+Former Bassaleg Jn 0 00
+(Change of ELR and mileage) 2 05
+
+1 14 *-
+Junction 1 10
+To Park Junction
+

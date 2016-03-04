@@ -1,0 +1,14 @@
+Silecroft SB L.C.(MCB) 48 12
+SILEcROFT 48 16
+48 28 i:
+49 25 *-
+49 54 *
+Whitbeck L.C. (AOCL) 49 55 2k
+50 05 *
+Moss (Tip) L.C. (UWC) 50 13
+Stangrah Farm L.C. (UWC) 50 27
+Gutterby LC. (UWC) 50 79
+BOOTLE 53 34
+Bootle SB L.C.(MCG) 53 37
+Middleton Place LC. (UWC) 55 15
+

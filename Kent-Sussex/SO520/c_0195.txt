@@ -1,0 +1,12 @@
+Cray Lane LC(AHBC) 48 31 *
+Forty Steps FIP 48 52 *-
+Codmore Hill Substation 48 57
+New Place FIP 49 06
+49 07 *
+Pulborough SB (PH) 49 74
+PULBOROUGH 50 00
+Hardham TP Hut 50 40
+Hardham LC(AHBC) 50 66
+51 00 1-
+51 37 *-
+

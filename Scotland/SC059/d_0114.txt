@@ -1,0 +1,11 @@
+NRN GSM-R
+TCB Paisley SC Panel 3 (PA) 092
+AC: Cathcart ECR
+CSR
+DGL (PF) 1159f (353m)
+(55 SLU's)
+Staff crossing with white lights
+UL = Up Loop
+YAL = Yard Arrival Line
+RL = Reception Line
+

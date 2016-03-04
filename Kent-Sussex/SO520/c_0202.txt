@@ -1,0 +1,16 @@
+29 25 *
+Fishbourne Footpath LC (RIG) 29 27
+Clay Lane LC (AHBC) 29 49
+
+29 52 *
+Fishbourne Substation 29 76
+New Fishbourne LC (AHBC) 30 08 it
+FISHBOURNE 30 12
+Black Boy Lane LC (AHBC) 30 25
+
+31 29
+BOSHAM 31 43
+Bosham LC (AHBC) 31 49
+Bosham TP Hut 31 64
+Funtington LC (AHBC) 32 19
+

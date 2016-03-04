@@ -1,0 +1,47 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	FARRINGDON	0	62	
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08		0	58	*
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	Farringdon Jn	0	00	
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	Farringfiion Substation	0	04	
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	Snow ill Tunnel	0	04	
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	(North Portal)	0	04	X
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	Territory Boundary	0	07	*
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	Smithfields Sidings	0	15	
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	CITY THAMESLINK	0	28	
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08		0	35	*
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	Snow Hill Tunnel	0	39	
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	(South Portal)	0	21	
+0114	SO280	001	Farringdon to Herne Hill FTL Kent/Sussex	02/08/08	(Change of Mileage)	0	21	X
+0115	SO280	002	Farringdon to Herne Hill HHH BMJ Kent! Sussex	30/03/09	BLACKFRIARS	0	30	
+0115	SO280	002	Farringdon to Herne Hill HHH BMJ Kent! Sussex	30/03/09		0	35	*
+0115	SO280	002	Farringdon to Herne Hill HHH BMJ Kent! Sussex	30/03/09	Blackfriars Substation	0	48	
+0115	SO280	002	Farringdon to Herne Hill HHH BMJ Kent! Sussex	30/03/09		0	50	*
+0115	SO280	002	Farringdon to Herne Hill HHH BMJ Kent! Sussex	30/03/09		0	62	*
+0115	SO280	002	Farringdon to Herne Hill HHH BMJ Kent! Sussex	30/03/09	Blackfriars Jn	0	63	
+0115	SO280	002	Farringdon to Herne Hill HHH BMJ Kent! Sussex	30/03/09	Southwark Substation	0	67	
+0115	SO280	002	Farringdon to Herne Hill HHH BMJ Kent! Sussex	30/03/09	(Metropolitan Jn)	1	14	
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09		1	00	*
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09		1	03	*
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09		1	18	*
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09	Southwark Bridge Jn	1	20	
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09		1	42	*
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09	ELEPHANT AND CASTLE	1	47	
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09		1	54	*
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09		1	70	*
+0116	SO280	003	Farringdon to Herne Hill Em:? Kent! Sussex	30/03/09	Walworth TP Hut	2	20	
+0117	SO280	004	Farringdon to Herne Hill HHH LTC LOC Kent/Sussex	20/09/08	Loughborough Jn	3	39	*
+0117	SO280	004	Farringdon to Herne Hill HHH LTC LOC Kent/Sussex	20/09/08	Loughborough Substation	3	41	
+0117	SO280	004	Farringdon to Herne Hill HHH LTC LOC Kent/Sussex	20/09/08	(Canterbury Road Jn)	3	79	
+0117	SO280	004	Farringdon to Herne Hill HHH LTC LOC Kent/Sussex	20/09/08	LOUGHBOROUGH J"	3	48	
+0117	SO280	004	Farringdon to Herne Hill HHH LTC LOC Kent/Sussex	20/09/08	(Cambria Jn)	3	62	
+0117	SO280	004	Farringdon to Herne Hill HHH LTC LOC Kent/Sussex	20/09/08	(Heme Hill North Jn)	4	32	
+0117	SO280	004	Farringdon to Herne Hill HHH LTC LOC Kent/Sussex	20/09/08	Intersection CATIATL over HHH	3	52	
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08		4	24	*
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08	Heme Hill North Jn	4	30	*
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08		3	70	
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08	HERNE HILL	4	37	
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08		3	76	
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08	Heme Hill South Jn	4	46	*
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08		4	06	
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08		4	15	*
+0118	SO280	005	Farringdon to Herne Hill HHH VIR HHT Kent/Sussex	18/10/08	(TULSE HILL)	5	02	

@@ -1,0 +1,26 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+
+AWS not provided on the Up
+
+Southport line from ML.52 inclusive
+
+and ML.37 (in the down direction)
+
+inclusive
+
+Platform Lengths: Moorfields
+
+Up: 128m (140 yards)
+
+Down: 128m (140 yards)
+
+AWS not provided on the Down
+
+Southport line to ML.35 inclusive.
+
+USP = Up Southport
+
+DSP = Down Southport
+

@@ -1,0 +1,16 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Onllwyn			Z
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Old Station	10	26	
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Onllwyn GF	10	11	
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Network Rail Boundary	10	10	*
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07		8	20	*
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Brynteg LC	7	55	UWC
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Nant—y—Cefn LC	7	46	UWC
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Llwynllanc Farm 1 LC	5	03	UWC
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Cefn Coed LC	4	19	UWC
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Tir Isaf 1 LC	2	74	UWC
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Glyn-y-Mul LC	2	52	UWC
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	CW	0	72	
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07		0	06	*
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07	Neath and Brecon Jn	0	01	
+0386	GW893	001	Onllwyn to Neath and Brecon Jn NAB Western	01/12/07		41	17	

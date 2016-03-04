@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0257	SC135	001	Dalreoch Jn to Balloch BCH Scotland	23/10/07	Dalreoch Jn	16	39	
+0257	SC135	001	Dalreoch Jn to Balloch BCH Scotland	23/10/07		16	50	*
+0257	SC135	001	Dalreoch Jn to Balloch BCH Scotland	23/10/07		16	69	*
+0257	SC135	001	Dalreoch Jn to Balloch BCH Scotland	23/10/07	RENTOH	16	11	
+0257	SC135	001	Dalreoch Jn to Balloch BCH Scotland	23/10/07		19	15	*
+0257	SC135	001	Dalreoch Jn to Balloch BCH Scotland	23/10/07	ALEXANDRIA	19	20	
+0257	SC135	001	Dalreoch Jn to Balloch BCH Scotland	23/10/07		19	35	*
+0257	SC135	001	Dalreoch Jn to Balloch BCH Scotland	23/10/07	BALLocH	20	38	

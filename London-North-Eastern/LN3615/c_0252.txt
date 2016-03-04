@@ -1,0 +1,9 @@
+Tinwell LC (UWC) 8 36
+Wards LC (UWC) 7 66
+Wards Sidings GF 7 60
+
+7 40 i:
+Ketton LC (MCB) 6 60
+Ketton SB 6 60
+Naylors LC (UWC) 5 46
+

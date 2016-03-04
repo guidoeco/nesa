@@ -1,0 +1,20 @@
+NRN
+TCB Allerton Junction SB (AN)
+AC: Crewe
+
+Platform Lengths: West Allerton
+Platform 1 Up: 93 metres (102 yards)
+Platform 2 Down: 99 metres (108 yards)
+Platform 3 Up: 97 metres (106 yards)
+Platform 4 Down: 100 metres (109 yards)
+TASS fitted:
+DFIDM line to 191m 24ch
+UMIUF line from 191m 24ch
+Platform Lengths: Mossley Hill
+Platform 1 Up: 126 metres (136 yards)
+Platform 2 Down: 125 metres (136 yards)
+Platform 3 Up: 136 metres (149 yards)
+Platform 4 Down: 161 metres (176 yards)
+
+Edge Hill SB (LE)
+

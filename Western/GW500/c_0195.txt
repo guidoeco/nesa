@@ -1,0 +1,15 @@
+120 50
+East Somerset Jn 120 73
+(Witham)
+
+121 00 *
+Denning's LC (UWC) 122 O1
+
+123 40 *-
+
+125 10 2k
+
+125 42 2k
+HABD 125 69
+BRUTON 126 09
+

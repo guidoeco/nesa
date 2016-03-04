@@ -1,0 +1,18 @@
+Canterbury Road Jn 3 24 *
+(3 79)
+(Loughborough Jn) (3 39)
+(3 45) *-
+(3 64) *
+CambriaJn (3 62)
+(3 68)
+Denmark Hill Tunnel 4 32
+(63 Yards) (4 12)
+4 29
+4 15
+DENMARK HILL 4 23
+(4 22)
+Grove Tunnel 4 14
+(132 Yards) (4 30)
+4 09
+(4 36)
+

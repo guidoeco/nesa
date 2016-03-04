@@ -1,0 +1,10 @@
+87 70 *-
+Santon LC (AHBC-X) 88 72
+Two Mile Bottom LC (AHBC-X) 91 16 *
+No.33 LC 91 35
+
+92 36 ale
+GF 93 30
+Thetford SB (T) 93 45
+THETFORD 93 50
+

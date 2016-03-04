@@ -1,0 +1,19 @@
+NRN
+TCB Warrington SB (WN)
+AC: Crewe
+UE=Up Earlestown
+DE=Down Earlestown
+'D&U'LC = 'Down & Up' Liverpool Curve
+Platform Lengths:Earlestown
+Platform 4 Down 145m (159yards)
+Platform 5 Up 112m (122yards)
+Between Earlestown East Jn and
+Newton-le-Willows Jn line direction
+is up towards Newton-le—Willows Jn
+(see NW1021 seq 002)
+Platform Lengths: NeMon-le—Willows
+Platform Up 106m (116yards)
+Down 108m (1 18yards)
+DCM=Down Chat Moss
+UCM=Up Chat Moss
+

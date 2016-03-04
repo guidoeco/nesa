@@ -1,0 +1,12 @@
+Buffer Stop 3 27
+East GF 3 46
+Silverdale Colliery 3 60
+Overhead Loading Hopper
+West GF 4 01
+Silverdale Tunnel 4 01
+(625 metres I 684 yards) to 4 32
+Keele Tunnel 5 44
+(293 metres I 321 yards) to 5 59
+Stoney Low Tunnel 6 40
+(36 metres I 39 yards) to 6 41
+

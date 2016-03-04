@@ -1,0 +1,11 @@
+Portgower Station LC (UWC) 99 73
+HELMSDALE TEP 101 40
+Sdg GF
+Bual No 1 LC (UWC) 101 62
+Bual No 2 LC (UWC) 101 75
+Marrel LC (ABCL) 102 38
+103 25 i:
+103 54 *
+Eldrable No 1 LC (UWC) 104 54
+105 68 i:
+

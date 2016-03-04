@@ -1,0 +1,9 @@
+NRN GSM-R
+TCB Paisley 80 Panel 1 (P)
+AC: Cathcart ECR 
+CSR
+CD = Through jn
+GSM-R
+Up: Start of GSM-R area: 6m 41ch A 7
+Down: End Of GSM-R area; am 490']  
+

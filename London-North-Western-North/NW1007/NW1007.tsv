@@ -1,0 +1,16 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07	Nantwich SB	4	19	
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07	Nantwich LC	4	19	MCB
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07	NANTWICH	4	14	
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07	Nantwich Emergency GF	4	07	
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07	Newcastle Rd L.C.	3	46	AHBC-X
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07		3	38	*
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07	Route Boundary	2	60	
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07	Willaston L.C.	2	41	CCTV
+0034	NW1007	001	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	31/03/07	Limit of Electrification	1	41	
+0035	NW1007	002	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	21/04/07	Gresty Lane Down Sidings GF	0	60	
+0035	NW1007	002	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	21/04/07	Gresty Lane SB	0	33	GL
+0036	NW1007	003	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	07/10/06		0	28	*
+0036	NW1007	003	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	07/10/06		0	13	*
+0036	NW1007	003	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	07/10/06	Crewe South Jn	0	00	
+0036	NW1007	003	Nantwich (Excl.) to Crewe South Jn. SYC LNW North	07/10/06		157	60	

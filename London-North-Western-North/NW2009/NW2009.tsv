@@ -1,0 +1,28 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0062	NW2009	001	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	End of Line	10	06	
+0062	NW2009	001	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07		10	11	
+0062	NW2009	001	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07		10	61	
+0062	NW2009	001	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Arpley Jn SB	11	02	AJ
+0062	NW2009	001	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Arpley Jn	11	03	*
+0062	NW2009	001	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Slutchers Lane LC	11	16	FP
+0062	NW2009	001	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Crosfield's Crossing SB LC	11	35	M03
+0062	NW2009	001	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Crosfield's GF	11	39	
+0063	NW2009	002	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Litton's Mill Crossing SB LC	11	45	MCG
+0063	NW2009	002	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Monk's Siding SB LC	11	70	MCB
+0063	NW2009	002	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07		12	40	*
+0063	NW2009	002	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Penketh Hall LC	13	37	UWC
+0063	NW2009	002	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Fiddlers Fen'y LC	13	63	UWC
+0063	NW2009	002	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Marsh House LC	14	09	CCTV
+0063	NW2009	002	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Fiddlers Ferry Power Station SB	14	46	
+0063	NW2009	002	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Sullivan Siding GF	16	00	
+0064	NW2009	003	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Carterhouse Jn SB LC	16	27	UWC
+0064	NW2009	003	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07	Carterhouse Jn SB	16	27	X
+0064	NW2009	003	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07		16	28	
+0064	NW2009	003	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07		16	59	
+0064	NW2009	003	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07		16	60	
+0064	NW2009	003	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07		16	73	*
+0064	NW2009	003	Arpley Jn. to Ditton East Jn. SDJ LNW North	02/06/07		17	00	*
+0065	NW2009	004	Arpley Jn. to Ditton East Jn. SDJ LNW North	08/12/08		18	47	*
+0065	NW2009	004	Arpley Jn. to Ditton East Jn. SDJ LNW North	08/12/08	Ditton East Jn	18	55	
+0065	NW2009	004	Arpley Jn. to Ditton East Jn. SDJ LNW North	08/12/08		182	67	
+0065	NW2009	004	Arpley Jn. to Ditton East Jn. SDJ LNW North	08/12/08	Ditton SB	183	00	DN

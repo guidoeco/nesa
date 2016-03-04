@@ -1,0 +1,12 @@
+282 53 *-
+284 30 a:
+284 54
+St. Austell GF 286 23
+ST. AUSTELL 286 26
+Bumgullow Jn 288 26
+(change of RA)
+288 50
+291 21
+291 63
+293 17
+

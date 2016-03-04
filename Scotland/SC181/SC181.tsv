@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06	Ladybank Jn	0	03	
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06	Annies‘muir LC	0	19	UWC
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06		2	00	
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06		4	00	
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06		6	35	
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06		6	42	*
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06		6	50	
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06		6	68	*
+0374	SC181	001	Ladybank Jn to Hilton Jn CDC1 Scotland	02/12/06		10	00	
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09		10	20	*
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09		10	30	*
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09		12	00	
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09	Clayton LC	13	41	UWC
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09	(Change of ELR	14	10	
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09	CD01 to CD62)	44	13	
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09	Eastﬁeld LC	44	55	UWC
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09		45	17	*
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09		45	58	*
+0375	SC181	002	Ladybank Jn to Hilton Jn CDC1 CD02 Scotland	01/01/09	Hilton Jn	45	66	

@@ -1,0 +1,27 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0407	LN872	001	Altofts Jn to Leeds West Jn TJCS London North Eastern	02/12/06	Altofts Jn	185	73	
+0407	LN872	001	Altofts Jn to Leeds West Jn TJCS London North Eastern	02/12/06		186	01	*
+0407	LN872	001	Altofts Jn to Leeds West Jn TJCS London North Eastern	02/12/06		186	05	
+0407	LN872	001	Altofts Jn to Leeds West Jn TJCS London North Eastern	02/12/06	Methley Jn	187	41	
+0407	LN872	001	Altofts Jn to Leeds West Jn TJCS London North Eastern	02/12/06	Methley North LC	188	30	RIG
+0407	LN872	001	Altofts Jn to Leeds West Jn TJCS London North Eastern	02/12/06	HABD	188	34	
+0407	LN872	001	Altofts Jn to Leeds West Jn TJCS London North Eastern	02/12/06	WOODLESFORD	190	00	
+0407	LN872	001	Altofts Jn to Leeds West Jn TJCS London North Eastern	02/12/06	Footpath LC	190	00	RIG
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		192	40	
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06	Stourton Jn	192	42	
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06	Stourton			Z
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		193	26	*
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06	Hunslet South Jn	193	40	
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		193	68	*
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06	Hunslet Station Jn	194	10	
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		194	35	*
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		194	65	*
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06	Holbeck Depot Jn	194	79	
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06	Holbeck Depot	194	79	X
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		195	14	*
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06	Engine Shed Jn	195	20	
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		195	33	*
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		195	42	*
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		195	45	
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06		195	49	*
+0408	LN872	002	Altofts Jn to Leeds West Jn TJCS ELN London North Eastern	02/12/06	Leeds West Jn	195	53	

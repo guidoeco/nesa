@@ -1,0 +1,16 @@
+NRN CSR
+
+TCB Wembley Mainline SCC (WM)
+
+AC: Rugby ECR
+CSR to 1m O7ch only.
+TPWS not provided.
+(PF) Permissive freight
+UHLG - Up High Level Goods
+DHLG - Down High Level Goods
+UCL - Up Carriage line
+DCL - Down carriage line
+R+D - Railnet Reception and Departure
+U+DHLG - Up & Down High Level Goods
+U+DG1 - Up & Down Goods No. 1
+

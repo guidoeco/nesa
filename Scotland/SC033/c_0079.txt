@@ -1,0 +1,9 @@
+Dumfries 91 63
+91 53
+0 00
+Scottish Oil Sdg GF 1 79
+2 25 *-
+2 27 *
+ICISdg GF 2 71
+End Of Branch 3 01
+

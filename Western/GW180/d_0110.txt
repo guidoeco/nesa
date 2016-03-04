@@ -1,0 +1,21 @@
+NRN CSR
+TCB Slough New SC (SN)
+RAB AC: Romford
+ATP - provided
+LOD(T) DA Tunnel PortallT1,2,3 at 23498m
+UA T1 ,2,3IT unnel Portal at 23446m
+Platforms - 195m (213 yards)
+LOD(T) T1 ,2,3IDT5 at 23699m
+UT5IT1,2.3 at 23647m
+UA - Up Airport
+DA - Down Airport
+LOD(T) UT5/T133 at 23898m
+LOD(T) T1 .2.3IDT5 at 24113m
+LOD(T) T1 .2,3IT 5 UT5 25560m,
+DT5 at 25664m
+UA. DA, UT5 and DT5
+Bi-directional
+CD DT5 metreage
+LOD(T) T1,2,3IT 5 at 25935m
+Platforms - 217m (237 yards)
+

@@ -1,0 +1,22 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Territory Boundary			X
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	NRN Channel Change	130	40	*
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Elmley Lovett GF	131	19	
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	HARTLEBURY	131	68	
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Hartlebury LC (M CB)	131	72	
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Hartlebury SB	131	72	HY
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06		134	55	*
+0145	MD430	002	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Down Goods Loop	134	59	
+0145	MD430	002	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06		135	00	*
+0145	MD430	002	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Kidderminster Jn SB	135	17	KJ
+0145	MD430	002	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	KIDDERMINSTER	135	46	
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Blakedown SB	138	00	EN
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Blakedown LG	138	51	
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	BLAKEDOWN	138	54	
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	HAGLEY	140	29	
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06		142	00	*
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	STOURBRIDGE J"	142	16	
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Stourbridge Middle Jn	142	21	
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Stourbridge Jn GF	142	24	
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Stourbridge Jn SB	142	25	SJ
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Stourbridge North Jn	142	51	*

@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0191	LN3219	001	Cricklewood Curve Jn to Dudding Hill Jn CAW London North Eastern	02/12/06	Cricklewoed Curve Jn	5	19	
+0191	LN3219	001	Cricklewood Curve Jn to Dudding Hill Jn CAW London North Eastern	02/12/06		5	35	*
+0191	LN3219	001	Cricklewood Curve Jn to Dudding Hill Jn CAW London North Eastern	02/12/06	Route Boundary	5	72	*
+0191	LN3219	001	Cricklewood Curve Jn to Dudding Hill Jn CAW London North Eastern	02/12/06	Continued in Network Rail	5	72	X
+0191	LN3219	001	Cricklewood Curve Jn to Dudding Hill Jn CAW London North Eastern	02/12/06	Anglia Reute Sectional Appendix	5	72	X

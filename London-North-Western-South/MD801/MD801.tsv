@@ -1,0 +1,32 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0200	MD801	001	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ1 WSJ2 LNW South	07/10/06	Wolverhampton North Jn	13	32	
+0200	MD801	001	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ1 WSJ2 LNW South	07/10/06	Change of mileage	143	52	
+0200	MD801	001	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ1 WSJ2 LNW South	07/10/06	Oxley, Stafford Road Jn	142	79	
+0200	MD801	001	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ1 WSJ2 LNW South	07/10/06	Change of mileage	143	02	
+0201	MD801	002	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	31/03/07	Oxley SB	143	14	CY
+0201	MD801	002	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	31/03/07		143	40	*
+0201	MD801	002	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	31/03/07		143	45	
+0201	MD801	002	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	31/03/07	Limit of electrification	143	65	
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	BILBROOK	145	66	
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	CODSALL	146	41	
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Stocking Farm LC	147	32	UWC
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	ALBRIGHTON	149	38	
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	NRN Channel change board	149	40	
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	COSFORD	150	69	
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	SHIFNAL	154	24	
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Madeley Jn	156	19	
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Madeley Jn SB	156	26	MJ
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	TELFORD CENTRAL	157	40	
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Oakengates Tunnel	157	76	
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	(431 metres 1' 471 yards) to	158	17	
+0204	MD801	005	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/03/09	OAKENGATES	158	31	
+0204	MD801	005	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/03/09	Donnington Junction	160	73	
+0204	MD801	005	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/03/09		161	00	*
+0204	MD801	005	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/03/09	WELLINGTON	161	27	
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08		162	00	*
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Allscott GF	163	70	
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Territory Boundary	170	46	
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	To Abbey Foregate	170	46	X
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	continued in	170	46	X
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Western Territory Sectional	170	46	X
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Appendix			Z

@@ -1,0 +1,15 @@
+9 47 *
+9 63 *-
+ST HELIER 9 69
+St Helier Ground Frame 9 74
+St Helier Substation 10 40
+1O 60 *-
+SUTI'ON COMMON 10 67
+11 00 *-
+West Sutton TP Hut 11 40
+11 42 'k
+WEST SUTTON 11 47
+11 69 *-
+(surrou) (12 50)
+(14 75)
+

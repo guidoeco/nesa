@@ -1,0 +1,9 @@
+Hythe Jn 53 36
+HYTHE 53 49
+Hythe Station LC (CCTV) 53 54
+53 55 *
+Wivenhoe Park LC (UWC) 54 61
+55 25 5%
+55 45 i:
+55 55 *-
+

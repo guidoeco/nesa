@@ -1,0 +1,15 @@
+NRN
+
+TCB Gloucester SB (G)
+RAB
+
+C. Up (0.0.U.)
+Down platform - 102m, 112yds
+Up platform - 76m. 33yds
+UM bi-directional between 6.16
+and 6.18
+AWS inductor for 6.71 (UM) not
+suppressed for Down direction
+movements
+UGL 608m, 199511
+

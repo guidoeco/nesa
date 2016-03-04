@@ -1,0 +1,17 @@
+NRN GSM-R
+TCB Yoker SC (YY)
+AC: Cathcart ECR
+CSR
+
+W = Washer Road
+
+Access to Rothesay Dock Line
+
+is from Yoker CSD
+
+RID = ReceptionIDeparture
+
+HID = HeadshuntlDeparture
+
+R = Reception
+

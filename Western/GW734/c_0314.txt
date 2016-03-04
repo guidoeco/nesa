@@ -1,0 +1,13 @@
+Llandanwg LC (UWC) 109 16
+LLANDANWG 109 17
+109 45 *-
+109 75 *
+Harlech Cliff 109 79
+Harlech Moria LC (ABCL) 110 79
+RETB Channel Change 111 00
+HARLECH (TEP) 111 07
+Single Line 111 25
+Morfa No.1 LC (UWC) 111 35
+TYGWYN 113 55
+Tygwyn LC (ABCL) 113 55
+

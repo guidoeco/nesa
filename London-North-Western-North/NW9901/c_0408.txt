@@ -1,0 +1,12 @@
+GARGRAVE 224 79
+Gargrave HABD (to York box) 226 59
+Network Rail London North Western 230 00
+(Appendix Boundary)
+Switches Farm LC (UWC) 230 05
+Haw Lane LC (UWC) 230 68
+Hellifield SB 231 14
+HELLIFIELD 231 20
+231 35
+231 45
+LONG PRESTON 232 41
+

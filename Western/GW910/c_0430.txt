@@ -1,0 +1,21 @@
+Ystrad Farm LC (UWC) 27 60
+Tir-Allen Farm 3 LC(UWC) 26 61
+Tir-Allen Farm 2 LC(UWC) 26 30
+Tir-Allen Farm 1 LC(UWC) 26 26
+Maes-y-Coed Farm LC (UWC) 26 12
+Pentremeurig Farm 4 LC (UWC) 25 70
+Pentremeurig Farm 3 LC (UWC) 25 51
+Llanwrda LC (OPEN) 25 42
+LLANWRDA 25 40
+Pentremeurig Farm 2 LC(UWC) 25 27
+Glantowy LC (UWC) 24 32
+Llangadog LC (AOCL) 23 62
+
+23 61 *
+LLANGADOG 23 59
+Godregarreg Farm 1 23 29
+Crossing
+
+23 28 :1:
+Glanyrynys Farm Crossing 23 02
+

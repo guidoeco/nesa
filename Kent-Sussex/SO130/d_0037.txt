@@ -1,0 +1,26 @@
+Signalling & Remarks
+NRN CSR
+TCB London Bridge SB (L)
+
+DGL 28 (not permissive).
+UGL 33 (not permissive).
+
+1 Down Slow
+
+2 Up Slow
+
+3 Down Fast
+
+4 Up Fast
+
+5 Down Dartl'ord Loop
+
+6 Up Dartford Loop
+
+7 Down Spur
+
+8 Up Spur
+
+9 Departure Road
+10 Arrival Road
+

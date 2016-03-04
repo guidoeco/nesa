@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0369	LN840	001	Leeds Engine Shed Jn. to Whitehall East Jn. TJCS London North Eastern	02/12/06	Engine Shed Jn	195	20	
+0369	LN840	001	Leeds Engine Shed Jn. to Whitehall East Jn. TJCS London North Eastern	02/12/06		195	22	
+0369	LN840	001	Leeds Engine Shed Jn. to Whitehall East Jn. TJCS London North Eastern	02/12/06		195	36	*
+0369	LN840	001	Leeds Engine Shed Jn. to Whitehall East Jn. TJCS London North Eastern	02/12/06		195	44	*
+0369	LN840	001	Leeds Engine Shed Jn. to Whitehall East Jn. TJCS London North Eastern	02/12/06		195	45	
+0369	LN840	001	Leeds Engine Shed Jn. to Whitehall East Jn. TJCS London North Eastern	02/12/06		195	51	
+0369	LN840	001	Leeds Engine Shed Jn. to Whitehall East Jn. TJCS London North Eastern	02/12/06	Whitehall East Jn	195	52	

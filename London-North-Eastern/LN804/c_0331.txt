@@ -1,0 +1,18 @@
+163 74
+161 77 *
+162 10
+Masborough Jn 162 24
+162 60 a:
+164 64
+Aldwarke Jn 164 70
+164 73
+165 56 *-
+165 61 *
+Swinton Jn South 166 56
+SWINTON 166 74
+166 76
+Swinton Jn North 167 03
+167 68 1:
+168 25 9:
+Dearne Jn 166 53
+

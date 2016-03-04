@@ -1,0 +1,78 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0250	LN3615	001	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06	Brassey LC	13	09	UWC
+0250	LN3615	001	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06	Uffington & Barnack LC	12	75	M06
+0251	LN3615	002	Helpsth Jn to Systh South Jn PMJ London North Eastern	31/03/07	Uffington SB	12	75	UN
+0251	LN3615	002	Helpsth Jn to Systh South Jn PMJ London North Eastern	31/03/07		12	68	*
+0251	LN3615	002	Helpsth Jn to Systh South Jn PMJ London North Eastern	31/03/07	Hoods Mill LC	11	08	UWC
+0251	LN3615	002	Helpsth Jn to Systh South Jn PMJ London North Eastern	31/03/07		10	55	*
+0251	LN3615	002	Helpsth Jn to Systh South Jn PMJ London North Eastern	31/03/07	Stamford Tunnel	10	36	
+0251	LN3615	002	Helpsth Jn to Systh South Jn PMJ London North Eastern	31/03/07	(341 yards) 10 020	10	36	X
+0251	LN3615	002	Helpsth Jn to Systh South Jn PMJ London North Eastern	31/03/07	STAMFORD	10	11	
+0251	LN3615	002	Helpsth Jn to Systh South Jn PMJ London North Eastern	31/03/07		10	00	*
+0252	LN3615	003	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06	Tinwell LC	8	36	UWC
+0252	LN3615	003	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06	Wards LC	7	66	UWC
+0252	LN3615	003	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06	Wards Sidings GF	7	60	
+0252	LN3615	003	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06		7	40	*
+0252	LN3615	003	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06	Ketton LC	6	60	MCB
+0252	LN3615	003	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06	Ketton SB	6	60	
+0252	LN3615	003	Helpsth Jn to Systh South Jn PMJ London North Eastern	02/12/06	Naylors LC	5	46	UWC
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07		5	31	*
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07		5	11	*
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07		5	10	*
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07	Luffenham LC	4	11	CCTV
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07		3	20	*
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07	NRN Channel change board	1	10	
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07	Wing LC	1	03	UWC
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07		0	20	*
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07	Manton Jn GF	0	14	
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07	Manton Jn SB	0	07	MJ
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07	Manton Jn	0	00	
+0253	LN3615	004	Helpsth Jn to Systh South Jn PMJ London North Eastern	08/09/07		90	25	
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Langham Jn SB	95	06	
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Langham Jn LC (MCB)	95	06	*
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Ashwell Gate House LC	96	47	MCBR
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Ashwell SB	96	67	
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Ashwell LC	96	67	MCB
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Teigh LC	98	00	FPG
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06		98	03	*
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06		98	10	*
+0255	LN3615	006	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06		98	30	*
+0256	LN3615	007	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Whissendine SB	99	15	
+0256	LN3615	007	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Whissendine LC	99	15	M03
+0256	LN3615	007	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Wymondham LC	99	67	MCG
+0256	LN3615	007	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06		100	02	*
+0256	LN3615	007	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06		100	21	*
+0256	LN3615	007	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Bretts LC	102	02	UWC
+0256	LN3615	007	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Freeby LC	102	15	UWC
+0256	LN3615	007	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Wyfordby LC	102	38	M06
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Rippings LC	102	73	UWC
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Specklies LC	103	05	UWC
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Brentingby LC	103	22	UWC
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Hubbards LC	103	41	UWC
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06		104	19	*
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06		105	17	*
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Melton Mowbray Barrow Crossing	105	18	
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	MELTON MOWBRAY	105	22	
+0257	LN3615	008	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Melton Station SB	105	27	
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Melton Jn	105	70	
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Melton Jn GF	105	70	
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Change of mileage	113	36	
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Greens LC	112	19	UWC
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Asfordby LC (AH BC)	111	40	
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Woods LC	110	47	UWC
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Mill Deeping LC	110	41	UWC
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Frisby SB	110	17	FY
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Frisby LC	110	17	MOB
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Washstones LC (RIG)	109	51	UWC
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Rippins Main LC	109	00	UWC
+0258	LN3615	009	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Brooksby LC	108	31	AHBC
+0259	LN3615	010	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Hall Farm LC	108	02	UWC
+0259	LN3615	010	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Hives Farm LC	107	55	UWC
+0259	LN3615	010	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Poachins LC	107	25	UWC
+0259	LN3615	010	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Rearsby LC	107	05	AHBC
+0259	LN3615	010	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Mucky Lane LC	106	47	UWC
+0259	LN3615	010	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Rearsby House Farm LC	106	23	UWC
+0259	LN3615	010	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Broome Lane LC	106	00	AHBC
+0260	LN3615	011	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06		104	35	*
+0260	LN3615	011	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Syston East Jn	104	22	
+0260	LN3615	011	Helpsth Jn to Systh South Jn GSM London North Eastern	02/12/06	Syston South Jn	103	77	*

@@ -1,0 +1,26 @@
+NRN
+AB Bedlington North SB (BN)
+RAB
+AWS not provided
+TPWS no provided
+DC=Down Cambois
+UC=Up Cambois
+Winning SB
+DIUC=Down and Up Cambois
+Freemans SB (F)
+('D - ToIFrom Blyth National Power
+Rule Book Module M1, Section 4 and Module M2,
+Section 4.3 when a train is stopped on the Up
+Cambois line between Winning and West
+Sleekbum Jn. and the Driver is not able to
+immediately communicate with the Signaller,
+emergency protection must be carried out on
+those lines.
+OTNS
+C2) - TolFrom West and East Group Sidings.
+Secured out of use
+(:3) - ToIFrom former MPD. Secured out of use
+DIUNB=Down and Up North Blyth
+GD - TolFrom Battleship Wharf Siding
+(5) - TolFrom Alcan Terminal
+

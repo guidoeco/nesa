@@ -1,0 +1,15 @@
+Stockton Cut Jn 10 13
+10 34 *-
+10 72 *
+10 73 *-
+Bowesfield SB (B) 10 76
+11 20 1k
+11 26 *
+11 45 *
+THORNABY 11 63
+11 70 *-
+11 77 ale
+12 36 *-
+Tees SB (TY) 12 70
+13 29 *
+

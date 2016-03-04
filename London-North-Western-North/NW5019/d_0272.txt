@@ -1,0 +1,14 @@
+NRN
+OT Dinting SB (DG)
+AC: Crewe
+Platform Lenthhs: Glossop
+Up 8: Down 1 3m (189yards)
+CD Applies to Class 1,2 8: 5 trains
+® Applies to all other trains
+D&UH=Down 8; Up Hadfield
+@ Dinting box Station limits between
+South Junction and West Junction
+Platform Lengths: Dinting
+Platform 2
+104m (114yards)
+

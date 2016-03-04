@@ -1,0 +1,10 @@
+Levington No.6 LC (AHBC) 80 00
+Morston Hall LC (AHBC) 80 64
+Thorpe Lane LC (AHBC) 81 41
+Gun Lane LC (UWC) 82 O1
+Keepers Lane LC (UWG) 82 33
+Trimley LC (CCTV) 82 80
+TRIMLEY 82 64
+Felixstowe Beach Jn 83 57 *
+FELIXSTOWE TOWN 84 3O
+

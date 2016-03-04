@@ -1,0 +1,11 @@
+82 01 it
+82 04 *-
+82 07 i:
+82 09
+82 18 17c
+Sincil Bank LC (CCTV) 82 19
+82 25
+Pelham Street Jn. 82 31 wk
+LINCOLN CENTRAL 82 41
+Lincoln High Street LC (CCTV) 82 49
+

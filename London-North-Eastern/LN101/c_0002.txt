@@ -1,0 +1,20 @@
+Belle Isle 0 55 *
+Copenhagen Jn 0 64
+
+O 65 it
+
+0 66 *-
+Copenhagen Tunnel 0 65
+(543m 594 yards) 1 12 *
+
+1 34
+
+1 40 *
+Holloway 1 44
+
+1 57
+
+1 63
+
+1 70
+

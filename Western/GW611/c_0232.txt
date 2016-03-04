@@ -1,0 +1,18 @@
+Exmouth Jn 170 27
+
+0 O1
+
+0 1O *-
+POLSLOE BRIDGE O 34
+DIGBY&80WTON 2 2D
+
+4 00 :1:
+
+4 15 *-
+Single line Jn 4 18
+Topsham LC (CCTV) 4 23
+TOPSHAM 4 26
+Single line Jn 4 34
+
+4 38 *
+

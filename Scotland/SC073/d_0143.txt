@@ -1,0 +1,12 @@
+NRN GSM-R
+TCB Paisley 80 Panel 2 (PK 8: PH)
+OLE on up and down largs line only i IR
+UFL = Up Freight Line
+LL = Largs Line
+PP(A) - detaching, for booked movements only
+*PP(A) - attaching during signiﬁcant service
+disruption only
+*PP - during signiﬁcant service disruption only
+* Second train must only be admitted to occupied
+platform in Up direction
+

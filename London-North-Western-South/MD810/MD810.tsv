@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06	Madeley Jn	156	19	
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06	Madeley Jn SB	156	26	MJ
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06		156	30	*
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06		156	47	*
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06	Madeley South Jn	156	51	
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07	Change of mileage			X
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07	Chunes LC	160	59	UWC
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07		160	34	*
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07	Network Rail Boundary	160	29	
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07	Ironbridge e-on Power Station Sidings	160	29	X

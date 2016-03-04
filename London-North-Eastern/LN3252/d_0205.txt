@@ -1,0 +1,14 @@
+NRN
+TCB Trent SB ('I'l')
+RAB
+CD 15mph through connection
+UM - Up Mansfield
+DM - Down Mansfield
+DT - Down Trowell
+UT - Up Trowell
+ GSM-R area
+7' Entry: Down Trowell: 130m 27ch
+LA Exit: Up Trowell: 130m Ofich
+Derby EMCC (RT)
+Erewash Workstation
+

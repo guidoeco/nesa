@@ -1,0 +1,11 @@
+Guide Bridge East Jn 5 32
+
+5 13 *-
+Guide Bridge West Jn 5 10
+Guide Bridge SB (GB) 5 04
+GUIDE BRIDGE 4 76
+Guide Bridge Station Jn 4 73
+
+4 72 *
+FAIRFIELD 3 52
+

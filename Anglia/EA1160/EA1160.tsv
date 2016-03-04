@@ -1,0 +1,93 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	BETHNAL GREEN	1	10	
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Bethnal Green East Jn	1	14	
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		1	16	*
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		1	30	*
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Beflnnal Green North Jn	1	30	X
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	CAMBRIDGE HEATH	1	61	
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		1	72	*
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	LONDON FIELDS	2	35	
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Reading Lane Jn	2	55	
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	2	65	
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		2	72	*
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Hackney Downs "B" GF	2	72	
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	HACKNEY DOWNS	2	78	
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Hackney Downs "C" GF	3	04	
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Hackney Downs North Jn	3	04	
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Queens Road Tunnel	3	19	*
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	(445 yards) to	3	39	
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Clapton Tunnel	3	53	
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	(284 yards) to	3	66	*
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	CLAPTON	3	78	
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Clapton GF	4	27	
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Clapton Jn .	4	38	*
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	4	66	
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Coppermill Jn	4	74	*
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		4	79	*
+0075	EA1160	005	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Tottenham South Jn	5	41	
+0075	EA1160	005	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	TOTTENHAM HALE	6	00	
+0075	EA1160	005	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		6	12	*
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	NORTHUMBERLAND PARK	6	73	
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Northumberland Park LC	6	77	CCTV
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	7	15	
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	ANGEL ROAD	7	57	
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		3	00	*
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	PONDERS END	9	71	
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	BRIMSDOWN	10	61	
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Brimsdown LC	10	65	CCTV
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		11	00	*
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	ENFIELD LOOK	11	65	
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Enfield Lock LC	11	70	CCTV
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	WALTHAM amass	12	63	
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		13	00	*
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Trinity Lane LC	13	22	MCG
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	13	50	
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	13	37	
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Cheshunt Jn	13	71	
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	CheshuntGF	13	75	
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	CHESHUNT	14	01	
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Windmill Lane LC	14	07	CCTV
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Cadmore Lane LC	14	32	UWC
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07		15	00	*
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Slipe Lane LC	15	65	UWC
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Wharf Road LC	16	05	AHBC-X
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07		16	65	*
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	03	
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	04	
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	BROXBOURNE	17	17	
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Broxbourne GF	17	24	
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	30	*
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	40	*
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	54	
+0080	EA1160	010	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Broxbourne Jn	18	38	
+0080	EA1160	010	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Broxbourne CEGB sidings	18	65	
+0080	EA1160	010	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Creasey's (Rye Meads) LC (UWC)	19	05	*
+0080	EA1160	010	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	19	13	
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		19	40	*
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	ROYDON	20	09	
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Roydon Station LC	20	10	CCTV
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Roydon Lock LC	20	30	UWC
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		20	34	*
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		20	45	*
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Camps LC	21	23	UWC
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Harlow Town GF	22	40	
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		22	45	
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	HARLOW TOWN	22	59	
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		22	79	
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		23	75	
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Harlow Mill GF	24	20	
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	HARLOW MILL	24	36	
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Robarts I LC	25	20	UWG
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Robarts |ll LC	25	63	UWG
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Sawbridgeworth LC	26	53	CCTV
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	SAWBRIDGEWORTH	26	57	
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Spellbrook LC	23	17	CCTV
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Fowlers LC	23	73	UWC
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		29	17	*
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		29	66	*
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		29	71	
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		30	12	*
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	BISHOPS STORTFORD	30	27	
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		30	41	*
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Johnsons Footpath LC	31	00	RIG-X
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Cannons Mill Lane Footpath LC	31	31	RIG-X

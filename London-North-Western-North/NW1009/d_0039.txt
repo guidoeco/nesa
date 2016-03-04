@@ -1,0 +1,60 @@
+NRN
+
+AB Salop Goods Jn SB (SG)
+
+AC: Crewe
+
+AWS not provided on Up Fast Independent line, Up
+
+Slow Independent line, Down Slow Independent line
+
+and Down Fast Independent line.
+
+(PF) DSI, DFI, USI. UFI between Crewe Sorting
+
+Sidings North and Salop Goods Jn.
+
+T(2)-T prohibited on all lines between Crews Sorting
+
+Sidings North signal box and Salop Goods Jn.
+
+UF I: Up Fast Independent.
+
+USI: Up Slow Independent.
+
+DSI: Down Slow Independent.
+
+DFI: Down Fast Independent.
+
+TCB Manchester South 800 (MS)
+
+Manchester South SOC (MS) area from Tunnel
+
+(exclusive).
+
+ELR - BHI
+
+ELR - CMP1
+
+Line Blocked Lockout.
+
+- Down Manchester Independent and Up
+Manchester Independent lines from 162m 17ch to
+Sandbach South Junction.
+
+UMI: Up Manchester Independent.
+
+DMI: Down Manchester Independent.
+
+ULI: Up Liverpool Independent.
+
+DLI: Down Liverpool Independent.
+
+UCI: Up Chester Independent.
+
+U&DP: Up 8: Down Platform.
+
+UW: Up Wilmslow.
+
+DW: Down Wilmslow.
+

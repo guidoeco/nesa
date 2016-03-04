@@ -1,0 +1,17 @@
+NRN
+RAB
+Other crossings in this area
+T = Green Farm UWC at 11 72
+T = Manor Farm (Barton) UWC at 11 77
+T = Brisby's UWC At 12 17
+T = Plain Moor UWC at 12 32
+T = Manor Farm Crambe UWC at 13 58
+T = Newcombe's UWC at 13 65
+T = Oakcliffe UWC at 14 05
+T = Brotherton's UWC at 14 13
+T = Crambeck UWC at 16 15
+T = Low Hutton UWC at 17 75
+T = Portobella Farm UWC at 19 12
+T = High Farm UWC at 19 53
+T = New Cut UWC at 20 07
+

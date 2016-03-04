@@ -1,0 +1,8 @@
+sgds GF 29 10 CS)
+NEAR 29 05
+23 35 *
+Iton HABD (Up) 25 48
+was LC (UWC) 24 57
+Item GSP 24 42
+ELR : ECM8
+

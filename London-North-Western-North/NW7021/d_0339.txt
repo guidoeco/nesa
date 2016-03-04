@@ -1,0 +1,18 @@
+NRN
+TCB Stalybridge SB
+
+UG=Up Goods
+DG= Down Goods
+
+Platform Lengths: Moseley
+
+Platform Up 9m (97 yds)
+
+Platform Down 89m (97 yds)
+
+Platform Lenoths: Greenfield
+
+Platform Up 56m (171 gds)
+
+Platform Down 114m (1 5 yds)
+

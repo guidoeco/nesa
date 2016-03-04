@@ -1,0 +1,17 @@
+Eden Valley 47 23
+47 75 *
+48 00
+49 12 *-
+49 30 2k
+49 64 :1:
+49 74 *-
+Penrith Soufl1 Jn 50 14
+Signal CE.188 (Down Slow) 50 52
+51 O2 *-
+PENRITH 51 20
+Penrith GF 51 27
+51 30
+51 56 *-
+OHNS 51 62
+51 68 :1:
+

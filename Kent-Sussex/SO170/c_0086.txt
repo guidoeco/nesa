@@ -1,0 +1,22 @@
+Mountfield Sidings Ground Frme 51 78
+Mountfield Substation 52 00
+52 20 *-
+Riverhall LC (CCTV) 52 36
+Battle Road LC (AHBC) 52 52 *-
+52 75 *
+Whatlington TP Hut 54 16
+Marley Lane LC (CCTV) 55 31
+BATI'LE 55 46
+Battle Ground Frame 56 12 *
+Telham Substation 56 48
+57 27 *
+57 44 *-
+GROWHURST 57 50
+Green Street TP Hut 58 53
+60 08 are
+60 33 *
+60 44 *-
+WEST ST LEONARDS 60 59
+Bo Peep Jn Substation 60 64
+Bo Peep Jn 60 69
+

@@ -1,0 +1,17 @@
+4 15 *-
+EAST DULWIGH 4 23
+Route Boundary 4 44
+NORTH DULWICH 4 64
+West Dulwioh Substation 5 32
+Knight's Hill Tunnel 5 56
+(331 yards) to 5 71
+(Heme Hill) ( 4 37)
+Route Boundary ( 4 63)
+( 4 65) 1-
+TULSE HILL 6 07
+(5 02)
+Tulsa Hill Substation 6 20
+(Leigham Jn) ( 6 40)
+(West NOMOOd Jn) ( 6 41)
+6 1O *-
+

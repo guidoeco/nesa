@@ -1,0 +1,14 @@
+NRN
+TCB Doncaster SB (D)
+RAB
+D8 = Down Sheffield
+US = Up Sheffield
+DSG = Down Sheffield Goods
+USG = Up Sheffield Goods
+AWS not provided on Goods lines between St
+James Jn and Hexthorpe Jn (excl)
+C Down Sheffield at 22 00 (571 yards before
+reaching signal D703).
+C Up at 20 22 (333 yards before reaching signal
+D 710)
+

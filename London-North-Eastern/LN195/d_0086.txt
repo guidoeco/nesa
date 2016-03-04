@@ -1,0 +1,15 @@
+NRN
+TCB Allington SB (AL)
+RAB
+DN - Down Nottingham
+UN - Up Nottingham
+Hot Axle Box Detector on the Up Nottingham
+Line at 108 64
+- Lockout Protection provided. See General
+
+Instruction
+
+NRN
+NRN Channel Change 
+Up 108 60, Down 109 00 NRN
+

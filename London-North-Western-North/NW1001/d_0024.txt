@@ -1,0 +1,40 @@
+NRN
+TCB Preston SB (PN)
+AC: Crewe 083
+(PF) Down and Up goods lines
+TASS fitted:
+DF line to 21m 57ch
+UF line throughout
+Platform Lengths: Preston
+Platform 1
+Up & Down 272m (297yards) Permissive PP
+Platform 2
+Up & Down 272m (297yards) Permissive PP
+Platform 3
+Up 359m (393yards) Permissive PP
+Down 341m (373yards) Permissive PP
+Platform 3c
+75m (82yards) Permissive PP
+Platform 4
+Up 265m (290yards) Permissive PP
+Down 283m (309yards) Permissive PP
+Platform 4::
+75m (33yards) Permissive PP
+Platform 5
+Up 244m (267yards) Permissive PP
+Down 239m (261yards) Permissive PP
+Platform 6
+Up 245m (268yards) Permissive PP
+Down 238m (260yards) Permissive PP
+(PF) 'down 8: up' goods loop (Parcel
+Platform line) l314m (1029ft). PF
+also applies to Class 1 parcel and
+postal trains
+(PF) Up and Down Goods loop]
+384m (1260ft)
+UT=Up Through line
+DT=Down Through line
+{D - No.1 Siding
+® - No.2 Siding
+SL - Shunting Line
+

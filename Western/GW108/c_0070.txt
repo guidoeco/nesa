@@ -1,0 +1,12 @@
+204 60 *-
+
+205 10 7k
+
+206 00 a:
+DAWLISH 206 07
+Barrow crossing (WL) 206 13
+Kennaway Tunnel 206t034
+191m (209 yards) 206 43
+Coryton Tunnel 206t053
+205m (224 yards) 206 63
+

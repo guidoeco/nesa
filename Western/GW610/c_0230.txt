@@ -1,0 +1,13 @@
+Territory boundary 164 30
+Crannaford LC (AHBC) 165 20
+165 21 *-
+166 07 *-
+168 23 *-
+Single line Jn 168 24
+168 38 a:
+Pinhoe LC (CCTV) 168 39
+PINHOE 168 44
+170 00 *
+Exmouth Jn (EJ) SB 170 21
+Exmouth Jn 170 27
+

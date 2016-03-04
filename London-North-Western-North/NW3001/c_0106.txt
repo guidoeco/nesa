@@ -1,0 +1,9 @@
+RHOSNEIGR 256 04
+260 04
+Valley LC (MOB) 260 06
+Valley SB (VY) 260 06
+VALLEY 260 09
+Cleifiog Uchaf LC (UWC) 260 57
+261 56
+263 06 al.-
+

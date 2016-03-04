@@ -1,0 +1,7 @@
+RETB 102 Invemess SC (I)
+CD = ‘1 5 mph through loop
+points, in both directions,
+and over leap lines
+CL 1305f (395m)
+(63 SLU's)
+

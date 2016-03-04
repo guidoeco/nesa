@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0316	LN786	001	Bevercotes Colliery Branch BEC London North Eastern	02/12/06	Boughton Jn	0	00	
+0316	LN786	001	Bevercotes Colliery Branch BEC London North Eastern	02/12/06		0	30	
+0316	LN786	001	Bevercotes Colliery Branch BEC London North Eastern	02/12/06		0	40	*
+0316	LN786	001	Bevercotes Colliery Branch BEC London North Eastern	02/12/06	Boughton Brake Tunnel 1 to49	0	40	X
+0316	LN786	001	Bevercotes Colliery Branch BEC London North Eastern	02/12/06	(350 yards)	1	65	
+0316	LN786	001	Bevercotes Colliery Branch BEC London North Eastern	02/12/06		2	09	*
+0316	LN786	001	Bevercotes Colliery Branch BEC London North Eastern	02/12/06	Bevercotes Colliery	4	22	
+0316	LN786	001	Bevercotes Colliery Branch BEC London North Eastern	02/12/06	(Network Rail I RJB Boundary)	4	22	X

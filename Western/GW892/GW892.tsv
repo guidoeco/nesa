@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	Cwmgwrach			Z
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	Network Rail boundary	33	14	
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	Stop board (Up direction)	33	15	*
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	Ynysdwinant LC	36	62	UWC
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	Clyne LC (T MO)	37	34	
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	CW	41	15	*
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	Neath and Brecon Jn	41	17	
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	Neath and Brecon Jn SB	41	21	
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	CL	41	25	
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07		41	26	*
+0384	GW892	001	Cwmgwrach to Burrows Sidings VON Western	23/06/07	CL	41	67	
+0385	GW892	002	Cwmgwrach to Burrows Sidings VON Western	05/08/06		41	68	*
+0385	GW892	002	Cwmgwrach to Burrows Sidings VON Western	05/08/06		44	12	*
+0385	GW892	002	Cwmgwrach to Burrows Sidings VON Western	05/08/06	Jersey Marine Jn South	44	17	
+0385	GW892	002	Cwmgwrach to Burrows Sidings VON Western	05/08/06		44	27	*
+0385	GW892	002	Cwmgwrach to Burrows Sidings VON Western	05/08/06		46	30	*
+0385	GW892	002	Cwmgwrach to Burrows Sidings VON Western	05/08/06	Burrows Sidings	46	30	X

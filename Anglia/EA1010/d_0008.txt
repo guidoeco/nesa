@@ -1,0 +1,12 @@
+NRN CSR
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+A - Avoiding line
+(D - These crossover speeds are:
+E Up direction & 50 Down direction
+50
+Platform 1 - 168m (182yds)
+Platform 2 - 169m (183yds)
+Platform 3 - 169m (183yds)
+Platform 4 - 168m (182yds)
+

@@ -1,0 +1,13 @@
+NRN
+AB Maryport Statlon SB
+Platform Lengths :Aspartria
+Platform Up 6m (39 gds)
+Platform Down 35m ( 8 yds)
+Released from Wigton box
+TCB Wigton SB
+Platform Lengths :Wigton
+Platform Up Down 0m (55 yds)
+0 Applies to class 60 locomotives only
+9 Applies to all other trains
+Carlisle SB (CE)
+

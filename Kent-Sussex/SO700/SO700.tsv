@@ -1,0 +1,38 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0279	SO700	001	Streatham South Jn to Sutton (via Wimbledon) SMS1 Kent / Sussex	02/12/06	(Streatham South Jn)	8	15	
+0279	SO700	001	Streatham South Jn to Sutton (via Wimbledon) SMS1 Kent / Sussex	02/12/06		0	00	
+0279	SO700	001	Streatham South Jn to Sutton (via Wimbledon) SMS1 Kent / Sussex	02/12/06	TOOTING	0	76	
+0279	SO700	001	Streatham South Jn to Sutton (via Wimbledon) SMS1 Kent / Sussex	02/12/06	Haydons Road TP Hut	1	78	
+0279	SO700	001	Streatham South Jn to Sutton (via Wimbledon) SMS1 Kent / Sussex	02/12/06	HAYDONS ROAD	2	18	
+0279	SO700	001	Streatham South Jn to Sutton (via Wimbledon) SMS1 Kent / Sussex	02/12/06		2	65	*
+0279	SO700	001	Streatham South Jn to Sutton (via Wimbledon) SMS1 Kent / Sussex	02/12/06		3	00	*
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09	WIMBLEDON	3	07	
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09		7	21	
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09		7	27	*
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09		7	33	*
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09	Wimbledon West Jn	7	51	
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09		7	60	*
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09	Wimbledon Substation	7	66	
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09		7	71	*
+0280	SO700	002	Streatham South Jn to Sutton (via Wimbledon) SMS1 SMSZ Kent / Sussex	21/02/09		8	00	*
+0281	SO700	003	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	06/04/08	WIMBLEDOH CHASE	8	13	
+0281	SO700	003	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	06/04/08		8	24	*
+0281	SO700	003	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	06/04/08	SOUTH MERTON	8	61	
+0281	SO700	003	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	06/04/08		9	09	*
+0281	SO700	003	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	06/04/08		9	24	*
+0281	SO700	003	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	06/04/08	Morden South TP Hut	9	26	
+0281	SO700	003	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	06/04/08	MURDER SOUTH	9	32	
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06		9	47	*
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06		9	63	*
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06	ST HELIER	9	69	
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06	St Helier Ground Frame	9	74	
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06	St Helier Substation	10	40	
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06		10	60	*
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06	SUTPON COMMON	10	67	
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06		11	00	*
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06	West Sutton TP Hut	11	40	
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06		11	42	*
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06	WEST SUTTON	11	47	
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06		11	69	*
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06	(surrou)	12	50	
+0282	SO700	004	Streatham South Jn to Sutton (via Wimbledon) SMSZ Kent / Sussex	02/12/06		14	75	

@@ -1,0 +1,29 @@
+NRN
+
+TCB Croft SB (CT)
+RAB
+
+UN - Up Nuneaton
+
+DN - Down Nuneaton
+
+Kl - Lockout Protection provided on Up Nuneaton
+
+line - See General Instruction
+
+Platform Lengths:
+
+Down - 104 metres
+
+Up - 104 metres
+
+GSM-R area
+
+7' Entry: Down Hinckley: 2m 62ch
+
+L 1 Exit: Up Hinokley: 3m 120h
+
+UH - Up Hinckley
+
+DH - Down Hinckley
+

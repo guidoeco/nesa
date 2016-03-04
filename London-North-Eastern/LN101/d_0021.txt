@@ -1,0 +1,11 @@
+NRN
+TCB Doncaster SB (D)
+RAQ AC:York ECR
+TOWS in Peascliff Tunnel NRN
+NRN Channel change
+Down 107 65 Y
+Up 103 29 NRN
+TOWS D&U lines between 109 16 and 110 16
+UPL (589ml1932 feet)
+Crossovers worked from Claypole Gate Box
+

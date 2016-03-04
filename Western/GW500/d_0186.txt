@@ -1,0 +1,13 @@
+NRN CSR
+
+TCB Reading SB (R)
+RAB
+ATP - UW from R895 (40m 68ch)
+
+- DW from R808 (43m 30oh)
+Down platform - 152m, 166yds
+Up platform - 148m, 162yds
+DGL 762m, 249%
+Down platform - 80m, 87yds
+Up platform - 115m. 126yds
+

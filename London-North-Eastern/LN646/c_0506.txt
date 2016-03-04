@@ -1,0 +1,17 @@
+Norton-on—Tees South SB (NS) 0 00 *
+0 30 *-
+Norton-on—Tees West SB 0 33
+Norton West LC 0 33
+1 18 at-
+3 4O *-
+4 00 ul-
+4 64 are
+5 35 *-
+5 40 *
+9 06 *
+9 20 are
+Signal F.452 Down 9 62
+Signal F.453 Up
+Ferryhill South Jn 10 72 *-
+Ferryhill SB (F) 56 73 G)
+

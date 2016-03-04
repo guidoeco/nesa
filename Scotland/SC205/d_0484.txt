@@ -1,0 +1,8 @@
+RETB 105 Invemess SC (I)
+G) = 15mph through loop
+points, in both directions,
+and over loop lines
+CL 1010f (305m)
+(49 SLU's)
+RETB 108
+

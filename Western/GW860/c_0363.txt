@@ -1,0 +1,9 @@
+Penath Curve North Jn O 47
+
+0 25
+
+0 02 :1:
+Penarth Curve South Jn 0 00
+
+0 47
+

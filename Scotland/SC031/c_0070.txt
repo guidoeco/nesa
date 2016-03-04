@@ -1,0 +1,9 @@
+35 00 i:
+Kay ParkJn GF 34 41
+
+34 00 *
+KILMARNOCK 33 59
+Kilmarnock SB 33 48 *
+Change of ELR 33 44
+GSWto GBK 23 44
+

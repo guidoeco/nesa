@@ -1,0 +1,15 @@
+PRIMROSE HILL (CLOSED) 5 49
+TERRITORY BOUNDARY 5 42
+5 29 *
+OHNS 5 12
+Camden Road West Jn 5 10
+Camden Rd Jn (CR) SB 5 09
+CAMDEN ROAD 5 O1
+4 68 1:
+NLI
+Camden Road Central Jn 0 51
+Camden Road incline Jn 0 44
+TERRITORY BOUNDARY 0 20
+York Way North Jn 0 13
+OHNS 0 03
+

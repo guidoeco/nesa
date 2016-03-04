@@ -1,0 +1,24 @@
+Thingley Jn 96 10
+96 12 2!:
+
+Manor Farm LC (UWC) 99 33
+100 00 are
+
+MELKSHAM 100 13
+100 20 *
+
+Frying Pan Farm LC (UWC) 101 10
+
+Church Farm No.1 LC (UWC) 101 39
+
+Church Farm No.2 LC (UWC) 102 10
+
+Avon View Farm LC (UWC) 103 09
+
+Staverton Farm LC (UWC) 103 60
+104 37 *
+
+Bradford Jn 104 40
+
+9 12
+

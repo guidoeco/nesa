@@ -1,0 +1,13 @@
+NRN
+TCB Preston SB (PM) 088
+AC: Crewe
+(D No.1 'up & down' goods loop
+(PF) 435m (142811)
+(2) No.2 'up & down' goods loop
+(PF) 435m (142811)
+(PF) UPL 512m (168%)
+Carlisle SB (CE)
+from Carnforth North Junction (excl)
+TASS fitted:
+DM line and UM line throughout
+

@@ -1,0 +1,27 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09	Belasis Lane SB	1	04	*
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09		1	10	*
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09		1	13	
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09	Port Clarence GF	3	05	
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09		3	15	*
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09	Phillips Siding Jn GF	3	25	
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09	North Tees LC	4	19	AOCL
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09	Seal Sands LC	4	71	AOCL
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09		5	00	
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09	Seal Sands Branch Jn	5	01	
+0509	LN652	001	Billingham-on-Tees to Seal Sands Storage P001 P002 London North Eastern	28/02/09		5	21	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Seal Sands Branch Jn	0	00	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	ICI Brinefleld LC	0	12	OPEN
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	NEEB LC	0	39	OPEN
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Enron LC	0	52	OPEN
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	North/South LC	0	71	OPEN
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Rohm Haas LC (AOCL) @	1	42	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	MonsantolBASF Siding Jn	1	43	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Monsanto/BASF LCIAOCLGD	1	46	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Simon Storage Siding GF	1	52	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Biofuels LC OPEN	1	74	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Seal Sands Chemical Lc (AOCL) €13	2	11	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Phillips No 2 LC (AOCL) @	2	16	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Seal Sands Road Lc	2	18	AOCL
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	Phillips No 3 LC (AOCL) Q1)	2	22	
+0510	LN652	002	Billingham-on-Tees to Seal Sands Storage SES London North Eastern	15/03/08	End of Network Rail Maintenance	2	44	

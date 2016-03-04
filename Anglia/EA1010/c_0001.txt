@@ -1,0 +1,8 @@
+LIVERPOOL STREET 0 00
+Liverpool St (L) IECC 0 22
+
+0 25 *
+Bishopsgate Tunnel 0 27 *-
+(573mf627 yards) 0 30 1':
+(Suburban lines only)
+

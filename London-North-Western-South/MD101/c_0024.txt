@@ -1,0 +1,14 @@
+83 68 *-
+84 01 5k
+34 14 *-
+Newbold Junction 84 26
+High Oaks Junction 85 18
+87 32 5'.-
+87 57 *
+Brinklow Junction 87 72
+88 78 *
+90 09 :1:
+90 56 *
+Shilton HABD US&UF) 91 26
+Shilton HABD M) 91 30
+

@@ -1,0 +1,60 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	Par Loop Jn	281	57	
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	PAR	281	66	
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	Par (PR) SB	281	69	
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	St. Blazey Yard	281	69	X
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	St. Blazey Jn	282	16	
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	(Change of ELR and RA)	282	16	X
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	St. Blazey SB	282	19	SB
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08		282	20	*
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	Single line Jn	282	28	
+0247	GW660	001	Par to Newquay PAR NEW Western	01/01/08	Middleway LC	282	31	CCTV
+0248	GW660	002	Par to Newquay NEW Western	05/08/06		282	40	*
+0248	GW660	002	Par to Newquay NEW Western	05/08/06	St. Blazey Bridge LC	282	74	CCTV
+0248	GW660	002	Par to Newquay NEW Western	05/08/06		283	10	*
+0248	GW660	002	Par to Newquay NEW Western	05/08/06	Pontsmill Siding	283	15	OOU
+0248	GW660	002	Par to Newquay NEW Western	05/08/06		284	00	*
+0248	GW660	002	Par to Newquay NEW Western	05/08/06		284	60	
+0248	GW660	002	Par to Newquay NEW Western	05/08/06	Luxulyan Tunnel	285	45	
+0248	GW660	002	Par to Newquay NEW Western	05/08/06	(48m, 52yds)	285	47	
+0248	GW660	002	Par to Newquay NEW Western	05/08/06		285	75	*
+0248	GW660	002	Par to Newquay NEW Western	05/08/06	LUXULYAN	285	78	
+0248	GW660	002	Par to Newquay NEW Western	05/08/06	Menadue LC	286	54	UWC
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Goonbarrow Jn (G) SB	287	40	
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Garbis Branch Jn	287	43	
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Molinnis LC	287	76	AOCL
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	BUGLE	288	03	
+0249	GW660	003	Par to Newquay NEW Western	15/03/08		288	15	*
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	ROCHE	290	40	
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Holywell LC	290	67	UWC
+0249	GW660	003	Par to Newquay NEW Western	15/03/08		291	40	*
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Fancy	291	77	UWC
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Tregoss Moor LC	292	32	AOCL
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Solomans No1	293	35	UWC
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Solomans N02	293	41	UWC
+0249	GW660	003	Par to Newquay NEW Western	15/03/08	Solomans No 3	293	52	UWC
+0249	GW660	003	Par to Newquay NEW Western	15/03/08		294	00	*
+0250	GW660	004	Par to Newquay NEW Western	05/08/06	St. Dennis GF (Out of use)	294	21	
+0250	GW660	004	Par to Newquay NEW Western	05/08/06		294	30	*
+0250	GW660	004	Par to Newquay NEW Western	05/08/06	Griggs LC	294	65	UWC
+0250	GW660	004	Par to Newquay NEW Western	05/08/06		295	00	*
+0250	GW660	004	Par to Newquay NEW Western	05/08/06		296	09	*
+0250	GW660	004	Par to Newquay NEW Western	05/08/06	ST COLUMB ROAD	296	11	
+0250	GW660	004	Par to Newquay NEW Western	05/08/06	Halloon LC	296	22	AOCL
+0250	GW660	004	Par to Newquay NEW Western	05/08/06	Tresithney 2 LC	296	64	UWC
+0250	GW660	004	Par to Newquay NEW Western	05/08/06	Cosworth 1 8; 2 LC	297	71	UWC
+0250	GW660	004	Par to Newquay NEW Western	05/08/06	Coswarth 3 8. 4 LC	298	20	UWC
+0250	GW660	004	Par to Newquay NEW Western	05/08/06		298	30	*
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Coswarth LC	298	48	AOCL
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Coswarth Tunnel	299	23	
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	(40m. £14de)	299	25	
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Bejowan LC	299	71	UWC
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Quintrel Downs LC	300	14	ABCL
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	QUINTREL DOWNS	300	16	
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Chapel Farm 1 LC	300	36	UWC
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Chapel Farm 3 LC	300	50	UWC
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Chapel LC	300	56	AOCL
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Manuells Farm 2 LC	300	76	UWC
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	Trencreek LC	301	35	AOCL
+0251	GW660	005	Par to Newquay NEW Western	05/08/06		302	32	*
+0251	GW660	005	Par to Newquay NEW Western	05/08/06	NEWQUAY	302	49	

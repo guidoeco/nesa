@@ -1,0 +1,12 @@
+Alderley Edge. South Jn 175 12
+ALDERLEY EDGE 175 21
+Alderley Edge North Jn 175 42
+176 15 *
+176 31
+HABD 176 34
+176 40 *
+Wilmslow South Jn 176 53
+WILMSLOW 176 71
+177 09 *
+Wilmslow North Jn 177 23
+

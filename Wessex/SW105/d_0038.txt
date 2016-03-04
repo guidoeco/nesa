@@ -1,0 +1,15 @@
+NRN CSR
+
+TCB Eastleigh SB (E)
+RAB DC:Eastleigh
+
+A - Arrival Road
+
+B - Departure Road
+
+C - Arrival and Departure Road
+
+D - No.1 Depot Reception Siding
+
+E - No.2 Depot Reception Siding
+

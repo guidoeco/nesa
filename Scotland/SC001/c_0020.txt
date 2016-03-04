@@ -1,0 +1,11 @@
+Newton EastJn 95 14
+(O 07)
+Newton, Hamilton Jn 95 47
+(0 01)
+95 52
+NEWTON 95 57
+95 76 *
+Newton, Kirkhill Jn 95 77
+96 10 *-
+Newton West Jn 96 34
+

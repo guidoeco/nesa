@@ -1,0 +1,9 @@
+Litton's Mill Crossing SB LC (MCG) 11 45
+Monk's Siding SB LC (MCB) 11 70
+12 40 *
+Penketh Hall LC (UWC) 13 37
+Fiddlers Fen'y LC (UWC) 13 63
+Marsh House LC (CCTV) 14 09
+Fiddlers Ferry Power Station SB 14 46
+Sullivan Siding GF 16 00
+

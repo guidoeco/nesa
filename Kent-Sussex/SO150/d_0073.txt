@@ -1,0 +1,12 @@
+NRN CSR
+TCB Sittingboume SB (EV) 59
+RAB DC: Canterbury
+(KINGSFERRY 05)
+Axle counter section over Kingsferry
+Bridge 47m 22ch to 47m mm
+CL 27 (Down)
+33 (UP)
+1 Up Branch
+2 Down Branch
+3 Single
+

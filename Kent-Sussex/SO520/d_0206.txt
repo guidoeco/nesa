@@ -1,0 +1,29 @@
+NRN CSR
+TCB Havant SB (HT)
+RAB DC: Eastleigh
+GSM-R area (IVRS)
+7'
+L A CSR
+Axle Counter area '
+CSR
+G) PLOD at 43m 47ch
+Down Main - Fratton to Blackfriars Jn
+Up and Down Fratton - Fratton to Blacldriars Jn
+® PLOD at 43m 49ch
+Up Main - Fratlon to Blackfriars
+@ PLOD at 43m 70ch
+Back Road - Fratton Depot to Fratton Bridge
+(HT552 ground signal)
+@ PLOD at 44m 04ch
+Back Road - Fratton to Fratton Bridge
+(HT552 ground signal)
+PLOD at 44m 04¢h
+Back Road - Holbrook Road Bridge
+(HT552 ground signal) to Blackfriars Jn
+PLOD repeater instruments
+1 Up Main
+2 Down Main
+3 Up 8: Down Fratton
+4 No.1 Reception
+5 Back Road
+

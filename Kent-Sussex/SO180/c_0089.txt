@@ -1,0 +1,12 @@
+Leitram No. 1 Crossing 40 44
+Teston LC (CCTV) 41 04
+Teston Foot Crossing 41 14
+Teston Substation 41 64
+42 47 5':
+Farleigh Lane LC 42 70
+EAST FARLEIGH 42 75 *-
+East Farleigh SB (EF) 42 75
+43 00 *
+East Farleigh TP Hut 43 45
+(Maidstone West SB (M8)) (44 54)
+

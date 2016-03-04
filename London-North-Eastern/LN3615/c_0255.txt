@@ -1,0 +1,10 @@
+Langham Jn SB 95 06
+Langham Jn LC(MCB) 95 06 1:
+Ashwell Gate House LC (MCBR) 96 47
+Ashwell SB 96 67
+Ashwell LC (MCB) 96 67
+Teigh LC (FPG) 98 00
+98 03 i:
+98 10 i:
+98 30 i:
+

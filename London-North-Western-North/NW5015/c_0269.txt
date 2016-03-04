@@ -1,0 +1,8 @@
+GORTON 2 54
+Gorton Jn 2 50
+Ashburys East Jn 1 56
+Ashburys SB (AS) 1 54
+ASHBURYS 1 42
+
+1 38 a:
+

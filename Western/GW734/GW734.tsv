@@ -1,0 +1,140 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	Davey Junction	78	60	
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	RETB Channel Change	79	00	*
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	DOVEY Junction	79	03	TEP
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07		79	12	*
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	Bridge1	79	12	
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07		79	20	
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	Ynys LC	79	53	UWC
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07		80	73	*
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	Aberdovey Tunnel No.1	31	11	
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	183m (200 yards)	81	20	
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	Aberdovey Tunnel No.2	82	07	
+0308	GW734	001	Dovey Jn to Pwllheli DJP Western	05/06/07	200m (219 yards)	32	17	
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07		83	67	*
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Aberdovey Tunnel No.3	83	74	
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	175m (191 yards) 34 003	83	74	X
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	PENHELIG	84	08	
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Aberdovey Tunnel No.4	84	14	
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	487m (533 yards)	34	33	
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Penrhos Lc	34	75	UWC
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07		84	77	*
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	ABERDOVEY	85	02	
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Treffeddian LC	85	38	UWC
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	RETB Channel Change	86	00	
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Cemetry LC	86	05	UWC
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Dyffryn LC	86	38	UWC
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07		86	42	*
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Dafydd LC	86	47	UWC
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07		86	60	*
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Rhowniar LC	86	64	UWC
+0309	GW734	002	Dovey Jn to Pwllheli DJP Western	22/05/07	Caethle Farm LC	87	21	UWC
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	Single line	88	39	*
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	Tywyn GF	88	40	
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	TYWYN	88	56	TEP
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	Single line	88	67	*
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	Sandilands LC	89	09	ABCL
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	Tonfanau LC	91	06	UWC
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	TONFANAU	91	09	
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	EM Llan1LC	92	72	UWC
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	Ty'n Llan 3 LC	93	22	UWC
+0310	GW734	003	Dovey Jn to Pwllheli DJP Western	05/08/06	Bronnant LC	94	04	UWC
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	Gorshwen No.2 LC	94	40	UWC
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	Allens LC	94	42	AOCL
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	Henblas LC	94	72	UWC
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06		95	06	*
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	LLWYNGWRIL	95	20	
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	Borthwen Farm LC	95	21	UWC
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06		95	24	*
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	Bont-y-Clettwr LC	96	19	UWC
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06		96	26	*
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06		96	42	*
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	Friog Cutting	96	42	X
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06		97	20	*
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	Fairboume LC	97	70	AOCL
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	FAIRBOURNE	97	72	
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06		96	64	*
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	MORFA MAWDDAGH	99	00	
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	Bridge 40	99	40	*
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	(99m 40 ch to 100mp)	99	40	X
+0311	GW734	004	Dovey Jn to Pwllheli DJP Western	05/08/06	South GF	99	77	
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	Bridge 40			X
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	(99m 400h to 100mp)			X
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	Barmouth Swing Bridge	99	78	
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	North GF	100	00	
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	Barmouth Tunnel	100	08	
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	64m (70 yards)	100	11	
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06		100	30	*
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	Single Line	100	40	*
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	Barmouth South LC	100	44	TMO
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	BARMOUTH	100	50	TEP
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	Barmouth North GF	100	56	
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	Single Line	100	68	*
+0312	GW734	005	Dovey Jn to Pwllheli DJP Western	05/08/06	LLANABER	102	13	TEP
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	TALYBONT	104	37	
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	Bennar Fawr LC	105	04	AOCL
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	DYFFRYN ARDUDWY	105	50	
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	Llwyn Cadwgan LC	105	54	UWC
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	(Manned)			Z
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	Talwm Bach LC	107	67	AOCL
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	LLANBEDR	107	70	
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06		108	20	*
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	Bridge 66	108	28	
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06		108	34	
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	Pensarn LC	108	41	UWC
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	PENSARN	108	46	
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	Pensarn North LC	108	51	UWC
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06		108	60	*
+0313	GW734	006	Dovey Jn to Pwllheli DJP Western	09/10/06	lewch LC	108	72	UWC
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	Llandanwg LC	109	16	UWC
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	LLANDANWG	109	17	
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06		109	45	*
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06		109	75	*
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	Harlech Cliff	109	79	
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	Harlech Moria LC	110	79	ABCL
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	RETB Channel Change	111	00	
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	HARLECH	111	07	TEP
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	Single Line	111	25	
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	Morfa No.1 LC	111	35	UWC
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	TYGWYN	113	55	
+0314	GW734	007	Dovey Jn to Pwllheli DJP Western	05/08/06	Tygwyn LC	113	55	ABCL
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	TALSARNAU	114	42	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	Talsarnau Station LC	114	42	UWC
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	LLANDECWYN	115	63	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08		115	68	*
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	Bridge 79	115	76	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08		116	05	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	Hafod-y-Wem LC	116	36	UWC
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	PENRHYNDEUDRAETH	116	47	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	Penrhyndeudraeth LC (UWC)	116	54	*
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08		117	20	*
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	MINFFDRDD	117	58	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08		117	70	*
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	Minffordd Quarry LC (UWC)	118	14	Manned
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	Bridge 83	118	37	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08		118	43	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08		119	40	*
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	Traeth Mawr LC	119	41	ABCL
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08		119	49	*
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	Welsh Highland Railway	119	50	
+0315	GW734	008	Dovey Jn to Pwllheli DJP Western	26/07/08	(Flat crossing)	119	50	X
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07		119	69	*
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07		119	71	*
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	Porthmadog LC (T MO)	119	73	
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	PORTHMADOG	119	77	TEP
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	Porthmadog GF	120	07	
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	Single Line	120	09	*
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	RETB Channel Change	121	56	*
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07		121	70	*
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	Coed-y-Llyn No.1 LC	122	42	UWC
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	Porth Hir LC	123	23	UWC
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	Merllyn LC	124	28	MCG
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	Mass LC	124	55	ABCL
+0316	GW734	009	Dovey Jn to Pwllheli DJP Western	19/03/07	CRICCIETH	124	74	
+0317	GW734	010	Dovey Jn to Pwllheli DJP Western	05/08/06	PENYCHAIN	129	29	TEP
+0317	GW734	010	Dovey Jn to Pwllheli DJP Western	05/08/06	ABERERGH	130	76	
+0317	GW734	010	Dovey Jn to Pwllheli DJP Western	05/08/06	Abererch LC	130	76	ABCL
+0317	GW734	010	Dovey Jn to Pwllheli DJP Western	05/08/06	Pwllheli Goods LC	132	31	ABCL
+0317	GW734	010	Dovey Jn to Pwllheli DJP Western	05/08/06	Pwllheli Crossing GF	132	38	
+0317	GW734	010	Dovey Jn to Pwllheli DJP Western	05/08/06	Pwllheli West GF	132	57	
+0317	GW734	010	Dovey Jn to Pwllheli DJP Western	05/08/06	PWLLHELI	132	70	TEP

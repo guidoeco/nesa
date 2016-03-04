@@ -1,0 +1,29 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0376	SC183	001	Stirling to Charlestown Jn. SAA Scotland	25/03/08	Stirling Middle SB	118	08	*
+0376	SC183	001	Stirling to Charlestown Jn. SAA Scotland	25/03/08		118	11	
+0376	SC183	001	Stirling to Charlestown Jn. SAA Scotland	25/03/08		0	00	
+0376	SC183	001	Stirling to Charlestown Jn. SAA Scotland	25/03/08	STIRLING	118	24	
+0376	SC183	001	Stirling to Charlestown Jn. SAA Scotland	25/03/08		0	13	
+0376	SC183	001	Stirling to Charlestown Jn. SAA Scotland	25/03/08	Stirling North SB	118	38	
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08		0	28	*
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08		0	47	*
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08		0	49	*
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08		0	70	*
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08	Causewayhead Jn	1	05	
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08	Waterside LC	1	46	CCTV
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08		1	60	*
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08	Manor Neuk LC	2	59	UWC
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08	Manor Powis LC	2	71	UWC
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08	Blackgrange LC	3	43	CCTV
+0377	SC183	002	Stirling to Charlestown Jn. Scotland	25/03/08	Cambus LC	4	59	CCTV
+0378	SC183	003	Stirling to Charlestown Jn SAA KNE1 Scotland	24/01/09		6	52	*
+0378	SC183	003	Stirling to Charlestown Jn SAA KNE1 Scotland	24/01/09	ALLOA TOWN	6	77	
+0378	SC183	003	Stirling to Charlestown Jn SAA KNE1 Scotland	24/01/09	(Change of ELR	6	77	X
+0378	SC183	003	Stirling to Charlestown Jn SAA KNE1 Scotland	24/01/09	SAAto KNE1)	3	14	
+0378	SC183	003	Stirling to Charlestown Jn SAA KNE1 Scotland	24/01/09		0	00	
+0378	SC183	003	Stirling to Charlestown Jn SAA KNE1 Scotland	24/01/09	Kincardine GSP	3	50	
+0378	SC183	003	Stirling to Charlestown Jn SAA KNE1 Scotland	24/01/09	Kincardine LC (RIG)	3	77	*
+0379	SC183	004	Stirling to Charlestown Jn KNE1 Scotland 20l09108	I	Longannet No 4 LC	5	50	UWC
+0379	SC183	004	Stirling to Charlestown Jn KNE1 Scotland 20l09108	I	Longannet SB	5	62	*
+0379	SC183	004	Stirling to Charlestown Jn KNE1 Scotland 20l09108	I	Culross LC	8	60	UWC
+0379	SC183	004	Stirling to Charlestown Jn KNE1 Scotland 20l09108	I	Valleyﬁeld Colliery LC	9	60	UWC

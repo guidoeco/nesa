@@ -1,0 +1,7 @@
+OAKENGATES 158 31
+
+Donnington Junction 160 73
+161 00 *
+
+WELLINGTON 161 27
+

@@ -1,0 +1,10 @@
+Speke Jn GF 186 JP72
+22 59
+22 64 2k
+
+Speke Jn SB (SE) 23 02
+23 03 i:
+23 48 *-
+
+Garston Jn 23 52
+

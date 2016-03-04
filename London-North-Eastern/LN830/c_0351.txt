@@ -1,0 +1,37 @@
+Aldwarke Jn (Down) 7 25
+Aldwarke Jn (Up) 7 14
+
+7 12 *
+
+6 69 *
+Aldwarke New Site 6 39
+
+5 53 *-
+
+5 46 *
+
+4 65 1e
+
+4 64 a:
+ROTHERHAM CENTRAL 4 60
+Rotherham Central Jn 4 45
+
+4 40
+
+4 1O *-
+
+4 05 *
+Rotherham Main LC (UWC) 4 01
+
+3 60 a:
+
+3 57 *
+Tinsley East Jn 2 79
+Tinsley South Jn 2 22
+Broughton Lane Jn 1 36
+
+0 28 5':
+
+0 07 *
+Woodburn Jn SB (W) 0 00
+

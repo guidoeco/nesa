@@ -1,0 +1,17 @@
+17 20 *-
+FFAIRFAGH 17 19
+Ffairfach LC(AOCL) 17 16
+Meusydd Mill LC (UWC) 15 51
+
+15 20 *
+Rhyd-y-Fynnon Farm LC (UWC) 15 10
+Cilyrychen LC (ABCL) 13 77
+Llandybie LC (AOCL) 13 08
+LLANDYBIE 13 05
+
+13 04
+Brynmarlais LC(AOCL) 12 28
+Tirydail LC(ABCL) 11 24
+AMMANFORDI 11 21
+TIRYDAIL AND RHYDAMAN
+

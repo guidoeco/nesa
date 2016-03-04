@@ -1,0 +1,13 @@
+8 36
+
+8 42
+
+8 44
+
+13 73 2k
+POULTON-LE-FYLDE 14 31
+
+14 33 *-
+Poulton Jn 14 40 *
+Poulton SB (PT) 14 44
+

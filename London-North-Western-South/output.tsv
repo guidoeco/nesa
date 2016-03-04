@@ -1,0 +1,1574 @@
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0001	MD101	001	Euston to Armitage Junction (Exclusive) LEC1 LNW South	26/07/08	EUSTON	0	00		0.00
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		0	43	*	0.43
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		0	60	*	0.60
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		0	61	*	0.61
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Park Street Tunnels	0	62		0.62
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	(116 metres/127 yards. X & E) to	0	68		0.68
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	(148 metres/162 yards, A, B. C & D)	0	69	*	0.69
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	CSR change	0	70		0.70
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Camden Junction South	1	10		1.10
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08		1	27	*	1.27
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Camden Jn (Down DC line)	1	36		1.36
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Camden Jn (Up DC line)	1	40		1.40
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08		1	51	*	1.51
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Camden Jn	1	51	X	1.51
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08		1	52	*	1.52
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Primrose Hill Tunnels	1	54	*	1.54
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Fast Lines	1	54	X	1.54
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	(1081 metres 182 yards)	1	54	X	1.54
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Slow lines	2	27	*	2.27
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	(1070 metres 1170 yards)	2	30	*	2.30
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		3	00	*	3.00
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		3	40	*	3.40
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		3	43	*	3.43
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	QUEEN'S PARK	3	55		3.55
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	222 *	3	55	X	3.55
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Kensal Green Tunnels to (293 metres 320 yards)	4	59		4.59
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		4	60	*	4.60
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	CSR change	4	70		4.70
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Willesden TMD	4	70	X	4.70
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		5	01	*	5.01
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	West London Jn	5	23		5.23
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(Willesden Euro Terminal)	5	23	X	5.23
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	Willesden North Jn	5	52		5.52
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		5	53	*	5.53
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	Willesden Jn	0	71		0.71
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	Harlesden Jn	6	01		6.01
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		6	02	*	6.02
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		6	03	*	6.03
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		6	10	*	6.10
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	Brent Sidings	6	10	X	6.10
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	CSR change	6	16		6.16
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		1	22	*	1.22
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		6	50	*	6.50
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		1	46	*	1.46
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Wembley Yard South Junction	1	57		1.57
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		1	62	*	1.62
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		2	00	*	2.00
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Sudbury Junction	7	12		7.12
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		2	57	*	2.57
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Willesden Carriage Shed North SB	7	50	CN	7.50
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		7	60	*	7.60
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		2	78	*	2.78
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		8	00	*	8.00
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	WEMBLEY CENTRAL	8	04		8.04
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09	North Wembley Jn	9	06		9.06
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09	OHNS	9	15		9.15
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09		9	20	*	9.20
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09	HARROW & WEALDSTONE	11	30		11.30
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09		11	41	*	11.41
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09	CSR change	13	30		13.30
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		13	71	*	13.71
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		14	60	*	14.60
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		15	20	*	15.20
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		15	68	*	15.68
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08	BUSHEY	15	79		15.79
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		16	00	*	16.00
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		16	20	*	16.20
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		16	71	*	16.71
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08	Watford South Junction	17	06		17.06
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		17	20	*	17.20
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08	Watfcrd Yard GF	17	21		17.21
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08	Watford Jn PSB	17	25	WJ	17.25
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07	WATFORD JUNCTION	17	34		17.34
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07		17	49	*	17.49
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07		17	60	*	17.60
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07	Watford North Jn	17	74		17.74
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07		18	20	*	18.20
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		18	31	*	18.31
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Watford Tunnels	18	32	*	18.32
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Slow lines	18	33		18.33
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(1 km 820 metres! 1mile 230 yards)	18	33		18.33
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Fast lines	18	33	X	18.33
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(1 km 660 metres / 1 mile 55 yards)	18	33	X	18.33
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		19	40		19.40
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		19	43	*	19.43
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		19	46	*	19.46
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		19	73	*	19.73
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		20	00	*	20.00
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		20	60	*	20.60
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07	KING'S LANGLEY	20	74		20.74
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		21	04	*	21.04
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		21	12	*	21.12
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07	CSR change	21	74		21.74
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		23	00	*	23.00
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07	APSLEY	23	06		23.06
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		23	15	*	23.15
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		23	19	*	23.19
+0013	MD101	013	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	HEMEL HEMPSTEAD	24	39		24.39
+0013	MD101	013	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Boume End Junction	25	40		25.40
+0013	MD101	013	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	OHNS	26	30		26.30
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		27	40	*	27.40
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	BERKHAMSTED	27	75		27.75
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		28	05	*	28.05
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		28	20	*	28.20
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		28	23	*	28.23
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Northchurch Tunnels	28	76		28.76
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	(319 metres 349 yards)	29	11	*	29.11
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	to	29	12	*	29.12
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Northchurch HABD	29	47		29.47
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		31	25	*	31.25
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Tring South Junction	31	30		31.30
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	TRING	81	50		81.50
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		31	72	*	31.72
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08	Tring North Junction	32	00		32.00
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08		34	20	*	34.20
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08	Cheddington WheelChex	34	60		34.60
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08	CHEDDINGTON	36	08		36.08
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08	Ledburn Junctian	37	35		37.35
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	OHNS	39	20		39.20
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		40	01	*	40.01
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	LEIGHTON BUZZARD	40	14		40.14
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		40	25	*	40.25
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		40	28	*	40.28
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		40	32	*	40.32
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Linslade Tunnels	40	60		40.60
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(262 metres 287 yards) to	40	73		40.73
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		42	04	*	42.04
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		42	16	*	42.16
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		42	22	*	42.22
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Stoke Hammond HABD	42	68		42.68
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(Leighton Buzzard)	43	55	*	43.55
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Bletchley South Junction	45	46		45.46
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		46	00	*	46.00
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		46	18	*	46.18
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		46	21	*	46.21
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		46	37	*	46.37
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	Bletchley Jn	46	43		46.43
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	Bletchley PSB	46	46	BY	46.46
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	BLETCHLEY	46	54		46.54
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		46	62	*	46.62
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		46	68	*	46.68
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		48	34	*	48.34
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	Denbigh Hall South Jn	47	52	*	47.52
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	CSR change (Up direction)	47	65		47.65
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		48	14	*	48.14
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	CSR change (Down direction)	48	28		48.28
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		48	30	*	48.30
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Denbigh Hall North Jn	48	48		48.48
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Knowlhill Jn	48	75		48.75
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		49	39	*	49.39
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Milton Keynes South Jn	49	43		49.43
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	MILTON KEYNES CENTRAL	49	65		49.65
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		49	75	*	49.75
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Milton Keynes North Jn	50	10		50.10
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		50	16	*	50.16
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	OHNS	51	16		51.16
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Wolverton HABD	51	72		51.72
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Wolverton Sidings	52	05		52.05
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Church Street LC (TMO)	52	05	X	52.05
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	(Wolverton Works Siding)	52	05	X	52.05
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		52	20	*	52.20
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	WOLVERTON	52	33		52.33
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		52	42	*	52.42
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	CSR change	53	15		53.15
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		54	53	*	54.53
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Castlethorpe Station, former site of	54	60		54.60
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		55	00	*	55.00
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Castlethorpo North (Wolverton) HABD	55	63		55.63
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Hanslope South Junction	56	29		56.29
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Hanslope North Junction	56	66		56.66
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	OHNS	58	46		58.46
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	NRN Channel Change	59	00		59.00
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Blisworth	62	71		62.71
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Stowe Hill Tunnel	68	09		68.09
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	(449 metres/491 yards) to	68	32		68.32
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		68	50	*	68.50
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		68	65	*	68.65
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Weedon	69	56		69.56
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		70	36	*	70.36
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		70	53	*	70.53
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	OHNS	73	40		73.40
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		76	58	*	76.58
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		76	63	*	76.63
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Kilsby Tunnel	76	64		76.64
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	(1 mile 656 yards) to (2 km 209 metres)	73	13		73.13
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		78	14	*	78.14
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		78	19	*	78.19
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Kilsby North HABD	78	66		78.66
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	OHNS	80	08		80.08
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		83	43	*	83.43
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	Hillmorton Junction	81	28		81.28
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		81	60	*	81.60
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		84	09	*	84.09
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		81	72	*	81.72
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		82	16	*	82.16
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		82	18	*	82.18
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	Rugby South Junction	82	26		82.26
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	Rugby PSB	82	26	RY	82.26
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		82	30	*	82.30
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	RUGBY	82	40		82.40
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	RUGBY	82	40		82.40
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	Rugby 3.6.6.	82	60		82.60
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	Rugby North Junction	82	70		82.70
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	08	*	83.08
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	13	*	83.13
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	Trent Valley Junction	83	18		83.18
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	33	*	83.33
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	42	*	83.42
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	48	*	83.48
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	OHNS	83	58		83.58
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		83	68	*	83.68
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		84	01	*	84.01
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		34	14	*	34.14
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	Newbold Junction	84	26		84.26
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	High Oaks Junction	85	18		85.18
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		87	32	*	87.32
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		87	57	*	87.57
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	Brinklow Junction	87	72		87.72
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		88	78	*	88.78
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		90	09	*	90.09
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		90	56	*	90.56
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	Shilton HABD US&UF)	91	26		91.26
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	Shilton HABD M)	91	30		91.30
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Attleborough South Junction	95	09		95.09
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Attleborough North Junction	95	70		95.70
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	OHNS	96	30		96.30
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Nuneaton South Junction	96	68		96.68
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	NUNEATON	97	10		97.10
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	NUNEATON			Z	.
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Nuneaton Nortth	97	36	*	97.36
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09		97	40	*	97.40
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09		10	14		10.14
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Ashby Jn	97	72		97.72
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	01	42	*	01.42
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	01	56	*	01.56
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08		102	01	*	102.01
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	02	03	*	02.03
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	ATHERSTO N E	102	23		102.23
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	02	42	*	02.42
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08		102	71	*	102.71
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	03	20	*	03.20
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	03	63	*	03.63
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	POLESWORTH	106	39		106.39
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		108	74	*	108.74
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Amington Junction	109	10		109.10
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		109	27	*	109.27
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		109	49	*	109.49
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		109	54	*	109.54
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	OHNS	109	60		109.60
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	TAMWORTH (LOW LEVEL)	110	01		110.01
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		110	24	*	110.24
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		111	10	*	111.10
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	LICHFIELD TRENT VALLEY	116	19		116.19
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Lichfield North Junction	116	70		116.70
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		117	55	*	117.55
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Curborough Junction	118	63		118.63
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Continued in LNW	119	20	N	119.20
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Sectional Appendix	119	20	X	119.20
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	NW1001 seq 1	119	20	X	119.20
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0069	MD301	002	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08		93	14	*	93.14
+0069	MD301	002	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08		93	56	*	93.56
+0069	MD301	002	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08		93	59	*	93.59
+0069	MD301	002	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08	Coventry South Jn	93	71		93.71
+0069	MD301	002	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08	COVENTRY	93	79		93.79
+0069	MD301	002	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08		94	08	*	94.08
+0069	MD301	002	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08		94	13	*	94.13
+0069	MD301	002	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08	Coventry North Jn	94	19		94.19
+0070	MD301	003	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	15/12/08		94	22	*	94.22
+0070	MD301	003	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	15/12/08		94	58	*	94.58
+0070	MD301	003	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	15/12/08		94	60	*	94.60
+0070	MD301	003	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	15/12/08		95	21	*	95.21
+0070	MD301	003	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	15/12/08	GANLEY	95	37		95.37
+0070	MD301	003	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	15/12/08	TILE HILL	97	45		97.45
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09		98	23	*	98.23
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09	Beechwood Tunnel	93	23		93.23
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09	(274 metres I 300 yards) to	98	42		98.42
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09	OHNS	99	22		99.22
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09	BERKSWELL	99	38	*	99.38
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09		99	46	*	99.46
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09	Bradnocks Marsh HABD	101	14		101.14
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09	HAMPTON-IN-ARDEN	102	61		102.61
+0071	MD301	004	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	11/01/09		103	20	*	103.20
+0072	MD301	005	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	14/12/08	Birmingham International South Jn	104	20	*	104.20
+0072	MD301	005	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	14/12/08	BIRMINGHAM	104	55		104.55
+0072	MD301	005	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	14/12/08	INTERNATIONAL			Z	.
+0072	MD301	005	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	14/12/08	Birmingham International North Jn	105	09		105.09
+0072	MD301	005	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	14/12/08		106	23	*	106.23
+0072	MD301	005	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	14/12/08	MARSTON GREEN	106	33		106.33
+0073	MD301	006	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08	LEA HALL	108	00		108.00
+0073	MD301	006	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08	Stechford South Jn	108	66		108.66
+0073	MD301	006	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08		109	00	*	109.00
+0073	MD301	006	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08	STEGHFORD	109	08		109.08
+0073	MD301	006	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08	Stechford North Jn	109	12		109.12
+0073	MD301	006	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	30/11/08	OHNS	109	33		109.33
+0074	MD301	007	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06	ADDERLEY PARK	110	79		110.79
+0074	MD301	007	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06		111	48	*	111.48
+0074	MD301	007	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06		111	60	*	111.60
+0074	MD301	007	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06	Grand Jn	111	72		111.72
+0074	MD301	007	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06		111	75	*	111.75
+0074	MD301	007	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06		111	76	*	111.76
+0075	MD301	008	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06	Curzon Street Jn	112	07		112.07
+0075	MD301	008	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06	Proof House Jn	112	19		112.19
+0076	MD301	009	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06		112	42	*	112.42
+0076	MD301	009	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06		112	43	*	112.43
+0076	MD301	009	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06	New Street South Tunnel	112	47		112.47
+0076	MD301	009	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06	(232 metres / 254 yards) to	112	58	*	112.58
+0076	MD301	009	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06	BIRMINGHAM NEW ST	112	73		112.73
+0076	MD301	009	Rugby to Penkridge (Exclusive) (via Birmingham) RBS1 LNW South	07/10/06	Change of mileage	0	05		0.05
+0077	MD301	010	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	BIRMINGHAM NEW ST	112	73		112.73
+0077	MD301	010	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Change of mileage	0	05		0.05
+0077	MD301	010	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Birmingham New St PSB	0	16	NS	0.16
+0077	MD301	010	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	New Street North Tunnel	0	19	*	0.19
+0077	MD301	010	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	(687 metres I 751 yards) to	0	53		0.53
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	New Street North Tunnel	0	19		0.19
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	(687 metres! 751 yards)	0	19	X	0.19
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Tunnel continued MD301 seq 10 to	0	53		0.53
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Arena Tunnel	0	53		0.53
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	(161 metres! 176 yards) to	0	60	*	0.60
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06		0	61		0.61
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06		0	65		0.65
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Monument Lane	1	26		1.26
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	(Commencement of Up Through Siding)	1	26	X	1.26
+0078	MD301	011	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	OHNS	1	45		1.45
+0079	MD301	012	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Soho South Jn	2	06		2.06
+0079	MD301	012	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Soho, Light Maintenance Depot	2	06	X	2.06
+0079	MD301	012	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Soho North Jn	2	38		2.38
+0079	MD301	012	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Telephone	2	40		2.40
+0079	MD301	012	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06		2	62		2.62
+0079	MD301	012	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06		2	64		2.64
+0080	MD301	013	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	SMETHWICK ROLFE STREET	3	30		3.30
+0080	MD301	013	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Galton Junction	3	64		3.64
+0080	MD301	013	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	SMETHWIGK GALTON BRIDGE	4	05		4.05
+0080	MD301	013	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06		4	20	*	4.20
+0080	MD301	013	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	SANDWELL AND DUDLEY	5	28		5.28
+0081	MD301	014	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07		5	70	*	5.70
+0081	MD301	014	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07	Albion Sidings	5	70	X	5.70
+0081	MD301	014	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07		6	20	*	6.20
+0081	MD301	014	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07	DUDLEY PORT	7	29		7.29
+0081	MD301	014	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07		7	35		7.35
+0081	MD301	014	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07		7	43		7.43
+0082	MD301	015	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07	Watery Lane S.F.	7	75	WL	7.75
+0082	MD301	015	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07	Tipton, Owen St LC.	8	16	CCTV	8.16
+0082	MD301	015	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07	TIPTON	8	16		8.16
+0082	MD301	015	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	02/06/07		8	40	*	8.40
+0083	MD301	016	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06		8	60	*	8.60
+0083	MD301	016	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	OHNS	9	12		9.12
+0083	MD301	016	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	COSELEY	9	46		9.46
+0083	MD301	016	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	07/10/06	Wolverhampton Steel Terminal	9	46	X	9.46
+0084	MD301	017	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	18/11/07		12	40	*	12.40
+0084	MD301	017	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	18/11/07		12	58	*	12.58
+0084	MD301	017	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	18/11/07	Wolverhampton Crane Street Junction	12	60		12.60
+0084	MD301	017	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	18/11/07	Wolverhampton PSB	12	69	WN	12.69
+0084	MD301	017	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	18/11/07	WOLVERHAMPTON	12	75		12.75
+0084	MD301	017	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	18/11/07		13	10	*	13.10
+0084	MD301	017	Rugby to Penkridge (Exclusive) (via Birmingham) RBSZ LNW South	18/11/07		13	14	*	13.14
+0085	MD301	018	Rugby to Penkridge (Exclusive) (via Birmingham) R382 R383 LNW South	18/11/07		13	20	*	13.20
+0085	MD301	018	Rugby to Penkridge (Exclusive) (via Birmingham) R382 R383 LNW South	18/11/07	Wolverhampton Nortth	13	32	*	13.32
+0085	MD301	018	Rugby to Penkridge (Exclusive) (via Birmingham) R382 R383 LNW South	18/11/07	Bushburan	14	43		14.43
+0085	MD301	018	Rugby to Penkridge (Exclusive) (via Birmingham) R382 R383 LNW South	18/11/07	Change of mileage	15	32		15.32
+0085	MD301	018	Rugby to Penkridge (Exclusive) (via Birmingham) R382 R383 LNW South	18/11/07		15	33	*	15.33
+0085	MD301	018	Rugby to Penkridge (Exclusive) (via Birmingham) R382 R383 LNW South	18/11/07		15	34	*	15.34
+0085	MD301	018	Rugby to Penkridge (Exclusive) (via Birmingham) R382 R383 LNW South	18/11/07		15	55		15.55
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07		17	00	*	17.00
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07		17	09	*	17.09
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07	Up Goods Loop	19	71		19.71
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07	Four Ashes	19	71	X	19.71
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07	Up Goods Loop	20	20		20.20
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07	NRN Channel change board	21	32		21.32
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07		23	30		23.30
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07	To Penkridge	23	30	X	23.30
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07	continued in	23	30	X	23.30
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07	LNW (N) Sectional	23	30	X	23.30
+0086	MD301	019	Rugby to Penkridge (Exclusive) (via Birmingham) RBSB LNW South	18/11/07	Appendix			Z	.
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Proof House Jn	112	19		112.19
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Curzon Street Jn	112	07		112.07
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	00		0.00
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	04	*	0.04
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	05	*	0.05
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	07	*	0.07
+0097	MD320	002	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Vauxhall Sidings	0	30	*	0.30
+0097	MD320	002	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Vauxhall Junction	0	31	*	0.31
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Aston SB	0	37	AN	0.37
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	nunnesron	0	53		0.53
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	70	*	0.70
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	OHNS	1	37		1.37
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		1	47	*	1.47
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		1	49		1.49
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	Aston South Jn	2	61		2.61
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	Change of mileage	1	60		1.60
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07		1	67	*	1.67
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	ASTON	1	68		1.68
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	Aston North Jn	1	73		1.73
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07		1	78	*	1.78
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	WITTON	2	45		2.45
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	Down Goods Loop	2	65		2.65
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07		3	27	*	3.27
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	PERRY BARR	3	33		3.33
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07		3	39	*	3.39
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Perry Barr South Jn	3	44		3.44
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Pen-y Barr North Jn	4	10		4.10
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	OHNS	4	17		4.17
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	OHNS	4	22		4.22
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		4	38		4.38
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	HAMSTEAD	4	76		4.76
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Charlemont Road LC	6	74	RIG	6.74
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		7	30	*	7.30
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		7	45	*	7.45
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	TAME BRIDGE PARKWAY	7	48		7.48
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Newton Jn	7	59		7.59
+0102	MD320	007	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07		7	67	*	7.67
+0102	MD320	007	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Bescot Down Tower SB	8	20	DT	8.20
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		8	40	*	8.40
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	BESCOT STADIUM	8	47		8.47
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		8	49	*	8.49
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Bescot Jn	8	50		8.50
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		8	56	*	8.56
+0104	MD320	009	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Darlaston Jn	9	65		9.65
+0104	MD320	009	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	OHNS	12	22		12.22
+0104	MD320	009	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Portobello Jn LC	12	47	CCTV	12.47
+0104	MD320	009	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	(Noose Lane)	12	47	X	12.47
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Portobello Jn	12	64	*	12.64
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Wednesfielcl Heath Tunnel	13	65		13.65
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	(164 metres! 179 yards) to	13	73		13.73
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Bushbury (0xley) Jn	15	23		15.23
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Bushburan	15	32		15.32
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	Marylebone IECC	205	77	ME	205.77
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	MARYLEBONE	205	77		205.77
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07		205	50	*	205.50
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07		205	48		205.48
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	St Johns Wood Tunnel	205	33		205.33
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	(1468 metres I 1606 yards) to	204	40		204.40
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	Hampstead Tunnel	204	35		204.35
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	(635 metres! 694 yards) to	204	03		204.03
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08		202	21	*	202.21
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08		202	00	*	202.00
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08	Neasden South Jn	200	66		200.66
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08	Change of mileage	6	31		6.31
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08		6	24	*	6.24
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08	Great Central Way Jn	5	60		5.60
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08	WEMBLEY STADIUM	5	00		5.00
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	SUDBURY AND	3	52		3.52
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	HARROW ROAD	3	52	X	3.52
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	SUDBURY HILL HARROW	2	57		2.57
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	South Harrow Tunnel	2	30		2.30
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	(187 metres I 204 yards) to	2	21		2.21
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	NORTHOLT PARK	1	57		1.57
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06		0	43	*	0.43
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06		0	20	*	0.20
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06	Northolt Jn	0	00	*	0.00
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06	SOUTH RUISLIP	0	07		0.07
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06		0	34		0.34
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06		0	35	*	0.35
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06	WEST RUISLIP	1	68		1.68
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	DENHAM	4	50		4.50
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08		5	14	*	5.14
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	DENHAM GOLF CLUB	5	42		5.42
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	GERRARDS CROSS	7	18		7.18
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08		7	30	*	7.30
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	SEER GREEN	9	75		9.75
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	& JORDANS	9	75	X	9.75
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	BEACONSFIELD	11	41		11.41
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		11	54	*	11.54
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		11	56	*	11.56
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	Whitehouse Tunnel	13	12		13.12
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	(322 metres I 352 yards)	13	28		13.28
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		15	44	*	15.44
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		16	07		16.07
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		16	21	*	16.21
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	HIGH WYGOMBE	16	29		16.29
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		16	42		16.42
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		17	20	*	17.20
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	SAUNDERTON	21	27		21.27
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		23	05	*	23.05
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	Saunderton Tunnel	23	31		23.31
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	(76 metres I 63 yards) to (Up line only)	23	35		23.35
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		24	00	*	24.00
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		24	15	*	24.15
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06	PRINCES RISBOROUGH	24	40		24.40
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06	Princes Risborough Junction	24	50	*	24.50
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06	Network Rail Boundary on Thame Branch	0	50		0.50
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		24	60	*	24.60
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		25	40	*	25.40
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		25	60	*	25.60
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	Rose Farm LC	26	49	UWC	26.49
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	HADDENHAM AND	30	25		30.25
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	THAME PARKWAY	30	25	X	30.25
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	Ashendon Jn ,fon'ner site of	33	69		33.69
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	Change of mileage	0	00		0.00
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	Brill Tunnel	2	29		2.29
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	(177 metres/194 yards)	2	39		2.39
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		8	71	*	8.71
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		9	00	*	9.00
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	BICESTER NORTH	9	27		9.27
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		9	40	*	9.40
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		9	44	*	9.44
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		9	70	*	9.70
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	Bucknells Farm LC	12	27	BW	12.27
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	Ardley Tunnel	15	13		15.13
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	(1056 metresl1155 yards)	15	65		15.65
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06		17	30	*	17.30
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	Aynho Park Jn , former site of	17	45		17.45
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06		18	19	*	18.19
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06		18	29	*	18.29
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	Aynho Junction	18	26		18.26
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	Continued in London			X	.
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	North Eastem Sectional			X	.
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	Appendix			Z	.
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	Territory Boundary	23	30		23.30
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	TAMWORTH (HIGH LEVEL)	23	58		23.58
+0158	MD501	001	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 LNW South	07/10/06	WILNEGOTE	25	47		25.47
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	(Birch Coppice Exchange Sidings)			X	.
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Kingsbury Branch Sidings			X	.
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Kingsbury SF	28	26	KY	28.26
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Kingsbury Branch Jn	28	33		28.33
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06		29	30	*	29.30
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Kingsbury Jn	29	39		29.39
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06		32	37	*	32.37
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06		33	10	*	33.10
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Water Orton East Jn	33	22		33.22
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	Change of mileage	34	43		34.43
+0159	MD501	002	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP1 DBP2 LNW South	07/10/06	WATER ORTON	34	54		34.54
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Water Orton West Jn	35	15		35.15
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		36	08	*	36.08
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		36	11	*	36.11
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Castle Bromwich Jn	36	14		36.14
+0160	MD501	003	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		36	40	*	36.40
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Jaguar Cars Sidings			X	.
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		37	10	*	37.10
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Headlands Power Station	37	10	X	37.10
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Sidings (0.0.U.)	37	10	X	37.10
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		37	70	*	37.70
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		38	15	*	38.15
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Esso Sidings	38	15	X	38.15
+0161	MD501	004	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Bromford Bridge	38	18		38.18
+0162	MD501	005	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	British Steel Sidings. former			X	.
+0162	MD501	005	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		38	40	*	38.40
+0162	MD501	005	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Washwood Heath East Jn	38	44		38.44
+0162	MD501	005	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Washwood Heath R.M.C. Sidings	38	44	X	38.44
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		39	30	*	39.30
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		39	40	*	39.40
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Washwood Heath Down Sidings	39	44		39.44
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Signal SY.218	39	44	X	39.44
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	(See note on M0501 seq 7)	39	44	X	39.44
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Metro-Cammell GF	39	50		39.50
+0163	MD501	006	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		39	63	*	39.63
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Washwood Heath No.1 SF	39	65		39.65
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		39	69	*	39.69
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Signal SY.213 (see note)	40	00		40.00
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		40	20	*	40.20
+0164	MD501	007	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Duddeston Jn	40	31		40.31
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	West Midlands SC	40	38		40.38
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	Saltley Loco Servicing Depot, former	40	38	X	40.38
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	European Metals Recycling Sidings	40	38	X	40.38
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	Saltley PSB	40	48	SY	40.48
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	Lawley Street Freightliner Terminal	40	48	X	40.48
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07		40	57		40.57
+0165	MD501	008	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	29/08/07	Lander Street Jn	40	60		40.60
+0166	MD501	009	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		41	21	*	41.21
+0166	MD501	009	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06		41	22	*	41.22
+0166	MD501	009	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Grand Jn	41	26		41.26
+0166	MD501	009	Tamworth (Inclusive) to Birmingham, Proof House Junction DBP3 LNW South	07/10/06	Proof House Jn	41	51		41.51
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Continued in			X	.
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Western			Z	.
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Sectional Appendix			X	.
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Territory Boundary	75	00		75.00
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	HEYFORD	75	21		75.21
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06		76	35	*	76.35
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06		76	40	*	76.40
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Knaptons LC	76	55	UWC	76.55
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Somerton LC	77	24	UWC	77.24
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06		77	40	*	77.40
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Chiswells Farm LC	76	33	UWC	76.33
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06		78	50	*	78.50
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Abemethys LC	78	52	UWC	78.52
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Boulders Farm No.2 LC	79	10	UWC	79.10
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Aynho Junction	13	26		13.26
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Change of mileage	61	10		61.10
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06		81	17	*	81.17
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	KINGS SUTTON	82	55		82.55
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Brookfield House LC	82	60	UWC	82.60
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Studleigh Farm No.2 LC	82	67	UWC	82.67
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Cherrys No.4 LG	84	28	UWC	84.28
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Manor Farm No.1 LC	85	06	UWC	85.06
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06		85	20	*	85.20
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06		85	60	*	85.60
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Banbury South SB	86	02	BS	86.02
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Down Relief GF	86	11		86.11
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	BANBURY			Z	.
+0126	MD401	003	Heyford to Bordesley Junction DCL LNW South	26/05/07	BANBURY	66	16		66.16
+0126	MD401	003	Heyford to Bordesley Junction DCL LNW South	26/05/07	Banbury North SB	66	26	EN	66.26
+0126	MD401	003	Heyford to Bordesley Junction DCL LNW South	26/05/07		66	70	*	66.70
+0126	MD401	003	Heyford to Bordesley Junction DCL LNW South	26/05/07	Down Goods Loop GF	67	26		67.26
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Little Bourton LC	88	40	UWC	88.40
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Jefferies LC	88	58	UWC	88.58
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Whites LC	88	73	UWC	88.73
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	NRN Channel change	92	40		92.40
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Wormleighton LC	93	37	UWC	93.37
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Fenny Compton Jn	94	20		94.20
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Down Goods Loop	94	23		94.23
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Up Goods Loop	95	27		95.27
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06		96	00	*	96.00
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06		97	17	*	97.17
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06		97	20	*	97.20
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06	Harbury Tunnel	100	49		100.49
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06	(64 metresflo yards) to 1	00	52		00.52
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08		105	73	*	105.73
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	LEAMINGTON SPA	106	07		106.07
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	Leamington Spa PSB (LN, CL)	106	14		106.14
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	Leamington Spa Jn	106	25		106.25
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08		106	32	*	106.32
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08		106	38	*	106.38
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	WARWIcK	108	02		108.02
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	WARWICK PARKWAY	109	26		109.26
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	DHGL	111	02		111.02
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08		111	56	*	111.56
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	HATPON	112	14		112.14
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	Hatton Station Jn	112	18		112.18
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	Hatton Nortth.	112	57		112.57
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08		112	61	*	112.61
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08		112	62	*	112.62
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	LAPWORTH	116	31		116.31
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	DORRIDGE	118	75		118.75
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Bentley Heath LC	119	43	CCTV	119.43
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	WIDNEY MANOR	120	66		120.66
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		122	00	*	122.00
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	SOLIHULL	122	25		122.25
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	0LTON	124	11		124.11
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		125	00	*	125.00
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	ACOGKS GREEN	125	08		125.08
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		125	53	*	125.53
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		125	60	*	125.60
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Tyseley South Jn	125	73		125.73
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		125	74	*	125.74
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Tyseley No.3 GF	126	00	*	126.00
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	TYSELEY	126	05		126.05
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	(Birmingham Railway Museum)	126	05	X	126.05
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Tyseley North Jn	126	23		126.23
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Tyseley No.1 SB	126	40	TY1	126.40
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	Small Heath South Jn	126	59		126.59
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	SMALL HEATH	127	04		127.04
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08		127	53	*	127.53
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	Bordesley South Jn .	127	57		127.57
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08		127	60	*	127.60
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	Bordesley Jn	128	11		128.11
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	Change of mileage	41	44		41.44
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Camden Jn (Down DC line)	1	36		1.36
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Camden Jn (Up DC line)	1	40		1.40
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	South Hampstead Tunnels	1	49		1.49
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Down line:	1	49	X	1.49
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	1km 328 metres" 452 yards	1	49	X	1.49
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Up line:	1	49	X	1.49
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	1km 156 metres" 264 yards	1	49	X	1.49
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Camden Jn	1	50		1.50
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	(North London lines)	1	50	X	1.50
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		2	27	*	2.27
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	SOUTH HAMPSTEAD	2	33		2.33
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	CSR change	2	40		2.40
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	KILBURN HIGH ROAD	3	01		3.01
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		3	45	*	3.45
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	OIIEEN'S PARK	3	55		3.55
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		3	58	*	3.58
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Queens Park Jn	3	71		3.71
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	KENSAL GREEN	4	41		4.41
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Kensal Green Tunnels	4	45		4.45
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	(290 metres/317 yards)	4	59		4.59
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		4	70	*	4.70
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		5	00	*	5.00
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	Willesden TMD	5	00	X	5.00
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	Willesden Suburban Jn	5	28		5.28
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	WILLESDEN JUNCTION	5	36		5.36
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	LOW LEVEL	5	36	X	5.36
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		5	43	*	5.43
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		5	47	*	5.47
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	HARLESDEN	6	08		6.08
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	STONEBRIDGE PARK	7	04		7.04
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Stonebridge Jn	7	07		7.07
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Wembley Mainline SCC (WM. WS)	7	10		7.10
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		7	54	*	7.54
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		7	70	*	7.70
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	WEMBLEY CENTRAL	8	09		8.09
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Wembley Central G.F.	8	14		8.14
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	NORTH WEMBLEY	8	69		8.69
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	SOUTH KENTON	9	35		9.35
+0040	MD120	006	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	KENTON 1	0	24		0.24
+0040	MD120	006	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	HARROW & WEALDSTONE	11	30		11.30
+0040	MD120	006	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		11	31	*	11.31
+0040	MD120	006	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		11	46	*	11.46
+0041	MD120	007	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	08/10/06	HEADSTONE LANE	12	45		12.45
+0041	MD120	007	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	08/10/06	HATCH END	13	25		13.25
+0041	MD120	007	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	08/10/06	CARPEN DE RS PARK	14	57		14.57
+0042	MD120	008	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		15	76	*	15.76
+0042	MD120	008	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	BUSHEY	16	04		16.04
+0042	MD120	008	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		16	09	*	16.09
+0042	MD120	008	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	WATFORD HIGH STREET	16	67		16.67
+0043	MD120	009	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		17	35	*	17.35
+0043	MD120	009	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	WATFORD JUNGT ION	17	58		17.58
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0113	MD345	001	Bescot Junction to Rugeley North Junction (Excl) BJW1 LNW South	07/10/06	Bescot Jn	8	50		8.50
+0113	MD345	001	Bescot Junction to Rugeley North Junction (Excl) BJW1 LNW South	07/10/06	Change of mileage	0	00		0.00
+0114	MD345	002	Bescot Junction to Rugeley North Junction (Excl) BJW2 LNW South	14/04/07	Walsall PSB (WL)	0	63	*	0.63
+0114	MD345	002	Bescot Junction to Rugeley North Junction (Excl) BJW2 LNW South	14/04/07	WalsallPleck Jn	0	65		0.65
+0114	MD345	002	Bescot Junction to Rugeley North Junction (Excl) BJW2 LNW South	14/04/07	Change of mileage	5	42		5.42
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	15	*	6.15
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	Walsall South Jn	6	18		6.18
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	20	*	6.20
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	WALSALL	6	29		6.29
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	32	*	6.32
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	Park Street Tunnel	6	34	*	6.34
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	(131 metres I 143 yards) to Walsall North Jn	6	40		6.40
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	41	*	6.41
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	70	*	6.70
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	Ryecroft Junction	6	76		6.76
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	Change of mileage	6	79	*	6.79
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		0	00		0.00
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08		0	05	*	0.05
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08		2	00	*	2.00
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08	Bloxwich LC	2	05	MCB	2.05
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08	Bloxwich SB	2	06	BH	2.06
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08	Bloxwich GF	2	22		2.22
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08		2	30	*	2.30
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08	BLOX'WICH	2	32		2.32
+0117	MD345	005	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	07/10/06	BLOXWICH NORTH	3	01		3.01
+0117	MD345	005	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	07/10/06	LANDYWOOD	5	12		5.12
+0118	MD345	006	Bescot Junction to Rugeley North Junction (Excl) RRN1 RRN2 LNW South	21/04/07	Mid Cannock Colliery GF	6	30		6.30
+0118	MD345	006	Bescot Junction to Rugeley North Junction (Excl) RRN1 RRN2 LNW South	21/04/07	CANNOGK	7	16		7.16
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	HEDNESFORD	9	05	*	9.05
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	Hednesford SB	9	12		9.12
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	Moors Gorse LC	11	23	UWC	11.23
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	Brereton Sidings SB	13	25		13.25
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	RUGELEY TOWN	13	27		13.27
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08		13	50	*	13.50
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08		13	52	*	13.52
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08		13	74	*	13.74
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	NRN Channel Change	14	00		14.00
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	Continued in LNW (N) Sectional Appendix	14	00	X	14.00
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	BIRMINGHAM NEW ST	112	73		112.73
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	Change of mileage	0	05		0.05
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	Birmingham New St PSB	0	16	NS	0.16
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	Change of mileage	42	35		42.35
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	Holliday Street Tunnel (D)	42	40	*	42.40
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	(281 metres I 307 yards)	42	40	X	42.40
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	Holliday Street Tunnel G)	42	54	*	42.54
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(281 metres / 307 yards)	42	54	X	42.54
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(Canal Tunnel 6)	42	57		42.57
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(206 metres / 225 yards)	42	57	X	42.57
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	to	42	67		42.67
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	Granville Street Tunnel 6)	42	68		42.68
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(74 metres / 81 yards)	42	68	X	42.68
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	to	42	72		42.72
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	Bath Row Tunnel 6)	42	73		42.73
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(192 metres / 210 yards) to	43	07		43.07
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	FIVE WAYS	43	18		43.18
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08		43	40	*	43.40
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08	Church Road Tunnel	43	56		43.56
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08	(97 metres! 106 yards) t	43	56	X	43.56
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08		43	61		43.61
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08	UNIVERSITY	44	73		44.73
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08		45	10	*	45.10
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08	SELLY OAK	45	50		45.50
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	BOURNVILLE	46	58		46.58
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	Lifford West Jn	47	20		47.20
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06		47	30	*	47.30
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	Pershore Road Tunnel	48	34		48.34
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	(57 metres I 62 yards) t	48	34	X	48.34
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06		47	37		47.37
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	King's Norton Station Jn	47	48		47.48
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06		47	58	*	47.58
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06	KING'S NORTON	47	64		47.64
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06	King's Nortoan	48	02		48.02
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06	Change of mileage	46	77		46.77
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06		46	79	*	46.79
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06	King's Norton West GF	47	40		47.40
+0092	MD305	006	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	NORTHFIELD	48	12		48.12
+0092	MD305	006	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	LONGBRIDGE	49	12	*	49.12
+0092	MD305	006	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	Halesowen Jn	49	21		49.21
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08		49	46	*	49.46
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	COftOPI	50	34		50.34
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08		50	60	*	50.60
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	Bamt Green Jn	51	58		51.58
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	BARNT GREEN	51	67		51.67
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	NRN channel change	52	20		52.20
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	Territory Boundary	52	40		52.40
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	Blackwell	53	29		53.29
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0200	MD801	001	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ1 WSJ2 LNW South	07/10/06	Wolverhampton North Jn	13	32		13.32
+0200	MD801	001	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ1 WSJ2 LNW South	07/10/06	Change of mileage	143	52		143.52
+0200	MD801	001	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ1 WSJ2 LNW South	07/10/06	Oxley, Stafford Road Jn	142	79		142.79
+0200	MD801	001	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ1 WSJ2 LNW South	07/10/06	Change of mileage	143	02		143.02
+0201	MD801	002	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	31/03/07	Oxley SB	143	14	CY	143.14
+0201	MD801	002	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	31/03/07		143	40	*	143.40
+0201	MD801	002	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	31/03/07		143	45		143.45
+0201	MD801	002	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	31/03/07	Limit of electrification	143	65		143.65
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	BILBROOK	145	66		145.66
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	CODSALL	146	41		146.41
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Stocking Farm LC	147	32	UWC	147.32
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	ALBRIGHTON	149	38		149.38
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	NRN Channel change board	149	40		149.40
+0202	MD801	003	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	COSFORD	150	69		150.69
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	SHIFNAL	154	24		154.24
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Madeley Jn	156	19		156.19
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Madeley Jn SB	156	26	MJ	156.26
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	TELFORD CENTRAL	157	40		157.40
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Oakengates Tunnel	157	76		157.76
+0203	MD801	004	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	(431 metres 1' 471 yards) to	158	17		158.17
+0204	MD801	005	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/03/09	OAKENGATES	158	31		158.31
+0204	MD801	005	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/03/09	Donnington Junction	160	73		160.73
+0204	MD801	005	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/03/09		161	00	*	161.00
+0204	MD801	005	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/03/09	WELLINGTON	161	27		161.27
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08		162	00	*	162.00
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Allscott GF	163	70		163.70
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Territory Boundary	170	46		170.46
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	To Abbey Foregate	170	46	X	170.46
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	continued in	170	46	X	170.46
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Western Territory Sectional	170	46	X	170.46
+0205	MD801	006	Wolverhampton North Jn to Abbey Foregate (Exclusive) WSJ2 LNW South	02/02/08	Appendix			Z	.
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0147	MD435	001	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	Small Heath South Jn	126	59		126.59
+0147	MD435	001	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	SMALL HEATH	127	04		127.04
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	BORDESLEY	128	03		128.03
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08		128	35	*	128.35
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	BIRMINGHAM MOOR STREET	128	66		128.66
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	Snow Hill Tunnel	128	72	*	128.72
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	(581 metres/635 yards)	128	72	X	128.72
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08		129	18	*	129.18
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	(Snow Hill Tunnel)	129	21		129.21
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	BIRMINGHAM SHOW HILL	129	36		129.36
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08		129	38	*	129.38
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07		129	50	*	129.50
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	Hockley No.1 Tunnel	129	66		129.66
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	(136 yards! 124 metres) to	129	72		129.72
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	Hockley No.2 Tunnel	129	75		129.75
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	(160 yards I 146 metres) to	130	02		130.02
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	JEWELLERY QUARTER	130	04		130.04
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	THE HAWTHORNS	132	41		132.41
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07		132	45	*	132.45
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		133	17	*	133.17
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07	SMETHWIGK GALTON BRIDGE	133	21		133.21
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07	Smethwick Jn	133	32		133.32
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		133	42	*	133.42
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		134	38	*	134.38
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		134	40	*	134.40
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07	LANGLEY GREEN	134	46		134.46
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07	Langley Green West LC	134	60	CCTV	134.60
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		135	00	*	135.00
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	ROWLEY REGIS	136	14		136.14
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		136	30	*	136.30
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	Old Hill Tunnel	136	40		136.40
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	(619 metres I 896 yards)	136	40	X	136.40
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	to	137	01		137.01
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		137	10	*	137.10
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	OLD HILL	137	30		137.30
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		137	46	*	137.46
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		138	32	*	138.32
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		138	60	*	138.60
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	Cradley Heath LC	138	65	CCTV	138.65
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	CRADLEY HEA11-I	138	70		138.70
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		139	20	*	139.20
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	LYE	140	14		140.14
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	Stourbridge North Jn	141	06		141.06
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	Change of mileage	142	51		142.51
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08	Bletchley Jn	46	43		46.43
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08	Change of Mileage	46	50		46.50
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08		0	00		0.00
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08	BLETGHLEY	0	04		0.04
+0048	MD140	001	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	26/01/08	Bletchley East Jn	0	17		0.17
+0049	MD140	002	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06		0	40	*	0.40
+0049	MD140	002	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	To Single Line	0	49		0.49
+0049	MD140	002	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06		0	74	*	0.74
+0049	MD140	002	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Fenny StratfordlBletchley Flyover Jn	0	76	*	0.76
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	FENNY STRATFORD	1	05		1.05
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Fenny Stratford LC	1	13	CCTV	1.13
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Single & Double Jn	1	42		1.42
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06		1	44	*	1.44
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	BOW BRICKHILL	2	05		2.05
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Bow Brickhill LC (CCTV)	2	05	X	2.05
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	WOBURN SANDS	4	08		4.08
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Wobum Sands LC	4	11	CCTV	4.11
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Aspley Guise LC	5	04	CCTV	5.04
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	ASPLEY GUISE	5	06		5.06
+0050	MD140	003	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Berry Lane LC	5	33	UWC	5.33
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	RIDGMOHT			Z	.
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Marston Vale SOC	6	59		6.59
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Ridgmont LC	6	61	CCTV	6.61
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Lidlington LC	8	49	CCTV	8.49
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	LIDLINGTON	8	52		8.52
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Marston LC	9	02	AHBC—X	9.02
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	Millbrook LC	10	02	CCTV	10.02
+0051	MD140	004	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	08/10/06	MILLBROOK	10	05		10.05
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Green Lane LC	11	17	AHBC-X	11.17
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	STEWARTBY	11	18		11.18
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Stewartby Brickworks LC	11	33	CCTV	11.33
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Arrival & Departure	11	55		11.55
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Forders Sidings	11	55	X	11.55
+0052	MD140	005	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/04/07	Arrival & Departure	12	02		12.02
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Wootton Broadmead LC	12	08	CCTV	12.08
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	KEMPSTON HARDWICK	12	76		12.76
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Kempston Hardwiok LC	12	77	AHBG-X	12.77
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06		15	64	*	15.64
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Double to Single Jn	15	67		15.67
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	BEDFORD ST. JOHNS	16	05		16.05
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Territory Boundary	16	07		16.07
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Continued in London North Eastern	16	07	X	16.07
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	Sectional Appendix	16	07	X	16.07
+0053	MD140	006	Bletchley to Bedford St Johns (Inclusive) BBM LNW South	07/10/06	LN3140 seq 1	16	07	X	16.07
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	Hanslope North Junction	56	66		56.66
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	OHNS	58	46		58.46
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		58	53	*	58.53
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		56	70	*	56.70
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	NRN Channel Change	59	00		59.00
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	Roade HABD	59	72		59.72
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		61	20	*	61.20
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		63	06	*	63.06
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	Hunsbury Hill Tunnel	64	00		64.00
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	(1056 metres/1155 yards) to	64	53		64.53
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		65	26	*	65.26
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		65	31	*	65.31
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	Northampton South Jn	65	55		65.55
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		65	58	*	65.58
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		65	65	*	65.65
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	NORTHAMPTON	65	68		65.68
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		65	79	*	65.79
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		66	00	*	66.00
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		66	04	*	66.04
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	Northampton North Jn	66	12	*	66.12
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		66	16	*	66.16
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		66	23	*	66.23
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	Northampton Kings Heath	66	23	X	66.23
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	Traincare Depot	66	23	X	66.23
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09		67	09	*	67.09
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09	Mill Lane Jn	67	16		67.16
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09		67	27	*	67.27
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09		67	43	*	67.43
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09		63	19	*	63.19
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09	Althorpe Park HABD	72	04		72.04
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09	OHNS	74	60		74.60
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	LONG BUGKBY	75	37		75.37
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Watford Lodge Tunnel	78	47		78.47
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	(105 metres" 15 yards) to	78	52		78.52
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Crick Tunnel	79	20		79.20
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	(544 metresl595 yards) to	79	47		79.47
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Daventry South Jn	80	05		80.05
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Daventry International Rail Freight	80	05	X	80.05
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Terminal (DIRFT)	80	05	X	80.05
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Daventry North . Jn	80	76		80.76
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	OHNS	82	21		82.21
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08		83	43	*	83.43
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	Hillmorton Junction	33	54		33.54
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08		84	09	*	84.09
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	Rugby South Junction	82	26		82.26
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	Rugby PSB	82	26	RY	82.26
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	RUGBY	82	40		82.40
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	Aston North Jn	1	73		1.73
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	Change of mileage	0	00		0.00
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06		0	01	*	0.01
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06		0	28	*	0.28
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	GRAVELLY HILL	1	18	*	1.18
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	ERDINGTON	2	31		2.31
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	CHESTER ROAD	2	77		2.77
+0109	MD340	001	Aston North Junction to Alrewas (Exclusive) ALC1 LNW South	07/10/06	WYLDE GREEN	3	59		3.59
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07		4	71	*	4.71
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07	SUTTON OOLDFIELD	4	74		4.74
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07	Sutton Coldfield Tunnel	5	04		5.04
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07	(157 metres I 172 yards) to	5	12		5.12
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07		5	16	*	5.16
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07		5	67	*	5.67
+0110	MD340	002	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	01/12/07	FOUR OAKS	6	26		6.26
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		6	35	*	6.35
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06	BUTLERS LANE	7	27		7.27
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		8	08	*	8.08
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06	BLAKE STREET	8	15		8.15
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		8	40	*	8.40
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06	SHENSTONE	10	53		10.53
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		12	20	*	12.20
+0111	MD340	003	Aston North Junction to Alrewas (Exclusive) ALC2 LNW South	07/10/06		12	40	*	12.40
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07		13	20	*	13.20
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Lichfield City Jn	13	33		13.33
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Change of mileage	16	47		16.47
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07		16	51	*	16.51
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07		16	54	*	16.54
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	LICHFIELD CITY	16	70		16.70
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07		17	10	*	17.10
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	LIGHFIELD TRENT VALLEY	18	05		18.05
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Lichfield TV Jn	18	13		18.13
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Liohfield TV LG	18	14		18.14
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Lichfield Trent Valley Junction SB	18	15	TV	18.15
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Hollands (Streehay) LC	18	41		18.41
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Corks Farm No.2 LC	18	66		18.66
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Territory Boundary	19	00		19.00
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	To Alrewas SB continued	19	00	X	19.00
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	in London North Eastern	19	00	X	19.00
+0112	MD340	004	Aston North Junction to Alrewas (Exclusive) ALC2 BJW3 LNW South	07/04/07	Sectional Appendix	19	00	X	19.00
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0174	MD570	001	Saltley (Landor Street Jn) To King's Norton Jn (Camp Hill Lines) LSS SKN LNW South	07/10/06	Landor Street Jn	40	60		40.60
+0174	MD570	001	Saltley (Landor Street Jn) To King's Norton Jn (Camp Hill Lines) LSS SKN LNW South	07/10/06		40	62	*	40.62
+0174	MD570	001	Saltley (Landor Street Jn) To King's Norton Jn (Camp Hill Lines) LSS SKN LNW South	07/10/06		41	14	*	41.14
+0174	MD570	001	Saltley (Landor Street Jn) To King's Norton Jn (Camp Hill Lines) LSS SKN LNW South	07/10/06	St Andrew's Jn	41	18	*	41.18
+0175	MD570	002	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	Bordesley Jn	41	44		41.44
+0175	MD570	002	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	Moseley Tunnel	43	47		43.47
+0175	MD570	002	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	(142 metres / 155 yards) to	43	54		43.54
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	Bournville HABD	46	00		46.00
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	Bournville Junction	46	11		46.11
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06		46	45	*	46.45
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	Norton Station Jn	46	46		46.46
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06		46	54	*	46.54
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	NORTON	46	59		46.59
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06		46	69	*	46.69
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	Norton Jn	46	77		46.77
+0176	MD570	003	Saltley (Landor Street Jn) to King's Norton Jn (Camp Hill Lines) SKN LNW South	07/10/06	Change of mileage	48	02		48.02
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Nuneaton North Jn	97	36		97.36
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Change of mileage	10	18		10.18
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		10	14	*	10.14
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		10	11	*	10.11
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Limit of Electrification	10	00		10.00
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		9	62	*	9.62
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Abbey Junclion	9	60		9.60
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		9	35	*	9.35
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		9	26	*	9.26
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Stockingford station. former site of	8	33		8.33
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Arley Tunnel	6	55		6.55
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	(709 yards 1' 648 metres) to	6	22		6.22
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Arley HABD	5	60		5.60
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Windridge LC	3	03	UWC	3.03
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Dew Mill GF	2	37		2.37
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Dew Mill Colliery	2	37	X	2.37
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07		2	05	*	2.05
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07		1	50	*	1.50
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07		0	20	*	0.20
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	Whitacre Jn	0	00		0.00
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	Change of mileage	31	59		31.59
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	Whitacre GF	31	77		31.77
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07		32	07	*	32.07
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	ABP National Distribution Park	32	07	X	32.07
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	ABP Control Centre	33	05	HH	33.05
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	GOLESHILL PARKWAY	33	10		33.10
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07		34	29	*	34.29
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07	Water Orton East Jn	34	43		34.43
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07		33	22		33.22
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07	WATER ORTON	34	54		34.54
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07		33	34		33.34
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07		35	04	*	35.04
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07	Water Orton West Jn	35	15		35.15
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Territory Boundary			X	.
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	NRN Channel Change	130	40	*	130.40
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Elmley Lovett GF	131	19		131.19
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	HARTLEBURY	131	68		131.68
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Hartlebury LC (M CB)	131	72		131.72
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Hartlebury SB	131	72	HY	131.72
+0144	MD430	001	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06		134	55	*	134.55
+0145	MD430	002	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Down Goods Loop	134	59		134.59
+0145	MD430	002	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06		135	00	*	135.00
+0145	MD430	002	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Kidderminster Jn SB	135	17	KJ	135.17
+0145	MD430	002	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	KIDDERMINSTER	135	46		135.46
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Blakedown SB	138	00	EN	138.00
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Blakedown LG	138	51		138.51
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	BLAKEDOWN	138	54		138.54
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	HAGLEY	140	29		140.29
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06		142	00	*	142.00
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	STOURBRIDGE J"	142	16		142.16
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Stourbridge Middle Jn	142	21		142.21
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Stourbridge Jn GF	142	24		142.24
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Stourbridge Jn SB	142	25	SJ	142.25
+0146	MD430	003	Droitwich Spa to Stourbridge North Junction OWW LNW South	07/10/06	Stourbridge North Jn	142	51	*	142.51
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0141	MD425	001	Tyseley South Junction to Bearley Junction TSB LNW South	18/02/08	Tyseley South Jn	125	73		125.73
+0141	MD425	001	Tyseley South Junction to Bearley Junction TSB LNW South	18/02/08	Change of mileage	0	00		0.00
+0141	MD425	001	Tyseley South Junction to Bearley Junction TSB LNW South	18/02/08	SPRING ROAD	0	56		0.56
+0141	MD425	001	Tyseley South Junction to Bearley Junction TSB LNW South	18/02/08	HALL GREEN	1	22		1.22
+0141	MD425	001	Tyseley South Junction to Bearley Junction TSB LNW South	18/02/08	YARDLEY WOOD	2	48		2.48
+0141	MD425	001	Tyseley South Junction to Bearley Junction TSB LNW South	18/02/08	Shirley SB	3	66	SH	3.66
+0141	MD425	001	Tyseley South Junction to Bearley Junction TSB LNW South	18/02/08	SHIRLEY	3	66		3.66
+0142	MD425	002	Tyseley South Junction to Bearley Junction TSB LNW South	07/10/06	WHITLOCKS END	4	60		4.60
+0142	MD425	002	Tyseley South Junction to Bearley Junction TSB LNW South	07/10/06	WYTHALL	5	59		5.59
+0142	MD425	002	Tyseley South Junction to Bearley Junction TSB LNW South	07/10/06	EARLSWOOD	6	65		6.65
+0142	MD425	002	Tyseley South Junction to Bearley Junction TSB LNW South	07/10/06	THE LAKES	7	50		7.50
+0142	MD425	002	Tyseley South Junction to Bearley Junction TSB LNW South	07/10/06	WOOD END	8	56		8.56
+0142	MD425	002	Tyseley South Junction to Bearley Junction TSB LNW South	07/10/06	Wood End Tunnel	8	62		8.62
+0142	MD425	002	Tyseley South Junction to Bearley Junction TSB LNW South	07/10/06	(158 metres! 173 yards) to	8	70		8.70
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08	Beaumont Hill LC	9	11	UWC	9.11
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08	DANZEY	10	43		10.43
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08	Henley-in-Arden SB	13	34		13.34
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08	HENLEY-IN-ARDEN	13	41		13.41
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08	WOOTTON WAWEN	15	22		15.22
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08		17	04	*	17.04
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08		17	25	*	17.25
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08	Bearlean SB	17	61	BJ	17.61
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08	Bearley Jn	17	69		17.69
+0143	MD425	003	Tyseley South Junction to Bearley Junction TSB LNW South	23/02/08	Change of mileage	12	50		12.50
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09	Coventry North Jn	94	19		94.19
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09	Change of mileage	0	00		0.00
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09		0	01	*	0.01
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09		0	04	*	0.04
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09	Coventry Yard	0	04	X	0.04
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09		0	42	*	0.42
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09	Limit of electrification	0	45	*	0.45
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09	Spon End viaduct	0	47		0.47
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09	(330 metres / 360 yards)	0	63		0.63
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09		0	68	*	0.68
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09		0	72	*	0.72
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09		0	73	*	0.73
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09	Coundon Road SB	1	03	CR	1.03
+0135	MD410	001	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	14/02/09	Coundon Road LC	1	04	MCB	1.04
+0136	MD410	002	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/05/07	Change of Mileage	3	08		3.08
+0136	MD410	002	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/05/07	Prologis Park Siding	0	00		0.00
+0136	MD410	002	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/05/07	Three Spires Junction SB	3	20	T3	3.20
+0136	MD410	002	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/05/07	Network Rail boundary	0	58		0.58
+0136	MD410	002	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/05/07	Up Side G.F.	4	50		4.50
+0136	MD410	002	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/05/07	Hawkesbury Lane SB	4	71	HL	4.71
+0136	MD410	002	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/05/07	Hawkesbury Lane LC	4	72	MOB	4.72
+0137	MD410	003	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/09/08	Murco Sidings GF	5	37		5.37
+0137	MD410	003	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/09/08	BEDWORTH	6	29		6.29
+0137	MD410	003	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/09/08		8	75	*	8.75
+0137	MD410	003	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/09/08	Chilvers Ceton Jn	9	00		9.00
+0137	MD410	003	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/09/08	Nuneaton South Junction	9	53		9.53
+0137	MD410	003	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/09/08		96	68		96.68
+0137	MD410	003	Coventry North Jn. to Nuneaton South Jn. CNN LNW South	08/09/08	Change of mileage	96	68	X	96.68
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0062	MD175	001	Brackmills to Northampton South Junction BNN BPH LNW South	02/06/07	Gate Brackmills	69	64		69.64
+0062	MD175	001	Brackmills to Northampton South Junction BNN BPH LNW South	02/06/07	Brackmills LC	69	72	TMO	69.72
+0062	MD175	001	Brackmills to Northampton South Junction BNN BPH LNW South	02/06/07	Hardingstone LC	70	76	FP	70.76
+0062	MD175	001	Brackmills to Northampton South Junction BNN BPH LNW South	02/06/07	Change in mileage	5	13		5.13
+0063	MD175	002	Brackmills to Northampton South Junction BPH LNW South	02/06/07	Bridge Street SB	4	57		4.57
+0063	MD175	002	Brackmills to Northampton South Junction BPH LNW South	02/06/07	Bridge Street LC	4	56	MOB	4.56
+0063	MD175	002	Brackmills to Northampton South Junction BPH LNW South	02/06/07	Bridge Street GF	4	49		4.49
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07	Bridge Street Jn , former site of	4	29	*	4.29
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07		0	00		0.00
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07	Duston North Jn , former site of	0	18		0.18
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07		0	29		0.29
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07	Northampton South Jn	0	65		0.65
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07		65	65		65.65
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07	Continued in Southern			X	.
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07	Sectional Appendix.			X	.
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07		5	65		5.65
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07		5	66	*	5.66
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07	Mitre Bridge Jn	5	67		5.67
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07	Mitre Bridge LC	5	72	CCTV	5.72
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07		6	06	*	6.06
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07		6	08	*	6.08
+0058	MD165	001	North Pole Junction to Acton Wells Junction WLL WAW LNW South	26/05/07	West London Jn	6	19		6.19
+0059	MD165	002	North Pole Junction to Acton Wells Junction WAW LNW South	07/10/06		0	23	*	0.23
+0059	MD165	002	North Pole Junction to Acton Wells Junction WAW LNW South	07/10/06		0	24	*	0.24
+0059	MD165	002	North Pole Junction to Acton Wells Junction WAW LNW South	07/10/06		0	31	*	0.31
+0059	MD165	002	North Pole Junction to Acton Wells Junction WAW LNW South	07/10/06	Willesden Euro Terminal	0	31	X	0.31
+0060	MD165	003	North Pole Junction to Acton Wells Junction WAW LNW South	07/04/07		5	87	*	5.87
+0060	MD165	003	North Pole Junction to Acton Wells Junction WAW LNW South	07/04/07	Old Oak Sidings	5	87	X	5.87
+0060	MD165	003	North Pole Junction to Acton Wells Junction WAW LNW South	07/04/07		6	50	*	6.50
+0060	MD165	003	North Pole Junction to Acton Wells Junction WAW LNW South	07/04/07		6	74	*	6.74
+0060	MD165	003	North Pole Junction to Acton Wells Junction WAW LNW South	07/04/07	Territory boundary	6	76		6.76
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06	Madeley Jn	156	19		156.19
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06	Madeley Jn SB	156	26	MJ	156.26
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06		156	30	*	156.30
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06		156	47	*	156.47
+0207	MD810	001	Madeley Junction to Ironbridge National Power Station MJI1 LNW South	23/10/06	Madeley South Jn	156	51		156.51
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07	Change of mileage			X	.
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07	Chunes LC	160	59	UWC	160.59
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07		160	34	*	160.34
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07	Network Rail Boundary	160	29		160.29
+0208	MD810	002	Madeley Junction to Ironbridge National Power Station MJI2 LNW South	21/07/07	Ironbridge e-on Power Station Sidings	160	29	X	160.29
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Denbigh Hall South Jn	47	52		47.52
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Change of mileage	1	71		1.71
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Flyover Junction Summit	0	68		0.68
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Flyover Junction	0	00		0.00
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Change of mileage	0	64		0.64
+0197	MD735	001	Denbigh Hall South Jn to Bicester Town BFO LNW South	26/01/08	Stop Block	1	31		1.31
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Stop Block	1	31		1.31
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Claydon LC	11	18	AOCL	11.18
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Stop Block Gate	12	00		12.00
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Single Line	12	10	*	12.10
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Claydon L&NE Jn SB	12	57	*	12.57
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Claydon L&NE Jn	12	57	X	12.57
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Launton LC	17	12	AOCL	17.12
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07		18	00	*	18.00
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Bicester Eastern Perimeter Rd LC (T MOB	18	25		18.25
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	Route Boundary	18	40		18.40
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	London Rd LC	19	30	TMO	19.30
+0198	MD735	002	Denbigh Hall South Jn to Bicester Town OXD LNW South	02/06/07	BICESTEII TOWN	19	34		19.34
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08	AYLESBURY	38	13		38.13
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08		38	18	*	38.18
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08		38	38		38.38
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08		38	47	*	38.47
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08		39	01		39.01
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08	Aylesbury Vale Junction	40	26	*	40.26
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08	AYLESBURY VALE PARKWAY	40	38		40.38
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	QUAINTON ROAD	44	22		44.22
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Change of mileage	44	28		44.28
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08		161	50		161.50
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Ditchburns Crossing LC	159	33		159.33
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Calvert Souflw GF	157	63		157.63
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Waste Recycling Group Private Siding	157	63	X	157.63
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Calvert North GF	157	05		157.05
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08		157	00	*	157.00
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Calvert Jn	156	72		156.72
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Change of mileage	0	00		0.00
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Claydon L&NE Jn	0	41		0.41
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Change of mileage	12	57		12.57
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	PRINCES RISBOROUGH	24	40		24.40
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Change of mileage	24	48		24.48
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08		42	31		42.31
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08		42	36	*	42.36
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	MONKS RISBOROUGH	43	57		43.57
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	LITTLE KIMBLE	45	14		45.14
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Apsley Manor Farm No.2 LC	46	58	UWC	46.58
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Dodds LC	46	70	UWC	46.70
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Marsh Lane LC (ABCL)	47	00	*	47.00
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Moat Farm No.1 LC	47	44	UWC	47.44
+0194	MD720	002	Princes Risborough to Aylesbury PRA LNW South	07/10/06		49	18	*	49.18
+0194	MD720	002	Princes Risborough to Aylesbury PRA LNW South	07/10/06	Change of mileage	49	35	*	49.35
+0194	MD720	002	Princes Risborough to Aylesbury PRA LNW South	07/10/06		38	08		38.08
+0194	MD720	002	Princes Risborough to Aylesbury PRA LNW South	07/10/06	AYLESBURY	38	13		38.13
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0190	MD712	001	Amersham to Aylesbury MCJ2 LNW South	07/10/06	LUL I Network Rail Boundary	25	21		25.21
+0190	MD712	001	Amersham to Aylesbury MCJ2 LNW South	07/10/06	GREAT MISSENDEN	29	00		29.00
+0190	MD712	001	Amersham to Aylesbury MCJ2 LNW South	07/10/06	WENDOVER	33	43		33.43
+0190	MD712	001	Amersham to Aylesbury MCJ2 LNW South	07/10/06	STOKE MANDEVILLE	35	75		35.75
+0191	MD712	002	Amersham to Aylesbury MCJ2 LNW South	29/11/08		37	59	*	37.59
+0191	MD712	002	Amersham to Aylesbury MCJ2 LNW South	29/11/08		37	70	*	37.70
+0191	MD712	002	Amersham to Aylesbury MCJ2 LNW South	29/11/08		37	76	*	37.76
+0191	MD712	002	Amersham to Aylesbury MCJ2 LNW South	29/11/08	AYLESBURY	38	13		38.13
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0172	MD565	001	Castle Bromwich Junction to Ryecroft Junction CBR1 CBR2 LNW South	07/10/06	Castle Bromwich Jn	36	08		36.08
+0172	MD565	001	Castle Bromwich Junction to Ryecroft Junction CBR1 CBR2 LNW South	07/10/06	Change of mileage	0	55		0.55
+0172	MD565	001	Castle Bromwich Junction to Ryecroft Junction CBR1 CBR2 LNW South	07/10/06		0	05	*	0.05
+0172	MD565	001	Castle Bromwich Junction to Ryecroft Junction CBR1 CBR2 LNW South	07/10/06	Park Lane Jn	0	00		0.00
+0172	MD565	001	Castle Bromwich Junction to Ryecroft Junction CBR1 CBR2 LNW South	07/10/06	Change of mileage	36	04		36.04
+0172	MD565	001	Castle Bromwich Junction to Ryecroft Junction CBR1 CBR2 LNW South	07/10/06		36	05	*	36.05
+0172	MD565	001	Castle Bromwich Junction to Ryecroft Junction CBR1 CBR2 LNW South	07/10/06	Sutton Park No1 GF	40	14		40.14
+0173	MD565	002	Castle Bromwich Junction to Ryecroft Junction CBR2 LNW South	06/12/08	Aldridge	44	73		44.73
+0173	MD565	002	Castle Bromwich Junction to Ryecroft Junction CBR2 LNW South	06/12/08		46	60	*	46.60
+0173	MD565	002	Castle Bromwich Junction to Ryecroft Junction CBR2 LNW South	06/12/08		47	00	*	47.00
+0173	MD565	002	Castle Bromwich Junction to Ryecroft Junction CBR2 LNW South	06/12/08	Ryecroft Junction	47	48		47.48
+0173	MD565	002	Castle Bromwich Junction to Ryecroft Junction CBR2 LNW South	06/12/08	Change of mileage	6	76		6.76
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	HATPON	112	14		112.14
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Hatton Station Jn	112	18		112.18
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Change of mileage	13	12		13.12
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08		18	07	*	18.07
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08		18	02	*	18.02
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Hatton West Jn	17	62	*	17.62
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	GLAVERDON	16	38		16.38
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Bumham Bros LC	16	20	UWC	16.20
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Park Farm No.1 LC	16	00	UWC	16.00
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Park Farm No.2 LC	15	48	UWC	15.48
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Songar Grange Farm LC	14	38	UWC	14.38
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	Edstone Hall No.1 LC	14	06	UWC	14.06
+0138	MD415	001	Hatton Station to Stratford-upon-Avon HSA LNW South	18/02/08	BEARLEY	13	19		13.19
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09		12	71	*	12.71
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Bearley Jn	12	50		12.50
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Change of mileage	17	69		17.69
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09		12	49	*	12.49
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Yew Tree Farm LC	12	23	UWC	12.23
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	WILMCOTE	11	49		11.49
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Burton Farm No.2 LC	10	59	UWC	10.59
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	Burton Farm No.1 LC	10	20	UWC	10.20
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09		9	27	*	9.27
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09	STRATFORD-UPON-AVON	8	77		8.77
+0139	MD415	002	Hatton Station to Stratford-upon-Avon HSA LNW South	21/03/09		8	63		8.63
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Leamington Spa Jn	106	25		106.25
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09		106	28	*	106.28
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09		106	54	*	106.54
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Change of mileage	107	06		107.06
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09		0	00		0.00
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Milverton Jn	0	10		0.10
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09		0	18	*	0.18
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Kenilworth South Jn	3	73		3.73
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Kenilworth North Jn	4	47		4.47
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	Millbum Grange LC	5	21	UWC	5.21
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	GibbetHiIl Jn	6	15		6.15
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09		8	14	*	8.14
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	Limit of electrification	8	20		8.20
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09		8	34	*	8.34
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09		8	35	*	8.35
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	Coventry South Jn	8	45		8.45
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	Change of mileage	93	71		93.71
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	COVENTRY	93	79		93.79
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Abbey Junction	9	60		9.60
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		9	65	*	9.65
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Midland Yard Junction	10	09		10.09
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		10	18	*	10.18
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Limit of Electrification	10	39		10.39
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	(OLE in up direction)	10	39	X	10.39
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	NUNEATON	10	45		10.45
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		10	57	*	10.57
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Change of mileage	10	61		10.61
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		0	00		0.00
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Nuneaton South Junction	0	05		0.05
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		96	68		96.68
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Limit of Electrification	0	39		0.39
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	(OLE in down direction)	0	39	X	0.39
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		0	50	*	0.50
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Padge Hall Farm LC	2	24	UWC	2.24
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Route boundary	2	62		2.62
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0046	MD135	001	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06	Harlesden Jn	6	01		6.01
+0046	MD135	001	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06		1	00		1.00
+0046	MD135	001	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06		1	01	*	1.01
+0046	MD135	001	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06	Brent Sidings	1	04	*	1.04
+0046	MD135	001	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06		1	18	*	1.18
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06		1	33		1.33
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06		1	45	*	1.45
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06	Stonebridge Park Royal Mail	1	43		1.43
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06	Terminal (PRDC)	1	43	X	1.43
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06		1	59	*	1.59
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06	Wembley Yard SB	1	72	WY	1.72
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06		1	73	*	1.73
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06	Wembley Mainline SCC (WM. W3)	1	74		1.74
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06	Willesden Carriage	2	00		2.00
+0047	MD135	002	Harlesden Junction to Willesden Carriage Shed South WCL LNW South	08/10/06	Shed South SB (CS)	2	00	X	2.00
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	Watford Yard GF	17	21		17.21
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06		17	24		17.24
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06		0	00		0.00
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	Watford Yard	0	00	X	0.00
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	WATFORD JUNCTION	0	15		0.15
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	(Platform 11)	0	15	X	0.15
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06		0	37	*	0.37
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	WATFORD NORTH	0	75		0.75
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	Watford North LC	0	73	ABCL	0.73
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	GARSTON	1	66		1.66
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	BRICKET WOOD	3	37		3.37
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	HOW WOOD	4	36		4.36
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	PARK STREET	5	02		5.02
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	ST ALBANS ABBEY	6	45		6.45
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0206	MD805	001	Oxley, Stafford Road Jn to Bushbury Oxley Jn (Oxley Chord Lines) OXC LNW South	07/10/06	Oxley, Stafford Road Jn	142	79		142.79
+0206	MD805	001	Oxley, Stafford Road Jn to Bushbury Oxley Jn (Oxley Chord Lines) OXC LNW South	07/10/06	Change of mileage	1	02		1.02
+0206	MD805	001	Oxley, Stafford Road Jn to Bushbury Oxley Jn (Oxley Chord Lines) OXC LNW South	07/10/06	Bushbury (Oxley) Jn	0	00		0.00
+0206	MD805	001	Oxley, Stafford Road Jn to Bushbury Oxley Jn (Oxley Chord Lines) OXC LNW South	07/10/06	Change of mileage	15	23		15.23
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0199	MD740	001	Bletchley, Summit of Flyover to Fenny Stratford (Flyover Lines) BFO LNW South	26/01/08	Flyover Junction Summit	0	68		0.68
+0199	MD740	001	Bletchley, Summit of Flyover to Fenny Stratford (Flyover Lines) BFO LNW South	26/01/08	Change of mileage	1	59		1.59
+0199	MD740	001	Bletchley, Summit of Flyover to Fenny Stratford (Flyover Lines) BFO LNW South	26/01/08	Fenny StratfordlBletchley Flyover Jn	0	76		0.76
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0192	MD715	001	Neasden South Junction to Neasden Junction NJN LNW South	12/04/08	Neasden South Jn	6	24		6.24
+0192	MD715	001	Neasden South Junction to Neasden Junction NJN LNW South	12/04/08	Territory Boundary	6	51		6.51
+0192	MD715	001	Neasden South Junction to Neasden Junction NJN LNW South	12/04/08	Neasden Jn	6	55		6.55
+0192	MD715	001	Neasden South Junction to Neasden Junction NJN LNW South	12/04/08	Neasden Jn SB	6	56	NJ	6.56
+0192	MD715	001	Neasden South Junction to Neasden Junction NJN LNW South	12/04/08	Change of mileage	7	03		7.03
+0192	MD715	001	Neasden South Junction to Neasden Junction NJN LNW South	12/04/08	Continued in Network Rail Anglia	7	03	X	7.03
+0192	MD715	001	Neasden South Junction to Neasden Junction NJN LNW South	12/04/08	Territory Sectional Appendix.	7	03	X	7.03
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06	Neasden South Jn	200	66		200.66
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06		200	65	*	200.65
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06		200	58	*	200.58
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06		197	70	*	197.70
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06	Network Rail f LUL Boundary	197	05		197.05
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06	Change of mileage	9	13		9.13
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08	Territory Boundary	3	60		3.60
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08		10	10	*	10.10
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08	Norlholt Jn	10	15		10.15
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08	Change of mileage	0	00		0.00
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08		0	02	*	0.02
+0188	MD705	001	Greenford West Jn to South Ruislip ANL LNW South	12/04/08	sour" RUISLIP	0	07		0.07
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0178	MD580	001	Lifford East Junction to Lifford West Junction LEL LNW South	07/10/06	Lifford East Junction	46	11		46.11
+0178	MD580	001	Lifford East Junction to Lifford West Junction LEL LNW South	07/10/06	Lifford West Jn	46	36		46.36
+0178	MD580	001	Lifford East Junction to Lifford West Junction LEL LNW South	07/10/06	Change of mileage	47	20		47.20
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08	St AndreW's Jn	41	18		41.18
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08	Change of mileage	0	00		0.00
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08		0	07	*	0.07
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08		0	12	*	0.12
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08		0	28	*	0.28
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08	Grand Jn	0	52		0.52
+0177	MD575	001	St Andrew's Junction to Grand Junction SAG LNW South	19/04/08	Change of mileage	41	26		41.26
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0171	MD560	001	Water Orton West Junction to Park Lane Junction WOP LNW South	07/10/06	Water Orton West Jn	35	15		35.15
+0171	MD560	001	Water Orton West Junction to Park Lane Junction WOP LNW South	07/10/06	Park Lane Jn	36	04		36.04
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0167	MD545	001	Kingsbury Junction To Whitacre Junction KJW LNW South	07/10/06	Kingsburan	29	39	*	29.39
+0167	MD545	001	Kingsbury Junction To Whitacre Junction KJW LNW South	07/10/06		29	41	*	29.41
+0167	MD545	001	Kingsbury Junction To Whitacre Junction KJW LNW South	07/10/06		31	67	*	31.67
+0167	MD545	001	Kingsbury Junction To Whitacre Junction KJW LNW South	07/10/06	Whitacre Jn	31	69		31.69
+0167	MD545	001	Kingsbury Junction To Whitacre Junction KJW LNW South	07/10/06	Change of mileage	0	00		0.00
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06	Fenny Compton Jn	94	20		94.20
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06	Down Goods Loop	94	23		94.23
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06	Change of mileage	95	00		95.00
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06	Kineton MOD Branch	22	60		22.60
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06		23	03	*	23.03
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06		25	00	*	25.00
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06	(Network Rail Boundary)	25	55		25.55
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06	Burton Dassett Kineton MOD	25	60		25.60
+0157	MD460	001	Fenny Compton to Burton Dassett SJT LNW South	08/10/06	boundary gate	25	60	X	25.60
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	Kingswinford Jn South	144	33		144.33
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	Kingswinford Jn South SB (KJ)	144	33	X	144.33
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	Network Rail Boundary	145	60		145.60
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	Pensnett	145	73		145.73
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	End of line	146	30		146.30
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	Stourbridge North Jn	142	51		142.51
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	Kingswinford Jn South SB (KJ)	144	33	*	144.33
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	Kingswinford Jn South	144	33	X	144.33
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06		145	37	*	145.37
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06		145	40	*	145.40
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	Round Oak Sidings	145	40	X	145.40
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	End of line	146	13		146.13
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08	STOURBRIDGE J"	142	16		142.16
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08		142	24	*	142.24
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08	Stourbridge Jn SB	142	25	SJ	142.25
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08		142	65	*	142.65
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08	STOURBRIDGE TOWN	142	73		142.73
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0153	MD440	001	Galton Junction to Smethwick Junction GSJ1 LNW South	07/10/06	Galton Junction	3	64		3.64
+0153	MD440	001	Galton Junction to Smethwick Junction GSJ1 LNW South	07/10/06	Galton Tunnel	3	71		3.71
+0153	MD440	001	Galton Junction to Smethwick Junction GSJ1 LNW South	07/10/06	(150 metres I 164 yards) to	3	78		3.78
+0153	MD440	001	Galton Junction to Smethwick Junction GSJ1 LNW South	07/10/06	Smethwick Jn	4	08		4.08
+0153	MD440	001	Galton Junction to Smethwick Junction GSJ1 LNW South	07/10/06	Change of mileage	133	32		133.32
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0140	MD420	001	Hatton North Junction to Hatton West Junction HHW LNW South	18/02/08	Hatton North Jn .	112	57		112.57
+0140	MD420	001	Hatton North Junction to Hatton West Junction HHW LNW South	18/02/08	Change of mileage	18	25		18.25
+0140	MD420	001	Hatton North Junction to Hatton West Junction HHW LNW South	18/02/08		17	69	*	17.69
+0140	MD420	001	Hatton North Junction to Hatton West Junction HHW LNW South	18/02/08	Hatton West Jn	17	62		17.62
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Portobello Jn	12	64		12.64
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Change of mileage	0	04		0.04
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06		1	00	*	1.00
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Wolverhampton Crane	1	59		1.59
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Street Jn	12	60		12.60
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Change of mileage	12	60	X	12.60
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0122	MD360	001	Walsall, Pleck Junction to Darlaston Junction WDJ LNW South	07/10/06	Walsall Pleck Jn	5	42		5.42
+0122	MD360	001	Walsall, Pleck Junction to Darlaston Junction WDJ LNW South	07/10/06	Change of mileage	5	45		5.45
+0122	MD360	001	Walsall, Pleck Junction to Darlaston Junction WDJ LNW South	07/10/06		1	16		1.16
+0122	MD360	001	Walsall, Pleck Junction to Darlaston Junction WDJ LNW South	07/10/06	Darlaston Jn	0	15		0.15
+0122	MD360	001	Walsall, Pleck Junction to Darlaston Junction WDJ LNW South	07/10/06	Change of mileage g 65	0	15	X	0.15
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Lichfield Trent Valley Junction SB	18	15	TV	18.15
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Lichfield TV Jn	18	13		18.13
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Change of mileage	0	22		0.22
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08		0	17	*	0.17
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Lichfield Trent Valley	0	02		0.02
+0121	MD355	001	Lichfield TV Jn to Lichfield Trent Valley (Chord Line) LTV LNW South	29/05/08	Change of mileage	116	28		116.28
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0120	MD350	001	Anglesea Sidings to Lichfield City BJW3 LNW South	20/09/08	Brownhills (end ofline)	12	15		12.15
+0120	MD350	001	Anglesea Sidings to Lichfield City BJW3 LNW South	20/09/08	Anglesea Sidings	12	64		12.64
+0120	MD350	001	Anglesea Sidings to Lichfield City BJW3 LNW South	20/09/08	Fosseway LG	15	32	AHB	15.32
+0120	MD350	001	Anglesea Sidings to Lichfield City BJW3 LNW South	20/09/08		16	45	*	16.45
+0120	MD350	001	Anglesea Sidings to Lichfield City BJW3 LNW South	20/09/08	Lichfield City Jn	16	47		16.47
+0120	MD350	001	Anglesea Sidings to Lichfield City BJW3 LNW South	20/09/08	LIGHFIELD CITY	16	70		16.70
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0108	MD335	001	Perry Barr West Jn to Perry Barr South Jn PBL LNW South	07/10/06	Perry Barr West Jn	0	39		0.39
+0108	MD335	001	Perry Barr West Jn to Perry Barr South Jn PBL LNW South	07/10/06	Perry Barr South Jn	0	00		0.00
+0108	MD335	001	Perry Barr West Jn to Perry Barr South Jn PBL LNW South	07/10/06	Change of mileage	3	44		3.44
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06	Soho East Jn	2	38		2.38
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06	Change of mileage	0	00		0.00
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06		0	20	*	0.20
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06	Soho North Jn	0	22		0.22
+0107	MD330	001	Soho East Junction to Soho North Junction SCL LNW South	07/10/06	Change of mileage	2	33		2.33
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Soho South Jn	2	06		2.06
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Change of mileage	2	71		2.71
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06		2	42	*	2.42
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Soho East Jn	2	38		2.38
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06		2	37	*	2.37
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Soho East GF	2	33		2.33
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	OHNS	1	60		1.60
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	OHNS	1	49		1.49
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Hamstead Tunnel	0	71		0.71
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	(114 metres! 125 yds) to	0	65		0.65
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Perry BarrWest Jn	0	39		0.39
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Change of mileage	0	29		0.29
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06		0	07	*	0.07
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Perry Barr North Jn	0	00		0.00
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Change of mileage	4	10		4.10
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	Stechford South Jn	106	66		106.66
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	STECHFORD	109	06		109.06
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	Stechford North Jn	109	12		109.12
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	Change of mileage	109	16		109.16
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		0	00		0.00
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		0	04	*	0.04
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		0	05	*	0.05
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	OHNS	2	10		2.10
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		2	40	*	2.40
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		2	56	*	2.56
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06	Aston South Jn	2	61		2.61
+0095	MD315	001	Stechford South Junction to Aston South Junction SAS LNW South	07/10/06		1	60		1.60
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	Bamt Green Jn	51	53		51.53
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	BARNT GREEN	51	67		51.67
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	Signal SY.3 (Down direction)	51	72		51.72
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	Junction	52	11	*	52.11
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08		53	34	*	53.34
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	ALVECHUIICH	53	40		53.40
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	Alvechurch Station LC	53	43		53.43
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08		53	52	*	53.52
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08		56	08	*	56.08
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	REDDITCH	56	60		56.60
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08	Trent Valley Junction	83	18		83.18
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08		83	19		83.19
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08		0	00		0.00
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08		00	47	*	00.47
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08	New Bilton	0	79		0.79
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08	(End of Line)	0	79	X	0.79
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Continued on Network			X	.
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Rail Anglia			X	.
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Sectional Appendix			X	.
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Acton Canal Wharf Jn	3	45		3.45
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06		0	35		0.35
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Acton Canal Wharf SB	8	41		8.41
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Substation LC	0	15	UWC	0.15
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Territory Boundary	0	11		0.11
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Limit of electrification	0	11	X	0.11
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06	Willesden Jn	0	00		0.00
+0061	MD170	001	Acton Canal Wharf to Willesden Junction ACW LNW South	07/10/06		0	71		0.71
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Continued on Anglia Route			X	.
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Sectional Appendix.			X	.
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	. .	5	48		5.48
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Wlllesden ngh Level Jn	0	43		0.43
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Territory Boundary	0	09		0.09
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Mitre Bridge Jn	0	00		0.00
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06		5	67		5.67
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Territory Boundary	5	65		5.65
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Continued in	5	65	X	5.65
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Southern			Z	.
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Sectional Appendix.	5	65	X	5.65
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Kensal Green Jn	5	10		5.10
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Continued in Network	0	00		0.00
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Rail Anglia Route	0	00	X	0.00
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Sectional Appendix	0	00	X	0.00
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Territory Boundary	0	21		0.21
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07		0	47	*	0.47
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07		0	52	*	0.52
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07		0	76	*	0.76
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Harlesden Jn	1	00		1.00
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07		6	01		6.01
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Continued on Anglia			X	.
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Route Sectional Appendix			X	.
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	EA1310 seq 4			X	.
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Kensal Green Jn	5	10		5.10
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Territory Boundary	5	25		5.25
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Change of electrification	5	25	X	5.25
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Willesden Suburban Jn	5	36		5.36
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	From/to camden Road West Jn			X	.
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	continued in			X	.
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	Anglia Route Sectional Appendix			X	.
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	EA1320 seq 1			X	.
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	Territory boundary	5	42		5.42
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	PRIMROSE HILL (closed) , site of	5	49		5.49
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	Primrose Hill Jn	5	57		5.57
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	South Hampstead Tunnels	5	68		5.68
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	(1 km 348 metres 1474 yards)	5	68	X	5.68
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	Camden Jn (North London DC lines)	5	78		5.78
+0054	MD145	001	Camden Road West Junction to Camden Junction CRC LNW South	07/10/06	Camden Jn	1	51		1.51

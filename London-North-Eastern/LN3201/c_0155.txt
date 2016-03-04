@@ -1,0 +1,10 @@
+71 03 at
+KETTERING 72 01
+
+72 19 i
+Kettering Station Jn 72 20
+
+73 00 i
+Kettering North Jn 74 00
+Braybrooke LC (UWC) 80 34
+

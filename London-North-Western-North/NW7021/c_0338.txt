@@ -1,0 +1,16 @@
+6 20 *-
+ASHTON 6 33
+
+6 40 *
+Katherine Street Tunnel 6 55
+(Mm/92w) to 6 60
+
+7 42 *
+smlybndge Jn 7 46 *
+
+7 47 :7:
+
+7 5O
+Stalybridge SB (SE) 7 52
+STALYBRIDGE 7 63
+

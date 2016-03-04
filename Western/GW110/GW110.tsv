@@ -1,0 +1,12 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0096	GW110	001	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06	Old Oak Common West	3	20	
+0096	GW110	001	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06		3	50	*
+0097	GW110	002	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06	Park Royal Jn	4	65	
+0097	GW110	002	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06		5	20	*
+0097	GW110	002	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06		7	11	*
+0097	GW110	002	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06	Greenford East Jn	7	15	
+0098	GW110	003	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06	Greenford East (GE) SB	7	44	
+0098	GW110	003	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06	Greenford West Jn	7	48	
+0098	GW110	003	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06	Territory Boundary LNW	8	60	
+0098	GW110	003	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06	Continued in LNW (S)	8	60	X
+0098	GW110	003	Old Oak Common West to South Ruislip (Excl) ANL Western	05/08/06	Sectional Appendix	8	60	X

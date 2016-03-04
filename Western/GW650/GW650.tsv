@@ -1,0 +1,12 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06	Lostwithiel Jn	277	54	
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06		277	56	*
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06	Pill Farm LC	277	69	UWC
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06		278	20	*
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06	Golant LC	281	11	OPEN
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06		281	45	*
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06		281	57	
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06	Network Rail Boundary	281	59	*
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06	Fowey Dock ECC Ltd.	281	59	X
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06	Came Point	281	59	X
+0246	GW650	001	Lostwithiel to Came Point, Fowey LOF Western	05/08/06		282	17	

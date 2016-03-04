@@ -1,0 +1,10 @@
+MonktonhallJn 6 11
+(Change of ELR 5 60
+MHL1toMHL2) 5 60 *
+1 40
+(Change of ELR MHL2 to MHL3) 0 23
+Millerhill EastJn 0 28 *
+O 00
+Millerhill West Jn 0 17
+Millerhill Yard 0 19
+

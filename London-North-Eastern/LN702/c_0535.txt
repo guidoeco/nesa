@@ -1,0 +1,35 @@
+Bedlington North SB (BN) 0 00
+Bedlington North LC (MCB) 0 00
+
+0 06 :I:
+
+0 76 *
+West Sleekbum Jn 0 78
+
+1 02 *
+
+1 32 1-
+Marchey's House Jn 1 35
+Manchey's House LC (MOB) 1 41 *
+Marchey's House SB 1 41
+North Seaton LC (MOB) 1 76
+
+2 13 *-
+
+2 39 *-
+Green Lane LC (AHBC) 2 43 *-
+
+2 49 *
+
+2 70 *-
+Ashington SB 3 02 *
+Ashington Jn 3 03
+Hirst Lane LC (MCG) 3 21
+
+3 65 *-
+Network RailIAlcan Boundary 4 10 *
+
+5 34
+Woodhorn Jn 5 37
+Lynemouth Alcan
+

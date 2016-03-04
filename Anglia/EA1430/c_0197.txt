@@ -1,0 +1,12 @@
+Spratts Water LC 114 37
+Dawdys LC (AOCL) 114 75
+115 38 *
+OULTON BROAD SOUTH (TEP) 115 42
+115 45 *
+Victoria Road LC (CCTV) 115 62
+Oulton Broad Swing Bridge 115 76
+Oulton Broad Swing Bridge GF 116 00
+Gravel Pit Lc (ABCL) 116 12
+Oulton Broad North Jn 116 27
+(22 14)
+

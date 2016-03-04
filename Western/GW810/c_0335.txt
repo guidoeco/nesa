@@ -1,0 +1,13 @@
+18 78 *
+18 13 *
+Single LineJn 18 09
+Bargoed SB 18 07
+18 06 *-
+BARGOED 18 03
+18 00 i:
+17 59 *
+Bargoed South 17 54 *
+GILFAGH FARGOED 17 35
+17 33 *
+17 18 2k
+

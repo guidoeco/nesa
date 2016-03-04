@@ -1,0 +1,25 @@
+NRN
+TCB York SB (L)
+RAB AC: York ECR
+Controlled b York SB up to 225 04 Down I
+from 225 72%;).
+TOWS provided south of 221 13. See Local
+Instruction.
+PP is authorised in both directions in
+Platforms 2 and 3, and in the Down direction
+in Platform 4 for Class 1, 2, 5 and 0 trains
+PP - Permissive Working - full use for class 1, 2,
+3 (E08), 5, 9 & 0 trains in Platform 1 only.
+G) - Electric trains 25 mph. maximum speed
+USM = Up Shigley Main
+DSM = Down hipley Main
+DSF = Down Shipley Fast
+DSS = Down Shipley Slow
+W = Washer
+
+NRN
+NRN Channel Change ,
+Other crossings in this area
+T = Switches UWC at 230 06
+T = Haw Lane UWC at 230 68
+

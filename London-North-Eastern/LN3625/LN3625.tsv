@@ -1,0 +1,47 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06	Nottingham East Jn	123	27	
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06	Change of mileage	123	23	
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06		0	00	
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06		0	03	*
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06	Eastoroft Plant Depot	0	03	X
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06		0	25	*
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06	Sneinton Footpath LC	0	35	MCB
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06	Trent Lane Footpath LC	0	56	RIG
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06	Colwick LC	1	04	CCTV
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06		1	20	*
+0262	LN3625	001	Nottingham East Jn to Newark Castle NOB London North Eastern	02/12/06		1	60	*
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Netherfield Jn	2	35	
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	CARLTON	2	78	
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Carlton LC	2	79	CCTV
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Stoke Lane LC	3	54	AHBC-X
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Zulus LG	4	16	UWC
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	BURTON JUNE	4	77	
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Burton Joyce LC	4	77	AHBC—X
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Trent Lane LC	5	38	UWC
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Bulcote LC	6	10	AHBC—X
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Lowdham SB	7	27	
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Lowdham LC	7	27	MOB
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	LOWDHAM	7	31	
+0263	LN3625	Nottingham	East Jn to Newark Castle London North Eastern	23/03/09	Lowdham GF	7	32	
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09	Gonalston LC	8	31	AHBC
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09	TI-IURGARTON	9	43	
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09	Thurgarton LC	9	46	AHBC
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09	Plot LC	10	00	UWC
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09	Marriots LG	10	47	UWC
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09	BLEASBY	10	55	
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09	Bleasby LC	10	56	AHBC-X
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09	Gorsey Lane LC	11	36	UWC
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09		11	42	*
+0264	LN3625	m	Nottingham East Jn to Newark Castle London North Eastern	23/03/09		12	00	*
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	Fiskerton Jn LC	12	03	MCG
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	Fiskerton Jn SB	12	03	
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07		12	42	*
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	Fiskerton LC	12	43	M08
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	FISKERTON	12	46	
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	Rolleston LC	13	08	MCG
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	ROLLESTON	13	13	
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	Rolleston Mill LC	13	24	UWC
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	Brettles LC	13	67	UWC
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	Staythorpe LC	14	20	MOB
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07	Staythorpe Crossing SB	14	20	
+0265	LN3625	004	Nottingham East Jn to Newark Castle NOB London North Eastern	18/08/07		14	72	*

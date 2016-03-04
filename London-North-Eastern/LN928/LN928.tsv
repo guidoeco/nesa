@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07	Shipley East Jn	205	54	
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07	SHIPLEY	205	73	
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07		205	77	*
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07	Shipley South Jn	206	00	
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07		206	05	*
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07	FRIZINGHALI.	206	67	
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07		208	08	
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07		208	26	*
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07		208	39	*
+0466	LN928	001	Shipley East Jn. to Bradford Forster Square SBF London North Eastern	01/12/07	BRADFORD FORSTER SQUARE	208	50	

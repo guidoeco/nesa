@@ -1,0 +1,9 @@
+East Watten LC (UWC) 154 61
+Bilbster LC (UWC) 156 26
+156 50 i:
+159 13 i:
+159 16 *
+Milton No1 LC (UWC) 160 27
+160 58 9e
+WIGK TEP 161 35
+

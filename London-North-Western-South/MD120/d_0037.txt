@@ -1,0 +1,13 @@
+NRN CSR
+TCB Wembley Mainline SOC (W3)
+DC: Rugby ECR
+CD EMU's with Tripcock apparatus
+and LUL trains (see NOTE on MD120 seq 2)
+Platform Lengths:
+1 - 125 metres
+2 - 67 metres
+3 - 125 metres
+Bay platform 2 - permissive (PP)
+Instructions for DC lines are given
+in the General Instructions of this Appendix
+

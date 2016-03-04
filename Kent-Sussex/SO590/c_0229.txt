@@ -1,0 +1,13 @@
+19 65 *-
+Polegate East TP Hut 19 71
+20 00 *
+20 O3
+(20 45) *
+Willingdon Jn 21 39
+(2O 36)
+21 4O *
+Willingdon Jn Substation 21 42
+Hampden Park LC 21 71
+Hampden ParkSB(CDB) 21 71
+HAMPDEN PARK 21 75
+

@@ -1,0 +1,119 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	Hull Paragon	0	25	
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		0	26	
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		0	30	
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		0	48	*
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	West Parade North Jn	0	72	
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		0	73	*
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	Walton Street LC	1	25	CCTV
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	Walton Street Jn	1	29	
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		1	55	*
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		2	17	*
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	Thwaite Gates LC	3	63	CCTV
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		3	67	*
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	GOfiINGHAM	3	77	
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		4	00	*
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		4	04	*
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	Cottingham North LC	4	17	CCTV
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	Pillwood Farm LC	5	00	UWC
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	Beverley Parks LC	6	51	AHBC-X
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	Ashworths LC	7	01	UWC
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06		7	24	*
+0448	LN914	001	Hull (Paragon)to Seamer WestJn HUL1 HBS London North Eastern	02/12/06	England Springs LC	7	57	UWC
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Flemingate LC (RC)	8	02	*
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Beverley LC iMCB)	8	16	
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Beverley SB BS)	8	16	*
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	BEVERLEY	8	20	
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		8	26	*
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Cherry Tree LC	3	39	CCTV
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Beverley North LC	8	62	CCTV
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	AM	11	16	
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Arrarn LC	11	16	AHBC-X
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Scorborough LC	12	24	AHBC—X
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Lookington LC	12	74	AHBC—X
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Beswick LC	13	53	AHBC—X
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Kilnwick LC	14	01	AHBC-X
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Walton LC	14	44	AHBC-X
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Cranswick LC	16	18	AHBC-X
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	HUTTON GRANSWICK	16	21	
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Hutton LC	16	73	AHBC-X
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Molescroft Grange	9	39	UWC
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Brumfields	10	09	UWC
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Park Cottage	10	14	UWC
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	An'am Green	11	53	UWC
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Abbey Farm	15	04	UWC
+0449	LN914	002	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Low Green Farm	17	29	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		19	20	*
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Driffield SB	19	26	D
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Driffield LC	19	26	MOB
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Driffield Station LC (RC)	19	34	MCB
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	DRIFFIELD	19	38	
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Wansford Road LC	19	54	CCTV
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		19	60	*
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Nafferton LC	21	44	AHBC-X
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	NAFFERTON	21	44	
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Nether Lane LC	21	58	AHBC-X
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Lowthorpe LC (AH BC—X)	23	64	
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Burton Agnes LC	25	45	AHBC—X
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Carnaby LC	28	52	AHBC—X
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Meadow Gates	20	00	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Black Carr	22	09	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Outgates Farm	22	76	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Mingledale	23	34	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Mill Farm	23	48	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Harpham	25	10	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Manor Farm	26	40	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Thomholme	26	61	UWC
+0450	LN914	003	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Haisthorpe	27	25	UWC
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07		30	49	*
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	Bridlington SB	30	58	EN
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	BRIDLINGTON	30	72	
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07		30	77	*
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07		31	00	*
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	Bridlington Quay LC	31	06	CCTV
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07		31	10	*
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07		32	01	*
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	Sewarby LC (AH BC)	32	35	
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	Flamborough LC	33	31	AHBC
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	Bempton Sands Lane LC	34	19	UWC
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07		34	30	*
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	Bempton LC	34	43	AHBC
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	BEMPTON	34	43	
+0451	LN914	004	Hull (Paragon) to Seamer West Jn HBS London North Eastern	01/12/07	Buckton Lane LC (AHBC)	35	16	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Speeton LCéAHBcg	37	34	
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Barf Farm L	39	63	UW
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		40	63	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		41	01	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		41	44	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Hunmanby Jn	41	47	
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		41	49	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Hunmanby Station LC	41	51	ABCL-X
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	HUNMANBY	41	53	
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Hunmanby Sands Lane LC (ABCL-X)	41	72	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		42	27	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		42	33	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		42	47	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Royal Oak LC (AH BC—X)	43	04	
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		43	40	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06		44	20	*
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	FILEY	44	30	
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Filey LC	44	35	CCTV
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Filey Jn	44	49	
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Royal Oak Farm	42	49	
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Lowfield No.1	43	16	
+0452	LN914	005	Hull (Paragon) to Seamer West Jn HBS London North Eastern	02/12/06	Lowfield No.2	43	28	
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07		44	50	*
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07		44	58	*
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Muston LC	45	41	AHBC
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Gristhorpe LC	46	39	MCG
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07		46	40	*
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Lebberston Road LC	46	72	M06
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Cayton LC	48	19	AHBC
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Grove Farm LC	49	06	UWC
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Carr House Farm LC	49	18	UWC
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Taylors LC	49	48	UWC
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Seamer South Jn	49	77	*
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07		50	36	*
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Seamer West Jn	50	43	
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	East Lea	45	07	UWC
+0453	LN914	006	Hull (Paragon) to Seamer West Jn HBS London North Eastern	13/05/07	Grange Farm	45	26	UWC

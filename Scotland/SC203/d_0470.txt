@@ -1,0 +1,13 @@
+RETB 112 lnvemess SC (I)
+CL 840f (255m)
+(40 SLU's)
+Q) = 15 mph. through loop
+points, in both directions,
+and over loop lines
+(2) Differential permanent speed
+restriction. Lower speed applies
+to all trains except Class 15X
+trains. Rule Book, Module SP,
+Section 2.4 is modiﬁed
+accordingly
+

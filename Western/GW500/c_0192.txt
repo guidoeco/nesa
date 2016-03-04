@@ -1,0 +1,8 @@
+85 00 *
+85 4O *
+86 40 al.-
+86 72
+Lavington 88 06
+NRN Channel change 94 00
+94 41
+

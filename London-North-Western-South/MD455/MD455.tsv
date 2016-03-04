@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	Kingswinford Jn South	144	33	
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	Kingswinford Jn South SB (KJ)	144	33	X
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	Network Rail Boundary	145	60	
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	Pensnett	145	73	
+0156	MD455	001	Kingswinford Junction South to Pensnett KWD LNW South	02/06/07	End of line	146	30	

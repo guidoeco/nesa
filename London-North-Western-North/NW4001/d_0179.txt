@@ -1,0 +1,28 @@
+NRN
+TCB Carlisle PSB (CE) 083
+AC: Cathcart
+
+TASS fitted: Down Main and Up Main lines.
+
+FPWS not provided on Up Goods and Down Goods
+
+Ines.
+
+Goods lines mileages are given in ( ) brackets.
+
+Goods lines have ELR: KMG1.
+
+(PF) Down Goods.
+
+(PF) Up Goods.
+
+UPL: 484 metres (1588 feet) (to signal CE.483).
+879 metres (2884 feet) to position light
+signal CE.453).
+
+UTS: 877 metres (2221 feet).
+
+BTS: Breakdown Train Siding.
+
+RR: Run Round Road.
+

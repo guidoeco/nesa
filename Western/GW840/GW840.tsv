@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0360	GW840	001	Radyr Jn to Cardiff, Radyr Branch Jn Via City Lines RAD Western	05/08/06	Radern SB	5	28	VR
+0360	GW840	001	Radyr Jn to Cardiff, Radyr Branch Jn Via City Lines RAD Western	05/08/06	Radyr Jn	5	23	
+0360	GW840	001	Radyr Jn to Cardiff, Radyr Branch Jn Via City Lines RAD Western	05/08/06	(Change of mileage)	4	41	
+0360	GW840	001	Radyr Jn to Cardiff, Radyr Branch Jn Via City Lines RAD Western	05/08/06		4	30	*
+0360	GW840	001	Radyr Jn to Cardiff, Radyr Branch Jn Via City Lines RAD Western	05/08/06		3	60	*
+0360	GW840	001	Radyr Jn to Cardiff, Radyr Branch Jn Via City Lines RAD Western	05/08/06	DANESGOURT	3	18	
+0361	GW840	002	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines RAD Western	30/06/08	FAIRWATERI TYLLGOED	2	60	
+0361	GW840	002	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines RAD Western	30/06/08	WAUN-GRON PARK	2	25	
+0361	GW840	002	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines RAD Western	30/06/08		2	15	
+0361	GW840	002	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines RAD Western	30/06/08	Leckwith Loop South Jn	0	69	
+0361	GW840	002	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines RAD Western	30/06/08	NINIAH PARK	0	63	
+0361	GW840	002	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines RAD Western	30/06/08		0	60	*
+0361	GW840	002	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines RAD Western	30/06/08	Penath Curve North Jn	0	47	
+0361	GW840	002	Radyr Jn to Cardiff, Radyr Branch Jn via City Lines RAD Western	30/06/08	Radyr Branch Jn	0	25	

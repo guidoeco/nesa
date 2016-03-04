@@ -1,0 +1,73 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07	Manchester Piccadilly East Jn	188	48	
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07	MANCHESTER PIGGADILLY	188	65	
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07	Manchester Piccadilly West Jn	188	71	
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07		188	72	*
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07		189	03	*
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07		189	20	*
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07		189	28	*
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07	OXFORD ROAD	189	29	
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07		189	36	*
+0274	NW6001	001	Manchester Piccadilly East Jn. to Euxton Jn. COL LNW North	01/12/07		189	39	*
+0275	NW6001	002	Manchester Piccadilly East Jn. to Euxton Jn. COL OLW LNW North	07/10/06		189	43	
+0275	NW6001	002	Manchester Piccadilly East Jn. to Euxton Jn. COL OLW LNW North	07/10/06	DEANSGATE	189	57	
+0275	NW6001	002	Manchester Piccadilly East Jn. to Euxton Jn. COL OLW LNW North	07/10/06	Castlefield Jn	189	67	*
+0275	NW6001	002	Manchester Piccadilly East Jn. to Euxton Jn. COL OLW LNW North	07/10/06		190	23	
+0275	NW6001	002	Manchester Piccadilly East Jn. to Euxton Jn. COL OLW LNW North	07/10/06	0rdsall Lane Jn	190	28	*
+0275	NW6001	002	Manchester Piccadilly East Jn. to Euxton Jn. COL OLW LNW North	07/10/06		190	70	*
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06		190	72	*
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06	Windsor Bridge South Jn	191	01	
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06		1	46	
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06		1	55	*
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06		191	10	
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06	SALFORD CRESCENT	1	59	
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06	Manchester North SB	1	61	MN
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06	Windsor Bridge North Jn	1	66	*
+0276	NW6001	003	Manchester Piccadilly East Jn. to Euxton Jn. OLW MVE1 LNW North	07/10/06		1	70	*
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07		1	77	*
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07		2	10	*
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07	Agecroft South Jn	2	70	
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07	Brindle Heath Sidings	2	70	X
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07		3	08	
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07		3	28	
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07	Agecroft North Jn	3	33	
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07	CLIFTON	4	57	
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07	KEARSLEY	7	57	
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07		8	05	*
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07	Farnworth Tunnels	8	10	
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07	(270ml295yd) to	8	24	
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07		8	26	*
+0277	NW6001	004	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 LNW North	16/06/07	FARN'WORTH	8	31	
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07		8	75	*
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07	MOSES GATE	9	06	
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07	Moses Gate Jn	9	28	
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07		9	31	
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07	Bumden Jn	10	04	
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07		10	20	*
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07		10	26	
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07	Bolton East Jn	10	31	
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07		10	42	*
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07	BOLTON	10	50	
+0278	NW6001	005	Manchester Piccadilly East Jn. to Euxton Jn. MVE1 MVE2 LNW North	01/12/07	Bolton West Jn	10	55	*
+0279	NW6001	006	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	14/03/09		10	70	*
+0279	NW6001	006	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	14/03/09	Moor Lane Tunnels	11	01	
+0279	NW6001	006	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	14/03/09	(70ml77yd) to	11	05	
+0279	NW6001	006	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	14/03/09	Lostock Jn	13	39	*
+0279	NW6001	006	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	14/03/09		13	45	*
+0279	NW6001	006	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	14/03/09	LOSTOGK	13	52	
+0280	NW6001	007	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	01/03/08	HORWICH PARKWAY	15	50	
+0280	NW6001	007	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	01/03/08	BLAGKROD	17	14	
+0280	NW6001	007	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	01/03/08	Blackmd Jn SB	17	27	Ed
+0280	NW6001	007	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	01/03/08	ADLINGTON	19	15	
+0280	NW6001	007	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	01/03/08	Gillets LC	20	75	UWC
+0280	NW6001	007	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	01/03/08		22	15	*
+0280	NW6001	007	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	01/03/08	cHORLEY	22	20	
+0280	NW6001	007	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	01/03/08	Friday Street GF	22	24	
+0281	NW6001	008	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	13/12/08		22	30	*
+0281	NW6001	008	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	13/12/08		22	50	*
+0281	NW6001	008	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	13/12/08		22	64	*
+0281	NW6001	008	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	13/12/08	Charley Tunnel	23	20	
+0281	NW6001	008	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	13/12/08	(113mf124yd) to	23	25	
+0281	NW6001	008	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	13/12/08		25	08	*
+0281	NW6001	008	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	13/12/08		25	15	
+0281	NW6001	008	Manchester Piccadilly East Jn. to Euxton Jn. MVE2 LNW North	13/12/08	Euxton Jn	25	31	

@@ -1,0 +1,38 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0237	LN3525	001	Knighton Jn to Leicester Jn KSL London North Eastern	09/08/08		97	45	
+0238	LN3525	002	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Kirkby Muxloe LC	102	36	UWC
+0238	LN3525	002	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Desford LC	104	65	AHBC
+0238	LN3525	002	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Watsons LC	105	31	UWC
+0238	LN3525	002	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		105	38	*
+0238	LN3525	002	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Lindridge Farm LC	105	64	UWC
+0238	LN3525	002	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		106	11	*
+0238	LN3525	002	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Bagworth Jn	109	74	*
+0238	LN3525	002	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Cliff Hill No 2 GF	110	42	
+0239	LN3525	003	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		110	60	*
+0239	LN3525	003	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Cliff Hill No 1 GF	110	63	
+0239	LN3525	003	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		111	00	
+0239	LN3525	003	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Bardon Hill LC	111	23	MOB
+0239	LN3525	003	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Bardon Hill SB	111	23	BH
+0239	LN3525	003	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Bardon Hill GF	111	40	
+0239	LN3525	003	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Coalville Jn	112	13	
+0240	LN3525	004	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Coalville Station LC	112	62	CCTV
+0240	LN3525	004	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Mantle Lane SB (ML)	113	05	*
+0240	LN3525	004	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		113	40	*
+0241	LN3525	005	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Swannington LC	114	01	AHBC
+0241	LN3525	005	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		114	20	*
+0241	LN3525	005	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		114	40	*
+0241	LN3525	005	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Lounge Jn	116	67	
+0241	LN3525	005	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		119	20	*
+0241	LN3525	005	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Hicks Lodge GF	119	40	
+0242	LN3525	006	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Moira West Jn SB	120	67	MW
+0242	LN3525	006	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Swains Park Sidings	121	12	
+0242	LN3525	006	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06		121	20	*
+0242	LN3525	006	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Gresley Tunnel	121	62	
+0242	LN3525	006	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	(623 yards) (570 metres) to	122	10	
+0242	LN3525	006	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Nadins Swadlincote GF	124	20	
+0242	LN3525	006	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Drakelow East Curve Jn	125	17	
+0243	LN3525	007	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Drakelow West Curve Jn	125	59	
+0243	LN3525	007	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Bin'ningham Curve Jn	126	40	
+0243	LN3525	007	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Cambridge St LC	126	60	UWC
+0243	LN3525	007	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Leicester Jn	127	00	
+0243	LN3525	007	Knighton Jn to Leicester Jn KSL London North Eastern	02/12/06	Change of mileage	11	17	

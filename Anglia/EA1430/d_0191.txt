@@ -1,0 +1,8 @@
+NRN
+RETB 114 (SM) Saxmundham SB
+RAT
+(D Freight trains not to exceed 20mph
+RETB 101
+Up platform - 147m (159 yds)
+Down platform - 98m (106 yds)
+

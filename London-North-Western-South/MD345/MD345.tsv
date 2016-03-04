@@ -1,0 +1,39 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0113	MD345	001	Bescot Junction to Rugeley North Junction (Excl) BJW1 LNW South	07/10/06	Bescot Jn	8	50	
+0113	MD345	001	Bescot Junction to Rugeley North Junction (Excl) BJW1 LNW South	07/10/06	Change of mileage	0	00	
+0114	MD345	002	Bescot Junction to Rugeley North Junction (Excl) BJW2 LNW South	14/04/07	Walsall PSB (WL)	0	63	*
+0114	MD345	002	Bescot Junction to Rugeley North Junction (Excl) BJW2 LNW South	14/04/07	WalsallPleck Jn	0	65	
+0114	MD345	002	Bescot Junction to Rugeley North Junction (Excl) BJW2 LNW South	14/04/07	Change of mileage	5	42	
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	15	*
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	Walsall South Jn	6	18	
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	20	*
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	WALSALL	6	29	
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	32	*
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	Park Street Tunnel	6	34	*
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	(131 metres I 143 yards) to Walsall North Jn	6	40	
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	41	*
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		6	70	*
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	Ryecroft Junction	6	76	
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08	Change of mileage	6	79	*
+0115	MD345	003	Bescot Junction to Rugeley North Junction (Excl) BJW2 RRN1 LNW South	01/12/08		0	00	
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08		0	05	*
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08		2	00	*
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08	Bloxwich LC	2	05	MCB
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08	Bloxwich SB	2	06	BH
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08	Bloxwich GF	2	22	
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08		2	30	*
+0116	MD345	004	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	01/12/08	BLOX'WICH	2	32	
+0117	MD345	005	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	07/10/06	BLOXWICH NORTH	3	01	
+0117	MD345	005	Bescot Junction to Rugeley North Junction (Excl) RRN1 LNW South	07/10/06	LANDYWOOD	5	12	
+0118	MD345	006	Bescot Junction to Rugeley North Junction (Excl) RRN1 RRN2 LNW South	21/04/07	Mid Cannock Colliery GF	6	30	
+0118	MD345	006	Bescot Junction to Rugeley North Junction (Excl) RRN1 RRN2 LNW South	21/04/07	CANNOGK	7	16	
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	HEDNESFORD	9	05	*
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	Hednesford SB	9	12	
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	Moors Gorse LC	11	23	UWC
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	Brereton Sidings SB	13	25	
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	RUGELEY TOWN	13	27	
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08		13	50	*
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08		13	52	*
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08		13	74	*
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	NRN Channel Change	14	00	
+0119	MD345	007	Bescot Junction to Rugeley North Junction (Excl) RRN2 LNW South	17/03/08	Continued in LNW (N) Sectional Appendix	14	00	X

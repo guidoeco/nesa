@@ -1,0 +1,7 @@
+NRN
+TCB West Burton SB (WB)
+RAB
+TOWS both lines in Clarborough Tunnel
+S Up at 65 10 (from UGL at Gringley Road end)
+UGL = 64
+

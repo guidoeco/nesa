@@ -1,0 +1,15 @@
+Minster LC (RIG) 81 58
+MINSTER 81 64
+Minster SB (EBE) 81 74
+Minster Substation 81 76
+(81 79) are
+(Minster South Jn) (82 21)
+( 0 32)
+Minster East Jn 82 17
+( 0 00)
+Rough Crossing 82 35
+Sevenscore LC (AH BC) 83 10
+Cliffsend TP Hut 83 43
+Cliffsend LC (AH BC) 84 04
+(RAMSGATE) (85 67)
+

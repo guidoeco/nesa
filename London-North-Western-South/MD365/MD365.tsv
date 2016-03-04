@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Portobello Jn	12	64	
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Change of mileage	0	04	
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06		1	00	*
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Wolverhampton Crane	1	59	
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Street Jn	12	60	
+0123	MD365	001	Portobello Jn to Wolverhampton Crane Street Jn PJW LNW South	07/10/06	Change of mileage	12	60	X

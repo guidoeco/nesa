@@ -1,0 +1,10 @@
+Tisbury Quarry LC (RIG) 94 75
+95 18 *
+Mill Path (Footpath) 95 27
+95 52 *-
+Chantry (Footpath) 96 10
+TISBURY 96 14
+Tisbury West LC (AHBC) 97 11
+Hatch Path 97 50
+99 40 *-
+

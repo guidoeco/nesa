@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	Frome North Jn	115	19	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07		0	00	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07		0	03	*
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	Hapsford LC	2	30	UWC
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07		2	35	*
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	(Change of ELR)	2	38	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	Ownership boundary	2	40	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	Bedlam Tunnel	2	51	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	251m (275 yards)	2	64	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	Great Elm Tunnel	2	76	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	292m (319 yards) to	3	11	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	Murdercembe Tunnel	3	56	
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	50m (55 yards) to	3	58	*
+0214	GW572	001	Frome North Jn to Whatley Quarry FNSZ WQL Western	01/09/07	To Whatley Quarry	3	58	X

@@ -1,0 +1,5 @@
+NRN
+TCB Newtonhill SB (NH)
+Down line only
+Up line only from signal A56
+

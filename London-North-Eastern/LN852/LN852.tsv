@@ -1,0 +1,35 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06	Holbeck Jn	0	02	
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06		0	08	*
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06		0	55	*
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06	Wortley Jn	0	57	
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06		0	60	*
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06		0	62	*
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06		0	68	*
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06	Wortley Tunnel	1	02	
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06	(73m / 80 yards)	1	06	
+0375	LN852	001	Holbeck Jn. to Bradford Interchange LBE1 London North Eastern	02/12/06	BRAMLEY	3	15	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07	NEW PUDSEY	4	77	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		5	17	*
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07	Stanningley Tunnel	5	22	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07	(416m I 455 yards) to	5	43	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		5	45	*
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07	Ducketts LC	5	68	RIG
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		6	49	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		190	24	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		190	43	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		190	45	*
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		190	75	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07	Hammerton Street	191	13	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		191	19	*
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07		191	35	*
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07	Wakefield Road Tunnel	191	36	
+0376	LN852	002	Holbeck Jn. to Bradford Interchange LBE1 LBE2 LBE3 LBE4 London North Eastern	29/03/07	(121m I 132 yards) to	191	42	
+0377	LN852	003	' Holbeck Jn. to Bradford Interchange LBE4 MRB London North Eastern	03/11/08		191	50	*
+0377	LN852	003	' Holbeck Jn. to Bradford Interchange LBE4 MRB London North Eastern	03/11/08		191	52	*
+0377	LN852	003	' Holbeck Jn. to Bradford Interchange LBE4 MRB London North Eastern	03/11/08		191	75	*
+0377	LN852	003	' Holbeck Jn. to Bradford Interchange LBE4 MRB London North Eastern	03/11/08	Mill Lane Jn	191	78	
+0377	LN852	003	' Holbeck Jn. to Bradford Interchange LBE4 MRB London North Eastern	03/11/08		40	01	
+0377	LN852	003	' Holbeck Jn. to Bradford Interchange LBE4 MRB London North Eastern	03/11/08		40	10	*
+0377	LN852	003	' Holbeck Jn. to Bradford Interchange LBE4 MRB London North Eastern	03/11/08	Bradford 'A' GF	40	26	
+0377	LN852	003	' Holbeck Jn. to Bradford Interchange LBE4 MRB London North Eastern	03/11/08	BRADFORD INTERGHANGE	40	27	

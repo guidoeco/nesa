@@ -1,0 +1,26 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Wickford Jn	29	13	
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07		29	19	*
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	BAT'PLESBRIDGE	31	40	*
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Tabrums Cross LC	33	38	
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Woodham Fenn LC	33	56	
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	SOUTH WOODHAM FERRERS	34	00	
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Woodham Ferrers LC	34	08	ABCL
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Stowmaries No.1 LC	34	77	
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	Hogwell LC	35	32	
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	Little Hayes LC	35	66	
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	Estuary LC	36	07	
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	Rookery No1LC	36	55	
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07		37	03	*
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07		37	20	*
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	NORTH FAMBRIDGE	37	23	
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Great Sandfords LC	39	27	
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	ALTHORNE	40	27	
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Althome LC	40	31	AOCL
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Stokes Hall LC	41	18	
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Creaksea Place No.1 LC	42	42	
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	BURNHAII-ON—CROUCH	43	24	
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Goldens LC	44	53	
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07		45	23	*
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Southminster GF	45	30	
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	SOUTHMINSTER	45	42	

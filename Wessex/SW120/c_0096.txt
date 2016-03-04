@@ -1,0 +1,9 @@
+35 35 1k
+36 55 *-
+36 75
+39 22
+39 23 *-
+Famham LC (CCTV) 40 33
+Famham SB (FN) 40 33
+FARNHAM 40 33
+

@@ -1,0 +1,14 @@
+LEE 7 66
+Lee TP Hut 8 55
+
+9 02 1-
+MOTTINGHAM 9 40
+
+9 70 *
+New Eltham Substation 10 10
+NEW ELTHAM 10 32
+
+11 40 are
+Sidcup TP Hut 11 65
+SIDGUP 11 73
+

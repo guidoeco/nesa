@@ -1,0 +1,23 @@
+Edenbridge Ground Frame
+EDENBRIDGE 33 03
+Edenbridge TP Hut 33 30
+
+34 27 *-
+Medhurst Row Crossing (RIG) 34 28
+
+34 29 *-
+Medhurst Row Substation 34 41
+Brasted Lands Crossing 35 38
+Bough Beech TP Hut 36 59
+Chiddingstone Substation 37 00
+PENSHURST 38 O3
+Penshurst TP Hut 38 11
+Penshurst Tunnel 38to13
+(78 yards) 38 17
+Leigh Substation 39 39
+LEIGH 39 56
+Haysden TP Hut 40 74
+
+41 27 *
+(TONBRIDGE) (42 16)
+

@@ -1,0 +1,13 @@
+Ardleigh GSP 56 00
+Ardleigh LC (CCTV) 56 04
+57 46 *
+58 74 i:
+59 20 2k
+MANNINGTREE 59 35
+Manningtree South Jn. LC (CCTV) 59 46
+OHNS 59 47
+59 60 i:
+Manningtree North Jn 59 69
+60 3O *
+Plucks Farm LC 62 44
+

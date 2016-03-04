@@ -1,0 +1,17 @@
+No 174 LC (RIG) 50 37
+Belford Crossovers 51 39
+Belford LC (CCTV) 51 45
+51 54
+51 55
+Belford Burn Public Footpath LC 51 64
+Easington Public Footpath LC 51 72
+52 41
+52 43
+Cragmill LC (CCTV) 52 48
+No 179 LC (RIG) 54 68
+Smeafield LC (CCTV) 54 79
+Henham Low Moor LC (CCTV) 55 17
+Fenham TSC OHNS 57 17
+Fenham Hill Public Footpath LC 57 37
+57 76 *-
+

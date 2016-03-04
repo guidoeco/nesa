@@ -1,0 +1,12 @@
+66 61 1:
+67 10 *-
+Glaston Tunnel 87 30
+(1 mile, 82 yards)
+(1684 metres) 88 33
+Wing Tunnel 89 22
+(323 metres! 353 yards) 89 39
+90 12 a:
+90 14 *
+Manton .Jn SB (MJ) 90 18
+Manton Jn 90 25
+

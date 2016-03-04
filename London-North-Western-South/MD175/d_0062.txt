@@ -1,0 +1,7 @@
+NRN
+Line Non-operational
+AWS and TPWS not provided.
+CW at 69m 70ch
+ELR - BNN
+ELR - BPH
+

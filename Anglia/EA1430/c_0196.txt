@@ -1,0 +1,12 @@
+Beccles By—pass LC (ABGL) 109 49
+109 50 i:
+109 55 *-
+Black Dam LG 109 68
+Worlingham LC 110 73
+North Cove LG 111 71
+No. 12 LG 112 34
+No. 13 LG 112 44
+Gamekeepers LG 113 08
+Bamby LG 113 23
+Hillings Road L0 114 06
+

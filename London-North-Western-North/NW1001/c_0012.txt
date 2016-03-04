@@ -1,0 +1,10 @@
+170 43
+Hartford Jn 170 56
+170 61 *-
+172 19
+172 30 *
+ACTON BRIDGE 172 33
+Acton Bridge Jn 172 49
+Weaver Jn 174 53
+from! to (174 70)
+

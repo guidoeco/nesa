@@ -1,0 +1,13 @@
+NRN CSR
+TCB Kings Cross SB (K)
+RAQ AC:York ECR
+PP - Permissive Working - full use for olass 1, 2,
+3 (E03). 5. 9 & 0 trains in Up Bay Platform.
+
+CSR
+
+CSR Channel Change ®
+UP 10m 32ch "
+Down 10m 32cm
+Crossovers worked from Cuffley Ground Frame
+

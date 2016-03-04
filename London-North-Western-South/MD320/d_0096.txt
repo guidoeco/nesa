@@ -1,0 +1,6 @@
+NRN
+TCB Birmingham New Street PSB (NS)
+AC: Rugby ECR
+CD 30 mph through connections
+® 15 mph through connection
+

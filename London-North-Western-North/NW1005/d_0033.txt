@@ -1,0 +1,8 @@
+NRN
+TCB Crewe SB (CE)
+AC: Crewe
+Up&Down Potteries Loop
+430m (141111) in down direction
+360m (1181ft) in up direction
+UTS = Up through siding
+

@@ -1,0 +1,13 @@
+NRN
+TCB Tyneside SB (T)
+RAB AC: York ECR
+DS = Down Sunderland
+US = Up Sunderland
+@ speeds apply to Metro trains only
+CD Equates to 50mph (No associated speed sign)
+® Equates to 30mph (No associated speed sign)
+DPGL = Down Pelaw Goods Loop
+320 metresir 1050 feet
+UPGL = Up Pelaw Goods Loop
+384 metresir 1260 feet
+

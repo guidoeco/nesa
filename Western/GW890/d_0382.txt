@@ -1,0 +1,6 @@
+NRN
+TCB Port Talbot SB (PT)
+RAB
+Location of known low rail adhesion
+- Down 10m 10ch to 10m BOch
+

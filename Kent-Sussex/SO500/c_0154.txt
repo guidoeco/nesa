@@ -1,0 +1,13 @@
+0 57 *-
+Grosvenor Bridge 0 65 
+to 0 69
+Battersea Pier Jn O 71
+Battersea Pier Sidings staff halt ( 0 75) *
+Battersea Park Jn 1 13
+( 7 35)
+( 7 31) *
+BATTERSEA PARK 1 23
+( 7 27)
+(Factory Jn) (6 5B)
+Queen's Road Substation "B" 1 49
+

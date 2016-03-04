@@ -1,0 +1,13 @@
+Camforth North Jn 6 08
+(0 19)
+6 14 1:
+(0 25)
+13 28
+Milnthorpe GF's 13 32
+13 35
+14 19 it
+14 76 it
+15 00 *
+15 13 *
+OHNS 17 78
+

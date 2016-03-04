@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0044	LN130	001	Fletton Jn. to Orton Mere FOM London North Eastern	02/12/06	Fletton Jn (Ground Frame)	0	00	
+0044	LN130	001	Fletton Jn. to Orton Mere FOM London North Eastern	02/12/06	Network Rail I Rail	0	05	
+0044	LN130	001	Fletton Jn. to Orton Mere FOM London North Eastern	02/12/06	Property Ltd Boundary	0	05	X
+0044	LN130	001	Fletton Jn. to Orton Mere FOM London North Eastern	02/12/06	Orton More	1	60	
+0044	LN130	001	Fletton Jn. to Orton Mere FOM London North Eastern	02/12/06	Rail Property Ltd I	1	60	X
+0044	LN130	001	Fletton Jn. to Orton Mere FOM London North Eastern	02/12/06	Nene Valley Railway	1	60	X
+0044	LN130	001	Fletton Jn. to Orton Mere FOM London North Eastern	02/12/06	Boundary			Z

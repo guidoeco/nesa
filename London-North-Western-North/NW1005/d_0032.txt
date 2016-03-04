@@ -1,0 +1,8 @@
+NRN
+TCB Crews SB (CE)
+AC: Crewe
+Platform Lengths: Alsager
+Up: 91 m (100 yards)
+Down: 91m (100 yards)
+U&DP='Up & down' Potteries
+

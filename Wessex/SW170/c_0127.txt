@@ -1,0 +1,13 @@
+121 20 a:
+121 40 *-
+Stockton Crossing 122 40
+Tyning LC 12 75
+Middle Road Crossing 123 36
+Townsend Crossing 124 12
+Wylye LC (AHBC) 124 41
+Hindon Road Crossing 125 29
+Eton College Road 125 38
+128 38 *
+129 20 *-
+Couston Bottom Crossing 130 16
+

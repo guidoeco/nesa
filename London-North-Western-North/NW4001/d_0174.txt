@@ -1,0 +1,24 @@
+NRN
+TCB Carlisle PSB (CE) 083
+AC: Cathcart
+
+TASS fitted: DM & UM lines.
+
+UGL: Up Goods Loop.
+
+(PF) UGL: 878 metres (2880 feet).
+
+TPWS not provided on Up Goods Loop.
+
+(PF) Down Slow line. between Penrith South Jn
+
+(signal CE.186) and signal CE.188.
+
+Platform Lengths: Penrith
+
+Platform 1: 2 9 metres (305 yards)
+
+Platform 2: 279 metres (305 yards)
+
+Platform 3: 102 metres (112 yards)
+

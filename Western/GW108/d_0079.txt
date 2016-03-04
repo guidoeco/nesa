@@ -1,0 +1,16 @@
+NRN
+TCB Plymouth SB (P) .
+AWS not provided in station area
+All lines bi-diroctional
+in station area
+All connections 25mph in station
+area, except where shown
+Platform 3 - 78m, 85yds (PP)
+Platform 4 - 298m, 325de
+Platform 5 - 300m, 328de
+Platform 6 - 260m, 284yds
+Platform 7 - 298m, 326yds
+Platform 8 - 300m, 328yds
+Standage on Through Line -
+240m, 2613de
+

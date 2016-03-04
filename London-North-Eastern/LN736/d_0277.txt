@@ -1,0 +1,8 @@
+NRN
+TCB Pasture Street SB (P)
+RAB
+PP - Permissive Working - full use for class 1, 2,
+3 (E03), 5, 9 8. 0 trains in all Cleethorpes platforms.
+TOWS between 111 14 and 110 00
+DIUPL = 252 metres/276 yards (both directions)
+

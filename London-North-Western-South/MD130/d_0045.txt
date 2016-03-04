@@ -1,0 +1,29 @@
+NRN CSR
+TCB Watford Jn PSB (WJ)
+AC: Rugby ECR
+
+One train working where a train
+
+staff is not provided applies between
+Watford Yard Ground Frame and
+
+St Albans Abbey
+
+EDEMU and DMU trains only
+
+@All other trains
+
+Platform Lengths:
+
+Watford North - 48 metres
+
+Garston - 36 metres
+
+Bricket Wood - 128 metres
+
+How Wood - 85 metres
+
+Park Street - 48 metres
+
+St Albans Abbey - 109 metres
+

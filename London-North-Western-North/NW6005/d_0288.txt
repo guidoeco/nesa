@@ -1,0 +1,27 @@
+NRN
+TCB Manchester North so (MN)
+Line direction from Miles Platting to
+Manchester Victoria Station is Up
+DRF = Down Rochdale Fast
+URF = Up Rochdale Fast
+DRS = Down Rochdale Slew
+URS = Up Rochdale Slow
+Platform Lengths: Manchester Victoria
+Platform 3 Permissive PP
+255m (279yards)
+Platform 4 Permissive PP
+224m (245yards)
+Platform 5 Permissive PP -A
+215m (235yards)
+Platform 6 Permissive PP -A
+215m (235yards)
+Tumback 171m (561ft)
+USF = Up Salford Fast
+DSF = Down Salford Fast
+USS = Up Salford Slow
+DSS = Down Salford Slow
+DCM = Down Chat Moss
+UCM = Up Chat Moss
+U-SAL = Up Salford
+D-SAL = Down Salford
+

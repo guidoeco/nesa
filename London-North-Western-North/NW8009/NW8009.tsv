@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08	Walton Jn	33	16	*
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08		33	00	*
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08	RICE LANE	32	60	*
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08		32	54	*
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08	FAZAKERLEY	31	31	
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08	Fazakerley LO.	31	16	UWC
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08		30	77	*
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08		30	72	*
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08		29	48	*
+0363	NW8009	001	Walton Jn. to Kirkby WJK LNW North	05/01/08	KIRKBY	29	41	

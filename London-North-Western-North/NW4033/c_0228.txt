@@ -1,0 +1,17 @@
+19 00 *
+Balfour LC (UWC) 19 10
+Parkhouse LC(UWC) 19 22
+Bainbridge No.2 LC(UWC) 19 4O
+Carrs LC(UWC) 19 69
+Dalrymple LC (UWC) 20 08
+Rothery LC (UWC) 20 21
+21 4O *
+22 00 *
+22 40 i:
+Dalston Oil Depot GF 23 28
+23 30 i:
+Dalston Station No.1 GF 23 39 *-
+DALSTON 23 43
+Dalston Station No.2 GF 23 43
+23 50 *-
+

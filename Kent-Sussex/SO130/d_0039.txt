@@ -1,0 +1,12 @@
+NRN CSR
+TCB London Bridge SB (L)
+A.W.S bell indication will only be
+received at signal L320 when Up
+Fast line signal L318 is also
+displaying a green aspect.
+1 Down Slow
+2 Up Slow
+3 Down Fast
+4 Up Fast
+5 Up 8: Down Bromley Branch
+

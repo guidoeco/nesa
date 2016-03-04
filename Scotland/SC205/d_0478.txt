@@ -1,0 +1,5 @@
+RETB 102 Invemess SC (I)
+(‘D = 15 mph through loop
+points, in both directions,
+and over loop lines
+

@@ -1,0 +1,13 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	Preston Fylde Jn	0	33	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07		0	00	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07		0	17	*
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	Deepdale Tunnel No.1	0	23	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	(143 metres I 162 yards) to	0	31	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	Deepdale Tunnel No.2	0	34	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	(249 metres I 272 yards) to	0	46	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	Deepdale Tunnel No.3	0	47	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	(351 metres I 384 yards) to	0	65	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	Deepdale Jn	1	31	
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	Skeffington Road LC	1	33	TMO
+0184	NW4003	001	Preston Fylde Jn. to Deepdale Jn. PDB LNW North	02/06/07	End of line	1	59	

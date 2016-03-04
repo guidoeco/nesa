@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0212	LN3267	001	Stapleford & Sandiacre to Stanton Gate (Stanton & Staveley Works) WHM London North Eastern	02/12/06		122	36	
+0212	LN3267	001	Stapleford & Sandiacre to Stanton Gate (Stanton & Staveley Works) WHM London North Eastern	02/12/06		122	49	*
+0212	LN3267	001	Stapleford & Sandiacre to Stanton Gate (Stanton & Staveley Works) WHM London North Eastern	02/12/06	Commencement of single line Down	122	70	
+0212	LN3267	001	Stapleford & Sandiacre to Stanton Gate (Stanton & Staveley Works) WHM London North Eastern	02/12/06	Goods Rec	122	70	X
+0212	LN3267	001	Stapleford & Sandiacre to Stanton Gate (Stanton & Staveley Works) WHM London North Eastern	02/12/06	Stanton Gate SF	123	65	0.0.U.
+0212	LN3267	001	Stapleford & Sandiacre to Stanton Gate (Stanton & Staveley Works) WHM London North Eastern	02/12/06		123	70	*

@@ -1,0 +1,67 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Wrawby Jn	33	34	
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07		33	32	
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07		33	29	*
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07		33	24	*
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Moor Lane LC	31	42	UWC
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Elsham SB	31	34	EM
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Elsham LC	31	33	MCB
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Kings College LC	30	75	UWC
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Worlaby LC	29	10	UWC
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Kebwood Lane LC	27	40	UWC
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Appleby LC	26	60	MCB
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Appleby SB	26	59	AY
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Foreign Ore Branch Jn	25	34	
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07	Santon Ore Mining LC	25	11	UWC
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07		24	55	
+0299	LN752	001	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	26/12/07		24	20	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	North Lincoln Jn	24	10	*
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		24	01	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		23	63	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Trent Jn	23	51	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		23	42	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Sounthorpe SB	23	27	8
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Scunthorpe West Jn	23	13	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	SCUNTHORPE	22	54	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		22	30	*
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		22	29	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Gunhouse Jn	20	32	
+0300	LN752	002	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	ALTHORPE	19	21	
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		18	25	*
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Keadby Canal Bridge	18	18	
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		18	15	*
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		18	14	*
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Keadby Canal LC	18	13	MOB
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		17	66	*
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	HABD	17	06	
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	GROWLE	15	43	
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Godnow Bridfle LC	14	08	MCG
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Windsor LC	13	41	WC
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Madge Hall LC	13	02	MCG
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Theme No2 LC	10	35	AHBC
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Theme No1 LC	10	12	AHBC
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	THORNE SOUTH	9	41	
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	HABD	9	41	
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Kirton Lane LC	8	47	CCTV
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		8	46	
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		8	42	*
+0301	LN752	003	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Ashfield Road LC	8	35	UWC
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Theme Jn	8	07	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		8	05	*
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		7	67	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		7	16	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		7	00	*
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	HATFIELD AND STAINFORTH	6	40	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Stainforth Jn	6	20	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	The Haggs LC	5	68	UWC
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Hatfield Lane LC	4	71	UWC
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		4	12	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	KIRK SANDALL	3	60	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Kirk Sandall Jn	3	24	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		3	22	*
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		3	19	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Arksey lngs Lane LC	2	20	UWC
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Bentley Jn	1	04	
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		0	56	*
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06		0	21	*
+0302	LN752	004	Wrawby Jn. to Marshgate Jn. DOW London North Eastern	02/12/06	Marshgate Jn	0	03	

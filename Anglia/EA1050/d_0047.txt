@@ -1,0 +1,27 @@
+NRN CSR
+
+TCB Liverpool St IECC (L)
+
+RA7 AC: Romford
+
+USD - Up Southend
+
+DSD - Down Southend
+
+Up platform - 248m (269yd)
+
+Down platform - 249m (269yd)
+
+LOD (P)s (Hocklenyouthend Vic.) at 41m 170h
+CD 30mph Up direction,
+
+20mph Down direction
+
+Platform 1 - 249m (269yd) PP
+
+Platform 2 - 244m (264yd) PP
+
+Platform 3 - 244m (264yd) PP
+
+Platform 4 - 248m (268yd) PP
+

@@ -1,0 +1,17 @@
+Harringay Jn 3 29 *
+HARRINGAY 3 32
+
+3 34 i:
+
+3 37 *
+Harringay Viaduct 3 34
+
+3 40
+
+3 61 'k
+Ferme Park Sidings
+Homsey EMU Depot 3 77 *-
+HOMSEY 4 04
+
+4 20
+

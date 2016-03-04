@@ -1,0 +1,12 @@
+Park Jn 1 02
+0 79 *-
+
+ParkJn (PJ) SB 0 74
+
+(Change of mileage and ELR) 0 54
+0 13 *
+
+Ebbw Jn O 00
+
+160 07
+

@@ -1,0 +1,10 @@
+185 41 a:
+185 43 *
+Winwick Jn 185 49
+186 60
+Earlestown South Jn 186 74 *-
+EARLESTOWN 187 03
+Earlestown East Jn 187 10 7k
+14 75
+NEWTON-LE-WILLOWS 15 60
+

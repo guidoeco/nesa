@@ -1,0 +1,22 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06	Newton East Jn	95	14	
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06		0	07	
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06	Newton, Hamilton Jn	95	47	
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06	(Change of ELR WCM2 to KHL)	0	01	
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06		95	52	
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06	NEWTON	95	57	
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06		95	76	*
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06	Newton, Kirkhill Jn	95	77	
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06		96	09	*
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06		96	10	*
+0096	SC055	001	Newton, Hamilton Jn. to Cathcart West Jn. WCM2 KHL Scotland	02/12/06	Newton West Jn	96	23	
+0097	SC055	002	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	Kirkhill Tunnel	96	61	
+0097	SC055	002	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	290 Yards	96	74	
+0097	SC055	002	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	KIRKHILL	97	15	
+0097	SC055	002	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	BURNSIDE	98	43	
+0097	SC055	002	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	CROFTFOOT	99	45	
+0098	SC055	003	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	KING'S PARK	100	21	
+0098	SC055	003	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	Cathcart East Jn	100	37	
+0098	SC055	003	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06		100	67	*
+0098	SC055	003	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	OHNS	100	68	
+0098	SC055	003	Newton, Hamilton Jn. to Cathcart West Jn. KHL Scotland	02/12/06	Cathcart West Jn .	100	77	

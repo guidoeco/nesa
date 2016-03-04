@@ -1,0 +1,14 @@
+NRN
+
+TCB Peterborough SB (P)
+RAQ AC:York ECR
+DSIDST = Down SlowlDown Stamford
+
+UST = Up Stamford
+
+DST = Down Stamford
+
+Hot Axle Box Detectors on the Up Fast and
+
+Up Slow lines at 83 33
+

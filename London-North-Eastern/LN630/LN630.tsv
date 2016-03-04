@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0489	LN630	001	Pelaw North Jn to Pelaw Metro Jn PUL London North Eastern	02/12/06	Pelaw North Jn	98	04	
+0489	LN630	001	Pelaw North Jn to Pelaw Metro Jn PUL London North Eastern	02/12/06	Metro/Network Rail Operating	97	77	
+0489	LN630	001	Pelaw North Jn to Pelaw Metro Jn PUL London North Eastern	02/12/06	Boundary (signal T6282)	97	77	X
+0489	LN630	001	Pelaw North Jn to Pelaw Metro Jn PUL London North Eastern	02/12/06	Pelaw Metro Jn	97	64	

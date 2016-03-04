@@ -1,0 +1,118 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0059	SW110	001	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Waking Jn	24	62	
+0059	SW110	001	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	WORPLESDOH	26	55	
+0059	SW110	001	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		28	40	*
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		29	40	*
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		30	43	*
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		29	43	*
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		30	09	*
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		30	16	*
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08	GUILDFORD	30	27	
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08		30	33	*
+0060	SW110	002	Woking Junction to Portsmouth Harbour GTW1 GTW2 WPH1 NGL Wessex	22/03/08	Guildford ASC (GD)	30	33	X
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	Chalk Tunnel	30	43	*
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	(845 yards) to	31	01	
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06		31	11	*
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	St Catherine's Tunnel	310	13	
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	(132 yards)	31	19	
+0061	SW110	003	Woking Junction to Portsmouth Harbour WPH1 RSJ Wessex	02/12/06	Shalford Jn	31	42	*
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		33	20	*
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	Farncombe East LC	33	29	CCTV
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	FARNCOMBE			Z
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		33	39	*
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	Famcombe LC	33	40	
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	Famcombe SB	33	40	W2
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		34	25	*
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07	GODALMING	34	37	
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		34	50	*
+0062	SW110	004	Woking Junction to Portsmouth Harbour WPH1 Wessex	10/02/07		35	15	*
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		35	65	*
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	MILFORD	36	21	
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Mitford LC	36	26	AHBC
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Milford Crossing	36	26	
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		37	40	*
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	WITLEY	38	36	
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		42	30	*
+0063	SW110	005	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		42	50	*
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Up Siding No. 3			X
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	HASLEMERE	42	79	
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Haslemere SB	42	79	EW
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Up Siding No. 1	42	79	X
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06		44	40	*
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	LIPHOOK	46	67	
+0064	SW110	006	Woking Junction to Portsmouth Harbour WPH1 Wessex	02/12/06	Liss Common LC (AHBC)	50	75	*
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	LISS	51	35	
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	Liss LC	51	35	CCTV
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07		52	11	*
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	Princes Bridge LC	52	12	AHBC
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07		53	48	*
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	Sheet LC (AHBC)	53	72	*
+0065	SW110	007	Woking Junction to Portsmouth Harbour WPH1 Wessex	29/10/07	Kings Fernsden LC	54	10	AHBC
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	Petersfield SB (PF)			X
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	Petersfield LC (PF)			X
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	PETERSFIELD	54	71	
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008		55	23	*
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008		57	30	*
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	Buriton Tunnel	57	43	*
+0066	SW110	008	Woking Junction to Portsmouth Harbour WPH1 Wessex	08/03/2008	(485 yards) to	57	69	*
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		59	24	*
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		59	46	*
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		59	71	*
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		62	67	*
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		63	07	*
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008	ROWLAN BS CASTLE	63	18	
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		63	45	*
+0067	SW110	009	Woking Junction to Portsmouth Harbour WPH1 Wessex	28/01/2008		64	20	*
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		65	60	*
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		36	60	
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	WARBLINGTON	36	66	
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	Warblington LC	36	71	CCTV
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	13	*
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	20	*
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		66	10	*
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		66	17	
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	Havant LC	37	26	CCTV
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	Havant SB (HT)	37	26	X
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	28	
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	34	*
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007	HAVANT	37	41	
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	61	*
+0068	SW110	010	Woking Junction to Portsmouth Harbour WPH1 WPH2 TBH2 Wessex	29/10/2007		37	63	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		37	76	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008	Bedhampton LC	38	10	CCTV
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008	BEDHAMPTON	38	14	
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		38	28	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		38	29	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		38	60	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008	Farlington Jn	40	33	
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		91	14	
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		91	00	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		91	00	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		40	77	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		90	75	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		90	75	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008	Portcreek Jn	41	03	*
+0069	SW110	011	Woking Junction to Portsmouth WPH2 FJJ Wessex	28/01/2008		91	01	
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		41	08	*
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		41	24	*
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008	HILSEA	41	41	
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		42	33	*
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		43	16	*
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		43	23	*
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008	Fratton East	43	23	X
+0070	SW110	012	Woking Junction to Portsmouth Harbour WPH2 Wessex	28/01/2008		43	41	*
+0071	SW110	013	Woking Junction to Portsmouth Harbour WPH2 Wessex	29/10/2007	FRATPON	43	64	
+0071	SW110	013	Woking Junction to Portsmouth Harbour WPH2 Wessex	29/10/2007		43	77	*
+0071	SW110	013	Woking Junction to Portsmouth Harbour WPH2 Wessex	29/10/2007		44	13	*
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	24	*
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008	Blackfriars Jn	44	26	
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	23	*
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	29	*
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	39	*
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008	PORTSMOUTH & SOUTHSEA	44	50	
+0072	SW110	014	Woking Junction to Portsmouth Harbour WPH2 PAS Wessex	22/03/2008		44	57	*
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008		45	05	*
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008		45	07	*
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008		45	16	*
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008		45	22	*
+0073	SW110	015	Woking Junction to Portsmouth Harbour WPH2 Wessex	22/03/2008	PORTSMOUTH HARBOUR	45	36	

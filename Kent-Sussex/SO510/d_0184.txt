@@ -1,0 +1,28 @@
+NRN CSR
+
+RAB DC: Selhurst
+Permissive working authorised on
+down slow platform line.
+(A) - Stop Board - 8m 620h
+
+1 Up Slow
+
+2 Up Fast
+
+3 Down Fast
+
+4 Down Slow
+
+5 Up Crystal Palace Spur
+
+6 Down Crystal Palace Spur
+
+7 Through Road
+
+8 Up London Bridge Slow
+
+9 Up London Bridge Fast
+10 Down London Bridge Fast
+11 Down Wallington
+12 Down London Bridge Slow
+

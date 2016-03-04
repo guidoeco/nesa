@@ -1,0 +1,13 @@
+UPL 60 12
+UPL 60 55
+Hungerford GF 61 25
+61 40 i:
+HUNGERFORD 61 43
+Hungerford LC (CCTV) 61 47
+62 OD *-
+63 05 *-
+64 10 3':
+Fairfield LC (UWC) 64 67
+Wansdyke LC (UWC) 66 02
+BEDWYN 66 33
+

@@ -1,0 +1,25 @@
+NRN CSR
+
+TCB Victoria SB (VG)
+RAB DC:Sellhurst
+
+Platform 2 PP-A (detaching only)
+
+1 Up Portsmouth
+
+2 Down Portsmouth
+
+3 Down Streatham Spur
+
+4 Up Streatham Spur
+
+5 Down Slow Spur
+
+6 Up Slow Spur
+
+7 Fast Spur
+
+8 Up St Helier
+
+9 Down St Helier
+

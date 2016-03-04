@@ -1,0 +1,18 @@
+NRN
+
+TCB Derby EMCC (TC)
+RAB
+
+Erewash Workstation
+GSM-R area
+L A
+UDES - Up and Down Erewash Slow
+UEF - Up Erewash Fast
+DEF - Down Erewash Fast
+UE - Up Erewash
+DE - Down Erewash
+Platform lengths:
+Down-191 metres
+Up—190 metres
+UDBS - Up and Down Blackwell Slow
+

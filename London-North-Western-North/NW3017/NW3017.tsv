@@ -1,0 +1,16 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06		223	50	*
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06	Llandudno Junction SB	223	55	LJ
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06		0	03	
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06		0	22	*
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06		0	28	*
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06	Deganwy Quay LC	1	01	CCTV
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06		1	11	*
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06	DEGANWY	1	16	
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06	Deganwy SB LC	1	22	MCB
+0135	NW3017	001	Llandudno Jn. to Llandudno LLJ LNW North	07/10/06		1	40	*
+0136	NW3017	002	Llandudno Jn. to Llandudno LLJ LNW North	01/12/07	Up Siding GF	2	62	
+0136	NW3017	002	Llandudno Jn. to Llandudno LLJ LNW North	01/12/07		2	66	*
+0136	NW3017	002	Llandudno Jn. to Llandudno LLJ LNW North	01/12/07		2	68	
+0136	NW3017	002	Llandudno Jn. to Llandudno LLJ LNW North	01/12/07	Llandudno Station SB	3	00	
+0136	NW3017	002	Llandudno Jn. to Llandudno LLJ LNW North	01/12/07	LLANDUDNO	3	14	

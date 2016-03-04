@@ -1,0 +1,18 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+
+Platform Lengths: Southport
+
+Platform 1 Permissive PP
+
+135m (148 yards)
+
+Platform 2 Permissive PP
+
+177m (194 yards)
+
+Platform 3 Permissive PP
+
+185m (202 yards)
+

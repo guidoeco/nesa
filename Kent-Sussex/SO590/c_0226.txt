@@ -1,0 +1,13 @@
+9 35 *-
+Cow Crossing 9 79
+1O 02 *
+10 06 *-
+Beddingham LC (AHBC) 10 08
+10 09 *-
+Glynde Substation 11 06
+GLYNDE 11 14
+11 3O *-
+Loover Barn Crossing 11 62
+12 18 *-
+Lower Barn No1 Crossing 12 42
+

@@ -1,0 +1,37 @@
+NRN CSR
+TCB Ashford IECC (AD)
+RAB AC: Paddock Wood
+DC: Paddock Wood
+
+25W AC Overhead lines
+now electrified in Ashford area.
+Platform 1 PP
+Platform 2 PP
+Platform 5 PP
+Platform 6 PP
+Note: Speedboards also indite
+maximum speeds in Kilometres
+per hour. These boards are
+circular with white numerals and
+a black background.
+
+2 Up Slow
+
+3 Down Fast
+
+4 Up Fast
+
+5 Down Canterbury
+
+6 Down Hastings
+
+7 Up Hastings
+
+8 Up Maidstone
+
+9 Down Maidstone
+10 Maidstone Loop
+11 Up CTRL Chord
+12 Down CTRL Chord
+13 Up Canterbury
+

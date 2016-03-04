@@ -1,0 +1,9 @@
+WhitehurstLC(UWC) 193 52
+Whitehurst Tunnel 194t007
+(42m, 46yds) 194 09
+194 40 i-
+196 65 *
+RUABON 197 O4
+197 45 *
+Territory Boundary 199 00
+

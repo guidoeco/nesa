@@ -1,0 +1,22 @@
+22 44 *
+Glanrhyd Bridge 
+22 35 *-
+Glanrhyd Saeson Farm 1 LC (UWC) 22 25
+Glanrhyd LC (OPEN) 22 14
+Caemawr Farm LC (UWC) 21 14
+Down Farm 2 LC (UWC) 20 77
+Down Farm 1 LC (UWC) 20 70
+Talley Road LC (UWC) 20 12
+Closglas Farm 3 LC (UWC) 19 64
+Closglas Farm 1 LC (UWC) 19 34
+Banmy-Berllan LC (UWC) 18 61
+
+18 15 *
+Llandeilo GF 18 11
+
+18 09
+LLANDEILO (TEP) 18 07
+(Change of ELR)
+
+17 78 i:
+

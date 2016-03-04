@@ -1,0 +1,35 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06	(Eastern Jn)	0	00	
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06	(Western Jn)	43	70	
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06		44	05	*
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06	Middle Jn	44	13	*
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06		0	23	
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06	Fox Grove Crossing	44	70	
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06	KEMSLEY	45	20	
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06	Gascoyne Crossing	45	60	
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06	Kemsley Substation	45	61	
+0072	SO150	001	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 SEJ1 WMS Kent/Sussex	02/12/06	Ridham Siding	46	60	
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		46	77	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		47	00	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	Swale TP Hut	47	07	
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	SWALE	47	15	
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	Kingsferry Bridge	47	26	
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	(Lift Bridge)	47	26	X
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		47	66	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	South Marsh Crossing	48	02	
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		48	76	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		49	04	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		49	14	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		49	18	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	QUEENBOROUGH	49	22	
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		49	30	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	Queenborough Substation	49	33	
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		49	34	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		49	45	*
+0073	SO150	002	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		49	47	*
+0074	SO150	003	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		50	38	*
+0074	SO150	003	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		50	40	*
+0074	SO150	003	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	Sheerness Dockyard	50	48	
+0074	SO150	003	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		51	00	*
+0074	SO150	003	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06		51	02	*
+0074	SO150	003	Sittingbourne (Eastern Jn.) to Sheerness-on-Sea SEJ2 Kent / Sussex	02/12/06	SHEERNEss-ON-SEA	51	19	

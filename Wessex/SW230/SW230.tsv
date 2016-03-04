@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0176	SW230	001	Barnes to Feltham Junction (via Hounslow) HOU Wessex	02/12/06	Vine Road Barnes (Hounslow line) LC	7	25	CCTV
+0176	SW230	001	Barnes to Feltham Junction (via Hounslow) HOU Wessex	02/12/06	BARNES BRIDGE	7	54	
+0176	SW230	001	Barnes to Feltham Junction (via Hounslow) HOU Wessex	02/12/06	CHISWIGK	3	47	
+0176	SW230	001	Barnes to Feltham Junction (via Hounslow) HOU Wessex	02/12/06	Grove Park LC	8	75	CCTV
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	New Kew Jn	09	34	
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	Route Boundary	03	39	*
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06		09	64	*
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	KEW BRIDGE	09	53	
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	Route Boundary	03	39	*
+0177	SW230	002	Barnes to Feltham Junction (via Hounslow) HOU NKE2 BOK6 Wessex	02/12/06	Old Kew Jn	10	01	
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	BRENTFORD	10	52	
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	SYON LANE	11	34	
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	Wood Lane LC	11	69	CCTV
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	ISLEWORTH	12	10	
+0178	SW230	003	Barnes to Feltham Junction (via Houslow) HOU Wessex	02/12/06	HOUNSLOW	13	40	
+0179	SW230	004	Barnes to Feltham Junction (via Hounslow) HOU HJW Wessex	02/12/06	Hounslow Jn	14	09	
+0179	SW230	004	Barnes to Feltham Junction (via Hounslow) HOU HJW Wessex	02/12/06		14	38	*

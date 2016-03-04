@@ -1,0 +1,10 @@
+RETB 101 Banavie SC
+RETB 102
+G) = Applies to Class 7 & 3
+trains
+Q) = 15 mph through loop
+points, in both directions,
+and over loop lines
+CL 7801‘ (235m)
+(37 SLU's)
+

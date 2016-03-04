@@ -1,0 +1,16 @@
+129 00 *
+Aldridge LC (UWC) 130 65
+Naas LC (AHBC) 132 36
+Lydney GF 133 21
+LYDNEY 133 37
+Lydney LC (MOB) 133 40
+133 60 *
+Garlands No1 LC (UWC) 133 72
+Hardacre N02 LC (UWC) 135 O4
+Woolaston LC (RIG) 136 14
+High Hall LC (UWC) 138 14
+139 00 *-
+e s w Tun e 140 59
+83.81% {859 yards} 1401075
+140 79 are
+

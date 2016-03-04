@@ -1,0 +1,12 @@
+46 37 *-
+Bletchley Jn 46 43
+Bletchley PSB (BY) 46 46
+BLETCHLEY 46 54
+46 62 i:
+46 68 *
+4? 34 a:
+Denbigh Hall South Jn 47 52 5:
+CSR change (Up direction) 47 65
+48 14 i:
+CSR change (Down direction) 48 28
+

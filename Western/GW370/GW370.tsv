@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06	Droitwich Spa Jn	126	21	
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06		126	24	
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06	Droitwich Spa (D8) SB	126	26	
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06		126	30	*
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06	Droitwich Spa Up Goods Loop	126	30	X
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06		127	59	*
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06	Cutnall Green	130	40	
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06	Territory Boundary	130	40	X
+0153	GW370	001	Droitwich Spa to Cutnall Green OWW Western	05/08/06	See LNW (S) Sectional Appendix	130	40	X

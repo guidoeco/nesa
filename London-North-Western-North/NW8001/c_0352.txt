@@ -1,0 +1,9 @@
+WATERLOO 5 20
+Waterloo LC (CCTV) 5 39
+
+5 41 *
+Brook Hall Rd LC (CCTV) 5 69
+BLUNDELLSANDS & CROSBY 5 23
+Hall Road LC (CCTV) 7 1o
+HALL ROAD 7 14
+

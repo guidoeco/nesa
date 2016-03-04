@@ -1,0 +1,11 @@
+Holgate Jn 0 00
+York Yard South 0 21
+York Yard North 0 79
+
+1 03
+
+1 13 *
+
+1 35 1-
+Skelton Jn 1 54 *-
+

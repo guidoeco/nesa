@@ -1,0 +1,20 @@
+RETB 113 Machynlleth SB (MH)
+RA5
+
+RETB 104
+
+PP authorised over Down main and
+Up main
+
+RETB 125
+
+CL - 391 m, 128111 (18 vehicles)
+Aberystwyth Siding 199m, 651ft
+Tank Siding 320m, 1050ft
+
+Down platform - 142m, 155yds
+
+Up platform -179m, 1965de
+Signalled by Track Circuit Block
+between Machynlleth and Davey Jn.
+

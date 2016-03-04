@@ -1,0 +1,15 @@
+38 13 *-
+Yalding LC (ABCL) 38 15 *
+YALDING 38 19
+
+38 21 *-
+Yalding Substation 38 25
+MoDougall Crossing 38 27
+Millstead Crossing 38 43
+Wilsons Crossing 38 79
+Church Crossing 39 30
+Wateringbury LC 39 71
+Wateringbury SB (WB) 39 72
+WATERINGBURY 39 77
+Wateringbury TP Hut 4O 05
+

@@ -1,0 +1,12 @@
+ALSAGER 2 33
+Alsager Station LC (CCTV) 2 33
+Home Farm LC (UWC) 3 01
+Radway Green LC (CCTV) 4 07
+Lower Radway Green LC (UWC) 4 26
+
+4 65 *
+Barthomley Jn 4 67
+Barthomley LC (RIG) 4 77
+
+5 00 *-
+

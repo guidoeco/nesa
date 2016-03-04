@@ -1,0 +1,14 @@
+NRN
+AB Llandudno Station SB
+
+Platform Lengths: Llandudno
+
+Platform 1 Permissive PP
+212m (232 yds)
+
+Platform 2 Permissive PP
+215m (235 yds)
+
+Platform 3 Permissive PP
+216m (236 yds)
+

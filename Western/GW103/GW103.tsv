@@ -1,0 +1,192 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0001	GW103	001	Paddington to Uffington MLN1 Western	10/04/08	PADDINGTON	0	05	
+0001	GW103	001	Paddington to Uffington MLN1 Western	10/04/08		0	26	*
+0001	GW103	001	Paddington to Uffington MLN1 Western	10/04/08	Gantry 3	0	43	
+0001	GW103	001	Paddington to Uffington MLN1 Western	10/04/08	Royal Oak	0	46	
+0002	GW103	002	Paddington to Uffington MLN1 Western	05/08/06	Subway Junction	0	61	
+0002	GW103	002	Paddington to Uffington MLN1 Western	05/08/06	Gantry 4 - Down Signals	0	68	
+0002	GW103	002	Paddington to Uffington MLN1 Western	05/08/06	SN.57,59,61,63,65,67			Z
+0002	GW103	002	Paddington to Uffington MLN1 Western	05/08/06	Gantry 5 - Up Signals	0	78	
+0002	GW103	002	Paddington to Uffington MLN1 Western	05/08/06	SN.70,72,74,76,73,80	1	01	*
+0002	GW103	002	Paddington to Uffington MLN1 Western	05/08/06	Gantry 6 - Down Signals	1	12	*
+0002	GW103	002	Paddington to Uffington MLN1 Western	05/08/06	SN.81,83,85,81,89,89,91			Z
+0003	GW103	003	Paddington to Uffington MLN1 Western	05/08/06	Portobello Jn	1	33	
+0003	GW103	003	Paddington to Uffington MLN1 Western	05/08/06	Gantry 8	1	43	
+0003	GW103	003	Paddington to Uffington MLN1 Western	05/08/06	Signal SN114	1	68	
+0004	GW103	004	Paddington to Uffington MLN1 Western	04/08/08	Ladbroke Grove	1	73	
+0004	GW103	004	Paddington to Uffington MLN1 Western	04/08/08		2	02	*
+0004	GW103	004	Paddington to Uffington MLN1 Western	04/08/08		2	04	*
+0004	GW103	004	Paddington to Uffington MLN1 Western	04/08/08	Kensal Green	2	06	*
+0004	GW103	004	Paddington to Uffington MLN1 Western	04/08/08		2	20	*
+0005	GW103	005	Paddington to Uffington MLN1 Western	04/08/08	Old Oak Common East	2	62	
+0005	GW103	005	Paddington to Uffington MLN1 Western	04/08/08	Old Oak Common Depot	2	62	X
+0005	GW103	005	Paddington to Uffington MLN1 Western	04/08/08		2	78	
+0006	GW103	006	Paddington to Uffington MLN1 Western	04/08/08		3	14	
+0006	GW103	006	Paddington to Uffington MLN1 Western	04/08/08	Old Oak Common West	3	20	
+0006	GW103	006	Paddington to Uffington MLN1 Western	04/08/08		3	49	
+0007	GW103	007	Paddington to Uffington MLN1 Western	04/08/08	Friars Jn	3	53	
+0007	GW103	007	Paddington to Uffington MLN1 Western	04/08/08		3	70	*
+0007	GW103	007	Paddington to Uffington MLN1 Western	04/08/08		0	16	
+0007	GW103	007	Paddington to Uffington MLN1 Western	04/08/08		3	79	*
+0007	GW103	007	Paddington to Uffington MLN1 Western	04/08/08		0	08	
+0007	GW103	007	Paddington to Uffington MLN1 Western	04/08/08	Acton East	4	07	
+0007	GW103	007	Paddington to Uffington MLN1 Western	04/08/08		0	00	
+0007	GW103	007	Paddington to Uffington MLN1 Western	04/08/08		4	15	*
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08	ACTON MAIN LINE	4	21	
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08		4	25	*
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08		4	27	*
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08		4	40	*
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08	Acton Yard	4	40	X
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08		4	60	*
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08	CSR Channel Change	4	64	
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08	Acton West	5	00	
+0008	GW103	008	Paddington to Uffington MLN1 Western	04/08/08		5	05	
+0009	GW103	009	Paddington to Uffington MLN1 Western	04/08/08	EALI HG BROADWAY	5	56	
+0010	GW103	010	Paddington to Uffington MLN1 Western	04/08/08		6	41	*
+0010	GW103	010	Paddington to Uffington MLN1 Western	04/08/08	WEST EALING	6	46	
+0010	GW103	010	Paddington to Uffington MLN1 Western	04/08/08		6	51	*
+0010	GW103	010	Paddington to Uffington MLN1 Western	04/08/08	West Ealing Jn	6	54	
+0011	GW103	011	Paddington to Uffington MLN1 Western	05/08/06	Hanwell Jn	7	19	
+0011	GW103	011	Paddington to Uffington MLN1 Western	05/08/06	HANWELL	7	28	
+0011	GW103	011	Paddington to Uffington MLN1 Western	05/08/06		7	40	*
+0011	GW103	011	Paddington to Uffington MLN1 Western	05/08/06	Hanwell Bridge	8	00	
+0012	GW103	012	Paddington to Uffington MLN1 Western	04/08/08		8	13	*
+0012	GW103	012	Paddington to Uffington MLN1 Western	04/08/08	Hanwell Bridge Sidings	8	13	X
+0012	GW103	012	Paddington to Uffington MLN1 Western	04/08/08		8	45	
+0012	GW103	012	Paddington to Uffington MLN1 Western	04/08/08		8	50	
+0013	GW103	013	Paddington to Uffington MLN1 Western	04/08/08	Southall East Jn	8	62	
+0013	GW103	013	Paddington to Uffington MLN1 Western	04/08/08		8	70	
+0013	GW103	013	Paddington to Uffington MLN1 Western	04/08/08		8	72	*
+0013	GW103	013	Paddington to Uffington MLN1 Western	04/08/08	SOUTHALL	9	06	
+0014	GW103	014	Paddington to Uffington MLN1 Western	04/08/08		9	20	*
+0014	GW103	014	Paddington to Uffington MLN1 Western	04/08/08	Southall West Jn	9	70	
+0015	GW103	015	Paddington to Uffington MLN1 Western	04/08/08		9	79	*
+0015	GW103	015	Paddington to Uffington MLN1 Western	04/08/08		10	11	*
+0015	GW103	015	Paddington to Uffington MLN1 Western	04/08/08	Hayes Up Goods Loop	10	30	
+0016	GW103	016	Paddington to Uffington MLN1 Western	04/08/08	Hayes Up Sidings	10	54	
+0016	GW103	016	Paddington to Uffington MLN1 Western	04/08/08	HAYES AND HARLINGTON	10	71	
+0017	GW103	017	Paddington to Uffington MLN1 Western	04/08/08	Heathrow Airport Jn (Up Main)	11	04	
+0017	GW103	017	Paddington to Uffington MLN1 Western	04/08/08	Heathrow Airport Jn (Down Main)	11	15	*
+0017	GW103	017	Paddington to Uffington MLN1 Western	04/08/08		11	25	*
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08	Heathrow Airport Jn OHNS	11	51	
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08	(and limit of electrification	11	51	X
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08	on Relief lines)	11	51	X
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08		11	77	*
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08	Stockley Bridge Jn	12	09	
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08	(and limit of electrification	12	09	X
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08	on Main lines)	12	09	X
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08		12	20	*
+0018	GW103	018	Paddington to Uffington MLN1 Western	04/08/08		12	22	*
+0019	GW103	019	Paddington to Uffington MLN1 Western	04/08/08	West Drayton East	12	67	
+0019	GW103	019	Paddington to Uffington MLN1 Western	04/08/08	WEST DRAYTON	13	17	
+0019	GW103	019	Paddington to Uffington MLN1 Western	04/08/08	West Drayton Jn	13	31	*
+0019	GW103	019	Paddington to Uffington MLN1 Western	04/08/08	West Drayton No.2 GF	13	34	
+0019	GW103	019	Paddington to Uffington MLN1 Western	04/08/08	West Drayton No. 1 GF	13	46	
+0019	GW103	019	Paddington to Uffington MLN1 Western	04/08/08	(Out Of Use)	13	46	X
+0020	GW103	020	Paddington to Uffington MLN1 Western	04/08/08		14	54	*
+0020	GW103	020	Paddington to Uffington MLN1 Western	04/08/08	IVER	14	60	
+0020	GW103	020	Paddington to Uffington MLN1 Western	04/08/08		15	30	
+0020	GW103	020	Paddington to Uffington MLN1 Western	04/08/08		15	61	*
+0020	GW103	020	Paddington to Uffington MLN1 Western	04/08/08	Langley Up Sidings	15	61	X
+0020	GW103	020	Paddington to Uffington MLN1 Western	04/08/08	Total Sidings GF	15	76	
+0020	GW103	020	Paddington to Uffington MLN1 Western	04/08/08		16	01	*
+0021	GW103	021	Paddington to Uffington MLN1 Western	05/08/06	LANGLEY	16	13	
+0021	GW103	021	Paddington to Uffington MLN1 Western	05/08/06		17	03	
+0021	GW103	021	Paddington to Uffington MLN1 Western	05/08/06	Dolphin Jn	17	03	X
+0021	GW103	021	Paddington to Uffington MLN1 Western	05/08/06		17	40	
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08		18	00	*
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08		18	20	*
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08		18	23	*
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08	Barrow crossing	18	29	WL
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08	SLOUGH	18	36	
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08	Slough S SB	18	36	X
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08	Slough New (SN) SB	18	46	*
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08		18	48	*
+0022	GW103	022	Paddington to Uffington MLN1 Western	04/08/08		18	49	*
+0023	GW103	023	Paddington to Uffington MLN1 Western	04/08/08		19	00	*
+0023	GW103	023	Paddington to Uffington MLN1 Western	04/08/08	Slough West	19	10	
+0023	GW103	023	Paddington to Uffington MLN1 Western	04/08/08	Farnham Road	19	36	
+0023	GW103	023	Paddington to Uffington MLN1 Western	04/08/08		19	40	*
+0023	GW103	023	Paddington to Uffington MLN1 Western	04/08/08	BURNHAM	20	77	
+0024	GW103	024	Paddington to Uffington MLN1 Western	11/10/08	TAPLOW	22	39	
+0024	GW103	024	Paddington to Uffington MLN1 Western	11/10/08	Maidenhead East	23	58	
+0024	GW103	024	Paddington to Uffington MLN1 Western	11/10/08		24	00	*
+0024	GW103	024	Paddington to Uffington MLN1 Western	11/10/08		24	01	*
+0024	GW103	024	Paddington to Uffington MLN1 Western	11/10/08	HABD	24	10	
+0024	GW103	024	Paddington to Uffington MLN1 Western	11/10/08	MAIIIENHEAD	24	19	
+0024	GW103	024	Paddington to Uffington MLN1 Western	11/10/08		24	24	
+0024	GW103	024	Paddington to Uffington MLN1 Western	11/10/08		24	29	
+0025	GW103	025	Paddington to Uffington MLN1 Western	04/08/08		24	40	*
+0025	GW103	025	Paddington to Uffington MLN1 Western	04/08/08	CSR Channel change DM	24	60	
+0025	GW103	025	Paddington to Uffington MLN1 Western	04/08/08		25	02	*
+0025	GW103	025	Paddington to Uffington MLN1 Western	04/08/08	CSR Channel change DR	25	60	
+0025	GW103	025	Paddington to Uffington MLN1 Western	04/08/08	Waltham (Maidenhead) WlLD	26	21	
+0025	GW103	025	Paddington to Uffington MLN1 Western	04/08/08	CSR Channel change UR	28	60	
+0025	GW103	025	Paddington to Uffington MLN1 Western	04/08/08	CSR Channel change UM	29	38	
+0025	GW103	025	Paddington to Uffington MLN1 Western	04/08/08	Ruscombe	29	45	
+0026	GW103	026	Paddington to Uffington MLN1 Western	04/08/08	Twyford East	30	68	
+0026	GW103	026	Paddington to Uffington MLN1 Western	04/08/08	TWYFORD	31	01	
+0026	GW103	026	Paddington to Uffington MLN1 Western	04/08/08	Henley Branch Jn	31	04	*
+0026	GW103	026	Paddington to Uffington MLN1 Western	04/08/08		31	56	
+0026	GW103	026	Paddington to Uffington MLN1 Western	04/08/08	Twyford West	31	62	
+0027	GW103	027	Paddington to Uffington MLN1 Western	04/08/08	Twyford HABD	32	02	
+0027	GW103	027	Paddington to Uffington MLN1 Western	04/08/08	Kennet Bridge Loop	34	33	
+0027	GW103	027	Paddington to Uffington MLN1 Western	04/08/08	(entry points)	34	33	X
+0027	GW103	027	Paddington to Uffington MLN1 Western	04/08/08		34	40	*
+0027	GW103	027	Paddington to Uffington MLN1 Western	04/08/08	Reading New Jn	35	40	*
+0027	GW103	027	Paddington to Uffington MLN1 Western	04/08/08		35	60	*
+0028	GW103	028	Paddington to Uffington MLN1 Western	01/12/07		35	69	*
+0028	GW103	028	Paddington to Uffington MLN1 Western	01/12/07	READING	35	78	
+0028	GW103	028	Paddington to Uffington MLN1 Western	01/12/07	Reading SB	36	01	R
+0028	GW103	028	Paddington to Uffington MLN1 Western	01/12/07		36	07	*
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	CSR Channel change to 06	36	16	
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	(down direction)	36	16	X
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	Westbury Line Jn	36	17	
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	Reading Maintenance Depot	36	17	X
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	and Lower Triangle Stabling Point	36	17	X
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	CSR Channel change 05	36	30	
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	(Up direction)	36	30	X
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08		36	35	*
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08		36	39	*
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	Reading West Jn	36	78	
+0029	GW103	029	Paddington to Uffington MLN1 Western	19/04/08	Down Sidings GF	36	78	
+0030	GW103	030	Paddington to Uffington MLN1 Western	05/08/06	Up Sidings GF	37	14	
+0030	GW103	030	Paddington to Uffington MLN1 Western	05/08/06	Scours Lane	37	60	
+0031	GW103	031	Paddington to Uffington MLN1 Western	05/08/06		37	71	*
+0031	GW103	031	Paddington to Uffington MLN1 Western	05/08/06		33	21	
+0031	GW103	031	Paddington to Uffington MLN1 Western	05/08/06	Tllehumt East	33	21	X
+0031	GW103	031	Paddington to Uffington MLN1 Western	05/08/06		38	46	
+0031	GW103	031	Paddington to Uffington MLN1 Western	05/08/06	TILEHURST	38	52	
+0031	GW103	031	Paddington to Uffington MLN1 Western	05/08/06	PANGBOURNE	41	43	
+0032	GW103	032	Paddington to Uffington MLN1 Western	09/12/06	Basildon HABD	43	42	
+0032	GW103	032	Paddington to Uffington MLN1 Western	09/12/06		44	00	*
+0032	GW103	032	Paddington to Uffington MLN1 Western	09/12/06	GORING &81'REATLEY	44	60	
+0032	GW103	032	Paddington to Uffington MLN1 Western	09/12/06	CHOLSEY	48	37	
+0032	GW103	032	Paddington to Uffington MLN1 Western	09/12/06	Chelsey WILD	49	05	
+0032	GW103	032	Paddington to Uffington MLN1 Western	09/12/06		49	20	*
+0033	GW103	033	Paddington to Uffington MLN1 Western	05/08/06		51	20	
+0033	GW103	033	Paddington to Uffington MLN1 Western	05/08/06	Moreton Cutting	51	20	X
+0033	GW103	033	Paddington to Uffington MLN1 Western	05/08/06		51	53	
+0033	GW103	033	Paddington to Uffington MLN1 Western	05/08/06		51	71	
+0033	GW103	033	Paddington to Uffington MLN1 Western	05/08/06	Didcot East	51	71	X
+0033	GW103	033	Paddington to Uffington MLN1 Western	05/08/06		52	14	
+0033	GW103	033	Paddington to Uffington MLN1 Western	05/08/06		52	25	*
+0034	GW103	034	Paddington to Uffington MLN1 Western	05/08/06	Didcot East Jn	52	66	
+0034	GW103	034	Paddington to Uffington MLN1 Western	05/08/06		52	72	*
+0034	GW103	034	Paddington to Uffington MLN1 Western	05/08/06	DIDCOT PARKWAY	53	10	
+0034	GW103	034	Paddington to Uffington MLN1 Western	05/08/06	Chester Line Jn	53	12	*
+0035	GW103	035	Paddington to Uffington MLN1 Western	05/08/06		53	47	*
+0035	GW103	035	Paddington to Uffington MLN1 Western	05/08/06	Foxhall Jn	53	55	
+0035	GW103	035	Paddington to Uffington MLN1 Western	05/08/06		53	66	
+0036	GW103	036	Paddington to Uffington MLN1 Western	05/08/06		55	00	
+0036	GW103	036	Paddington to Uffington MLN1 Western	05/08/06	Milton	55	19	
+0036	GW103	036	Paddington to Uffington MLN1 Western	05/08/06		56	00	*
+0036	GW103	036	Paddington to Uffington MLN1 Western	05/08/06	Steventon	56	32	
+0036	GW103	036	Paddington to Uffington MLN1 Western	05/08/06	Stocks Lane LC	56	58	CCTV
+0036	GW103	036	Paddington to Uffington MLN1 Western	05/08/06	Causeway LC	56	72	M03
+0036	GW103	036	Paddington to Uffington MLN1 Western	05/08/06	Wantage Road HABD	59	57	
+0036	GW103	036	Paddington to Uffington MLN1 Western	05/08/06	Butterfly Lane LC	59	61	UWC
+0037	GW103	037	Paddington To Uffington MLN1 Western	05/08/06	Wantage Road	60	22	
+0037	GW103	037	Paddington To Uffington MLN1 Western	05/08/06		60	51	*
+0037	GW103	037	Paddington To Uffington MLN1 Western	05/08/06	Grove LC	61	37	UWC
+0037	GW103	037	Paddington To Uffington MLN1 Western	05/08/06	Challow	64	00	

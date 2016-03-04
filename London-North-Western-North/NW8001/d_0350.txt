@@ -1,0 +1,14 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills (Down and Up
+Southport lines only)
+USP = Up Southport
+DSP = Down Southport
+Platform Lengths: Bank Hall
+Up: (bi-di) 150 metres (164 yards)
+Down: 150 metres (164 yards)
+OT applies on the 'Down & Up' Goods line.
+Platform Lengths: Beetle Oriel Road
+Up 127 metres (139 yards)
+Down 127 metres (139 yards)
+

@@ -1,0 +1,88 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	Armley Jn	0	12	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08		0	20	*
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08		0	40	*
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08		0	44	*
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	BURLEY PARK	1	27	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	Headingley Tunnel	1	72	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	(64m I 70 yards) to	1	75	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	HEADINGLEY	2	11	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08		2	27	*
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	HORSFORTH	4	61	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08		4	65	*
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	Horsferth SB	4	70	H
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08		4	75	*
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	Bramhope Tunnel	5	65	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	(3439m I2m 241 yards) to	7	76	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	Wescoehill Tunnel	10	14	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	(91m I 100 yards) to	10	18	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	WEETON	10	62	
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	Low Moor Farm LC	11	66	UWC
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	Rigton SB	12	15	RN
+0363	LN838	001	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 London North Eastern	18/10/08	Rigton LC	12	15	MOB
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06	New York Farm LC	12	55	UWC
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06	PANNAL	14	03	
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06		15	09	*
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06		15	28	*
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06		16	25	*
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06	HORNBEAM PARK	16	26	
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06		16	29	*
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06		16	41	*
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06		17	16	*
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06	HARROGATE	17	24	
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06		20	38	
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06	Harrogate SB	20	38	H
+0364	LN838	002	Leeds Armley Jn. to York Skelton Jn. via Harrogate LEH1 LEH2 LEH3 HAY2 London North Eastern	02/12/06		20	21	*
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07	STARBECK	18	27	
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07	Starbeck LC iMCB)	18	24	
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07	Starbeck SB SB)	18	24	
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07		18	23	*
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07		18	13	*
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07	Belmont LC	17	69	MCB
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07		17	50	*
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07		17	27	*
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07		16	74	*
+0365	LN838	003	Leeds Armley Jn. York Skelton Jn. via Harrogate HAY2 HAY1 London North Eastern	24/03/07		16	59	*
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Knaresborough SB	16	54	K
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Knaresborough LC	16	54	MCG
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	KNARESBOROUGH	16	54	
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Knaresborough Tunnel	16	48	
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	(163m I 178 yards) to	16	40	*
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		16	27	*
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		16	24	*
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Oakwood Farm LC RIG	14	47	
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Flaxby Grange LC	12	68	UWC
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Hopperlon Old Station LC	12	16	UWC
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Hopperton Grange LC	11	70	UWC
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Whixley LC	11	08	MCG
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		10	23	*
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Cattal LC {MCG)	10	20	
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Cattal SB	10	20	
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	CATTAL	10	20	
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		10	16	*
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Hammerton Road LC	9	17	MCG
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Hammerton LC	8	61	M06
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Hammerton SB	8	61	
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	HAMMERTON	8	61	
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		8	56	*
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		8	53	*
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Wilstrop LC	7	45	M06
+0366	LN838	004	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Rothmall Lane	9	02	UWC
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Marston Moor LC	6	05	
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Hessay WD GIF	5	43	
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Hessay LC	5	11	
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		5	10	*
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		4	53	*
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Cat Lane LC	4	28	UWC
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		3	47	*
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		2	78	*
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Poppleton SB	2	74	
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Poppleton LC	2	74	
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	POPPLETON	2	72	
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		2	69	*
+0367	LN838	005	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		2	35	*
+0368	LN838	006	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Nether Poppleton LC	2	34	AHBC
+0368	LN838	006	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		2	33	*
+0368	LN838	006	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		1	65	*
+0368	LN838	006	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06		1	58	
+0368	LN838	006	Leeds Armley Jn. to York Skelton Jn. via Harrogate HAY1 London North Eastern	02/12/06	Skelton Jn	1	50	

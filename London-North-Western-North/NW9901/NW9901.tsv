@@ -1,0 +1,120 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	GARGRAVE	224	79	
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	Gargrave HABD (to York box)	226	59	
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	Network Rail London North Western	230	00	
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	(Appendix Boundary)	230	00	X
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	Switches Farm LC	230	05	UWC
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	Haw Lane LC	230	68	UWC
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	Hellifield SB	231	14	
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	HELLIFIELD	231	20	
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06		231	35	
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06		231	45	
+0408	NW9901	001	Gargrave to Carlisle South Jn. SKW LNW North	07/10/06	LONG PRESTON	232	41	
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06		234	42	*
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06	Settle Junction 33	234	44	
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06	SETrLE	236	40	
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06		237	63	
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06		238	26	
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06	Stainforth Tunnel	238	54	
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06	(110m I 120 yds) to	238	59	
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06	Crag Hill Farm LC	241	31	UWC
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06	HORTON-IN-RIBBLESDALE	242	43	
+0409	NW9901	002	Gargrave to Carlisle South Jn. SKW SAC LNW North	07/10/06		245	00	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		246	70	*
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	RIBBLEHEAD	247	13	down
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		247	16	*
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	RIBBLEHEAD	247	20	up
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Ribblehead GF	247	22	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		247	40	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		248	24	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		248	28	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		248	34	*
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Blea Moor SB	248	39	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		249	20	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		249	22	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Blea MoorTunnel	249	25	
+0410	NW9901	003	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(2403m I 1 mile 869 yds) to 249 40 * to	250	65	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		250	70	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		251	12	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		252	25	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		253	19	*
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		253	24	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		253	30	*
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	DENT	253	32	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		253	35	*
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		253	45	*
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		254	06	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Risehill Tunnel	254	11	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(1109m! 1213 yds) to	254	66	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		254	72	
+0411	NW9901	004	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		254	76	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		256	54	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	GARSDALE	256	55	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Garsdale SB	256	55	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Moorcock Tunnel	257	39	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(90m [98 yds) to	257	44	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Grisedale LC	257	68	UWC
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Shotlock Hi|| Tunnel	258	38	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(97m I 106 yds) to	256	43	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		260	05	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		263	22	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Birkett Tunnel	264	23	
+0412	NW9901	005	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(388m I 424 yds) to	264	42	
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Kirkby Stephen SB	266	40	
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	KIRKBY STEPHEN	266	47	
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Crosby Garrett Tunnel	269	00	
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(165m I 181 yds) to	269	06	
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		269	48	
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		269	67	
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Grisebum LC	271	73	UWC
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Helm Tunnel	273	13	
+0413	NW9901	006	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(523m [571 yds) to	273	39	
+0414	NW9901	007	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	APPLEBY	277	22	
+0414	NW9901	007	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Appleby North SB	277	34	
+0414	NW9901	007	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		277	56	
+0415	NW9901	008	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		280	50	*
+0415	NW9901	008	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		281	43	*
+0415	NW9901	008	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		281	54	*
+0415	NW9901	008	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Kirkby Thore SB	282	02	KT
+0415	NW9901	008	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		283	30	
+0415	NW9901	008	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Culgaith SB LC	284	55	M03
+0415	NW9901	008	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Culgaith Tunnel	284	78	
+0415	NW9901	008	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(604m [661 yds) to	285	28	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Waste Bank Tunnel	285	48	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(150m I 164 yds) to	285	55	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		288	19	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	LANGWATHBY	288	23	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		290	60	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		290	63	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	Lazonbg Tunnel	292	25	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	(90m I 9 yds) to	292	30	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06	LAZONBY & KIRKOSWALD	292	50	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		292	61	
+0416	NW9901	009	Gargrave to Carlisle South Jn. SAC LNW North	07/10/06		295	24	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	Baron Wood No.1 Tunnel	295	42	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	(189m I 207 yds) to	295	51	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08		295	51	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	Baron Wood No.2 Tunnel	295	55	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	(230m I 252 yds) to	295	67	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	Armathwaite Tunnel	296	51	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	(297m I 325 yds) to	296	66	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	ARMAfl-IWAITE	298	09	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08		298	16	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08		298	79	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08		299	25	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08		299	42	
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	Low House LC	299	55	M03
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	Low House Crossing SB	299	55	LH
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	Horrooks LC	300	73	UWG
+0417	NW9901	010	Gargrave to Carlisle South Jn. SAC LNW North	16/11/08	Syke Foot LC	301	18	UWC
+0418	NW9901	011	Gargrave to Carlisle South Jn. SAC NEC LNW North	26/02/07		302	63	
+0418	NW9901	011	Gargrave to Carlisle South Jn. SAC NEC LNW North	26/02/07	Howe &Co. Sdg SB	302	77	HS
+0418	NW9901	011	Gargrave to Carlisle South Jn. SAC NEC LNW North	26/02/07		303	13	
+0418	NW9901	011	Gargrave to Carlisle South Jn. SAC NEC LNW North	26/02/07		304	17	
+0418	NW9901	011	Gargrave to Carlisle South Jn. SAC NEC LNW North	26/02/07		307	05	*
+0418	NW9901	011	Gargrave to Carlisle South Jn. SAC NEC LNW North	26/02/07	Petteril Bridge Jn	307	12	*
+0418	NW9901	011	Gargrave to Carlisle South Jn. SAC NEC LNW North	26/02/07		59	26	*
+0419	NW9901	012	Gargrave to Carlisle South Jn. NEC LNW North	07/10/06	London Road Jn	59	45	
+0419	NW9901	012	Gargrave to Carlisle South Jn. NEC LNW North	07/10/06		59	49	*
+0419	NW9901	012	Gargrave to Carlisle South Jn. NEC LNW North	07/10/06	Carlisle South Jn	60	02	
+0419	NW9901	012	Gargrave to Carlisle South Jn. NEC LNW North	07/10/06		68	73	

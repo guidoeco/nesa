@@ -1,0 +1,11 @@
+FoxhallJn
+
+Chester Line Jn 53 12
+
+DHcotWestCuweJn 53 51 *-
+
+Didcot North Jn (Up) 53 71 i:
+
+Didcot North Jn (On) 54 00
+54 05 *
+

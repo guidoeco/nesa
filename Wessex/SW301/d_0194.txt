@@ -1,0 +1,19 @@
+NRN CSR
+
+TCB Three Bridges SB (T)
+RAB DC: Brighton
+
+UCL 1239 ft
+
+Platform 1 PP
+
+Platform 2 PP
+
+Platform 3 PP-A (detaching only)
+
+A - Up Loop No.1
+
+B - Up Loop No.2
+
+0 - Down Loop
+

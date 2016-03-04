@@ -1,0 +1,13 @@
+Shirebrook East Jn 145 62
+145 65 *
+LANGWITH WHALEY - THORNS 147 14
+Nomood LC(MCG) 147 71
+149 05
+GRESWELL 149 26
+Elmton&0reswellJn SB 149 37
+Whitwell Tunnel 150t003
+(544 yards) 150 28
+WHITWELL 150 56
+Woodend Jn 153 70 *-
+Shireoaks East Jn 154 30
+

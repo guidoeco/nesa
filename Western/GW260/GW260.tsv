@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0131	GW260	001	Kennington Jn to Morris Cowley THA Western	11/08/07	Kennington Jn	61	08	
+0131	GW260	001	Kennington Jn to Morris Cowley THA Western	11/08/07		18	45	
+0131	GW260	001	Kennington Jn to Morris Cowley THA Western	11/08/07	Single Line	18	36	
+0131	GW260	001	Kennington Jn to Morris Cowley THA Western	11/08/07	Morris Cowley GF (End of Section)	16	04	*

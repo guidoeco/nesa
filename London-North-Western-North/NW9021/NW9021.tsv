@@ -1,0 +1,40 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08	BUXTON	19	09	
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08	Buxton SB	18	70	
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08		18	67	*
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08		18	58	*
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08		16	14	
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08	DOVE HOLES	16	12	
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08		15	65	*
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08	Bannoor Clough Tunnel	15	29	
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08	(101ml111 yd) to	15	24	
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08		14	76	*
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08	Eaves Tunnel	14	74	
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08	(394m I 431 yd) to	14	55	
+0405	NW9021	001	Buxton to Hazel Grove East Jn BEJ LNW North	05/07/08		14	53	*
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		14	40	*
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Chapel-en—le—Frith SB	13	71	
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		13	70	
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	CHAPEL-EN-LE-FRITH	13	67	
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Chapel-en-Ie-Frith LC	13	65	UWC
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		12	00	
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		10	07	
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	WHALEY BRIDGE	10	04	
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	FURNESS VALE	8	62	
+0406	NW9021	002	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Furness Vale SB LC	8	58	MOB
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	NEW MILLS NEWTOWN	7	50	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		7	46	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Disley Tunnel	6	26	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	(159m I 174 yds) to	6	18	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	DISLEY	6	09	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		6	04	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Bullocks No.1 LC	5	23	UWC
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Middlewood Tunnel	4	60	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	(48m I 53 yds) to	4	57	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		4	29	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	MIDDLEWOOD	4	25	
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		4	20	*
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Norbury Hollow LC	3	60	MCG
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Towers Farm LC	3	40	UWC
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06		2	52	*
+0407	NW9021	003	Buxton to Hazel Grove East Jn. BEJ LNW North	07/10/06	Hazel Grove East Jn	2	35	*

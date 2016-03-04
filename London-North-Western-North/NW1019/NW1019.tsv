@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0045	NW1019	001	Acton Grange Jn. to Warrington South Jn (Helsby Lines). CHW LNW North	07/10/06	Acton Grange Jn	16	19	
+0045	NW1019	001	Acton Grange Jn. to Warrington South Jn (Helsby Lines). CHW LNW North	07/10/06		16	22	*
+0045	NW1019	001	Acton Grange Jn. to Warrington South Jn (Helsby Lines). CHW LNW North	07/10/06		17	16	
+0045	NW1019	001	Acton Grange Jn. to Warrington South Jn (Helsby Lines). CHW LNW North	07/10/06	Walton Old Jn	17	23	
+0045	NW1019	001	Acton Grange Jn. to Warrington South Jn (Helsby Lines). CHW LNW North	07/10/06		17	68	*
+0045	NW1019	001	Acton Grange Jn. to Warrington South Jn (Helsby Lines). CHW LNW North	07/10/06	Warrington South Jn	17	76	

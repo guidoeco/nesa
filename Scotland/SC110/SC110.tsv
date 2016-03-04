@@ -1,0 +1,4 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0197	SC110	001	Carmuire East Jn to Larbet Jn PM1 Scotland	14/05/07	\uirs East Jn	25	79	
+0197	SC110	001	Carmuire East Jn to Larbet Jn PM1 Scotland	14/05/07		26	18	*
+0197	SC110	001	Carmuire East Jn to Larbet Jn PM1 Scotland	14/05/07	:rt Jn	26	35	

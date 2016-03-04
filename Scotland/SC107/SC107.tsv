@@ -1,0 +1,75 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I	Waverley	0	21	
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I	(East End)	0	21	X
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I		0	19	*
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I		0	11	*
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I		0	10	*
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I	Edinburgh SC	0	07	
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I	EDINBURGH WAVERLEY	0	00	
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I		0	00	
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I	Waverley	0	15	
+0173	SC107	001	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ? EGM4 Scotland 01/12/07	I	(West End)	0	15	X
+0174	SC107	002	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 Scotland	19/11/07		0	16	
+0174	SC107	002	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 Scotland	19/11/07	Mound Tunnels to 130 yards	0	22	
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07		0	33	*
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07	Haymarket North &South Tunnels	0	47	*
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07	1040 Yards to	1	14	
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07	HAYMARKET	1	19	
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07		46	02	
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07		45	78	*
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07		1	27	*
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07		45	73	*
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07	Haymarket East Jn	45	72	
+0175	SC107	Edinburgh	Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM3 EGM2 Scotland	01/12/07		1	29	
+0176	SC107	004	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM2 Scotland	27/12/06		1	63	*
+0176	SC107	004	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM2 Scotland	27/12/06	Haymarket Central Jn	45	35	
+0176	SC107	004	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGM2 Scotland	27/12/06		1	66	
+0177	SC107	005	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGMZ EGM1 Scotland	27/12/06	Haymarket West Jn	44	73	
+0177	SC107	005	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGMZ EGM1 Scotland	27/12/06		2	28	
+0177	SC107	005	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGMZ EGM1 Scotland	27/12/06		44	60	*
+0177	SC107	005	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) ECN2 EGMZ EGM1 Scotland	27/12/06	EDINBURGH PARK	42	34	
+0178	SC107	006	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	18/10/08	Newbridge Jn	38	71	
+0178	SC107	006	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	18/10/08		38	40	*
+0179	SC107	007	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		38	02	*
+0179	SC107	007	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		37	24	*
+0179	SC107	007	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		35	50	*
+0179	SC107	007	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		35	48	
+0179	SC107	007	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Winchburgh Tunnel to 360 yards	35	32	*
+0180	SC107	008	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Winchburgh Jn	34	54	
+0180	SC107	008	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		34	45	*
+0181	SC107	009	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 ? Scotland	12/10/08	Engineers Sdg GF	29	65	OOU
+0181	SC107	009	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 ? Scotland	12/10/08	LINLITHGOW	29	56	
+0181	SC107	009	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 ? Scotland	12/10/08		29	33	*
+0182	SC107	010	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		28	00	*
+0182	SC107	010	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Bo'ness GF	27	46	
+0182	SC107	010	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Bo'ness	27	18	
+0182	SC107	010	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		25	65	*
+0182	SC107	010	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	POLMONT	25	00	
+0183	SC107	011	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Polmont Jn &SB	24	60	
+0183	SC107	011	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		24	40	*
+0183	SC107	011	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		24	36	*
+0184	SC107	012	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	27/12/06		22	60	*
+0184	SC107	012	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	27/12/06	Falkirk Tunnel	22	35	
+0184	SC107	012	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	27/12/06	to 860 yards	21	75	*
+0184	SC107	012	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	27/12/06	FALKIRK HIGH	21	63	
+0185	SC107	013	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Greenhill Upper Jn and SB	17	29	
+0185	SC107	013	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	CROY	11	40	
+0186	SC107	013	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	13/10/07	Gartshore emergency GF	10	46	
+0186	SC107	013	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	13/10/07	Gartshore	10	25	
+0186	SC107	013	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	13/10/07	LENZIE	6	20	
+0187	SC107	015	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Cadder (East end)	5	34	
+0187	SC107	015	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Notice Board (Down ArriVal)	4	76	
+0187	SC107	015	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Notice Board (Down Departure)	4	62	
+0187	SC107	015	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Cadder (West end)	4	46	
+0188	SC107	016	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	BISHOPBRIGGS	3	19	
+0188	SC107	016	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		3	15	*
+0188	SC107	016	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		2	20	*
+0188	SC107	016	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Cowlairs East Jn	2	12	
+0189	SC107	017	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Cowlairs SC	1	71	
+0189	SC107	017	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Cowlairs West Jn	1	67	
+0190	SC107	018	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06		1	30	*
+0190	SC107	018	Edinburgh Waverley to Glasgow Queen Street (via Falkirk High) EGM1 Scotland	02/12/06	Cowlairs South Jn	1	25	
+0191	SC107	019	Edinburah Waverlev to Glasaow Queen Street (via Falkirk Hiah) EGM1 Scotland	26/05/08	Queen St High Level Tunnel	0	60	
+0191	SC107	019	Edinburah Waverlev to Glasaow Queen Street (via Falkirk Hiah) EGM1 Scotland	26/05/08		0	30	*
+0191	SC107	019	Edinburah Waverlev to Glasaow Queen Street (via Falkirk Hiah) EGM1 Scotland	26/05/08	990 yards	0	15	
+0191	SC107	019	Edinburah Waverlev to Glasaow Queen Street (via Falkirk Hiah) EGM1 Scotland	26/05/08	QUEEN ST HIGH LEVEL	0	00	

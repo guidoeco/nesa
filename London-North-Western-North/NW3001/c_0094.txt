@@ -1,0 +1,10 @@
+Holywell Junction SB 195 76
+196 03 *-
+Bodlondeb LC (UWC) 196 09
+196 10 a:
+Maesteg LC (UWC) 196 24
+197 11 *
+197 26 *
+Mostyn SB 199 12
+Mostyn Dock Exchange Sidings
+

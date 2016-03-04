@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06	Park Lane Jn	100	65	
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06		100	70	
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06		100	72	*
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06		101	15	*
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06		0	00	*
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06	Greensfield Jn	0	21	*
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06		0	16	*
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06	King Edward Bridge East Jn	0	30	
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06	Tyneside SB	0	32	T
+0518	LN676	001	Park Lane Jn to King Edward Bridge South Jn. PLG1 PLG2 HLK London North Eastern	02/12/06	King Edward Bridge South Jn	0	48	

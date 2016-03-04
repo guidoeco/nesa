@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0246	NW5008	001	Norton Bridge to Stone Jn. NBS LNW North	07/10/06	NORTON BRIDGE	138	68	
+0246	NW5008	001	Norton Bridge to Stone Jn. NBS LNW North	07/10/06	Norton Bridge Jn	133	79	
+0246	NW5008	001	Norton Bridge to Stone Jn. NBS LNW North	07/10/06		3	57	*
+0246	NW5008	001	Norton Bridge to Stone Jn. NBS LNW North	07/10/06		3	47	*
+0246	NW5008	001	Norton Bridge to Stone Jn. NBS LNW North	07/10/06	Parrot's LC	3	39	UWC
+0246	NW5008	001	Norton Bridge to Stone Jn. NBS LNW North	07/10/06	OHNS	0	17	
+0247	NW5008	002	Norton Bridge to Stone Jn. NBS LNW North	07/10/06		0	16	*
+0247	NW5008	002	Norton Bridge to Stone Jn. NBS LNW North	07/10/06	STONE	0	07	
+0247	NW5008	002	Norton Bridge to Stone Jn. NBS LNW North	07/10/06	Stone Jn	0	00	
+0247	NW5008	002	Norton Bridge to Stone Jn. NBS LNW North	07/10/06		27	00	

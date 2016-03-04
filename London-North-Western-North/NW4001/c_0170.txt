@@ -1,0 +1,17 @@
+25 75 2k
+26 00
+26 07
+Grayrigg Loops 26 11 *
+26 30
+26 36
+Low Gill HABD 27 06
+28 01 i:
+28 02 *-
+Low Gill (former site of No.1 GF) 28 05
+Low Gill (former site of No.2 GF) 28 06
+29 03 i:
+29 14 'k
+31 14 at:
+31 17 i:
+OHNS 31 49
+

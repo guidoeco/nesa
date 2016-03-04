@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Kensal Green Jn	5	10	
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Continued in Network	0	00	
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Rail Anglia Route	0	00	X
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Sectional Appendix	0	00	X
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Territory Boundary	0	21	
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07		0	47	*
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07		0	52	*
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07		0	76	*
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07	Harlesden Jn	1	00	
+0056	MD155	001	Kensal Green Jn. to Harlesden Jn. (City Lines) KGC LNW South	17/03/07		6	01	

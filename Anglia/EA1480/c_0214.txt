@@ -1,0 +1,10 @@
+Change of mileage 24 00
+11 54
+ROUGHTON ROAD 11 55
+11 58 *-
+13 10 *
+Change of mileage 13 48 i:
+45 64
+Cromer Jn 46 27
+GROMER 46 42
+

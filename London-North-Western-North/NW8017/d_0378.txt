@@ -1,0 +1,10 @@
+NRN CSR
+OT Canning Street North SB
+OT(S) applies on Down Goods and Up Goods
+between Canning Street North box and Rock Fen'y
+(Merseyrail IECC).
+AWS not provided.
+Down and Up Goods lines out of use.
+DC: Sandhills (Down 8: Up Chester lines only).
+TCB Merseyrail IECC (ML)
+

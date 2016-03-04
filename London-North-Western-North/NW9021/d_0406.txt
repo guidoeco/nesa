@@ -1,0 +1,18 @@
+NRN
+AB Buxton SB
+Applies to Class 1, 2 and 5 trains
+Applies to light locomotives
+Applies to Class 3. 4, 6. 7 and
+8 trains
+Chapel-en-le-Frith SB
+Platform Lengths: Chapel-en-le-Frith
+Platform Up 86m (94 yds)
+Platform Down 92m (101 yds)
+Platform lengths: Whaley Bridge
+Platform Up 123m (135 yds)
+Platform Down 119m (130 yds)
+Platform Lengths: Furness Vale
+Platform Up 100m (109 yds)
+Platform Down 101m (110 yds)
+Fumess Vale SB
+

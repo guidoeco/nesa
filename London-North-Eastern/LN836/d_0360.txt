@@ -1,0 +1,15 @@
+NRN
+TCB York SB
+RAQ AC: York ECR
+DD= Down Doncaster
+UD= Up Doncaster
+DH U= Down Huddersfield
+UHU= Up Huddersfield
+DSM= Down Shipley Main
+USM= Up Shipley Main
+DHA= Down Harrogate
+UHA= Up Harrogate
+A= A Line B= B Line
+C= 0 Line D= D Line
+E= E Line F= F Line
+

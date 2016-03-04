@@ -1,0 +1,4 @@
+104 35 2k
+Syston East Jn 104 22
+Syston South Jn 103 77 1c
+

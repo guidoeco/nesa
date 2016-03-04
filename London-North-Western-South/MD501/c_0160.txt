@@ -1,0 +1,6 @@
+Water Orton West Jn 35 15
+36 08 *-
+36 11 1:
+Castle Bromwich Jn 36 14
+36 40 :1:
+

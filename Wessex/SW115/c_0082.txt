@@ -1,0 +1,12 @@
+100 10 *
+
+Kings Court FIP Crossing 104 45
+Hunts Path No. 1 Crossing 103 45
+Hunts Path No. 2 Crossing 103 52
+Shutes Crossing 104 71
+GILLINGHAM 105 23
+Gillingham SB (GM)
+
+Gillingham Tunnel 107 44
+(742 yards) 107 78
+

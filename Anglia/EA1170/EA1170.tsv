@@ -1,0 +1,29 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Hackney Downs North Jn	3	04	
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		3	07	*
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		3	13	*
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	REOTORY ROAD	3	64	
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	STOKE NEWINGTON	4	16	
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Stoke Newington Tunnel	4	19	
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	(60 yards) to	4	22	
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	STAMFORD HILL	5	03	
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		5	39	*
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Seven Sisters Jn	5	40	
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	SEVEN SISTERS	5	48	
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Seven Sisters GF	5	52	
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		5	75	*
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	BRUCE GROVE	6	28	
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		6	43	*
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	WHITE HART LANE	7	11	
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	White Hart Lane GF	7	36	
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	SILVER STREET	7	75	
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		8	40	*
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	EDMONTON GREEN	8	45	
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		8	65	*
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Bury Street Jn	9	20	
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	OHNS	9	30	
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	BUSH HILL PARK	9	69	
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	Lincoln Road LC	10	25	MCG
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06		10	33	*
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	ENFIELD TOWN	10	55	
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	Enfield Town Platform GF	10	55	X

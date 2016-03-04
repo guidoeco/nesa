@@ -1,0 +1,13 @@
+Castlefield Jn 189JP67
+33 57
+32 58 2k
+32 54 :1:
+32 09
+Trafford Pam East Jn 32 02
+31 76
+UNITEII Fc HALT 31 70
+Trafford Park WestJn 31 66 *
+Trafford Park Sidings 31 35
+TRAFFORD PARK 30 68
+HUMPHREY PARK 30 17
+

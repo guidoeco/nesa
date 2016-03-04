@@ -1,0 +1,64 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08	(Brighton)	0	00	
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08		0	22	*
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08	Hove Tunnel	0	30	
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08	(220 yards)	0	40	
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08	(Preston Park Jn)	49	43	
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08	Hove Jn	1	28	*
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08		50	48	
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08	Hove Substation	1	35	
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08	HOVE	1	35	
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08		50	56	
+0248	SO630	001	Brighton to Littlehampton BL|1 PPH Kent/Sussex	22/03/08		1	47	*
+0249	SO630	002	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	ALDRINGTON	1	74	
+0249	SO630	002	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	PORTSLADE	2	73	
+0249	SO630	002	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Portslade LC	2	79	CCTV
+0249	SO630	002	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Portslade Substation	3	01	
+0249	SO630	002	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	FISHERSGATE	3	47	
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	SOUTHWIOK	4	30	
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Shoreham East LG	5	50	CCTV
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Shoreham Ground Frame	5	50	
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Shoreham Substation	5	65	
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	SHOREHAM-BY-SEA	5	69	
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Shoreham-by—Sea LC	5	75	CCTV
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Lancing 33	8	15	LG
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Lancing LC	8	16	CCTV
+0250	SO630	003	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	LANCING	8	19	
+0251	SO630	004	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Lancing Substation	3	60	
+0251	SO630	004	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	EAST WORTHING	9	55	
+0251	SO630	004	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	WORTHING	10	46	
+0251	SO630	004	Brighton to Littlehampton BL|1 Kent/Sussex	19/04/08	Worthing LC	10	59	CCTV
+0252	SO630	005	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	West Worthing LC	11	25	CCTV
+0252	SO630	005	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	WEST WORTHING	11	30	
+0252	SO630	005	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	West Worthing Ground Frame	11	64	
+0252	SO630	005	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	West Worthing Substation	11	58	
+0253	SO630	006	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	DURRINGTON-ON—SEA	12	13	
+0253	SO630	006	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	GORING-BY-SEA	13	07	
+0253	SO630	006	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Goring LC	13	10	CCTV
+0253	SO630	006	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Goring TP Hut	13	42	
+0253	SO630	006	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Ferring LC	13	56	CCTV
+0253	SO630	006	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Langmeads No.1 Crossing	14	31	
+0254	SO630	007	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Roundstone LC	15	00	CCTV
+0254	SO630	007	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Angmering Substation	15	25	
+0254	SO630	007	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	ANGMERIHG	15	44	
+0254	SO630	007	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Angmering LC	15	48	CCTV
+0254	SO630	007	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Ground Frame	15	48	X
+0254	SO630	007	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Brook Lane Crossing	16	45	
+0254	SO630	007	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Nomay Lane Crossing	17	12	
+0254	SO630	007	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Toddington TP Hut	17	13	
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Toddington LC (AHBC)	17	49	*
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Lyminster LC	18	02	CCTV
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Bowem'lans Crossing	18	51	
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06		18	65	*
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06		18	67	*
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06		59	60	*
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Ford Substation	18	77	
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Arundel Jn	19	01	*
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06		59	75	
+0255	SO630	008	Brighton to Littlehampton BL|1 Kent/Sussex	02/12/06	Hutchings Crossing	59	76	
+0256	SO630	009	Brighton to Littlehampton BLI2 FJL Kent/Sussex	22/03/08	(Ford Jn)	0	00	
+0256	SO630	009	Brighton to Littlehampton BLI2 FJL Kent/Sussex	22/03/08	Littlehampton Jn	60	57	*
+0256	SO630	009	Brighton to Littlehampton BLI2 FJL Kent/Sussex	22/03/08		61	60	*
+0256	SO630	009	Brighton to Littlehampton BLI2 FJL Kent/Sussex	22/03/08	Littlehampton SB	61	69	LH
+0256	SO630	009	Brighton to Littlehampton BLI2 FJL Kent/Sussex	22/03/08	Littlehampton Substation	62	02	
+0256	SO630	009	Brighton to Littlehampton BLI2 FJL Kent/Sussex	22/03/08	LI1'PLEHAMPTON	62	03	

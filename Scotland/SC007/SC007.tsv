@@ -1,0 +1,21 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0036	SC007	001	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	Midcalder Jn	23	11	
+0036	SC007	001	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	LIVINGSTON SOUTH	21	16	
+0036	SC007	001	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06		21	11	
+0036	SC007	001	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	WEST CALDER	18	28	
+0036	SC007	001	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	West Calder Goods GF	18	14	
+0037	SC007	002	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	ADDIEWELL	16	50	
+0037	SC007	002	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	BREICH	14	00	
+0037	SC007	002	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06		13	20	*
+0037	SC007	002	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	FAULDHOUSE	11	70	
+0037	SC007	002	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06		11	55	*
+0037	SC007	002	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	Benhar	11	03	
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	SHOTPS	8	30	
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	HARTWOOD	6	62	
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06		5	45	
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	Bellside GF	3	60	
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	CE Sdg GF (OOU)	3	60	X
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	GLELAND	3	52	
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06		1	73	*
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	GARFIN	1	69	
+0038	SC007	003	MidcalderJn to Holytown Jn EGSZ Scotland	02/12/06	Holytown Jn	1	27	

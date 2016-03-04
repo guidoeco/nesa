@@ -1,0 +1,14 @@
+NRN
+TCB Guide Bridge SB (GB)
+AC: Crewe
+D&UPL='Down & up' Passenger Loop
+D&UPL= up direction 720m (2362ft)
+D&UPL= dn direction 875m (2871ft)
+Platform Lengths: Guide Bridge
+Up 151m (165yards)
+Down bi directional 146m (160yards)
+Platform Lengths: Fairfield
+Up 135m (148yards)
+Down 135m (148yards)
+Ashburys SB (AS)
+

@@ -1,0 +1,19 @@
+Soho South Jn 2 06
+Change of mileage 2 71
+
+2 42 'k
+Soho East Jn 2 38
+
+2 37 *
+Soho East GF 2 33
+OHNS 1 60
+OHNS 1 49
+Hamstead Tunnel 0 71
+(114 metres! 125 yds) to O 65
+Perry BarrWestJn 0 39
+Change of mileage 0 29
+
+0 O7 1:
+Perry Barr North Jn O 00
+Change of mileage 4 1o
+

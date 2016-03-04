@@ -1,0 +1,16 @@
+NRN
+TCB Birmingham New St. PSB (NS)
+AC: Rugby ECR
+TASS fitted
+Platform lengths:
+Platform 1-305 metres
+Platform 2-306 metres
+Platform 3-306 metres
+Platform 4-306 metres
+Platform 5-307 metres
+Platform lengths:
+Down Stour -169 metres
+Up Stour -169 metres
+UST = Up Stour
+DST = Down Stour
+

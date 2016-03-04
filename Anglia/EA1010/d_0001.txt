@@ -1,0 +1,21 @@
+NRN CSR
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+Platform 1 - 242m (264de) PP
+Platforms 2 to 8 - 252m (275yds) PP
+Platform 9 - 288m (314yds) PP
+Platform 10 - 248m (271yds) PP
+Platform 11 - 261 m (285yds) PP
+Platform 12 - 246m (269yds) PP
+Platform 13 - 256m (279yds) PP
+Platforms 14 8; 15 - 246m (269yds) PP
+Platforms 16 to 18 - 162m (177de) PP
+Also in the same building as the
+|.E.C.C. Stratford (North London) (S)
+Maximum permissible speed in station area
+15mph as far as 0m 25ch on main and surburban
+lines and 0m 27ch on electric lines
+AWS not provided between Om OOch and Om 27ch
+General instruction for broken rails applies at
+Bishopsgate tunnel
+

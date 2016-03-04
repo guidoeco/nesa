@@ -1,0 +1,24 @@
+Morecambe South Jn 0 00
+0 40 7:
+
+Bare Lane Jn 0 44
+0 46 *-
+
+BARE LANE 0 53
+
+Bare Lane SB 0 57
+
+Bare Lane LC (MCB) 0 59
+1 50 2k
+1 70 9:
+
+Morecambe Jn GF 1 71
+2 O2 *-
+
+MOREGAMBE 2 10
+(Moreeambe
+Line)
+
+Buffer stops 2 12
+(Heysham Line)
+

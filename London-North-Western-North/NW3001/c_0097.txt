@@ -1,0 +1,16 @@
+213 23
+Abergele SB (AE) 213 29
+ABERGELE&PENSARN 213 30
+
+213 42 1:
+Signal LJ.49 (Down) 216 75
+Llysfaen Emergency GF 217 09
+Signal LJ.5O (Up) 217 20 'k
+Penmaenrhos Tunnel 217 32
+(441 m I 482 yds) to 217 54
+GOLWYH BAY 219 37
+
+220 07 *-
+
+220 27 i:
+

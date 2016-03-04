@@ -1,0 +1,9 @@
+Woodgate LC (CCTV) 23 53
+Park Lane Crossing 23 71
+Woodgate TP Hut 24 29
+Decoy Crossing 24 64
+Woodhom LC (AHBC) 25 2O
+Drayton Substation 26 18
+Oving Crossing 26 21
+Drayton LC (AHBC) 26 48
+

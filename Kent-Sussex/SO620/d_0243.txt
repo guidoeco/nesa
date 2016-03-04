@@ -1,0 +1,15 @@
+NRN CSR
+TCB Lewes SB (LW)
+RAB DC: Brighton
+Permissive working authorised on
+UPL (up direction only), up branch
+and up main platform lines.
+08R
+UPL 17 (down), 26 (up)
+1 Up East Branch
+2 Down East Branch
+3 Up Lewes
+4 Down Lewes
+5 Up Main
+6 Down Main
+

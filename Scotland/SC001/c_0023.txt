@@ -1,0 +1,7 @@
+98 59 *
+98 60 *
+Rutherglen Central Jn 98 77
+99 14 *
+Rutherglen West Jn 99 20
+99 29 *
+

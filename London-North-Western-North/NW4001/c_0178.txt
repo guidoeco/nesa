@@ -1,0 +1,11 @@
+Carlisle SB (CE) 68 73
+Carlisle South Jn 68 76
+OARLISLE 69 09
+
+0 00
+
+0 14 *
+Carlisle North Junction 0 19
+
+0 22 1e
+

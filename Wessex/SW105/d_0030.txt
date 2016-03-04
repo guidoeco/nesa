@@ -1,0 +1,9 @@
+NRN CSR
+TCB Eastleigh SB
+RAB DC:Eastleigh
+(D - Trains other than those composed entirely of
+Class 442, 444, 450 units or HST's must not
+exceed 90 mph
+1 Departure Road
+2 Reception Road No.1
+

@@ -1,0 +1,11 @@
+Bamt Green Jn 51 53
+BARNT GREEN 51 67
+Signal SY.3 (Down direction) 51 72
+Junction 52 11 *
+53 34 9:
+ALVECHUIICH 53 40
+Alvechurch Station LC 53 43
+53 52 *
+56 08 2k
+REDDITCH 56 60
+

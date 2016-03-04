@@ -1,0 +1,18 @@
+158 18 *-
+Sheffield South Jn 158 27
+Sheffield SB (3) 158 29
+
+158 32 *
+SHEFFIELD 158 40
+Sheffield North Jn 158 52
+
+158 80 1:
+
+158 67 *-
+Nunnery Main Line Jn 158 77
+Broad Street Tunnel 158t 77
+
+o
+
+(109yards) 159 02
+

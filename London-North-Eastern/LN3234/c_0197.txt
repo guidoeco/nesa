@@ -1,0 +1,6 @@
+Syston East Jn 104 22
+0 17
+
+Syston North Jn 0 00
+104 23
+

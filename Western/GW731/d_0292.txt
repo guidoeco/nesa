@@ -1,0 +1,12 @@
+NRN
+AB Gobowen North SB (GN)
+RAB
+AB applies between Gobowen North
+and Croes Newydd North Fork
+CD Applies to all other trains
+@Applies to multiple unit trains only
+Location of known low rail adhesion
+- 196m BOch and 197m 400h
+Down platform - 193m. 21 Tyds
+Up platform - 158m, 17'3de
+

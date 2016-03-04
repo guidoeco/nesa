@@ -1,0 +1,9 @@
+Walton Old Jn 17 23
+O 68
+Arpley Grid Iron Jn South 0 66
+Arpley Yard
+0 1D *-
+Arpley Grid Iron Jn North 0 05
+Arpley Jn OJPOO
+11 03 i:
+

@@ -1,0 +1,9 @@
+Dalreoch Jn 16 39
+16 50 *-
+16 69 *
+RENTOH 16 11
+19 15 *
+ALEXANDRIA 19 20
+19 35 *
+BALLocH 20 38
+

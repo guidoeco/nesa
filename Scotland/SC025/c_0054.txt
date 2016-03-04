@@ -1,0 +1,14 @@
+2 46 9e
+
+2 56 *
+ARGYLE STREET 2 60
+
+2 79 9:
+GLASGOW CENTRAL 3 08
+
+3 13 i:
+
+3 16 *
+Anderston Tunnel West Portal 3 41
+ANDERSTON 3 42
+

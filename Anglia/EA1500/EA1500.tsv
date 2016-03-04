@@ -1,0 +1,22 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Brundall Jn	5	72	
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06		6	00	*
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	No.2 LC	6	11	
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Chapel Road LC	7	55	MCG
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	LINGWOOD	7	78	
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Lingwood LC	8	03	M06
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Single line	10	20	*
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Acle SB	10	33	A
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	AGLE	10	34	
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Single line	10	42	*
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06		10	50	*
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Damgate LC	11	06	
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	No.23 LC	12	27	
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Britannia Farm LC	15	14	
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06		17	04	*
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Breydon Access No.51 LC	17	02	
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07	REEDHAM			Z
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07		20	16	*
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07	Yarmouth SB	20	29	Y
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07	YARMOUTH	20	45	
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07	GF	20	45	

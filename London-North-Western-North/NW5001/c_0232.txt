@@ -1,0 +1,10 @@
+162 17 *
+Sandbach South Jn 162 28
+SANDBAGH 162 50
+Sandbach North .Jn 162 62
+
+162 63 9:
+
+162 66 *
+NRN channel change 156 00
+

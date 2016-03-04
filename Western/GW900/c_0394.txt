@@ -1,0 +1,12 @@
+158 33 5':
+Newport SB (N) 158 36
+NEWPORT I CASHEWYDD 158 50
+
+158 58 *
+
+158 62
+Newport Tunnel 158 70 *
+(704m, 770yds new)
+(884m, 748yds old) 158 71
+to 159 25
+

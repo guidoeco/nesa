@@ -1,0 +1,11 @@
+Aston North Jn 1 73
+Change of mileage 0 00
+
+0 01 *-
+
+0 28 *
+GRAVELLY HILL 1 18 *
+ERDINGTON 2 31
+CHESTER ROAD 2 77
+WYLDE GREEN 3 59
+

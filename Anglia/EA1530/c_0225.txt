@@ -1,0 +1,11 @@
+Redland GF 20 18
+21 01 *
+21 48 i:
+23 60 1e
+25 17 *
+
+Bury St Edmunds Yard (BY) SB 28 33
+28 37 *
+
+BURY ST. EDMUNDS 28 44
+

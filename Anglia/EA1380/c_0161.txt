@@ -1,0 +1,8 @@
+Becontree (LUL) 9 48
+Dagsnham Heathway (LUL) 10 36
+Dagsnham East (LUL) 11 25
+Dagenham East Crossovers 11 60
+Elm Park (LUL) 12 57
+Homchurch (LUL) 13 56
+Upminster Bridge (LUL) 14 38
+

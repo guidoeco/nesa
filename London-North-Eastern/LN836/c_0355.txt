@@ -1,0 +1,9 @@
+Dock Hills LC (CCTV) 156 63
+156 72 *-
+BENTLEY 157 47
+Bentley LC (CCTV) 157 52
+Atkinsons LC (UWC) 159 10
+ADWICK 159 72
+Carcroft Jn 160 08
+Adwick Jn 160 65
+

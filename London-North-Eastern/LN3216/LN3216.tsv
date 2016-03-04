@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0190	LN3216	001	Farringdon Junction to Blackfriars FTL London North Eastern	23/06/07	Farringdon Jn	0	53	
+0190	LN3216	001	Farringdon Junction to Blackfriars FTL London North Eastern	23/06/07		0	00	*
+0190	LN3216	001	Farringdon Junction to Blackfriars FTL London North Eastern	23/06/07	Snow Hill Tunnel	0	04	
+0190	LN3216	001	Farringdon Junction to Blackfriars FTL London North Eastern	23/06/07	(North Portal)	0	04	X
+0190	LN3216	001	Farringdon Junction to Blackfriars FTL London North Eastern	23/06/07	Route Boundary	0	07	*
+0190	LN3216	001	Farringdon Junction to Blackfriars FTL London North Eastern	23/06/07	Continued in Network Rail	0	07	X
+0190	LN3216	001	Farringdon Junction to Blackfriars FTL London North Eastern	23/06/07	Kent, Sussex and Wessex	0	07	X
+0190	LN3216	001	Farringdon Junction to Blackfriars FTL London North Eastern	23/06/07	Sectional Appendix	0	07	X

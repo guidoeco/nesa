@@ -1,0 +1,12 @@
+NRN
+NSTR Pantyffynnon SB
+RA5
+CD Light locomotives and loco-hauled
+trains class 1-5 must NOT exceed
+45mph. Class 6-8 trains must
+NOT exceed 30mph
+CL - 256m, 84011
+Down platform - 166m, 18.2de
+Up platform - 98m. 107yds
+Platform - 21 m, 215de
+

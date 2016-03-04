@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0155	NW3029	001	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	09/02/08	Sandbach North Jn	162	62	
+0155	NW3029	001	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	09/02/08		0	00	
+0155	NW3029	001	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	09/02/08	Limith electrification	0	22	
+0155	NW3029	001	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	09/02/08		0	44	
+0155	NW3029	001	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	09/02/08	Elworth Jn	0	52	*
+0155	NW3029	001	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	09/02/08	Higher Delacre LC	1	27	UWC
+0155	NW3029	001	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	09/02/08	British SaItGF	1	73	
+0156	NW3029	002	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	07/10/06	Middlewich Loop East Jn	3	39	
+0156	NW3029	002	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	07/10/06	NRN channel change	3	46	
+0156	NW3029	002	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	07/10/06	Middlewich Loop West Jn	4	05	
+0156	NW3029	002	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	07/10/06		8	30	*
+0156	NW3029	002	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	07/10/06	Northwich South Jn	8	37	
+0156	NW3029	002	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	07/10/06	Northwich West Jn	8	64	
+0156	NW3029	002	Sandbach North Jn. to Northwich West Jn. SNJ LNW North	07/10/06		20	74	

@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	Stourbridge North Jn	142	51	
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	Kingswinford Jn South SB (KJ)	144	33	*
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	Kingswinford Jn South	144	33	X
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06		145	37	*
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06		145	40	*
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	Round Oak Sidings	145	40	X
+0155	MD450	001	Stourbridge North Junction to Round Oak OWW LNW South	07/10/06	End of line	146	13	

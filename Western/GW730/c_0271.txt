@@ -1,0 +1,15 @@
+5 05 i:
+
+5 06 a7:
+
+5 25 i:
+
+5 26 *-
+
+6 20 *
+Dorrington SB 6 25
+
+6 47 *
+Micklewood No.2 LC (UWC) 7 67
+New House Farm LC(UWC) 8 45
+

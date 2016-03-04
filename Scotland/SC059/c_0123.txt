@@ -1,0 +1,11 @@
+23 40 9e
+25 27 a:
+25 68
+Milton of Larg No1 LC (UWC) 25 73
+Milton of Larg No 2 LC (UWC) 26 50
+Craig N02'LC(UWC) 28 10
+29 61 i:
+30 30 i:
+30 60 *
+Challoch LC (UWC) 30 63
+

@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0089	SC047	001	Muirhouse South Jn. to Lark?eld Jn. LFSZ LFS1 Scotland	27/12/08	Muirhouse South Jn	1	19	
+0089	SC047	001	Muirhouse South Jn. to Lark?eld Jn. LFSZ LFS1 Scotland	27/12/08	(Change of ELR	0	61	
+0089	SC047	001	Muirhouse South Jn. to Lark?eld Jn. LFSZ LFS1 Scotland	27/12/08	LFSZ to LFS1)	101	17	*
+0089	SC047	001	Muirhouse South Jn. to Lark?eld Jn. LFSZ LFS1 Scotland	27/12/08	Larkfield Jn	101	01	

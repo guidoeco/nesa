@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0087	SC045	001	East Kilbride to Busby Jn. EKE Scotland	27/12/08	EAST KILBRIDE	7	60	
+0087	SC045	001	East Kilbride to Busby Jn. EKE Scotland	27/12/08		6	64	
+0087	SC045	001	East Kilbride to Busby Jn. EKE Scotland	27/12/08	Hairmyres Loop	6	64	X
+0087	SC045	001	East Kilbride to Busby Jn. EKE Scotland	27/12/08		6	32	
+0087	SC045	001	East Kilbride to Busby Jn. EKE Scotland	27/12/08	HAIRMYRES	6	14	
+0087	SC045	001	East Kilbride to Busby Jn. EKE Scotland	27/12/08	THORNTONHALL	4	54	
+0088	SC045	002	East Kilbride to Busby Jn. EKE Scotland	27/12/08		4	09	*
+0088	SC045	002	East Kilbride to Busby Jn. EKE Scotland	27/12/08	BUSBY	3	54	
+0088	SC045	002	East Kilbride to Busby Jn. EKE Scotland	27/12/08		3	33	*
+0088	SC045	002	East Kilbride to Busby Jn. EKE Scotland	27/12/08	cLAnKS'ron	2	69	
+0088	SC045	002	East Kilbride to Busby Jn. EKE Scotland	27/12/08	GIFFNOCK	1	45	
+0088	SC045	002	East Kilbride to Busby Jn. EKE Scotland	27/12/08	THORNLIEBANK	0	53	
+0088	SC045	002	East Kilbride to Busby Jn. EKE Scotland	27/12/08		0	09	*
+0088	SC045	002	East Kilbride to Busby Jn. EKE Scotland	27/12/08	Busby Jn	0	40	

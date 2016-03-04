@@ -1,0 +1,11 @@
+NRN
+NSTR Whitland SB (W)
+RA7
+Location of known low rail adhesion
+- 269m 40ch and 269m 620h
+Platform - 128m, 140yds
+Platform - 105m, 115yds
+CL - 205m, 672ft
+Down platform - 150m, 164yds(Tel.)
+Up platform - 150m. 16-4de
+

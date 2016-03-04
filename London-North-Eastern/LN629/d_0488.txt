@@ -1,0 +1,11 @@
+NRN
+TCB Tyneside SB (T)
+A0: York ECR
+CD Equates to 50mph (No associated speed sign)
+DPC= Down Pelaw Chord
+TPWS not provided
+@ speeds apply to Metro trains only
+Signalling and Electrification controlled by
+Metro Control Centre
+(2) To Metro system
+

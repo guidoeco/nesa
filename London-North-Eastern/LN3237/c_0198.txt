@@ -1,0 +1,10 @@
+Loughborough South Jn 111 22
+92 49
+Network Rail Boundary 92 45 *-
+Bamstone Tunnel Bat 49
+o
+(98 yards) 89 45
+37 44 *-
+Hotchley Hill 87 38
+(Wheel Stop) 87 06
+

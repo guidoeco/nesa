@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	West Sleekbum Jn	0	00	
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09		0	29	*
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Winning Jn	0	32	
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Winning LC	0	36	MOB
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Winning SB	0	36	
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09		1	29	*
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Freemans LC	1	31	MOB
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Freemans SB	1	31	F
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09		1	32	
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09		1	35	
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Signal F811	1	63	Down
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09		1	70	
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09		1	72	
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Signal F816	1	76	Up
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09		1	79	*
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Cambois LC	2	10	TMO
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	Battleship Wharf GF	2	60	
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09		2	75	*
+0537	LN706	001	West Sleekburn Jn to North Blyth WSB London North Eastern	28/02/09	North Blyth	3	22	

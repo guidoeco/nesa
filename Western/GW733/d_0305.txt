@@ -1,0 +1,14 @@
+RETB 125 Maohynlleth SB (MH)
+RA5
+Signalled by Track Circuit Block
+between Maohynlleth and Dovey Jn.
+RETB 105
+RETB Emergency Telephone
+Platform - 190m, 208yds
+Signalled by Radio Electronic Token
+Block between Dovey Junction and
+Aberystwyth
+CD 10 mph over bridge for other
+
+than Class 15): trains
+

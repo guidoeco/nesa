@@ -1,0 +1,67 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0119	SO290	001	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	(North Kent East Jn)	4	25	
+0119	SO290	001	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		4	69	*
+0119	SO290	001	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	DEPTFORD	4	76	
+0119	SO290	001	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		5	07	*
+0119	SO290	001	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		5	27	*
+0119	SO290	001	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	GREENWICH	5	36	
+0119	SO290	001	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Greenwich Substation	5	37	
+0119	SO290	001	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		5	61	*
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Greenwich College Tunnel	5	65	
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	(450 yards) to	6	05	
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		6	09	*
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		6	18	*
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	MAZE HILL	6	27	
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		6	34	*
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		6	38	*
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	WESTGOMBE PARK	6	76	
+0120	SO290	002	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		7	16	*
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	(Blackheath Jn)	7	14	
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06		7	26	*
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	(Angerstein Jn)	8	46	*
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	Charlton Jn	7	35	*
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06		8	63	
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	Charlton Substation	7	40	
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	CHARLTON	7	44	
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	Charlton Lane LC	8	01	
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	Charlton Tunnel	8	03	
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	(154 yards) to	8	10	
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	Mount Street Tunnel	8	14	*
+0121	SO290	003	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL BTC AGW Kent/Sussex	02/12/06	(121 yards) to	8	20	
+0122	SO290	004	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Dockland Tunnel	8	43	
+0122	SO290	004	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	(121 yards) to	8	50	
+0122	SO290	004	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	WOOLWIGH DOGKYARD	8	56	
+0122	SO290	004	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Woolwich Dockyard TP Hut	8	56	
+0122	SO290	004	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Coleman Street Tunnel	8	81	
+0122	SO290	004	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	(89 yards) to	8	65	
+0122	SO290	004	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	George IV Tunnel	8	71	
+0122	SO290	004	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	(238 yards) to	9	02	
+0123	SO290	005	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Calderwood Street Tunnel	9	12	
+0123	SO290	005	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	(58 yards) to	9	15	
+0123	SO290	005	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Cross Street Tunnel	9	21	*
+0123	SO290	005	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	(134 yards) to	9	27	
+0123	SO290	005	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	WOOLWIOH ARSENAL	9	32	
+0123	SO290	005	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		9	42	*
+0124	SO290	006	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	PLUMSTEAD	10	01	
+0124	SO290	006	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Plumstead Substation	10	31	
+0125	SO290	007	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	ABBEY WOOD	11	43	
+0125	SO290	007	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Abbey Wood TP Hut	11	53	
+0125	SO290	007	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Belvedere Substation	12	70	
+0125	SO290	007	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	BELVEDERE	12	75	
+0125	SO290	007	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		14	00	*
+0125	SO290	007	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	Erith TP Hut	14	09	
+0125	SO290	007	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06	ERITH	14	18	
+0125	SO290	007	North Kent East Jn to Dartford Jn (via Greenwich) NKL Kent / Sussex	02/12/06		14	44	*
+0126	SO290	008	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL PSF BEX Kent/Sussex	02/12/06	SLADE GREEN	15	30	
+0126	SO290	008	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL PSF BEX Kent/Sussex	02/12/06	Slade Green Jn	15	36	
+0126	SO290	008	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL PSF BEX Kent/Sussex	02/12/06		15	31	
+0126	SO290	008	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL PSF BEX Kent/Sussex	02/12/06	Slade Green Substation	15	42	
+0126	SO290	008	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL PSF BEX Kent/Sussex	02/12/06	(Perry Street Fork Jn)	15	67	
+0126	SO290	008	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL PSF BEX Kent/Sussex	02/12/06		15	32	*
+0126	SO290	008	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL PSF BEX Kent/Sussex	02/12/06	Crayford Creek Jn	15	66	
+0126	SO290	008	North Kent EastJn to Darl'ford Jn (via Greenwich) NKL PSF BEX Kent/Sussex	02/12/06		15	36	
+0127	SO290	009	North Kent East Jn to Dartford Jn (via Greenwich) NKL CRA Kent / Sussex	02/12/06	Crayford Spur "A" Jn	16	42	
+0127	SO290	009	North Kent East Jn to Dartford Jn (via Greenwich) NKL CRA Kent / Sussex	02/12/06		16	41	
+0127	SO290	009	North Kent East Jn to Dartford Jn (via Greenwich) NKL CRA Kent / Sussex	02/12/06	(Crayford Spur 'B" Jn)	16	11	
+0127	SO290	009	North Kent East Jn to Dartford Jn (via Greenwich) NKL CRA Kent / Sussex	02/12/06	Dartford Substation	16	65	
+0127	SO290	009	North Kent East Jn to Dartford Jn (via Greenwich) NKL CRA Kent / Sussex	02/12/06	(Dartford Jn)	17	05	

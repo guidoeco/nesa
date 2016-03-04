@@ -1,0 +1,13 @@
+North Stafford Jn 5 14
+30 10 i
+30 09 i
+Findem LC (AHBC) 29 49
+Willington LC (AHBC) 29 19
+Egginton LC (AHBC) 27 50
+Hilton LC GF
+Hilton LC (MCG) 27 08
+Egginton Jn SB (EN) 26 69
+Spurriers No.2 (UWC) 26 06
+Hayside LC (UWC) 25 45
+Marston on Dove LC (AHBC) 25 28
+

@@ -1,0 +1,7 @@
+Walsall Pleck Jn 5 42
+Change of mileage 5 45
+
+1 16
+Darlaston Jn O 15
+Change of mileage g 65
+

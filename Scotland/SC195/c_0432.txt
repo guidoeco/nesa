@@ -1,0 +1,13 @@
+Buchanstone LC (UWC) 25 37
+Lamington Farm LC (UWC) 25 57
+25 69 *
+26 13 *
+Drakewell Farm LC (UWC) 26 55
+27 33 *
+INSGH 27 42
+Insch SB and LC (MCB) 27 47
+Shevock LC (UWC) 28 64
+31 00
+Kennethmont Station LC (UWC) 32 61
+Kennethmont SB 32 71
+

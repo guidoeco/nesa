@@ -1,0 +1,25 @@
+NRN CSR
+TCB Victoria SB (VC)
+RAB DC: Lewisham
+Authorised EWS Class 6 8: 7
+International Traffic are exempt from
+the 2/3rds rule over this route but
+are subject to a maximum of
+40mph between Mitre Bridge Jn and
+Purley Oaks.
+Platforms 9-19 PP
+All lines and connections between
+00m 40ch and platform ends in
+both directions up and down
+maximum speed 20 mph.
+Excluding Brighton Reversible
+which is 15 m.p.h.
+A.W.S not provided for emergency
+and temporary speed restrictions.
+1 Brighton Reversible
+2 Up Brighton Fast
+3 Down Brighton Fast
+4 Up Brighton Slow
+5 Down Brighton Slow
+6 Up Chatham Slow
+

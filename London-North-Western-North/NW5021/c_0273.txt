@@ -1,0 +1,15 @@
+STALYBRIDGE 7 63
+Staberidge SB (SE) 7 52
+Stalybridge Jn 7 46
+
+2 08
+
+1 74
+
+0 22
+
+0 19 *-
+Guide Bridge West Jn OJP O4
+
+5 1O
+

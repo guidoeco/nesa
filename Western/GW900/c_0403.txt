@@ -1,0 +1,13 @@
+190 21 *
+(18 68) :1:
+Barry Jn 190 35 1k
+BRIDGENDIPEN-Y-BONT 190 45
+Barrow crossing (WL) 190 53
+190 54 *
+190 59 *-
+Llynfi Jn 190 62
+190 65 'k
+Bridgend River Bridge 191 21
+191 24 i:
+191 70 a:
+

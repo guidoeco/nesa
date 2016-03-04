@@ -1,0 +1,21 @@
+End of Reversing Line CD 31 09
+
+Castle Hills Jn (D 30 63 *
+-0 04
+0 00
+
+Castle Hills Farm 0 17
+
+Crossing Stop Boards
+
+Network Rail! 0 13
+
+Wensleydale Railway Boundary
+
+Castle Hills East GF 0 19
+
+Castle Hills West Jn (Former) 0 28
+0 48
+
+Castle Hills West GF 0 67
+

@@ -1,0 +1,52 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Camden Jn (Down DC line)	1	36	
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Camden Jn (Up DC line)	1	40	
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	South Hampstead Tunnels	1	49	
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Down line:	1	49	X
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	1km 328 metres" 452 yards	1	49	X
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Up line:	1	49	X
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	1km 156 metres" 264 yards	1	49	X
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Camden Jn	1	50	
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	(North London lines)	1	50	X
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		2	27	*
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	SOUTH HAMPSTEAD	2	33	
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	CSR change	2	40	
+0035	MD120	001	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	KILBURN HIGH ROAD	3	01	
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		3	45	*
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	OIIEEN'S PARK	3	55	
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		3	58	*
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Queens Park Jn	3	71	
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	KENSAL GREEN	4	41	
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Kensal Green Tunnels	4	45	
+0036	MD120	002	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	(290 metres/317 yards)	4	59	
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		4	70	*
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		5	00	*
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	Willesden TMD	5	00	X
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	Willesden Suburban Jn	5	28	
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	WILLESDEN JUNCTION	5	36	
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	LOW LEVEL	5	36	X
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		5	43	*
+0037	MD120	003	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		5	47	*
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	HARLESDEN	6	08	
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	STONEBRIDGE PARK	7	04	
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Stonebridge Jn	7	07	
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Wembley Mainline SCC (WM. WS)	7	10	
+0038	MD120	004	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		7	54	*
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		7	70	*
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	WEMBLEY CENTRAL	8	09	
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	Wembley Central G.F.	8	14	
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	NORTH WEMBLEY	8	69	
+0039	MD120	005	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	SOUTH KENTON	9	35	
+0040	MD120	006	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	KENTON 1	0	24	
+0040	MD120	006	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	HARROW & WEALDSTONE	11	30	
+0040	MD120	006	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		11	31	*
+0040	MD120	006	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		11	46	*
+0041	MD120	007	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	08/10/06	HEADSTONE LANE	12	45	
+0041	MD120	007	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	08/10/06	HATCH END	13	25	
+0041	MD120	007	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	08/10/06	CARPEN DE RS PARK	14	57	
+0042	MD120	008	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		15	76	*
+0042	MD120	008	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	BUSHEY	16	04	
+0042	MD120	008	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06		16	09	*
+0042	MD120	008	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	07/10/06	WATFORD HIGH STREET	16	67	
+0043	MD120	009	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07		17	35	*
+0043	MD120	009	Camden Junction to Watford Junction (DC Lines) CWJ LNW South	01/12/07	WATFORD JUNGT ION	17	58	

@@ -1,0 +1,13 @@
+Bournville HABD 46 00
+
+Bournville Junction 46 11
+
+46 45 *
+
+Norton Station Jn 46 46
+46 54 *
+NORTON 46 59
+46 69 *
+
+Norton Jn 46 77
+Change of mileage 48 02

@@ -1,0 +1,26 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08	Wilmslow South Jn	176	53	
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08		0	00	
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08		0	10	*
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08	WILMSLOW	0	18	
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08	Styal Jn	0	40	
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08		0	66	*
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08		0	73	*
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08		1	20	*
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08		1	27	*
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08	STYAL	1	79	
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08	Heald Green South Jn	2	50	
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08	OHNS	3	05	
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08	Heald Green North Jn	3	13	
+0242	NW5003	001	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	09/02/08	HEALD GREEN	3	37	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08	GATLEY	5	11	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08	OHNS	5	72	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08	East Didsbury GF	6	20	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08	EAST DIDSBURY	6	25	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08	BURNAGE	7	18	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08	MAULDETH ROAD	6	07	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08		9	17	*
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08		9	20	*
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08	OHNS	9	33	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08	Slade Lane Jn	9	44	
+0243	NW5003	002	Wilmslow to Slade Lane Jn. (Styal lines) STY LNW North	26/12/08		186	46	

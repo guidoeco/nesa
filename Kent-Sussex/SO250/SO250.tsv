@@ -1,0 +1,47 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0101	SO250	002	Battersea Pier Jn to Wembley BSP1 Kent / Sussex	02/12/06	(Battersea Pier Jn)	0	71	
+0101	SO250	002	Battersea Pier Jn to Wembley BSP1 Kent / Sussex	02/12/06	Stewarts Lane Jn	1	36	
+0101	SO250	002	Battersea Pier Jn to Wembley BSP1 Kent / Sussex	02/12/06	Stewarts Lane	1	38	
+0101	SO250	002	Battersea Pier Jn to Wembley BSP1 Kent / Sussex	02/12/06	(Factory Jn)	1	61	
+0101	SO250	002	Battersea Pier Jn to Wembley BSP1 Kent / Sussex	02/12/06		6	58	
+0102	SO250	003	Battersea Pier Jn to Wembley BSP1 FLL2 Kent/Sussex	02/12/06	Longhedge Jn	1	66	*
+0102	SO250	003	Battersea Pier Jn to Wembley BSP1 FLL2 Kent/Sussex	02/12/06	Route Boundary	1	77	
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06	(West London Jn)	3	22	
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06	(CLAPHAM JUNCTION	3	74	
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06	Route Boundary	3	30	
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06		2	32	*
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06	Latchmere Jn No.3	2	39	
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06		0	40	
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06		2	42	*
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06	Latchmere TP Hut	0	56	
+0103	SO250	004	Battersea Pier Jn to Wembley CKL WLL Kent/Sussex	02/12/06	Latchmere Jn No.1	0	63	
+0104	SO250	005	Battersea Pier Jn to Wembley WLL CJL Kent/Sussex	02/12/06	(GLAPHAM JN)	3	74	
+0104	SO250	005	Battersea Pier Jn to Wembley WLL CJL Kent/Sussex	02/12/06	Latchmere Jn No.2	0	71	
+0104	SO250	005	Battersea Pier Jn to Wembley WLL CJL Kent/Sussex	02/12/06		1	10	*
+0104	SO250	005	Battersea Pier Jn to Wembley WLL CJL Kent/Sussex	02/12/06		1	40	*
+0105	SO250	006	Battersea Pier Jn to Wembley WLL Kent / Sussex	02/12/06	Chelsea Substation	1	70	
+0105	SO250	006	Battersea Pier Jn to Wembley WLL Kent / Sussex	02/12/06	WEST BROMPTON	2	43	
+0105	SO250	006	Battersea Pier Jn to Wembley WLL Kent / Sussex	02/12/06	Earls CourtTP Hut	2	74	
+0105	SO250	006	Battersea Pier Jn to Wembley WLL Kent / Sussex	02/12/06		3	20	*
+0105	SO250	006	Battersea Pier Jn to Wembley WLL Kent / Sussex	02/12/06		3	22	*
+0105	SO250	006	Battersea Pier Jn to Wembley WLL Kent / Sussex	02/12/06	KENSINGTON OLYMPIA	3	42	
+0105	SO250	006	Battersea Pier Jn to Wembley WLL Kent / Sussex	02/12/06	Kensington Olympia Substation	3	69	
+0106	SO250	007	Battersea Pier Jn to Wembley WLL Kent / Sussex	28/09/2008	SHEPHERDS BUSH	4	15	
+0106	SO250	007	Battersea Pier Jn to Wembley WLL Kent / Sussex	28/09/2008	Westway TP Hut	4	55	
+0106	SO250	007	Battersea Pier Jn to Wembley WLL Kent / Sussex	28/09/2008	North Pole Jn	5	32	*
+0106	SO250	007	Battersea Pier Jn to Wembley WLL Kent / Sussex	28/09/2008	North Pole Substation	5	62	
+0106	SO250	007	Battersea Pier Jn to Wembley WLL Kent / Sussex	28/09/2008	Boundary	5	65	
+0106	SO250	007	Battersea Pier Jn to Wembley WLL Kent / Sussex	28/09/2008		5	66	*
+0106	SO250	007	Battersea Pier Jn to Wembley WLL Kent / Sussex	28/09/2008	Mitre Bridge Jn	5	67	
+0106	SO250	007	Battersea Pier Jn to Wembley WLL Kent / Sussex	28/09/2008	Mitre Bridge LC	5	72	CCTV
+0107	SO250	008	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06		6	06	*
+0107	SO250	008	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06		6	08	*
+0107	SO250	008	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06	West London Jn	6	19	
+0107	SO250	008	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06		0	23	*
+0107	SO250	008	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06		0	24	*
+0107	SO250	008	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06		0	31	*
+0107	SO250	008	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06	(Willesden North Jn)	5	52	
+0108	SO250	009	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06		1	22	*
+0108	SO250	009	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06		1	46	*
+0108	SO250	009	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06	Wembley Yard South Jn	1	57	
+0108	SO250	009	Battersea Pier Jn to Wembley LLG Kent / Sussex	02/12/06		1	62	*

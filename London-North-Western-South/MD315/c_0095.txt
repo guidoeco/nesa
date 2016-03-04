@@ -1,0 +1,19 @@
+Stechford South Jn 106 66
+STECHFORD 109 06
+Stechford North Jn 109 12
+Change of mileage 109 16
+
+0 00
+
+0 04 i:
+
+0 05 i:
+OHNS 2 10
+
+2 40 *-
+
+2 56 at-
+Aston South Jn 2 61
+
+1 60
+

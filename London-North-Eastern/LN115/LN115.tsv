@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0033	LN115	001	Copenhagen Jn. to Camden Road Central Jn. CRF1 London North Eastern	26/03/2008	Copenhagen Jn	0	00	
+0033	LN115	001	Copenhagen Jn. to Camden Road Central Jn. CRF1 London North Eastern	26/03/2008	North London Incline OHNS	0	03	
+0033	LN115	001	Copenhagen Jn. to Camden Road Central Jn. CRF1 London North Eastern	26/03/2008	York Way North Jn	0	13	Future
+0033	LN115	001	Copenhagen Jn. to Camden Road Central Jn. CRF1 London North Eastern	26/03/2008	Network Rail LNEI	0	20	
+0033	LN115	001	Copenhagen Jn. to Camden Road Central Jn. CRF1 London North Eastern	26/03/2008	Anglia Route Boundary	0	20	X
+0033	LN115	001	Copenhagen Jn. to Camden Road Central Jn. CRF1 London North Eastern	26/03/2008	Camden Road Incline Jn	0	44	
+0033	LN115	001	Copenhagen Jn. to Camden Road Central Jn. CRF1 London North Eastern	26/03/2008	Camden Road Central Jn	0	51	

@@ -1,0 +1,27 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08	Kidsgrove Jn .	13	68	
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08		0	00	
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08	KIDSGROVE	0	05	
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08		0	08	*
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08		0	20	*
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08	OHNS	0	44	
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08	Coopers L.C.	1	35	UWC
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08		1	72	
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08		2	10	
+0031	NW1005	001	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	21/06/08		2	27	
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	ALSAGER	2	33	
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	Alsager Station LC	2	33	CCTV
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	Home Farm LC	3	01	UWC
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	Radway Green LC	4	07	CCTV
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	Lower Radway Green LC	4	26	UWC
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06		4	65	*
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	Barthomley Jn	4	67	
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	Barthomley LC	4	77	RIG
+0032	NW1005	002	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06		5	00	*
+0033	NW1005	003	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06		7	00	*
+0033	NW1005	003	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	North Stafford Jn	7	52	
+0033	NW1005	003	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06		7	53	*
+0033	NW1005	003	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06		8	08	*
+0033	NW1005	003	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06		8	27	
+0033	NW1005	003	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06		157	55	
+0033	NW1005	003	Kidsgrove Jn. to Crewe South Jn. KCS1 LNW North	07/10/06	Crewe South Jn	157	60	

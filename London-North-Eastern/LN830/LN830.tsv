@@ -1,0 +1,24 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Aldwarke Jn	7	25	Down
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Aldwarke Jn	7	14	Up
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		7	12	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		6	69	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Aldwarke New Site	6	39	
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		5	53	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		5	46	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		4	65	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		4	64	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	ROTHERHAM CENTRAL	4	60	
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Rotherham Central Jn	4	45	
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		4	40	
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		4	10	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		4	05	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Rotherham Main LC	4	01	UWC
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		3	60	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		3	57	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Tinsley East Jn	2	79	
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Tinsley South Jn	2	22	
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Broughton Lane Jn	1	36	
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		0	28	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06		0	07	*
+0351	LN830	001	Aldwarke Jn to Woodburn Jn WME London North Eastern	02/12/06	Woodburn Jn SB	0	00	W

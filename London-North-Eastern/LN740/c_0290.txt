@@ -1,0 +1,18 @@
+Marsh Lane LC (AHBC) 1 25
+0 75
+
+Kiln Lane LC (AOCL) 0 51
+0 18
+
+0 00
+
+106 50
+
+Immingham East Jn SB (I) 106 34
+Immingham East Jn 106 31
+106 21
+
+Ambulance LC (UWC) 104 39
+Immingham Reception Sidings SB (IR) 104 30
+Humber Road Jn 104 05
+

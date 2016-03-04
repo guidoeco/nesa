@@ -1,0 +1,24 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0234	LN3515	001	Melbourne Jn to Sinfin MJS London North Eastern	02/12/06	Melbourne Jn	1	27	
+0234	LN3515	001	Melbourne Jn to Sinfin MJS London North Eastern	02/12/06	Change of mileage	131	15	
+0234	LN3515	001	Melbourne Jn to Sinfin MJS London North Eastern	02/12/06	SINFIN NORTH	130	73	Closed
+0234	LN3515	001	Melbourne Jn to Sinfin MJS London North Eastern	02/12/06	Sinfin No1 GF	130	69	
+0234	LN3515	001	Melbourne Jn to Sinfin MJS London North Eastern	02/12/06	Sinfin No 2 GF	130	56	
+0234	LN3515	001	Melbourne Jn to Sinfin MJS London North Eastern	02/12/06	SINFIN CENTRAL	130	37	Closed
+0234	LN3515	001	Melbourne Jn to Sinfin MJS London North Eastern	02/12/06	Sinfin No 3 GF	130	31	
+0234	LN3515	001	Melbourne Jn to Sinfin MJS London North Eastern	02/12/06	Rolls Royce Ltd.	129	79	
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Manton Tunnel	90	26	
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	(749 yards) to	90	61	
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09		90	61	
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09		90	63	*
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Manton North Jn	91	05	
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Goodridges LC	91	61	UWC
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Gunthorpe LC	91	24	UWC
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Pattersons LC	92	00	UWC
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09		92	21	*
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Egleton LC	92	27	UWC
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Brooke Road LC	93	22	CCTV
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Oakham Station LC	93	56	M03
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	Oakham Crossing SB	93	56	
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09	OAKHAM	93	61	
+0254	LN3515	005	Helpston Jn t0 Syston South Jn GSM London North Eastern	28/03/09		94	13	*

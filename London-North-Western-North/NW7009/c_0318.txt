@@ -1,0 +1,11 @@
+BAMBER BRIDGE 2 29
+Bamber Bridge LC (MCB) (Not block post) 2 32
+2 34 *
+Hospital LC (CCTV) 3 24
+Bank Head LC (UWC) 3 52
+Coopers LC (UWC) 3 70
+Oram's No.1 LC (UWC) 3 77
+Oram's No.3 LC (UWC) 4 14
+Gregson Lane LC (UWC) 4 21
+Mintholme LC (CCTV) 4 49
+

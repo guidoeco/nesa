@@ -1,0 +1,17 @@
+NRN
+
+TCB Larberl North SB (LN)
+
+UGL = Up Goods Loop
+
+UGL 865f (260m)
+
+(41 SLU's)
+
+DGL = Down Goods Loop
+
+DGL 590f (180m)
+
+(28 SLU's)
+CD = UGL facing points OOU
+

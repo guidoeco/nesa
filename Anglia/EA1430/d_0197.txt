@@ -1,0 +1,7 @@
+NRN
+RETB 103 Saxmundham SB (SM)
+RA7
+@ Freight trains not to exceed 20mph
+TCB Oulton Broad North SB (OB)
+Platform - 138m (149 yds)
+

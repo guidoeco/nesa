@@ -1,0 +1,8 @@
+Gaerwen Jn 245 15
+0 00
+Gaerwen GF 0 16
+Shell GF 15 51
+16 60 *
+Network Rail Boundary 17 37
+Amlwch
+

@@ -1,0 +1,9 @@
+Shell Jn 0 00
+Network Rail Boundary 1 03
+Eastgate Mount LC (OPEN) 1 34 *
+ICI Wilton Jn 1 38
+ICI Weighbridge House 1 78
+Goal Access LC (OPEN) 2 07
+North Gate LC (OPEN) 2 24
+Cleveland Freightliner Terminal (Wilton) 2 61
+

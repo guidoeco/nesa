@@ -1,0 +1,13 @@
+Network Rail 13 74 *
+London North Western 14 00
+(Appendix Boundary)
+14 05 a:
+14 20 it
+14 30 *k
+14 40 *
+Rugeley No.1 GF 14 41
+RUGELEY TRENT VALLEY 14 52
+Rugeley No.2 GF 14 63
+Rugeley North Jn 14 69
+124 39
+

@@ -1,0 +1,21 @@
+NRN
+
+TCB Selby SB (3)
+
+RAB
+DH = Down Hull
+UH = Up Hull
+PP—C— Permissive working is authorised at
+platform 1 for use in unplanned situations with
+class 1, 2, 3 (E08) and 5 trains from the Down Hull
+line only. Drivers will be advised by the signaller
+when this is required at signal S1369.
+PP- Permissive working is authorised in dead end
+platform 3 for class 1, 2, 3 (ECS), 5, 9 & 0 trains
+only for attaching, detaching, platform sharing and
+stapling.
+DPL = 461m I 1512 feet
+UPL = 429m I 1407 feet
+
+CD - TolFrom Selby Potter Group Sidings
+

@@ -1,0 +1,17 @@
+93 51 7k
+
+94 00 *-
+Blockley LC (CCTV) 94 77
+Mare Brook LC (UWC) 95 23
+Briar Hill LC (UWC) 96 13
+Campclen LC (CCTV) 96 78
+NRN Channel change (Down direction) 97 4O
+Campden Tunnel 97 47
+(81 1 m, 887yds) 93 07
+NRN Channel change (Up direction) 98 14
+98 63
+Poden Farm LC (UWC) 100 56
+Honeyboume GF 101 54
+101 58
+HONEYBOURHE 101 60
+

@@ -1,0 +1,17 @@
+Nottingham EastJn 123 27
+Change of mileage 123 23
+
+0 00
+
+0 03 *
+Eastoroft Plant Depot
+
+0 25 9c
+Sneinton Footpath LC (MCB) 0 35
+Trent Lane Footpath LC (RIG) 0 56
+Colwick LC (CCTV) 1 04
+
+1 20 *-
+
+1 60 *-
+

@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0419	GW9001	001	Landore Jn to Swansea SWA Western	05/08/06	Landore Jn	214	62	
+0419	GW9001	001	Landore Jn to Swansea SWA Western	05/08/06	Landore Depot	214	62	X
+0419	GW9001	001	Landore Jn to Swansea SWA Western	05/08/06		215	30	*
+0419	GW9001	001	Landore Jn to Swansea SWA Western	05/08/06		215	38	
+0419	GW9001	001	Landore Jn to Swansea SWA Western	05/08/06		215	40	*
+0419	GW9001	001	Landore Jn to Swansea SWA Western	05/08/06	Swansea Loop East . Jn	215	43	
+0420	GW9001	002	Landore Jn to Swansea SWA Western	01/12/07		215	60	*
+0420	GW9001	002	Landore Jn to Swansea SWA Western	01/12/07	Down Sidings GF	215	62	
+0420	GW9001	002	Landore Jn to Swansea SWA Western	01/12/07	SWANSEAIABERTAWE	216	07	

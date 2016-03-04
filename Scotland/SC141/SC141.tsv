@@ -1,0 +1,152 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07	Craigendoran Jn	-0	01	
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07		1	63	*
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07	HELENSBURGH UPPER TEP	2	08	
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07	Woodend LC	2	52	UWC
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07	Ardencaple LC	3	17	UWC
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07		3	58	*
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07		4	03	*
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07		4	25	*
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07		6	54	*
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07	High Balernock LC	6	68	UWC
+0261	SC141	001	Craigendoran Jn to Fort William WHL Scotland	23/10/07		7	32	*
+0262	SC141	002	Craigendoran Jn to Fort William WHL Scotland	02/12/06	GARELOGHHEAD TEP	3	76	
+0262	SC141	002	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	3	76	X
+0262	SC141	002	Craigendoran Jn to Fort William WHL Scotland	02/12/06		9	20	*
+0262	SC141	002	Craigendoran Jn to Fort William WHL Scotland	02/12/06		10	13	*
+0262	SC141	002	Craigendoran Jn to Fort William WHL Scotland	02/12/06		10	70	*
+0262	SC141	002	Craigendoran Jn to Fort William WHL Scotland	02/12/06		11	37	*
+0262	SC141	002	Craigendoran Jn to Fort William WHL Scotland	02/12/06		12	45	*
+0262	SC141	002	Craigendoran Jn to Fort William WHL Scotland	02/12/06		13	27	*
+0263	SC141	003	Craigendoran Jn to Fort William WHL Scotland	02/12/06		14	25	*
+0263	SC141	003	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	14	25	X
+0263	SC141	003	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Glen Douglas TEP	15	21	
+0263	SC141	003	Craigendoran Jn to Fort William WHL Scotland	02/12/06		15	38	*
+0263	SC141	003	Craigendoran Jn to Fort William WHL Scotland	02/12/06		16	20	*
+0264	SC141	004	Craigendoran Jn to Fort William WHL Scotland	02/12/06		16	42	*
+0264	SC141	004	Craigendoran Jn to Fort William WHL Scotland	02/12/06		18	28	*
+0264	SC141	004	Craigendoran Jn to Fort William WHL Scotland	02/12/06		19	17	*
+0264	SC141	004	Craigendoran Jn to Fort William WHL Scotland	02/12/06		19	31	*
+0265	SC141	005	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF			X
+0265	SC141	005	Craigendoran Jn to Fort William WHL Scotland	02/12/06	ARROGHAR & TARBET TEP	19	45	
+0265	SC141	005	Craigendoran Jn to Fort William WHL Scotland	02/12/06		19	53	*
+0265	SC141	005	Craigendoran Jn to Fort William WHL Scotland	02/12/06		20	09	*
+0265	SC141	005	Craigendoran Jn to Fort William WHL Scotland	02/12/06		21	60	*
+0266	SC141	006	Craigendoran Jn to Fort William WHL Scotland	02/12/06		22	20	*
+0266	SC141	006	Craigendoran Jn to Fort William WHL Scotland	02/12/06		22	21	*
+0266	SC141	006	Craigendoran Jn to Fort William WHL Scotland	02/12/06		23	12	*
+0266	SC141	006	Craigendoran Jn to Fort William WHL Scotland	02/12/06		23	15	*
+0266	SC141	006	Craigendoran Jn to Fort William WHL Scotland	02/12/06		23	65	*
+0266	SC141	006	Craigendoran Jn to Fort William WHL Scotland	02/12/06		24	36	*
+0266	SC141	006	Craigendoran Jn to Fort William WHL Scotland	02/12/06		25	09	*
+0266	SC141	006	Craigendoran Jn to Fort William WHL Scotland	02/12/06		25	72	*
+0267	SC141	007	Craigendoran Jn to Fort William WHL Scotland	02/12/06		26	25	*
+0267	SC141	007	Craigendoran Jn to Fort William WHL Scotland	02/12/06		26	36	*
+0267	SC141	007	Craigendoran Jn to Fort William WHL Scotland	02/12/06		27	11	*
+0267	SC141	007	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	27	11	X
+0267	SC141	007	Craigendoran Jn to Fort William WHL Scotland	02/12/06	ARDLUI TEP	27	43	
+0267	SC141	007	Craigendoran Jn to Fort William WHL Scotland	02/12/06		27	57	*
+0268	SC141	008	Craigendoran Jn to Fort William WHL Scotland	02/12/06		29	10	*
+0268	SC141	008	Craigendoran Jn to Fort William WHL Scotland	02/12/06		30	23	*
+0268	SC141	008	Craigendoran Jn to Fort William WHL Scotland	02/12/06		30	57	*
+0268	SC141	008	Craigendoran Jn to Fort William WHL Scotland	02/12/06		33	40	*
+0268	SC141	008	Craigendoran Jn to Fort William WHL Scotland	02/12/06		33	49	*
+0268	SC141	008	Craigendoran Jn to Fort William WHL Scotland	02/12/06		34	54	*
+0268	SC141	008	Craigendoran Jn to Fort William WHL Scotland	02/12/06		34	69	*
+0268	SC141	008	Craigendoran Jn to Fort William WHL Scotland	02/12/06		35	00	*
+0269	SC141	009	Craigendoran Jn to Fort William WHL Scotland	02/12/06		36	00	*
+0269	SC141	009	Craigendoran Jn to Fort William WHL Scotland	02/12/06		36	10	*
+0269	SC141	009	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GFs	36	10	X
+0269	SC141	009	Craigendoran Jn to Fort William WHL Scotland	02/12/06	CRIANLARICH TEP	36	23	
+0269	SC141	009	Craigendoran Jn to Fort William WHL Scotland	02/12/06		36	30	*
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07		36	60	*
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07	Flllan TEP	36	67	
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07	(Up direction only)	36	67	X
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07		37	00	*
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07	Inverhaggemie No 2 LC	37	57	UWC
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07		38	00	*
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07		39	15	*
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07	Kirkton Farm LO	39	17	UWG
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07		39	52	*
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07		39	61	*
+0270	SC141	010	Craigendoran Jn to Fort William WHL Scotland	15/09/07		39	67	*
+0271	SC141	011	Craigendoran Jn to Fort William WHL Scotland	02/12/06		40	15	*
+0271	SC141	011	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	40	15	X
+0271	SC141	011	Craigendoran Jn to Fort William WHL Scotland	02/12/06	UPPER TYNDRUM TEP	41	25	
+0271	SC141	011	Craigendoran Jn to Fort William WHL Scotland	02/12/06		44	32	*
+0271	SC141	011	Craigendoran Jn to Fort William WHL Scotland	02/12/06		44	66	*
+0271	SC141	011	Craigendoran Jn to Fort William WHL Scotland	02/12/06		45	36	*
+0271	SC141	011	Craigendoran Jn to Fort William WHL Scotland	02/12/06		45	64	*
+0272	SC141	012	Craigendoran Jn to Fort William WHL Scotland	02/12/06		46	00	*
+0272	SC141	012	Craigendoran Jn to Fort William WHL Scotland	02/12/06		48	12	*
+0272	SC141	012	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	48	12	X
+0272	SC141	012	Craigendoran Jn to Fort William WHL Scotland	02/12/06	BRIDGE OF ORGHY TEP	48	68	
+0272	SC141	012	Craigendoran Jn to Fort William WHL Scotland	02/12/06		49	00	*
+0273	SC141	013	Craigendoran Jn to Fort William WHL Scotland	02/12/06		49	65	*
+0273	SC141	013	Craigendoran Jn to Fort William WHL Scotland	02/12/06		51	72	*
+0273	SC141	013	Craigendoran Jn to Fort William WHL Scotland	02/12/06		52	28	*
+0273	SC141	013	Craigendoran Jn to Fort William WHL Scotland	02/12/06		53	66	*
+0273	SC141	013	Craigendoran Jn to Fort William WHL Scotland	02/12/06		54	00	*
+0274	SC141	014	Craigendoran Jn to Fort William WHL Scotland	02/12/06		55	20	*
+0274	SC141	014	Craigendoran Jn to Fort William WHL Scotland	02/12/06	South GF	55	20	X
+0274	SC141	014	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Gorton TEP	57	40	
+0274	SC141	014	Craigendoran Jn to Fort William WHL Scotland	02/12/06	North GF	57	40	X
+0274	SC141	014	Craigendoran Jn to Fort William WHL Scotland	02/12/06		61	37	*
+0274	SC141	014	Craigendoran Jn to Fort William WHL Scotland	02/12/06		61	40	*
+0274	SC141	014	Craigendoran Jn to Fort William WHL Scotland	02/12/06		62	25	*
+0275	SC141	015	Craigendoran Jn to Fort William WHL Scotland	02/12/06		63	46	*
+0275	SC141	015	Craigendoran Jn to Fort William WHL Scotland	02/12/06		64	22	*
+0275	SC141	015	Craigendoran Jn to Fort William WHL Scotland	02/12/06	RANNOGH TEP	64	36	
+0275	SC141	015	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	64	36	X
+0275	SC141	015	Craigendoran Jn to Fort William WHL Scotland	02/12/06		64	54	*
+0275	SC141	015	Craigendoran Jn to Fort William WHL Scotland	02/12/06		64	64	*
+0275	SC141	015	Craigendoran Jn to Fort William WHL Scotland	02/12/06		65	56	*
+0276	SC141	016	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Cruach Snow Shed	65	71	
+0276	SC141	016	Craigendoran Jn to Fort William WHL Scotland	02/12/06	200 yards to	66	00	
+0276	SC141	016	Craigendoran Jn to Fort William WHL Scotland	02/12/06		66	01	*
+0276	SC141	016	Craigendoran Jn to Fort William WHL Scotland	02/12/06		68	77	*
+0276	SC141	016	Craigendoran Jn to Fort William WHL Scotland	02/12/06		70	00	*
+0276	SC141	016	Craigendoran Jn to Fort William WHL Scotland	02/12/06		70	65	*
+0276	SC141	016	Craigendoran Jn to Fort William WHL Scotland	02/12/06		71	45	*
+0277	SC141	017	Craigendoran Jn to Fort William WHL Scotland	02/12/06	South GF			X
+0277	SC141	017	Craigendoran Jn to Fort William WHL Scotland	02/12/06	CORROUR TEP	71	54	
+0277	SC141	017	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Norlh GF	71	54	X
+0277	SC141	017	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Pollock LC	71	59	UWC
+0277	SC141	017	Craigendoran Jn to Fort William WHL Scotland	02/12/06		74	39	*
+0277	SC141	017	Craigendoran Jn to Fort William WHL Scotland	02/12/06		78	54	*
+0278	SC141	018	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Fersit Tunnel	78	75	
+0278	SC141	018	Craigendoran Jn to Fort William WHL Scotland	02/12/06	to 150 yards	79	02	
+0278	SC141	018	Craigendoran Jn to Fort William WHL Scotland	02/12/06		80	00	*
+0278	SC141	018	Craigendoran Jn to Fort William WHL Scotland	02/12/06		81	23	*
+0278	SC141	018	Craigendoran Jn to Fort William WHL Scotland	02/12/06	TULLOCH TEP	81	59	
+0278	SC141	018	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	81	59	X
+0279	SC141	019	Craigendoran Jn to Fort William WHL Scotland	02/12/06		82	04	*
+0279	SC141	019	Craigendoran Jn to Fort William WHL Scotland	02/12/06		32	78	*
+0279	SC141	019	Craigendoran Jn to Fort William WHL Scotland	02/12/06		84	15	*
+0279	SC141	019	Craigendoran Jn to Fort William WHL Scotland	02/12/06		84	50	*
+0279	SC141	019	Craigendoran Jn to Fort William WHL Scotland	02/12/06		86	33	*
+0280	SC141	020	Craigendoran Jn to Fort William WHL Scotland	02/12/06	ROY BRIDGE TEP	87	35	
+0280	SC141	020	Craigendoran Jn to Fort William WHL Scotland	02/12/06		87	39	*
+0280	SC141	020	Craigendoran Jn to Fort William WHL Scotland	02/12/06		87	48	*
+0280	SC141	020	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Keppoch No.1 LC	87	50	UWC
+0280	SC141	020	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Millens LC	88	27	UWC
+0280	SC141	020	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Kerreays LC	88	49	UWC
+0281	SC141	021	Craigendoran Jn to Fort William WHL Scotland	02/12/06		39	14	*
+0281	SC141	021	Craigendoran Jn to Fort William WHL Scotland	02/12/06		89	37	*
+0281	SC141	021	Craigendoran Jn to Fort William WHL Scotland	02/12/06		89	50	*
+0281	SC141	021	Craigendoran Jn to Fort William WHL Scotland	02/12/06		89	52	*
+0282	SC141	022	Craigendoran Jn to Fort William WHL Scotland	02/12/06	South end loop points	90	46	*
+0282	SC141	022	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	90	46	X
+0282	SC141	022	Craigendoran Jn to Fort William WHL Scotland	02/12/06	SPEAH BRIDGE TEP	90	56	
+0282	SC141	022	Craigendoran Jn to Fort William WHL Scotland	02/12/06	North and loop points	90	68	*
+0282	SC141	022	Craigendoran Jn to Fort William WHL Scotland	02/12/06		94	33	*
+0283	SC141	023	Craigendoran Jn to Fort William WHL Scotland	02/12/06		94	46	*
+0283	SC141	023	Craigendoran Jn to Fort William WHL Scotland	02/12/06		95	70	*
+0283	SC141	023	Craigendoran Jn to Fort William WHL Scotland	02/12/06		96	28	*
+0283	SC141	023	Craigendoran Jn to Fort William WHL Scotland	02/12/06		97	48	*
+0283	SC141	023	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Inverlochy Farm LC	97	65	UWC
+0284	SC141	024	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Sdg GF	93	33	
+0284	SC141	024	Craigendoran Jn to Fort William WHL Scotland	02/12/06	Fort William Jn SB & TEP	93	65	
+0284	SC141	024	Craigendoran Jn to Fort William WHL Scotland	02/12/06		99	00	*
+0285	SC141	025	Craigendoran Jn to Fort William WHL Scotland	01/12/07	FORT WILLIAM	99	37	
+0285	SC141	025	Craigendoran Jn to Fort William WHL Scotland	01/12/07	Station GF	99	37	X

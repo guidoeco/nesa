@@ -1,0 +1,14 @@
+Moorthorpe SB (M) 11 63
+MOORTHORPE 11 29
+Moorthorpe Footpath LC (RIG) 11 25
+Moorthorpe Jn 11 24
+11 20 *-
+8 60 at
+8 00 a:
+Baghill (HABD) 6 70
+4 66 *
+PONTEFRACT BAGHILL 4 31
+4 20 a:
+3 65 *-
+3 00 i:
+

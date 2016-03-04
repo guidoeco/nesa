@@ -1,0 +1,6 @@
+Eccles Station Jn 27 51
+
+0 00
+Eccles SB (ES) 0 03
+Network Rail I MSG Boundary 0 54
+

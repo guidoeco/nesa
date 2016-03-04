@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06	To/From Crediton			X
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06		179	32	*
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06	Salmon Pool LC	180	09	AOCL
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06	Stockeydown Farm LC	181	70	UWC
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06	Yeoford Platform	182	70	
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06	(Out of use)	182	70	X
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06	Former Coleford Jn	183	69	
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06	Network Rail/Dartmoor	183	79	
+0229	GW608	001	Crediton to Coleford (Meldon Line) DAC Western	05/08/06	Railway Co. boundary	183	79	X

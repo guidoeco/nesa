@@ -1,0 +1,26 @@
+NRN CSR
+
+TCB Marylebone IECC (ME)
+
+Platform lengths: Marylebone
+
+1-229 metres
+
+2-245 metres
+
+3-245 metres
+
+4-115 metres
+
+5-184 metres
+
+6-216 metres
+
+Platforms 1,2,3,5 and 6 - permissive (PP)
+
+C - 205m 600h Wall siding
+
+Maximum 25mph all Platform lines.
+
+C - 205m 500h Up siding
+

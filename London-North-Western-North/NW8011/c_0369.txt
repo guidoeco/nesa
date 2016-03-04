@@ -1,0 +1,9 @@
+4 45 *-
+Bidston WestJn 4 71
+BIDSTON 4 75
+Bidston Dee Jn 4 78 *
+
+5 01 *
+Leasowe LC (CCTV) 5 60
+LEASOWE 5 65
+

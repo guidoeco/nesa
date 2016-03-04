@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0211	GW560	001	Heywood Road Jn to Fairwood Jn via Westbury SWY WEY Western	05/08/06	Heywood Road Jn	94	45	*
+0211	GW560	001	Heywood Road Jn to Fairwood Jn via Westbury SWY WEY Western	05/08/06		94	58	*
+0211	GW560	001	Heywood Road Jn to Fairwood Jn via Westbury SWY WEY Western	05/08/06	Westbury East Loop Jn	94	77	
+0211	GW560	001	Heywood Road Jn to Fairwood Jn via Westbury SWY WEY Western	05/08/06		95	10	*
+0211	GW560	001	Heywood Road Jn to Fairwood Jn via Westbury SWY WEY Western	05/08/06	Westbury North Jn	95	33	
+0211	GW560	001	Heywood Road Jn to Fairwood Jn via Westbury SWY WEY Western	05/08/06	(Change of ELR)	109	49	
+0211	GW560	001	Heywood Road Jn to Fairwood Jn via Westbury SWY WEY Western	05/08/06	Westbury SB (W)	109	50	*
+0212	GW560	002	Heywood Road Jn to Fairwood Jn via Westbury WEY Western	05/08/06	Barrow crossing	109	58	WL
+0212	GW560	002	Heywood Road Jn to Fairwood Jn via Westbury WEY Western	05/08/06	WESTBURY	109	64	
+0212	GW560	002	Heywood Road Jn to Fairwood Jn via Westbury WEY Western	05/08/06	Westbury South Jn	110	07	
+0212	GW560	002	Heywood Road Jn to Fairwood Jn via Westbury WEY Western	05/08/06		110	42	
+0212	GW560	002	Heywood Road Jn to Fairwood Jn via Westbury WEY Western	05/08/06	Fairwood Jn	97	02	*
+0212	GW560	002	Heywood Road Jn to Fairwood Jn via Westbury WEY Western	05/08/06		111	18	*
+0212	GW560	002	Heywood Road Jn to Fairwood Jn via Westbury WEY Western	05/08/06	Masters LC	111	53	UWC

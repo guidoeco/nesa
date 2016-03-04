@@ -1,0 +1,12 @@
+NRN GSM- '
+
+TCB Kilmamock SB (K)
+
+GSM- '
+Down: End of GSM-R Dial Up area
+beyond K73 signal
+
+GSM-R
+Up: GSM-R Dial Up area beyond A .
+P3274 signal
+

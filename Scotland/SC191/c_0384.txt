@@ -1,0 +1,12 @@
+
+Dock Street Tunnel 59 28
+610 yards 59 56 a!
+(Change of ELR ECN2 to ECNS) 59 77
+
+Camperdown Jn. 59 77
+0 21
+Camperdown LC (CCTV) 0 22
+0 27 a:
+0 57 i
+1 22 a!
+

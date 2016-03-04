@@ -1,0 +1,11 @@
+Giffen (RNAD Gates) 0 27
+Notice Board 0 03
+(Change of ELR 0 00
+GIF4 to GIF3) o 79
+(Change of ELR O 00
+GIF3 to GlF2) 2 70
+(Change of ELR 0 00
+GIF2 to GIF1) 0 19
+
+Lugton 0 00
+

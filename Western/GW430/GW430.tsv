@@ -1,0 +1,12 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	Yate Middle Jn	119	57	
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06		0	00	
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	Yate West (Start of OT section)	0	22	
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	Single Line Jn	0	24	
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	Iron Acton Station LC	1	66	AOCL
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	Iron Acton By-pass LC	2	09	TMO
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	Latteridge LC (T M0)	2	47	
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	Tytherington Tunnel	5	46	
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	(205m, 224yds) to	5	56	
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	Tytherington	6	24	
+0168	GW430	001	Yate Middle Jn to Tytherington THO Western	05/08/06	(end of line)	6	24	X

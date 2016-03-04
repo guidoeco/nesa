@@ -1,0 +1,12 @@
+Boughton Jn 0 00
+
+0 30
+
+0 40 *-
+Boughton Brake Tunnel 1 to49
+(350 yards) 1 65
+
+2 09 a:
+Bevercotes Colliery 4 22
+(Network Rail I RJB Boundary)
+

@@ -1,0 +1,9 @@
+53 20 *
+Oakley HABD 53 60
+
+56 46
+Shambrook Jn 56 52
+Shambrook Tunnel 59 00
+(1701 m I 1 mile 100 yds) to (Slow line only) 60 O4
+NRN channel change 62 64
+

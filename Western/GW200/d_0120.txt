@@ -1,0 +1,10 @@
+NRN CSR
+TCB Swindon B SO (SB)
+RAB
+Route GW25O
+Foxhall Jn - Didcot West Curve Jn:
+DO Down Oxford
+U0 Up Oxford
+DA Down Avoiding
+UA Up Avoiding
+

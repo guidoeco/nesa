@@ -1,0 +1,7 @@
+Foley Crossing SB 1 56
+Network Rail London North Western 1 40
+Appendix Boundary
+O 07 1:
+Stoke Jn 0 00
+20 36
+

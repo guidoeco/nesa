@@ -1,0 +1,16 @@
+CSR Channel change (Down) 45 14
+Wickham Knights LC (UWC) 46 16
+CSR Channel change (Up) 46 40
+46 50 9:
+Midgham LC (CCTV) 46 56
+MIDGHAM 46 59
+Compeday LC (UWC) 47 08
+47 10 *
+Crannel's LC (UWC) 47 47
+Colthrop HABD 48 44
+Colthrop LC (MCB) 48 75
+THATCHAM 49 45
+Thatcham LC (CCTV) 49 51
+Ordnance Depot LC (UWC) 50 04
+51 50 i:
+

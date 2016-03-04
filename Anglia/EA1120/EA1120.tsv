@@ -1,0 +1,31 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	Manningtree North Jn			X
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	MANNINGTREE	59	35	
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	Manningtree South Jn	59	45	
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	CW	59	47	
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	OHNS			Z
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	Manningtree East Jn	59	67	
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007		59	74	*
+0064	EA1120	002	Manningtree to Harwich Town MAH Anglia	05/08/06	Mistley Footpath LC	61	10	RIG
+0064	EA1120	002	Manningtree to Harwich Town MAH Anglia	05/08/06	MISTLEY	61	14	
+0064	EA1120	002	Manningtree to Harwich Town MAH Anglia	05/08/06	Mistley Up Sidings GIF	61	19	
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	Bradfield LC (UWC)	62	37	RIG
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	Jaques Hall LC	63	31	
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	Wrabness Footpath LC	65	04	RIG
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	WRABNESS	65	06	
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	Copperas LC	66	49	UWC
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06		67	33	*
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston Goods Jn	68	02	
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston Yard	68	51	*
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston West (MOB) LC	68	61	
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston SB	68	62	P
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	HARWICH INTERNATIONAL	68	72	
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	PORT			Z
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston East LC	68	79	CCTV
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06		69	15	*
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06		69	54	*
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06		70	02	*
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06	DOVERCOURT	70	19	
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06	Alexandra Road LC	70	37	CCTV
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06		70	49	*
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06	HARWIcH TOWN	70	61	

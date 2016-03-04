@@ -1,0 +1,8 @@
+Ford Jn 19 31 1k
+Ford River Bridge 19 36
+Ford LC (CCTV) 19 36
+FORD 19 55
+Withy Tree Crossing 20 23
+Yapton (AHBC) 20 79 *-
+Lake Lane Crossing 21 18
+

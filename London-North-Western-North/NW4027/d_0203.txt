@@ -1,0 +1,13 @@
+NRN
+OTS Carllsle PSB (CE) .083
+See Local Instructions for the Method of Working.
+AWS and TPWS not provided.
+Notes:
+Mileage in brackets ( ) relates to Brunthill Branch
+siding.
+Mileage in parentheses [] relates to Down
+Departure line.
+Brunthill Branch Siding has ELR: BSN.
+'End of line' to 'Brunthill I Network Rail boundary'
+has ELR: ETC.
+

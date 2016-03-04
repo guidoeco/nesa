@@ -1,0 +1,20 @@
+NRN
+TCB Edinburgh so (EH)
+N = North Lines
+S = South Lines
+TS = Through Siding
+North lines' mileages differ from
+South lines' mileages between
+Haymarket Station and the
+bottom of the page
+North Lines' mileages are
+shown in brackets []
+Mileage change on South lines only
+Platform 0 - PP
+ELR - ECN2 = North lines
+EGM3 = South lines to Haymarket Stn.
+EGM2 = South lines and beyond
+Haymarket Stn.
+For details of tunnel lockouts
+see Local Instructions
+

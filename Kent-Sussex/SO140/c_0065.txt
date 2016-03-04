@@ -1,0 +1,12 @@
+24 00 *-
+OTFORD 24 06
+Otford Ground Frame 24 14 *-
+Otford Jn 24 53 *
+24 58 *-
+Otford Jn Substation 24 60
+25 40 *
+BAT & BALL 25 51
+(Sevenoaks Jn) (26 61)
+25 07 *-
+Seal Crossing 25 78
+

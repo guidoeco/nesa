@@ -1,0 +1,13 @@
+NRN
+TCB Aston SB (AN)
+AC: Rugby ECR
+Platform lengths: Butlers Lane
+Down Main-151 metres
+Up Main-151 metres
+Platform lengths: Blake Street
+Down Main-150 metres
+Up Main-149 metres
+Platform lengths: Shenstone
+Down Main-149 metres
+Up Main-151 metres
+

@@ -1,0 +1,10 @@
+Sandbach North Jn 162 62
+
+0 00
+Limith electrification 0 22
+
+O 44
+Elworth Jn 0 52 *-
+Higher Delacre LC (UWC) 1 27
+British SaItGF 1 73
+

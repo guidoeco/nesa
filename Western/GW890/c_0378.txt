@@ -1,0 +1,9 @@
+Briton Ferry Up Flying Loop Jn 206 14
+Court Sart Jn 206 58
+(Down line)
+207 12 :7:
+207 55 *
+207 57
+Dynevor Jn 207 67 i:
+207 71
+

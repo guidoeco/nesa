@@ -1,0 +1,11 @@
+223 50 :1.-
+Llandudno Junction SB (LJ) 223 55
+0 O3
+0 22 *-
+0 28 *-
+Deganwy Quay LC (CCTV) 1 01
+1 11 :1:
+DEGANWY 1 16
+Deganwy SB LC (MCB) 1 22
+1 40 i:
+

@@ -1,0 +1,14 @@
+NRN
+TCB Basingstoke SB (BE)
+RAB DC:Eastleigh
+TCB Basingstoke SB (BE)
+1 Up Siding No. 1
+2 Down Siding No. 1
+CSR
+'
+C's-d:z
+4 Up Southampton
+5 Up Exeter
+6 Down Exeter
+7 Down Southampton
+

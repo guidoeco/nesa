@@ -1,0 +1,13 @@
+Millbum Grange LC(UWC) 5 21
+GibbetHiIlJn 6 15
+
+8 14 *
+Limit of electrification 8 20
+
+8 34 'k
+
+8 35 i:
+Coventry South Jn 8 45
+Change of mileage 93 71
+COVENTRY 93 79
+

@@ -1,0 +1,13 @@
+NRN
+AB Blackpool North No.1 SB (BN)
+Blackpool North No.2 SB (BN2)
+Platform Lengths: Blackpool North
+Platform 1: 195 metres {213 yards)
+Platform 2: 228 metres 249 yards
+Platform 3: 233 metres (255 yards)
+Platform 4: 221 metres (242 yards)
+Platform 5: 218 metres (238 yards)
+Platform 6: 206 metres (225 yards)
+Platform 7: 197 metres (215 yards)
+Platform 8: 188 metres (206 yards)
+

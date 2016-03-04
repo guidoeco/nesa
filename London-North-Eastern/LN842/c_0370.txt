@@ -1,0 +1,27 @@
+Stainforth Jn 166 70
+166 66 *-
+
+Stainforth Road LC (AHBC) 165 42
+
+Bramwith Road LC (AHBC) 164 72
+
+Thorpe Road LC (AHBC) 164 46
+164 10 i:
+163 46 *
+
+Applehurst Jn 163 27
+163 20 are
+
+Booths No.1 LC (UWC) 162 46
+162 40 *
+
+Booths No.3 LC (UWC) 162 32
+
+Skellow Jn 160 59
+
+0 61
+
+0 22
+
+Adwick Jn 0 00
+

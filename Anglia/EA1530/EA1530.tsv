@@ -1,0 +1,61 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Coldham Lane Jn	56	51	
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		0	23	
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Laundry Lane LC (AOCL)	0	29	*
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		0	46	*
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Cherry Hinton High St. LC	2	17	CCTV
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Cherry Hinton Bypass LC	2	53	CCTV
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Teversham LC	3	44	AHBC
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Coxes Farm LC	3	69	
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Fulbourn LC	4	36	AHBC
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Six Mile Bottom LC	7	65	AHBC
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Brinkley Road LC	7	78	AHBC
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Westley Road LC	8	74	RIG
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Moores LC	10	06	
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Single line	10	07	
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	DULLINGHAM	10	54	
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Dullingham (DH) SB	10	54	
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Dullingham LC	10	56	M06
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Single line	11	09	
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Wood Ditton LC	13	11	AHBC
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		13	35	*
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	HEWMARKET	13	67	
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		13	70	*
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		13	75	*
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Warren Hill Tunnel	14	31	
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	(1 100 yards) to	14	31	X
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		15	01	
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		15	65	*
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Chippenham Jn	16	04	*
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Chippenham Jn SB (CM)	16	04	X
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		18	03	*
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		18	57	*
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		18	63	*
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	KENNETT	18	69	
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Kennett (K) SB	18	69	
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		19	60	
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Redland GF	20	18	
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		21	01	*
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		21	48	*
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		23	60	*
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		25	17	*
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Bury St Edmunds Yard (BY) SB	28	33	
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		28	37	*
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	BURY ST. EDMUNDS	28	44	
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		28	52	*
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		31	00	*
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		31	48	*
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	THURSTON	32	51	
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Thurston Footpath LC	32	54	RIG
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		32	72	*
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		33	15	*
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Hall Farm LC	36	59	
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	ELMS'WELL	37	11	
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Elmswell LC	37	14	CCTV
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	EImSWeIIGSP	37	20	
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Base Green (No. 31) LC	39	03	
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		39	73	*
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		40	42	*
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		40	45	
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Haughley Jn	40	49	
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		32	79	

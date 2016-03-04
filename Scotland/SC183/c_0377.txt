@@ -1,0 +1,16 @@
+0 28 'k
+
+0 47 *
+
+0 49 a:
+
+0 TO *
+Causewayhead Jn 1 05
+Waterside LC (CCTV) 1 46
+
+1 60 :7:
+Manor Neuk LC (UWC) 2 59
+Manor Powis LC (UWC) 2 71
+Blackgrange LC (CCTV) 3 43
+Cambus LC (CCTV) 4 59
+

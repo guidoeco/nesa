@@ -1,0 +1,11 @@
+Penwithers Jn 301 25
+CW 301 30 *-
+Spamick Tunnel 302 68
+(449m,491yds) 303 10
+304 75 2k
+PERRANWELL 304 78
+305 00 i:
+Perran Tunnel 306 23
+(342m, 374yds) 306 40
+PENRYN 309 08
+

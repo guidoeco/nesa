@@ -1,0 +1,56 @@
+NRN CSR
+TCB Wembley Mainline SCC (WM)
+AC: Rugby ECR
+
+Main lines controlled by Wembley
+
+Mainline SCC (WM).
+
+Other lines controlled by Wembley Yard SB (WY)
+
+TASS fitted:
+
+DF line throughout
+
+UF line throughout
+
+Willesden Relief line
+
+mileage in [] brackets
+
+Line Lockouts
+
+Up Slow: 7m OOCI'I to 6m 74ch.
+
+UWR: [2m 220h] to [1 m 430h].
+
+DWR: [1m 43cm] to [2m 220h].
+
+DWR 8: UWR! U&DWR: [2m 229h] to [2m 77ch].
+
+10 mph to. over and from Reception
+
+& Departure lines and tolfrom
+
+Goods and ArrivallDeparture lines
+
+U+DG1 - Up and Down Goods No.1
+
+U+DGZ - Up and Down Goods No.2
+
+UWR - Up Willesden Relief
+
+DWR - Down Willesden Relief
+
+BR+D1 - Brent Reception and Departure No.1
+
+BR+D2 - Brent Reception and Departure No.2
+
+U&DHLG - Up & Down High Level Goods
+
+SA - South Arrival Line
+
+SD - South Departure Line
+
+CS - Custom Siding
+

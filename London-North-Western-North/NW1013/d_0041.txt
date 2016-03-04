@@ -1,0 +1,14 @@
+NRN
+AB Crewe Sorting Sidings
+North SB (NH)
+AC: Crewe
+AWS provided on down goods line only
+T(2)-T Prohibited
+UA1 = Up Arrival No. 1
+UA2 = Up Arrival No. 2
+DSI = Down slow Independent
+DFI = Down fast Independent
+(PF) down goods and up goods between Crewe
+Sorting Sidings North SB and Gresty Lane SB.
+Gresty Lane SB (GL)
+

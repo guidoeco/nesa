@@ -1,0 +1,80 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	Marylebone IECC	205	77	ME
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	MARYLEBONE	205	77	
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07		205	50	*
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07		205	48	
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	St Johns Wood Tunnel	205	33	
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	(1468 metres I 1606 yards) to	204	40	
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	Hampstead Tunnel	204	35	
+0179	MD701	001	Marylebone to Aynho Junction MCJ1 LNW South	01/12/07	(635 metres! 694 yards) to	204	03	
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08		202	21	*
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08		202	00	*
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08	Neasden South Jn	200	66	
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08	Change of mileage	6	31	
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08		6	24	*
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08	Great Central Way Jn	5	60	
+0180	MD701	002	Marylebone to Aynho Junction MCJ1 NAJ1 LNW South	12/04/08	WEMBLEY STADIUM	5	00	
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	SUDBURY AND	3	52	
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	HARROW ROAD	3	52	X
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	SUDBURY HILL HARROW	2	57	
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	South Harrow Tunnel	2	30	
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	(187 metres I 204 yards) to	2	21	
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06	NORTHOLT PARK	1	57	
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06		0	43	*
+0181	MD701	003	Marylebone to Aynho Junction NAJ1 LNW South	07/10/06		0	20	*
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06	Northolt Jn	0	00	*
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06	SOUTH RUISLIP	0	07	
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06		0	34	
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06		0	35	*
+0182	MD701	004	Marylebone to Aynho Junction NAJ1 NAJZ LNW South	07/10/06	WEST RUISLIP	1	68	
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	DENHAM	4	50	
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08		5	14	*
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	DENHAM GOLF CLUB	5	42	
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	GERRARDS CROSS	7	18	
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08		7	30	*
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	SEER GREEN	9	75	
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	& JORDANS	9	75	X
+0183	MD701	005	Marylebone to Aynho Junction NAJ2 LNW South	27/07/08	BEACONSFIELD	11	41	
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		11	54	*
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		11	56	*
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	Whitehouse Tunnel	13	12	
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	(322 metres I 352 yards)	13	28	
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		15	44	*
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		16	07	
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		16	21	*
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	HIGH WYGOMBE	16	29	
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		16	42	
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		17	20	*
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	SAUNDERTON	21	27	
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07		23	05	*
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	Saunderton Tunnel	23	31	
+0184	MD701	006	Marylebone to Aynho Junction NAJ2 LNW South	01/12/07	(76 metres I 63 yards) to (Up line only)	23	35	
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		24	00	*
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		24	15	*
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06	PRINCES RISBOROUGH	24	40	
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06	Princes Risborough Junction	24	50	*
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06	Network Rail Boundary on Thame Branch	0	50	
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		24	60	*
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		25	40	*
+0185	MD701	007	Marylebone to Aynho Junction NAJ2 LNW South	07/10/06		25	60	*
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	Rose Farm LC	26	49	UWC
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	HADDENHAM AND	30	25	
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	THAME PARKWAY	30	25	X
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	Ashendon Jn ,fon'ner site of	33	69	
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	Change of mileage	0	00	
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	Brill Tunnel	2	29	
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	(177 metres/194 yards)	2	39	
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		8	71	*
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		9	00	*
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06	BICESTER NORTH	9	27	
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		9	40	*
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		9	44	*
+0186	MD701	008	Marylebone to Aynho Junction NAJ2 NAJ3 LNW South	07/10/06		9	70	*
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	Bucknells Farm LC	12	27	BW
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	Ardley Tunnel	15	13	
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	(1056 metresl1155 yards)	15	65	
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06		17	30	*
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	Aynho Park Jn , former site of	17	45	
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06		18	19	*
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06		18	29	*
+0187	MD701	009	Marylebone to Aynho Junction NAJ3 LNW South	09/12/06	Aynho Junction	18	26	

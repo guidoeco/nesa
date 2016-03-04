@@ -1,0 +1,7 @@
+128 40 2k
+128 50 it
+St Mary's North Jn 129 06
+129 38 *
+130 00 *
+Breadsall 130 58
+

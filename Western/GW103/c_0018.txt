@@ -1,0 +1,10 @@
+Heathrow Airport Jn OHNS 11 51
+(and limit of electrification
+on Relief lines)
+11 77 *-
+Stockley Bridge Jn 12 09
+(and limit of electrification
+on Main lines)
+12 20 1:
+12 22 are
+

@@ -1,0 +1,13 @@
+LOSTOCK HALL 1 20
+Lostock Hall Jn 1 42
+
+1 46 *-
+Whittle International GF 1 70
+
+1 73
+
+2 15 *
+
+2 24
+Bamber Bridge Stn GF 2 25
+

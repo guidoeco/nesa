@@ -1,0 +1,13 @@
+NRN
+TCB Preston SB (PN)
+RAQ
+box to 22 25 Down [from 22 59 Up
+NRN Channel NRN
+change at
+Down - 2317 Y
+Up - 23 12
+AB Hebden Bridge (H 35 signal at 24 43
+DownIHBI-IS signal at 23 73 Up) to Milner Royd Jn
+AB Hebden Bridge SB (HB)
+URS = 332m f 1092 feet
+

@@ -1,0 +1,8 @@
+NRN CSR
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+Up platform - 167m (180 yd)
+Down platform - 171m (185 yd)
+DC - Down Cambridge
+UC - Up Cambridge
+

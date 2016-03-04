@@ -1,0 +1,6 @@
+NRN
+TCB Warrington SB (WN)
+AWS not provided at signal WN.128.
+TPWS not provided.
+OT(S)
+

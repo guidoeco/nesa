@@ -1,0 +1,24 @@
+Containerbase Jn 0 19
+(Change of ELR CON1 to CONZ) 23 17
+
+Balwhirley No 1 22 78
+to Tunnel 250 Yards 22 67
+(Change of ELR 22 CONZ to CONS) 22 59
+
+
+Lynedoch Street 23 19
+to Tunnel 40 yards 23 22
+
+
+Trafalgar Street 23 30
+to Tunnel 420 yards 23 50
+
+
+Orangeﬁeld Tunnel 23 57
+to 180 yards 23 65
+
+
+Union Street Tunnel 23 78
+to 720 yards 24 31
+Containerbase Gate
+

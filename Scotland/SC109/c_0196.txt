@@ -1,0 +1,6 @@
+108 18 *
+(Change of ELR SCM3 to GHL) 106 55
+Greenhill Lower Jn 106 55
+O 48
+Greenhill Upper Jn 0 05
+

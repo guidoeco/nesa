@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0532	LN696	001	Hepscott Jn. to Morpeth Jn. HJM London North Eastern	02/12/06	Hepscott Jn	19	44	
+0532	LN696	001	Hepscott Jn. to Morpeth Jn. HJM London North Eastern	02/12/06		20	04	
+0532	LN696	001	Hepscott Jn. to Morpeth Jn. HJM London North Eastern	02/12/06		20	24	*
+0532	LN696	001	Hepscott Jn. to Morpeth Jn. HJM London North Eastern	02/12/06	Morpeth DMU Reverse Sidings	20	24	X
+0532	LN696	001	Hepscott Jn. to Morpeth Jn. HJM London North Eastern	02/12/06		20	39	*
+0532	LN696	001	Hepscott Jn. to Morpeth Jn. HJM London North Eastern	02/12/06	Morpeth Electrification Depot	20	39	X
+0532	LN696	001	Hepscott Jn. to Morpeth Jn. HJM London North Eastern	02/12/06	Coopies Lane LC	20	40	AHBC
+0532	LN696	001	Hepscott Jn. to Morpeth Jn. HJM London North Eastern	02/12/06	Morpeth Jn	20	47	

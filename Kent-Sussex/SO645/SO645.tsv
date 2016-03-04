@@ -1,0 +1,50 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0258	SO645	001	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Battersea Park Jn	7	35	
+0258	SO645	001	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		1	13	
+0258	SO645	001	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		7	31	*
+0258	SO645	001	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	BATPERSEA PARK	7	27	
+0258	SO645	001	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		1	23	
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	(Longhedge Jn)	0	39	
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		0	03	*
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		6	67	
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Factory Jn	1	68	*
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Route Boundary '3 53	1	68	X
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		6	61	*
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Wandsworth Road Jn	6	53	*
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	WANDSWORTH ROAD	6	52	
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		1	75	
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Voltaire Road Jn	6	39	
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		2	15	
+0259	SO645	002	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Voltaire Road TP Hut	2	10	
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06	GLAPHAM HIGH STREET	6	21	
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06		2	25	
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06	Shepherds Lane Jn	5	68	
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06		2	70	
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06		5	57	*
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06	Brixton Jn	3	08	*
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06	BRIXTON	3	14	
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06		3	20	*
+0260	SO645	003	Battersea Park to Peckham Rye ATL VIR Kent / Sussex	02/12/06		5	09	*
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Canterbury Road Jn	3	24	*
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		3	79	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	(Loughborough Jn)	3	39	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		3	45	*
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		3	64	*
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Cambria Jn	3	62	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		3	68	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Denmark Hill Tunnel	4	32	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	(63 Yards)	4	12	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		4	29	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		4	15	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	DENMARK HILL	4	23	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		4	22	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	Grove Tunnel	4	14	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06	(132 Yards)	4	30	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		4	09	
+0261	SO645	004	Battersea Park to Peckham Rye ATL Kent / Sussex	02/12/06		4	36	
+0262	SO645	005	Battersea Park to Peckham Rye ATL BTH1 CAT Kent! Sussex	02/12/06	Grafton Road Jn	3	67	
+0262	SO645	005	Battersea Park to Peckham Rye ATL BTH1 CAT Kent! Sussex	02/12/06		4	67	
+0262	SO645	005	Battersea Park to Peckham Rye ATL BTH1 CAT Kent! Sussex	02/12/06		3	50	*
+0262	SO645	005	Battersea Park to Peckham Rye ATL BTH1 CAT Kent! Sussex	02/12/06	Peckham Rye Jn	3	47	
+0262	SO645	005	Battersea Park to Peckham Rye ATL BTH1 CAT Kent! Sussex	02/12/06	PECKHAM RYE	3	36	
+0262	SO645	005	Battersea Park to Peckham Rye ATL BTH1 CAT Kent! Sussex	02/12/06		5	13	

@@ -1,0 +1,9 @@
+Gretna Jn 8 57
+116 13 *
+116 09 *
+115 43 i:
+Network Rail, London North Western 115 40
+Territory Boundary. 115 37 *
+GRETNA GREEN 115 12
+Rigg LC (UWC) 113 10
+

@@ -1,0 +1,14 @@
+RETB 113 lnvemess SC (I)
+G) = 15 mph through loop
+points, in both directions,
+and over loop lines
+CL 990f (302m)
+(48 SLU's)
+A plunger is provided on the
+Up “Points Set" indicator
+post for shunting movements
+to the Up loop and when
+operated activates the LC
+light sequence
+RETB 126
+

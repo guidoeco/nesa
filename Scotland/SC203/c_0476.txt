@@ -1,0 +1,12 @@
+Bower TEP (Up direction only) 147 56
+Sibster Moss LC (UWC) 147 58
+148 05 *
+East Clayock LC (UWC) 148 54
+Gelshﬁeld Gates LC (UWC) 149 00
+Gelshﬁeld LC (UWC) 149 28
+Loch View Farm LC (UWC) 149 48
+150 20 9:
+150 40 i:
+151 74 *
+Watien LC (AOCL) 153 68
+

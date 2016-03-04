@@ -1,0 +1,36 @@
+NRN
+
+TCB Saltley PSB (SY)
+
+CD Freight
+
+{2) Passenger
+
+DGL (PF) 273 metres/299 yards.
+
+See Local Instructions.
+
+ELR - NWO
+
+ELR - DBP3
+
+AL - Arrival line
+
+DIR - Departure/Runround line
+
+Lines within the National Distribution Park
+
+controlled by ABP Control Centre (HH)
+
+Maximum permissible speed within the National
+
+Distribution Park is 15mph
+
+WA - West Arrival line
+
+Platform lengths:
+
+Down-125 metres
+
+Up—125 metres
+

@@ -1,0 +1,6 @@
+29 00 *
+THREE BRIDGES 29 21
+Three Bridges Signal Box (T) 29 28 i:
+
+30 00 5%
+

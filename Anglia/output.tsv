@@ -1,0 +1,1805 @@
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0014	EA1011	001	Seven Kings to Ipswich LTN Anglia	05/08/06	GOODMAYES	9	23		9.23
+0014	EA1011	001	Seven Kings to Ipswich LTN Anglia	05/08/06		9	57	*	9.57
+0015	EA1011	002	Seven Kings to Ipswich LTN Anglia	05/08/06	CHADWELL HEATH	9	79		9.79
+0015	EA1011	002	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	11	21		11.21
+0015	EA1011	002	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	11	26		11.26
+0015	EA1011	002	Seven Kings to Ipswich LTN Anglia	05/08/06		11	41	*	11.41
+0016	EA1011	003	Seven Kings to Ipswich LTN Anglia	05/08/06		11	78	*	11.78
+0016	EA1011	003	Seven Kings to Ipswich LTN Anglia	05/08/06		12	15	*	12.15
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06	ROMFORD	12	30		12.30
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06	Romford Jn .	12	39		12.39
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06		13	28	*	13.28
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06	GIDEA PARK	13	41		13.41
+0017	EA1011	004	Seven Kings to Ipswich LTN Anglia	05/08/06		13	54	*	13.54
+0018	EA1011	005	Seven Kings to Ipswich LTN Anglia	22/07/07		13	55	*	13.55
+0018	EA1011	005	Seven Kings to Ipswich LTN Anglia	22/07/07		13	68	*	13.68
+0018	EA1011	005	Seven Kings to Ipswich LTN Anglia	22/07/07	Gidea Park Carriage sidings	14	03		14.03
+0018	EA1011	005	Seven Kings to Ipswich LTN Anglia	22/07/07		14	15	*	14.15
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	14	45		14.45
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06	HAROLD WOOD	14	76		14.76
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06		15	07	*	15.07
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06	BRENTWOOD	18	16		18.16
+0019	EA1011	006	Seven Kings to Ipswich LTN Anglia	05/08/06		18	24	*	18.24
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	45		19.45
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	57		19.57
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	63	*	19.63
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	73	*	19.73
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		19	74	*	19.74
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		20	00	*	20.00
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		20	03	*	20.03
+0020	EA1011	007	Seven Kings to Ipswich LTN Anglia	05/08/06		20	05	*	20.05
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08	SHENFIELD	20	16		20.16
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08	Shenfield Jn	20	22		20.22
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08	Shenfield Middle Sidings	20	22	X	20.22
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08		20	40	*	20.40
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08		20	47	*	20.47
+0021	EA1011	008	Seven Kings to Ipswich LTN Anglia	25/03/08		20	50	*	20.50
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	20	71		20.71
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06		23	10	*	23.10
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	Ingatestone LC	23	39	MCB	23.39
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	(supervised by Ingatestene Gate Box.)	23	39	X	23.39
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	INGATESTONE	23	50		23.50
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06		24	60		24.60
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	Church Lane LC	24	68	CCTV	24.68
+0022	EA1011	009	Seven Kings to Ipswich LTN Anglia	05/08/06	(supervised by Ingatestone Gate Box.)	24	68	X	24.68
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06	Margaretting WHEELCHEX	24	75		24.75
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		25	30	*	25.30
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06	Margaretting FP LC	25	39	RIG	25.39
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		26	40	*	26.40
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		28	00	*	28.00
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		29	27	*	29.27
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06	GHELMSFORD	29	60		29.60
+0023	EA1011	010	Seven Kings to Ipswich LTN Anglia	30/09/06		30	20		30.20
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06	Arbour Lane Crossover	30	30		30.30
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06		30	32	*	30.32
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06		30	50	*	30.50
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	33	06		33.06
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06	Brick House Crossovers	33	24		33.24
+0024	EA1011	011	Seven Kings to Ipswich LTN Anglia	05/08/06	HATFIELD PEVEREL	35	74		35.74
+0025	EA1011	012	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	38	12		38.12
+0025	EA1011	012	Seven Kings to Ipswich LTN Anglia	05/08/06		38	34		38.34
+0025	EA1011	012	Seven Kings to Ipswich LTN Anglia	05/08/06	WITHAM	38	47		38.47
+0025	EA1011	012	Seven Kings to Ipswich LTN Anglia	05/08/06	Witham Jn	38	55		38.55
+0026	EA1011	013	Seven Kings to Ipswich LTN Anglia	05/08/06	Motts Lane FP LC	39	02	RIG-X	39.02
+0026	EA1011	013	Seven Kings to Ipswich LTN Anglia	05/08/06	Church Street LC	41	57	AHBC-X	41.57
+0026	EA1011	013	Seven Kings to Ipswich LTN Anglia	05/08/06	KELVEDON	42	21		42.21
+0026	EA1011	013	Seven Kings to Ipswich LTN Anglia	05/08/06	Long Green FP LC	45	66	RIG-X	45.66
+0027	EA1011	014	Seven Kings to Ipswich LTN Anglia	05/08/06	MARKS TEY	46	49		46.49
+0027	EA1011	014	Seven Kings to Ipswich LTN Anglia	05/08/06	Marks Tey Jn	46	56		46.56
+0027	EA1011	014	Seven Kings to Ipswich LTN Anglia	05/08/06		46	57	*	46.57
+0027	EA1011	014	Seven Kings to Ipswich LTN Anglia	05/08/06	Chitts Hi||LC	49	41	MCG	49.41
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		50	72		50.72
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	00		51.00
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	22	*	51.22
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	26	*	51.26
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	28	*	51.28
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06	Colchester (C0) SB	51	37		51.37
+0028	EA1011	015	Seven Kings to Ipswich LTN Anglia	05/08/06		51	39	*	51.39
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09	COLCHESTER	51	52		51.52
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09	Colchester Jn	51	65		51.65
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09		51	75	*	51.75
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09		51	77	*	51.77
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09		52	20	*	52.20
+0029	EA1011	016	Seven Kings to Ipswich LTN Anglia	02/03/09	OHNS	52	21		52.21
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Ardleigh GSP	56	00		56.00
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Ardleigh LC	56	04	CCTV	56.04
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		57	46	*	57.46
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		58	74	*	58.74
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		59	20	*	59.20
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	MANNINGTREE	59	35		59.35
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Manningtree South Jn . LC	59	46	CCTV	59.46
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	OHNS	59	47		59.47
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		59	60	*	59.60
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Manningtree North Jn	59	69		59.69
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06		60	30	*	60.30
+0030	EA1011	017	Seven Kings to Ipswich LTN Anglia	05/08/06	Plucks Farm LC	62	44		62.44
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	Bentley LC	63	07	AHBC—X	63.07
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	Halifax Jn	67	67		67.67
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		67	74	*	67.74
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		68	17	*	68.17
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	Ipswich Tunnel	68	17	X	68.17
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	(361 yards)	68	17	X	68.17
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		66	31	*	66.31
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		66	47		66.47
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		68	48	*	68.48
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07	IPSWICH	68	59		68.59
+0031	EA1011	018	Seven Kings to Ipswich LTN Anglia	01/12/07		66	70	*	66.70
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	FENGHURGH STREET	0	00		0.00
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	Tower Gateway station (DLR)	0	00	X	0.00
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07		0	33	*	0.33
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	Royal Mint Street Jn . (DLR)	0	33	X	0.33
+0155	EA1380	001	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	Christian Street Jn	0	61		0.61
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Shadwell station	1	04	DLR	1.04
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		1	43	*	1.43
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Limehouse station (DLR)	1	43	X	1.43
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	LIMEHOUSE	1	53		1.53
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		1	63	*	1.63
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		2	25		2.25
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		2	51	*	2.51
+0156	EA1380	002	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Gas Factoan	2	57		2.57
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		2	73	*	2.73
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		3	12	*	3.12
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Bromley—by—Bow Station	3	18	LUL	3.18
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	OHNS	3	75		3.75
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	West Ham station	4	08		4.08
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Plaistow station	4	45	LUL	4.45
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upton Park station	5	28	LUL	5.28
+0157	EA1380	003	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		6	00	*	6.00
+0158	EA1380	004	Fenchurch St to Shoeburyness FSS Anglia	21/04/07	East Ham Station	6	18	LUL	6.18
+0158	EA1380	004	Fenchurch St to Shoeburyness FSS Anglia	21/04/07		6	40	*	6.40
+0158	EA1380	004	Fenchurch St to Shoeburyness FSS Anglia	21/04/07		6	50	*	6.50
+0158	EA1380	004	Fenchurch St to Shoeburyness FSS Anglia	21/04/07	Barking Tilbury Line Jn	7	08	*	7.08
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08	Barking Flyover			X	.
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08	Barking Tilbury Line Jn West	7	33	*	7.33
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08	BARKING	7	42		7.42
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08		7	60	*	7.60
+0159	EA1380	005	Fenchurch St to Shoeburyness FSS Anglia	22/09/08	Barking Tilbury Line Jn East	7	60	X	7.60
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		8	10	*	8.10
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upney Jn .	8	10	X	8.10
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upney Station	8	46	LUL	8.46
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		8	55	*	8.55
+0160	EA1380	006	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	OHNS	8	56		8.56
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Becontree	9	48	LUL	9.48
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Dagsnham Heathway	10	36	LUL	10.36
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Dagsnham East	11	25	LUL	11.25
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Dagenham East Crossovers	11	60		11.60
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Elm Park	12	57	LUL	12.57
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Homchurch	13	56	LUL	13.56
+0161	EA1380	007	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upminster Bridge	14	38	LUL	14.38
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	UPMINSTER	15	20		15.20
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upminster GF	15	36		15.36
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Upminster (UR) IECC	15	38		15.38
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	OHNS	15	69		15.69
+0162	EA1380	008	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Whipps Farm LC	17	45		17.45
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04		18	70		18.70
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04	WEST HORNDON	19	15		19.15
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04	OHNS	20	76		20.76
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04		22	45	*	22.45
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04	LAINDON	22	69		22.69
+0163	EA1380	009	Fenchurch St to Shoeburyness FSS Anglia	05/06/04		23	05	*	23.05
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	BASILDON	24	26		24.26
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	OHNS	25	69		25.69
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		26	33	*	26.33
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	PITSEA	26	42		26.42
+0164	EA1380	010	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Pitsea Jn	26	52		26.52
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		26	68	*	26.68
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	BENFLEET	29	11		29.11
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Kersey No.1 LC	30	11		30.11
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Kersey No.7 LC	30	65		30.65
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	Salvation Army Colony 2 LC	31	14		31.14
+0165	EA1380	011	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	LEIGH-ON-sEA	32	43	*	32.43
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		33	06	*	33.06
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		33	43	*	33.43
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	CHALKWELL	33	69		33.69
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	WESTCLIFFHD N-SEA	34	66		34.66
+0166	EA1380	012	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		35	16	*	35.16
+0167	EA1380	013	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	OHNS	35	27		35.27
+0167	EA1380	013	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	SOUTHEND CENTRAL	35	55		35.55
+0167	EA1380	013	Fenchurch St to Shoeburyness FSS Anglia	01/12/07		35	70	*	35.70
+0168	EA1380	014	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		36	42	*	36.42
+0168	EA1380	014	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	SOUTHEND EAST	36	49		36.49
+0168	EA1380	014	Fenchurch St to Shoeburyness FSS Anglia	05/08/06	THORPE BAY	37	73		37.73
+0168	EA1380	014	Fenchurch St to Shoeburyness FSS Anglia	05/08/06		38	48	*	38.48
+0169	EA1380	015	Fenchurch St to Shoeburyness FSS Anglia	01/12/07		39	15	*	39.15
+0169	EA1380	015	Fenchurch St to Shoeburyness FSS Anglia	01/12/07		39	18	*	39.18
+0169	EA1380	015	Fenchurch St to Shoeburyness FSS Anglia	01/12/07	SHOEBURYNESS	39	40		39.40
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	STANSTED MOUNTFITGHET	33	28		33.28
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Stansted South Jn	33	54		33.54
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	OHNS	34	10		34.10
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Stansted North Jn	34	30		34.30
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Fullers End Footpath LC	34	67	RIG-X	34.67
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	ELSENHAM	35	45		35.45
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Elsenham LC	35	45	MCG	35.45
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Elsenham GSP	35	64		35.64
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Ugley Lane LC	37	13	UWC	37.13
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Hogs Croft LC	38	73		38.73
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	NEWPORT	39	72		39.72
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Elephant LC	40	13	UWC	40.13
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Trees LC	41	31	CCTV	41.31
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	AUDLEY END	41	55		41.55
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Audley End Tunnel	42	70		42.70
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	(456 yards) to	43	11		43.11
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Littlebury Tunnel	43	27		43.27
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	(407 yards) to	43	46		43.46
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		43	50	*	43.50
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Fairheads Lc (RIG)	45	06	UWC	45.06
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	GREAT CHESTERFORD	45	56		45.56
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		45	60	*	45.60
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Ickleton Rd LC	45	75	CCTV	45.75
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		46	20	*	46.20
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Kings LC	46	35	UWC	46.35
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	lckleton Mill Lane LC	46	65	UWC	46.65
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Hinxton LC	47	11	AHBC	47.11
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Duxford LC	47	62	AHBC	47.62
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Duxford CIBA Geigy sidings	48	00		48.00
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	WHITPLESFORD PARKWAY	49	01		49.01
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07		49	04	*	49.04
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Crossover	49	45		49.45
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Della LC	49	54	UWC	49.54
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		49	60	*	49.60
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Sawston LC	50	46	CCTV	50.46
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Demford LC (RIG)	51	36	UWC	51.36
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Shelford LC	52	32	CCTV	52.32
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	SHELFORD	52	36		52.36
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Granhams LC	52	64	CCTV	52.64
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	OHNS	52	69		52.69
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Websters LC	53	03		53.03
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Shepreth Branch Jn	53	06		53.06
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	No.91 Dukes LC	53	34	UWC	53.34
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	No.92 Pembertons LC	54	04	UWC	54.04
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Red Cross Lane LC	54	18	UWC	54.18
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		54	47	*	54.47
+0092	EA1161	008	Bishops Stortford to Ely North Jn BGK Anglia	01/12/07		55	20	*	55.20
+0092	EA1161	008	Bishops Stortford to Ely North Jn BGK Anglia	01/12/07		55	30	*	55.30
+0092	EA1161	008	Bishops Stortford to Ely North Jn BGK Anglia	01/12/07	Cambridge (CA) SB	55	35		55.35
+0092	EA1161	008	Bishops Stortford to Ely North Jn BGK Anglia	01/12/07	CAMBRIDGE	55	52		55.52
+0093	EA1161	009	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		56	03	*	56.03
+0093	EA1161	009	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Coldham Lane Jn	56	51		56.51
+0094	EA1161	010	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Bamwell Jn	57	10	*	57.10
+0094	EA1161	010	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Chesterton LC	57	54	CCTV	57.54
+0094	EA1161	010	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Chesterton Jn	57	56		57.56
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	OHNS	58	71		58.71
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Milton Fen LC	59	10	AHBC	59.10
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Waterbeach GSP	60	78		60.78
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Waterbeach LC	61	00	AHBC	61.00
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	WATERBEAOH	61	01		61.01
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Burgess Drove LC	61	20	RIG-X	61.20
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Bottisham Road LC	61	48	AHBC	61.48
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Bannolds LC (AHBC-X)	62	70	*	62.70
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		65	40	*	65.40
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Naims (No.11?) LC	65	46	UWC	65.46
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Dimmocks Cote LC	66	25	AHBC-X	66.25
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	West River LC (RIG-X)	66	13	UWC	66.13
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Bedford (No.125) LC	69	20	UWC	69.20
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		69	33		69.33
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Lloyds & Martin LC	69	55	UWC	69.55
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		69	67	*	69.67
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		69	70	*	69.70
+0097	EA1161	013	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Ely Dock Jn	69	79		69.79
+0097	EA1161	013	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		70	20	*	70.20
+0097	EA1161	013	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	ELY	70	30		70.30
+0097	EA1161	013	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		70	35	*	70.35
+0098	EA1161	014	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Ely station North LC	70	38	CCTV	70.38
+0098	EA1161	014	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		70	40	*	70.40
+0098	EA1161	014	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		70	70	*	70.70
+0098	EA1161	014	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Kiln Lane LC	71	33	AHBC-X	71.33
+0099	EA1161	015	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		71	52	*	71.52
+0099	EA1161	015	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		71	63	*	71.63
+0099	EA1161	015	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Ely North Jn	71	68		71.68
+0099	EA1161	015	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		71	70		71.70
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	BETHNAL GREEN	1	10		1.10
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Bethnal Green East Jn	1	14		1.14
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		1	16	*	1.16
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		1	30	*	1.30
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Beflnnal Green North Jn	1	30	X	1.30
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	CAMBRIDGE HEATH	1	61		1.61
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		1	72	*	1.72
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	LONDON FIELDS	2	35		2.35
+0071	EA1160	001	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Reading Lane Jn	2	55		2.55
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	2	65		2.65
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		2	72	*	2.72
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Hackney Downs "B" GF	2	72		2.72
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	HACKNEY DOWNS	2	78		2.78
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Hackney Downs "C" GF	3	04		3.04
+0072	EA1160	002	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Hackney Downs North Jn	3	04		3.04
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Queens Road Tunnel	3	19	*	3.19
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	(445 yards) to	3	39		3.39
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Clapton Tunnel	3	53		3.53
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	(284 yards) to	3	66	*	3.66
+0073	EA1160	003	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	CLAPTON	3	78		3.78
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Clapton GF	4	27		4.27
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Clapton Jn .	4	38	*	4.38
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	4	66		4.66
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Coppermill Jn	4	74	*	4.74
+0074	EA1160	004	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		4	79	*	4.79
+0075	EA1160	005	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Tottenham South Jn	5	41		5.41
+0075	EA1160	005	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	TOTTENHAM HALE	6	00		6.00
+0075	EA1160	005	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		6	12	*	6.12
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	NORTHUMBERLAND PARK	6	73		6.73
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Northumberland Park LC	6	77	CCTV	6.77
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	7	15		7.15
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	ANGEL ROAD	7	57		7.57
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		3	00	*	3.00
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	PONDERS END	9	71		9.71
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	BRIMSDOWN	10	61		10.61
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Brimsdown LC	10	65	CCTV	10.65
+0076	EA1160	006	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		11	00	*	11.00
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	ENFIELD LOOK	11	65		11.65
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Enfield Lock LC	11	70	CCTV	11.70
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	WALTHAM amass	12	63		12.63
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		13	00	*	13.00
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Trinity Lane LC	13	22	MCG	13.22
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	13	50		13.50
+0077	EA1160	007	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	13	37		13.37
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Cheshunt Jn	13	71		13.71
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	CheshuntGF	13	75		13.75
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	CHESHUNT	14	01		14.01
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Windmill Lane LC	14	07	CCTV	14.07
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Cadmore Lane LC	14	32	UWC	14.32
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07		15	00	*	15.00
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Slipe Lane LC	15	65	UWC	15.65
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07	Wharf Road LC	16	05	AHBC-X	16.05
+0078	EA1160	008	Bethnal Green East Jn to Bishops Stortford BGK Anglia	29/12/07		16	65	*	16.65
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	03		17.03
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	04		17.04
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	BROXBOURNE	17	17		17.17
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Broxbourne GF	17	24		17.24
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	30	*	17.30
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	40	*	17.40
+0079	EA1160	009	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		17	54		17.54
+0080	EA1160	010	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Broxbourne Jn	18	38		18.38
+0080	EA1160	010	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Broxbourne CEGB sidings	18	65		18.65
+0080	EA1160	010	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Creasey's (Rye Meads) LC (UWC)	19	05	*	19.05
+0080	EA1160	010	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	OHNS	19	13		19.13
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		19	40	*	19.40
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	ROYDON	20	09		20.09
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Roydon Station LC	20	10	CCTV	20.10
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Roydon Lock LC	20	30	UWC	20.30
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		20	34	*	20.34
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		20	45	*	20.45
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Camps LC	21	23	UWC	21.23
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Harlow Town GF	22	40		22.40
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		22	45		22.45
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	HARLOW TOWN	22	59		22.59
+0081	EA1160	011	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		22	79		22.79
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		23	75		23.75
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Harlow Mill GF	24	20		24.20
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	HARLOW MILL	24	36		24.36
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Robarts I LC	25	20	UWG	25.20
+0082	EA1160	012	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Robarts |ll LC	25	63	UWG	25.63
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Sawbridgeworth LC	26	53	CCTV	26.53
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	SAWBRIDGEWORTH	26	57		26.57
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Spellbrook LC	23	17	CCTV	23.17
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Fowlers LC	23	73	UWC	23.73
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		29	17	*	29.17
+0083	EA1160	013	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		29	66	*	29.66
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		29	71		29.71
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		30	12	*	30.12
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	BISHOPS STORTFORD	30	27		30.27
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06		30	41	*	30.41
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Johnsons Footpath LC	31	00	RIG-X	31.00
+0084	EA1160	014	Bethnal Green East Jn to Bishops Stortford BGK Anglia	05/08/06	Cannons Mill Lane Footpath LC	31	31	RIG-X	31.31
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	East Suffolk Jn	69	41		69.41
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Single line	69	42		69.42
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		69	52	*	69.52
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		72	00	*	72.00
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Westerfield Station LC	72	16	AHBC	72.16
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	WESTERFIELD	72	20	TEP	72.20
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		72	22	*	72.22
+0185	EA1430	001	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Westerfield Jn	72	23		72.23
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		72	25	*	72.25
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Bealings LC	75	79	ABCL	75.79
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		73	54	*	73.54
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		73	59	*	73.59
+0186	EA1430	002	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		73	75	*	73.75
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	WOODBRIDGE	79	00	TEP	79.00
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Ferry Lane LC	79	04	AOCL	79.04
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Haywards LC	79	07	AOCL	79.07
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		79	28		79.28
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Single Line	79	28	X	79.28
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Lime Kiln LC	79	29	AOCL	79.29
+0187	EA1430	003	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Sun Wharf LC	79	31	AOCL	79.31
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		79	39	*	79.39
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Dock Lane LC	80	06		80.06
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Bless LC	80	15		80.15
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	ELTON	80	28		80.28
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Melton LC	30	31	AOCL	30.31
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Ellingers LC	80	46		80.46
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Decoy Farm LC	80	74		80.74
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Ufford LC	81	60	ABCL	81.60
+0188	EA1430	004	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	WIcKHAM MARKET	84	43		84.43
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Blackstock LC	85	29		85.29
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Red House Farm LC	85	45		85.45
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Blaxhall LC	86	31	AOCL	86.31
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Beversham LC	87	15	ABC-L	87.15
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Snape LC	88	22		88.22
+0189	EA1430	005	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Brick Kiln LC	90	30		90.30
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Single line	90	74		90.74
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Chantry Road LC	91	02	RC	91.02
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		91	04	*	91.04
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Saxmundham LC	91	07	MOB	91.07
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Saxmundham SB	91	08	SM	91.08
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	SAXMUNDHAM (TEP) 91	1	01		1.01
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	GF	91	20		91.20
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Saxmundham Jn	91	40		91.40
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	GF	91	41		91.41
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Red House (Kelsale) LC	92	54		92.54
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	East Green LC	93	06		93.06
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		93	26	*	93.26
+0190	EA1430	006	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	North Green LC	93	27	AOCL	93.27
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Middleton LC	94	52	ABCL	94.52
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		94	53	*	94.53
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		95	22	*	95.22
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Darsham LC (AH BC)	95	31		95.31
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	DARSHAM	95	35		95.35
+0191	EA1430	007	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		95	39	*	95.39
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Willow Marsh LC	96	09	AOCL	96.09
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08		96	10	*	96.10
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Barhams LC	96	70		96.70
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Fieldens LC	97	23		97.23
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Hubbards LC	98	12		98.12
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Bramfield LC (ABCL)	99	19	*	99.19
+0192	EA1430	008	East Suffolk Jn to Oulton Broad North ESK Anglia	22/03/08	Wenhaston LC	99	52	AOCL	99.52
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		100	49	*	100.49
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	HALESWORTH (TEP) 1	00	53		00.53
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		100	63	*	100.63
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		101	04	*	101.04
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Westhall LC (ABCL) 1	03	47		03.47
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		103	65	*	103.65
+0193	EA1430	009	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		104	45	*	104.45
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Brampton LC	104	46	AOCL	104.46
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	BRAMPTON	104	49		104.49
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Weston LC	106	30	AOGL	106.30
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Cromwell Rd LC (ABCL)	107	43	*	107.43
+0194	EA1430	010	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	London Road LC	107	68	ABCL	107.68
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		103	50	*	103.50
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		108	57	*	108.57
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Ingate Street LC	108	60	ABCL	108.60
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Grove Road LC	108	70	ABCL	108.70
+0195	EA1430	011	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	BEchEs	109	11		109.11
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Beccles By—pass LC	109	49	ABGL	109.49
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		109	50	*	109.50
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		109	55	*	109.55
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Black Dam LG	109	68		109.68
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Worlingham LC	110	73		110.73
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	North Cove LG	111	71		111.71
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	No. 12 LG	112	34		112.34
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	No. 13 LG	112	44		112.44
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Gamekeepers LG	113	08		113.08
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Bamby LG	113	23		113.23
+0196	EA1430	012	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Hillings Road L0	114	06		114.06
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Spratts Water LC	114	37		114.37
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Dawdys LC	114	75	AOCL	114.75
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		115	38	*	115.38
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	OULTON BROAD SOUTH	115	42	TEP	115.42
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		115	45	*	115.45
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Victoria Road LC	115	62	CCTV	115.62
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Oulton Broad Swing Bridge	115	76		115.76
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Oulton Broad Swing Bridge GF	116	00		116.00
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Gravel Pit Lc	116	12	ABCL	116.12
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06	Oulton Broad North Jn	116	27		116.27
+0197	EA1430	013	East Suffolk Jn to Oulton Broad North ESK Anglia	05/08/06		22	14		22.14
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	LIVERPOOL STREET	0	00		0.00
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	Liverpool St (L) IECC	0	22		0.22
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07		0	25	*	0.25
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	Bishopsgate Tunnel	0	27	*	0.27
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	(573mf627 yards)	0	30	*	0.30
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	(Suburban lines only)	0	30	X	0.30
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	Bishopsgate Tunnel	0	40	*	0.40
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	(573m I 627yds)	0	40	X	0.40
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	(Suburban lines only)	0	40	X	0.40
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	Whaler Street Jn .	0	48		0.48
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08		0	59	*	0.59
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08		0	57	*	0.57
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08		0	61	*	0.61
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	Bethnal Green West Jn .	0	62		0.62
+0003	EA1010	003	Liverpool Street to Seven Kings LTN Anglia	27/10/08		1	05	*	1.05
+0003	EA1010	003	Liverpool Street to Seven Kings LTN Anglia	27/10/08	BETHNAL GREEN	1	10		1.10
+0003	EA1010	003	Liverpool Street to Seven Kings LTN Anglia	27/10/08	Bethnal Green East Jn	1	14		1.14
+0003	EA1010	003	Liverpool Street to Seven Kings LTN Anglia	27/10/08		1	18	*	1.18
+0004	EA1010	004	Liverpool Street to Seven Kings LTN Anglia	05/08/06		1	67	*	1.67
+0004	EA1010	004	Liverpool Street to Seven Kings LTN Anglia	05/08/06		1	68	*	1.68
+0004	EA1010	004	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Mile End	2	02		2.02
+0005	EA1010	005	Liverpool Street to Seven Kings LTN Anglia	05/08/06	OHNS	2	68		2.68
+0005	EA1010	005	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Bow Jn	2	74		2.74
+0005	EA1010	005	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Pudding Mill Lane	3	21	DLR	3.21
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Thornton Fields sidings	3	32		3.32
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06		3	40	*	3.40
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06		3	44	*	3.44
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06		3	50	*	3.50
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Carpenters Rd. South Jn	3	54	*	3.54
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06		3	60	*	3.60
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09		3	68	*	3.68
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09	Str'atford Central Jn West	3	70		3.70
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09		3	74	*	3.74
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09	Stratford Central Jn East	3	75		3.75
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09	STRATFORD	4	03	*	4.03
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09		4	06	*	4.06
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	10	*	4.10
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	12	*	4.12
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	15	*	4.15
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Stratford Country End Crossovers	4	18	*	4.18
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06	MARYLAND	4	39		4.39
+0009	EA1010	009	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	43	*	4.43
+0009	EA1010	009	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Maryland East Crossovers	4	56	*	4.56
+0009	EA1010	009	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	62	*	4.62
+0010	EA1010	010	Liverpool Street to Seven Kings LTN Anglia	05/08/06	FOREST GATE	5	21		5.21
+0010	EA1010	010	Liverpool Street to Seven Kings LTN Anglia	05/08/06		5	37	*	5.37
+0010	EA1010	010	Liverpool Street to Seven Kings LTN Anglia	05/08/06		5	48	*	5.48
+0010	EA1010	010	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Forest Gate Jn	5	63		5.63
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06	OHNS	5	71		5.71
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06		6	10	*	6.10
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06	MANOR PARK	6	19		6.19
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06		6	40	*	6.40
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06		6	67	*	6.67
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Aldersbrook sidings	6	67	X	6.67
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Ilford Flyover	6	67	X	6.67
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06		7	09	*	7.09
+0012	EA1010	012	Liverpool Street to Seven Kings LTN Anglia	05/08/06		7	20	*	7.20
+0012	EA1010	012	Liverpool Street to Seven Kings LTN Anglia	05/08/06	ILFORD	7	28		7.28
+0012	EA1010	012	Liverpool Street to Seven Kings LTN Anglia	05/08/06		7	52	*	7.52
+0012	EA1010	012	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Ilford Depot London End	7	63		7.63
+0013	EA1010	013	Liverpool Street to Seven Kings LTN Anglia	05/08/06		8	35	*	8.35
+0013	EA1010	013	Liverpool Street to Seven Kings LTN Anglia	05/08/06	SEVEN KINGS	8	45		8.45
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Ely North Jn	71	72		71.72
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		72	02	*	72.02
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Queen Adelaide LC	72	32	AHBC-X	72.32
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Palmers No.142 LC	73	63		73.63
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Mile End LC	74	76	AHBC-X	74.76
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Bedford No.151A LC	76	54		76.54
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	SHIPPEA HILL	76	54	X	76.54
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Shippea Hill SB	77	17	SH	77.17
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		77	21		77.21
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Shippea Hill LC	77	23	M06	77.23
+0244	EA1580	001	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Chivers LC	78	54	AHBC-X	78.54
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Pools (No.2) LC	79	16		79.16
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	The Drove (No.5) LC	79	66		79.66
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Lakenheath No.3 LC	80	65	RIG	80.65
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		81	56	*	81.56
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Bryants (No.12) LC	81	61		81.61
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	LAKENHEATH	82	39		82.39
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Lakenheath LC (MCG)	62	44	*	62.44
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Lakenheath SB	82	44	L	82.44
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		83	64	*	83.64
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hiams Fen House No.20 LC	83	67		83.67
+0245	EA1580	002	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		85	32	*	85.32
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Brandon SB	86	26	B	86.26
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Branden LC	86	29		86.29
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	BRANDON	86	32		86.32
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	DGL	86	52		86.52
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	DGL	87	16		87.16
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Forestry LC	87	17		87.17
+0246	EA1580	003	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		87	50	*	87.50
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		87	70	*	87.70
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Santon LC	88	72	AHBC-X	88.72
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Two Mile Bottom LC (AHBC-X)	91	16	*	91.16
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	No.33 LC	91	35		91.35
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		92	36	*	92.36
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	GF	93	30		93.30
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Thetford SB	93	45	T	93.45
+0247	EA1580	004	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	THETFORD	93	50		93.50
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		94	20	*	94.20
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Gooderham's No.41 LC	94	70		94.70
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Gooderham's No.42 LC	95	28		95.28
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	meton LC (AHBC-X)	96	44	*	96.44
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Shadwell LC	98	50		98.50
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Drove Road LC	99	51		99.51
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hockham Road LC	99	67		99.67
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Roudham Hall Road LG	100	17		100.17
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		100	27	*	100.27
+0248	EA1580	005	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		100	47	*	100.47
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	HARLING ROAD	101	35		101.35
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Harling Road LG	101	41		101.41
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Harling Road SB	101	41	HR	101.41
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		102	44	*	102.44
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		103	09	*	103.09
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		104	09	*	104.09
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Heath No. 59 LG	104	10		104.10
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	EOGLES ROAD	104	36		104.36
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Eccles Road LC	104	41	M06	104.41
+0249	EA1580	006	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Eccles Road SB	104	41	ER	104.41
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hargham No.1 LC	105	30	AHBC	105.30
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hargham No.2 LG	106	15		106.15
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Fowlers Lane LG	106	75		106.75
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Poplar Farm LC (MCG)	107	21	*	107.21
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Poplar Farm Gate Box	107	21		107.21
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Sandy Lane LC	108	29		108.29
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	ATTLEBOROUGH	108	19		108.19
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Attleborough LC	108	20	MCG	108.20
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Attleborough SB	108	21	A	108.21
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Spronces LC	108	66	AHBC—X	108.66
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Rose Lane LC	109	33		109.33
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		109	43	*	109.43
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Baldwin's No.78 LG	109	66		109.66
+0250	EA1580	007	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		110	14	*	110.14
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Sluts Hole LG	110	32		110.32
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	No. 79A LG	110	33		110.33
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Spooner Row SB	111	25	SP	111.25
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Spooner Row L0	111	26		111.26
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	SPOONER ROW	111	27		111.27
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		112	15	*	112.15
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Suton LC	112	30	AHBC—X	112.30
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Park Lane LC	113	34		113.34
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Wymondham SB	113	63	W	113.63
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	WYMONDHAM	113	72		113.72
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		113	75	*	113.75
+0251	EA1580	008	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Wymondham GF	114	05	*	114.05
+0252	EA1580	009	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Browick Road LC	114	34	AHBC-X	114.34
+0252	EA1580	009	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Spinks Lane LC	115	14	RIG-X	115.14
+0252	EA1580	009	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Hethersett GF	117	77		117.77
+0252	EA1580	009	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	lntwood LC	119	48	AHBC—X	119.48
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Keswick LC (AH BC—X)	120	02		120.02
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Eaton LC	120	29	RIG-X	120.29
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	No. 93 LC	120	60		120.60
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06		122	72	*	122.72
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Single line	122	78		122.78
+0253	EA1580	010	Ely North Jn to Trowse Jn ETN Anglia	05/08/06	Trowse Jn	123	00		123.00
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Barking Tilbury Line Jn East	7	60		7.60
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	OHNS	7	79		7.79
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06		8	40		8.40
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06		9	16	*	9.16
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Renwick Road Jn	9	31		9.31
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Freightliner Depot West End GF	9	50		9.50
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Stora Sidings GSP	9	54	*	9.54
+0170	EA1390	001	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	27/11/06	Ripple Lane East Jn (Up TiburylGoods)	9	54	X	9.54
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08	Freightliner Depot East End GF	10	06		10.06
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08	Ripple Lane East Jn	10	06	X	10.06
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08	(Down TilburylGoods)	10	06	X	10.06
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08	DAGENHAIIII DOCK	10	45		10.45
+0171	EA1390	002	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	20/07/08		10	52		10.52
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Manor Way LC	12	02	CCTV	12.02
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	RAINHAM	12	54		12.54
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Rainham LC	12	60	CCTV	12.60
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06		15	07	*	15.07
+0172	EA1390	003	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Purfleet Rifle Range LC	15	27	UWC	15.27
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	PURFLEET	16	02		16.02
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07		16	03	*	16.03
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Purfleet LC	16	07	CCTV	16.07
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Thames Board Mills LC	16	38		16.38
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07		16	42	*	16.42
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Esso LC	16	49	UWC	16.49
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Deep Wharf Siding	16	65		16.65
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Deep Wharf LC	16	68		16.68
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Foster Yeoman Sidings	17	06		17.06
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Jurgens LC	17	25	MCB	17.25
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	LaFarge Marine Terminal Sidings	17	53		17.53
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Thames Matex Sidings	17	55		17.55
+0173	EA1390	004	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07		17	73		17.73
+0174	EA1390	005	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	Procter & Gamble Siding	18	65		18.65
+0174	EA1390	005	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	21/04/07	West Thurrock Jn .	19	03		19.03
+0175	EA1390	006	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	01/12/08	19 4a :1:			X	.
+0175	EA1390	006	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	01/12/08	GRAYS	19	70		19.70
+0175	EA1390	006	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	01/12/08	Grays LC	19	76	CCTV	19.76
+0175	EA1390	006	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	01/12/08	OHNS	21	07		21.07
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	TILBURY TOWN	21	48		21.48
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Former Tilbury West Jn	22	06	*	22.06
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Tllbury Riverside International	22	06	X	22.06
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Rail Freight Terminal	22	30	*	22.30
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06		22	38	*	22.38
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06		22	46	*	22.46
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Walton Common LC	23	40		23.40
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	No.168 LC	24	02		24.02
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Low Street LC	24	11	CCTV	24.11
+0176	EA1390	007	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Goal Road LC	24	43		24.43
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	EAST TILBURY	25	07		25.07
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	East Tilbury LC	25	12	CCTV	25.12
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06		25	67	*	25.67
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	Mucking LC (AHBC)	26	40	*	26.40
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	Thames Haven Jn	26	41		26.41
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	STANFORD-LE-HOPE	27	13		27.13
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	Stanford-le-hope LC	27	17	CCTV	27.17
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06		27	65	*	27.65
+0177	EA1390	008	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL THN Anglia	05/08/06	Fobbing LC	30	36	AHBC—X	30.36
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Gardners LC	30	75	CCTV	30.75
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Merrings LC	31	11	UWC	31.11
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Vange Wharf LC	31	43	CCTV	31.43
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	OHNS	32	03		32.03
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	OHNS	32	20		32.20
+0178	EA1390	009	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Pitsea Hall LC (CCTV)	32	24	*	32.24
+0179	EA1390	010	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	PITSEA	32	37		32.37
+0179	EA1390	010	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06		32	38	*	32.38
+0179	EA1390	010	Barking Tilbury Line Jn East to Pitsea Jn (via Tilbury) TLL Anglia	05/08/06	Pitsea Jn	32	43		32.43
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Ely North Jn	71	63		71.63
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06		71	72	*	71.72
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Queen Adelaide LC	72	12	AHBc-X	72.12
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Ely West Jn	72	39		72.39
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Clayway LC	72	62		72.62
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06		73	35	*	73.35
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Chettisham LC	73	55	AHBC-X	73.55
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Coffue Drove LC	74	25		74.25
+0233	EA1560	001	Ely North Jn to Peterborough EMP Anglia	05/08/06	Beald Drove LC	74	53	AHBC—X	74.53
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06	North Fen LC	74	79	AHBC-X	74.79
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06	Black Bank LC	75	24	AHBC-X	75.24
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06	Second Drove LC	75	58	AHBC-X	75.58
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06	Third Drove LC	75	76	AHBC-X	75.76
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06		78	01	*	78.01
+0234	EA1560	002	Ely North Jn to Peterborough EMP Anglia	05/08/06		78	02	*	78.02
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06		78	60	*	78.60
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Welney Road LC	79	50	AHBC—X	79.50
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Manea SB	80	11	M	80.11
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Manea LC	80	13	MCB	80.13
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	MANEA	80	18		80.18
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Stonea SB	82	03	B	82.03
+0235	EA1560	003	Ely North Jn to Peterborough EMP Anglia	09/09/06	Stonea LC	82	04	MCG	82.04
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06		83	13	*	83.13
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06	Horsemoor LC (AHBC-X)	84	31	*	84.31
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06		84	50	*	84.50
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06	Silt Drove LC	84	69	T	84.69
+0236	EA1560	004	Ely North Jn to Peterborough EMP Anglia	05/08/06	Badgeney Road LC	85	07	AHBC—X	85.07
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07		85	30		85.30
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07	March South LC (MCB)	85	35	*	85.35
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07	March South SB	85	37	MS	85.37
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07	March East SB	85	68	ME	85.68
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07	March East LC	85	69	MOB	85.69
+0237	EA1560	005	Ely North Jn to Peterborough EMP Anglia	19/11/07		85	70	*	85.70
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	MARCH	85	76		85.76
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	March East Jn	85	78		85.78
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	March West Jn .	86	16	*	86.16
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06		86	26	*	86.26
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	Norwood Road LC	86	30	AHBC	86.30
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06		86	35	*	86.35
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06		87	30	*	87.30
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	Whitemoor Drove LC	87	31	AHBC	87.31
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	Middle Drove LC	88	75	RIG	88.75
+0238	EA1560	006	Ely North Jn to Peterborough EMP Anglia	13/08/06	Kisby LC	88	24		88.24
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Three Horse Shoes No.1 LC	90	03	AHBC-X	90.03
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Three Horse Shoes No.2 LC	90	42	AHBC—X	90.42
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Three Horse Shoes No.3 LC	90	76	AHBC-X	90.76
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Three Horse Shoes SB	91	05	THS	91.05
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06		91	12	*	91.12
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Burnt House Drove LC	91	15	AHBC—X	91.15
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Baileys LC	92	58		92.58
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Eastrea LC (AH BC-X)	93	28	*	93.28
+0239	EA1560	007	Ely North Jn to Peterborough EMP Anglia	30/09/06	Eastrea WHEELCH EX	93	53		93.53
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06		94	40	*	94.40
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06		94	43	*	94.43
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Whittlesea SB	94	54	W	94.54
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	WHITrLESEA	94	60		94.60
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Whittlesea LC GF	94	68		94.68
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Whittlesea LC	94	63		94.63
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06		94	70	*	94.70
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Harts Drove LC	95	02	RIG	95.02
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Ramsey Road LC	95	37	AHBC	95.37
+0240	EA1560	008	Ely North Jn to Peterborough EMP Anglia	05/08/06	Blackbush LC	95	51	AHBC	95.51
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Kings Dyke LC	96	73	MOB	96.73
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Kings Dyke SB	96	75	K	96.75
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Funthams Lane LC	97	16	CCTV	97.16
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Territory Boundary	96	40		96.40
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06		99	70	*	99.70
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06		100	16		100.16
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06		100	37		100.37
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	Crescent Jn .	100	66		100.66
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06		76	25		76.25
+0241	EA1560	009	Ely North Jn to Peterborough EMP Anglia	05/08/06	PETERBOROUGH	76	29		76.29
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Camden Road Jn . (CR) SB	5	09		5.09
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Camden Road West Jn	5	10		5.10
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	00		0.00
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	OHNS	0	19		0.19
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	20	*	0.20
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	KENTISH TOWN WEST	0	34		0.34
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06		1	00	*	1.00
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	GOSPEL OAK	1	01		1.01
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Gospel Oak (GO) SB	1	10		1.10
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Gospel Oak Jn	1	10		1.10
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08		1	19	*	1.19
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08		1	20	*	1.20
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08	HAMPSTEAD HEATH	1	53		1.53
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08		1	63		1.63
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08	Hampstead Heath Tunnel (1166 yards) to	2	36		2.36
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08	FINCHLEY ROAD AND FROGNAL	2	44		2.44
+0132	EA1310	003	Camden Road West Junction to Richmond BOK Anglia	05/08/06	WEST HAMPSTEAD	2	75		2.75
+0132	EA1310	003	Camden Road West Junction to Richmond BOK Anglia	05/08/06	BRONDESBURY	3	36		3.36
+0132	EA1310	003	Camden Road West Junction to Richmond BOK Anglia	05/08/06	BRONDESBURY PARK	3	71		3.71
+0132	EA1310	003	Camden Road West Junction to Richmond BOK Anglia	05/08/06	KENSAL RISE	4	41		4.41
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06		5	10	*	5.10
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	CITY LINES	5	10	X	5.10
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Kensal Green Junction	0	00		0.00
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	21		0.21
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06		5	29	*	5.29
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	WILLESDEN JUNCTION	5	39		5.39
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	HIGH LEVEL	5	39	X	5.39
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Willesden High Level Jn (HL) SB	5	48	*	5.48
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	00		0.00
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Former Old Oak Jn	0	34		0.34
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Change of Mileage	0	43		0.43
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Acton Wells Jn (AW) SB	0	64		0.64
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Acton Wells Jn	0	66	*	0.66
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Acton Wells Jn	0	72		0.72
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	75	*	0.75
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Acton Central LC (CCTV)	1	70	*	1.70
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06	ACTON CENTRAL	1	73		1.73
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06	SOUTH ACTON	2	48	*	2.48
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06	South Acton Jn	2	52	*	2.52
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	Bollo Lane Junction	2	63		2.63
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	(Richmond Line) LC (MOB)	2	63	X	2.63
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	Bollo Lane Jn (BL) SB	2	63	X	2.63
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08		3	09	*	3.09
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	Gunnersbury Jn	3	12		3.12
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08		9	76		9.76
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	GUNNERSBURY	10	05		10.05
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08		10	10	*	10.10
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08	KEW GARDENS	11	10		11.10
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08		11	76	*	11.76
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08		12	10	*	12.10
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08	Richmond (GB) SB	12	22		12.22
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08	RICHMOND	12	39		12.39
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Coldham Lane Jn	56	51		56.51
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		0	23		0.23
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Laundry Lane LC (AOCL)	0	29	*	0.29
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		0	46	*	0.46
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Cherry Hinton High St. LC	2	17	CCTV	2.17
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Cherry Hinton Bypass LC	2	53	CCTV	2.53
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Teversham LC	3	44	AHBC	3.44
+0221	EA1530	001	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Coxes Farm LC	3	69		3.69
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Fulbourn LC	4	36	AHBC	4.36
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Six Mile Bottom LC	7	65	AHBC	7.65
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Brinkley Road LC	7	78	AHBC	7.78
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Westley Road LC	8	74	RIG	8.74
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Moores LC	10	06		10.06
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Single line	10	07		10.07
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	DULLINGHAM	10	54		10.54
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Dullingham (DH) SB	10	54		10.54
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Dullingham LC	10	56	M06	10.56
+0222	EA1530	002	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Single line	11	09		11.09
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Wood Ditton LC	13	11	AHBC	13.11
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		13	35	*	13.35
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	HEWMARKET	13	67		13.67
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		13	70	*	13.70
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		13	75	*	13.75
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Warren Hill Tunnel	14	31		14.31
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	(1 100 yards) to	14	31	X	14.31
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		15	01		15.01
+0223	EA1530	003	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		15	65	*	15.65
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Chippenham Jn	16	04	*	16.04
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Chippenham Jn SB (CM)	16	04	X	16.04
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		18	03	*	18.03
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		18	57	*	18.57
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		18	63	*	18.63
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	KENNETT	18	69		18.69
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06	Kennett (K) SB	18	69		18.69
+0224	EA1530	004	Coldham Lane Jn to Haughley Jn CCH Anglia	05/08/06		19	60		19.60
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Redland GF	20	18		20.18
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		21	01	*	21.01
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		21	48	*	21.48
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		23	60	*	23.60
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		25	17	*	25.17
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Bury St Edmunds Yard (BY) SB	28	33		28.33
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		28	37	*	28.37
+0225	EA1530	005	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	BURY ST. EDMUNDS	28	44		28.44
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		28	52	*	28.52
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		31	00	*	31.00
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		31	48	*	31.48
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	THURSTON	32	51		32.51
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Thurston Footpath LC	32	54	RIG	32.54
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		32	72	*	32.72
+0226	EA1530	006	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		33	15	*	33.15
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Hall Farm LC	36	59		36.59
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	ELMS'WELL	37	11		37.11
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Elmswell LC	37	14	CCTV	37.14
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	EImSWeIIGSP	37	20		37.20
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Base Green (No. 31) LC	39	03		39.03
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		39	73	*	39.73
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		40	42	*	40.42
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		40	45		40.45
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06	Haughley Jn	40	49		40.49
+0227	EA1530	007	Coldham Lane Jn to Haughley CCH Anglia	05/08/06		32	79		32.79
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Thorpe Jn	123	56		123.56
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08		0	29		0.29
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08		0	44	*	0.44
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Crown Paint Control Tower	0	58		0.58
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Wensum Jn -	0	60		0.60
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Girlings LC	1	52	RlG-X	1.52
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Whitlingham Lane LC	1	63		1.63
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Whitlingham Jn	1	69		1.69
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Bungalow Lane LC	2	18	RIG-X	2.18
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		3	41	*	3.41
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		3	43	*	3.43
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	BRUNDALL GARDENS	4	66		4.66
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Church Lane LC	5	20		5.20
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Bells LC	5	45		5.45
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	BRUNDALL	5	60		5.60
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Brundall LC	5	62		5.62
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Brundall Jn . SB	5	70	BL	5.70
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Brundall Jn	5	73		5.73
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No. 13 LC	6	30		6.30
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Strumpshaw Fen LC	6	74		6.74
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Strumpshaw LC	7	11		7.11
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	BUCKENHAM	7	62		7.62
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Buckenham LC	7	62		7.62
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.26 LC	8	60		8.60
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No. 30 LC	9	38		9.38
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Burnt House LC	9	62		9.62
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Church Road LC	9	74		9.74
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	OANTLEY	10	00		10.00
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Cantley LC	10	03	MWG	10.03
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Cantley SB	10	04	O	10.04
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	REEDHAII	12	13		12.13
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	18	*	12.18
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	26	*	12.26
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	27	*	12.27
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Reedham Jn SB	12	28	RJ	12.28
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Reedham Jn	12	34		12.34
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	35	*	12.35
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	54	*	12.54
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Reedham Swing Bridge SB	13	06	RB	13.06
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		13	45	*	13.45
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	River Board LC	16	01		16.01
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	HADDISGOE	16	11		16.11
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.53 LC	16	57		16.57
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.54 LC	16	72		16.72
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.56 LC	17	15		17.15
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		17	51	*	17.51
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Somerleyton Swing Bridge SB	17	60	SB	17.60
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		17	63	*	17.63
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.58 LC	17	76		17.76
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	SOMERLEYTON	18	00		18.00
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Somerleyton GF	18	07		18.07
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.59 LC	18	23		18.23
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.67 LC	19	57		19.57
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No. 72 LC	20	43		20.43
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.74 LC	20	77		20.77
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Oulton Broad North SB	22	00	OB	22.00
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Oulton Broad North LC	22	01		22.01
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	OULTON BROAD NORTH	22	04		22.04
+0208	EA1470	007	Norwich Thorpe Jn to Lowestoft NOL Anglia	14/02/09	Oulton Broad North Jn	22	14		22.14
+0208	EA1470	007	Norwich Thorpe Jn to Lowestoft NOL Anglia	14/02/09	Ground Frame	22	77		22.77
+0208	EA1470	007	Norwich Thorpe Jn to Lowestoft NOL Anglia	14/02/09	Lowestoft SB	23	22	L	23.22
+0208	EA1470	007	Norwich Thorpe Jn to Lowestoft NOL Anglia	14/02/09	LOWESTOFT	23	41		23.41
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	PRIMROSE HILL	5	49	CLOSED	5.49
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	TERRITORY BOUNDARY	5	42		5.42
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08		5	29	*	5.29
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	OHNS	5	12		5.12
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	Camden Road West Jn	5	10		5.10
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	Camden Rd Jn (CR) SB	5	09		5.09
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	CAMDEN ROAD	5	01		5.01
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08		4	68	*	4.68
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	Camden Road Central Jn	0	51		0.51
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	Camden Road incline Jn	0	44		0.44
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	TERRITORY BOUNDARY	0	20		0.20
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	York Way North Jn	0	13		0.13
+0138	EA1320	001	Camden Road West Junction to Stratford BOK Anglia	26/03/08	OHNS	0	03		0.03
+0139	EA1320	002	Camden Road West Junction to Stratford BOK Anglia	14/05/07	Camden Road East Jn	4	52		4.52
+0139	EA1320	002	Camden Road West Junction to Stratford BOK Anglia	14/05/07	OHNS	4	44		4.44
+0139	EA1320	002	Camden Road West Junction to Stratford BOK Anglia	14/05/07	Bamsbury Jn	3	75	*	3.75
+0140	EA1320	003	Camden Road West Junction to Stratford BOK Anglia	14/05/07	CALEDONIA" ROAD &	3	74		3.74
+0140	EA1320	003	Camden Road West Junction to Stratford BOK Anglia	14/05/07	BARNSBURY			Z	.
+0140	EA1320	003	Camden Road West Junction to Stratford BOK Anglia	14/05/07		3	68	*	3.68
+0140	EA1320	003	Camden Road West Junction to Stratford BOK Anglia	14/05/07	HIGHBURY & ISLINGTON	3	36		3.36
+0140	EA1320	003	Camden Road West Junction to Stratford BOK Anglia	14/05/07		3	14	*	3.14
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	OHNS	3	17		3.17
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	Canonbury West Jn	3	12		3.12
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	CANONBURY	2	73		2.73
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	Canonbury East Jn	2	66		2.66
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008		2	40	*	2.40
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008		2	28	*	2.28
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	Dalston Jn	2	21		2.21
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	Dalston Jn SB (D)	2	16	*	2.16
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	DALSTON KINGSLAND	2	06		2.06
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	Navarino Road Jn	1	52		1.52
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	Change of mileage	1	11		1.11
+0141	EA1320	004	Camden Road West Junction to Stratford BOK Anglia	29/03/2008	OHNS	1	16		1.16
+0142	EA1320	005	Camden Road West Junction to Stratford DWW Anglia	14/05/07	HACKNEY CENTRAL	1	32		1.32
+0142	EA1320	005	Camden Road West Junction to Stratford DWW Anglia	14/05/07	HOMERTON	2	01		2.01
+0142	EA1320	005	Camden Road West Junction to Stratford DWW Anglia	14/05/07	Victoria Park Jn (Site of)	2	48	*	2.48
+0142	EA1320	005	Camden Road West Junction to Stratford DWW Anglia	14/05/07	HACKNEY WICK	2	68	*	2.68
+0143	EA1320	006	Camden Road West Junction to Stratford DWW Anglia	10/01/09	Lea Jn	3	19		3.19
+0143	EA1320	006	Camden Road West Junction to Stratford DWW Anglia	10/01/09		3	30	*	3.30
+0143	EA1320	006	Camden Road West Junction to Stratford DWW Anglia	10/01/09	Channelsea North Jn	3	32		3.32
+0143	EA1320	006	Camden Road West Junction to Stratford DWW Anglia	10/01/09	Channelsea South Jn	3	33		3.33
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09		3	39	*	3.39
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09	Stratford Low Level	3	65		3.65
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09	Tunnel (77 yards) to	3	65	X	3.65
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09		3	67		3.67
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09		3	68	*	3.68
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09	Sflatford Station (LU L)	3	68	X	3.68
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09	STRATFORD LOW LEVEL	3	70		3.70
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09		4	00		4.00
+0144	EA1320	007	Camden Road West Junction to Stratford DWW Anglia	10/01/09		4	09		4.09
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		71	75	*	71.75
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Queen Adelaide LC (AHBC—X)	72	18	*	72.18
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Sandhill LC	75	35	AHBC-X	75.35
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		75	70	*	75.70
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		75	71	*	75.71
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Littleport (L) SB	75	79		75.79
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Littleport LC	76	00	M06	76.00
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	LITTLEPORT	76	00		76.00
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Littleport Footpath LC	76	05	RIG	76.05
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Littleport Bypass LC	76	27	AHBC-X	76.27
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		76	28	*	76.28
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		76	30	*	76.30
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Single Line	76	36		76.36
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		76	40	*	76.40
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	OHNS	77	11		77.11
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Black Horse Drove LC	79	19	RIG	79.19
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Hilgay LC	81	38	AHBC	81.38
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Pleasants LC (RIG)	81	57	UWC	81.57
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Concrete Road LC	82	29	UWC	82.29
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Martins LC	82	48		82.48
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		82	67	*	82.67
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Denver LC	84	38	AHBC	84.38
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		85	56	*	85.56
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Downham Bypass LC	85	57	AHBC	85.57
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		85	73	*	85.73
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Downham Market	86	04	DM	86.04
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	SB LC and Footpath LC (RIG) (MOB)	86	04	X	86.04
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	DOWNHAH MARKET	86	08		86.08
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Downham MarketGF	86	15		86.15
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		86	16	*	86.16
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Fairfields LC	86	31		86.31
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		87	00	*	87.00
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Stow Bardolph LC	88	31	CCTV	88.31
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Holme Road LC	89	63	*	89.63
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	WATLIIIGTOH	90	70		90.70
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Magdalen Road LC	90	73	MOB	90.73
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Magdalen Road (MR) SB	90	73		90.73
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		91	00	*	91.00
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Watlington Road LC	91	13	CCTV	91.13
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		91	15	*	91.15
+0105	EA1162	006	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		91	20	*	91.20
+0105	EA1162	006	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	St Germans LC	92	53	AHBC	92.53
+0105	EA1162	006	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		95	15	*	95.15
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007		96	02	*	96.02
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	Extons Road LC	96	24	CCTV	96.24
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007		96	46	*	96.46
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	King's Lynn Jn (KL) SB	96	50	*	96.50
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	Tennyson Avenue LC	96	54	M03	96.54
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	Kings Lynn Yard	96	54	X	96.54
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	KING'S LYNN	96	75		96.75
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06	Ipswich Goods Jn	68	72		68.72
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06		69	04	*	69.04
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06	Ipswich Upper Yard	69	04	X	69.04
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06	East Suffolk Jn	69	41		69.41
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06		69	60	*	69.60
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	DaineslMayhew LC	72	75		72.75
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Claydon LC	73	47	CCTV	73.47
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Claydon GF	73	70		73.70
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Barham sidings	74	12		74.12
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Baylam LC	75	17	AHBC-X	75.17
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	NEEDHAM MARKET	77	07		77.07
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Gypsy Lane LC	77	64		77.64
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	OHNS	79	10		79.10
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06		80	00	*	80.00
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06		80	35	*	80.35
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06	STOWMARKET	80	46		80.46
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06	Stowmarket (MGB) LC	80	54		80.54
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06	(Supervised by Stowmarket Gate Box)	80	54	X	80.54
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Regent Street LC	80	68	CCTV	80.68
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Marsh Lane LC	81	26	UWC	81.26
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06		81	52	*	81.52
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Haughley LC	82	70	AHBC	82.70
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Haughley Jn	82	79		82.79
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Wassicks LC	83	79	AHBC—X	83.79
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Cow Green GSP	85	20		85.20
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Gislingham LC	88	14		88.14
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Rectory Rd LC	91	05	AHBC-X	91.05
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Beecroft (Wright's) LC	91	16	UWC	91.16
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Mellis LC	91	34	AHBC—X	91.34
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Palgrave LC (AH BC—X)	94	04		94.04
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	DISS	94	79		94.79
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Audley End (Norfolk) LC (AH BC—X)	97	04		97.04
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Burston LC	97	47	AHBC-X	97.47
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Gissing No 2 LC	98	57	AHBC-X	98.57
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	OHNS	98	76		98.76
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Hales Street LC	100	26	AHBC—X	100.26
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Tivetshall LC	100	43	AHBC—X	100.43
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Black Mill LG	101	01		101.01
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Moulton LC	101	51	AHBC—X	101.51
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Flordon GSP	106	63		106.63
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Newton Flotman LC	108	19	AHBC-X	108.19
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Swainsthorpe LC	109	54	AHBC-X	109.54
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06		111	36	*	111.36
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06		112	63	*	112.63
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Lakenham	113	32		113.32
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06		113	62	*	113.62
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Whitlingham Jn	1	69		1.69
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06		2	04	*	2.04
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06		3	37	*	3.37
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06		3	40	*	3.40
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Norwich Road LC	4	20	AHBC—X	4.20
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Great Plumstead LC	4	52	AHBC-X	4.52
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Rackheath Road LC	5	19	AHBC-X	5.19
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06		5	20	*	5.20
+0209	EA1480	001	Whitlingham Jn to Cromer WHC Anglia	05/08/06		5	67	*	5.67
+0210	EA1480	002	Whitlingham Jn to Cromer WHC Anglia	26/01/09	SALHOUSE	5	74		5.74
+0210	EA1480	002	Whitlingham Jn to Cromer WHC Anglia	26/01/09	Bears Grove LC	7	06		7.06
+0210	EA1480	002	Whitlingham Jn to Cromer WHC Anglia	26/01/09		7	60	*	7.60
+0210	EA1480	002	Whitlingham Jn to Cromer WHC Anglia	26/01/09		7	74	*	7.74
+0210	EA1480	002	Whitlingham Jn to Cromer WHC Anglia	26/01/09		8	50	*	8.50
+0210	EA1480	002	Whitlingham Jn to Cromer WHC Anglia	26/01/09	HOVETON & WROXHAM	8	61		8.61
+0210	EA1480	002	Whitlingham Jn to Cromer WHC Anglia	26/01/09		9	02	*	9.02
+0210	EA1480	002	Whitlingham Jn to Cromer WHC Anglia	26/01/09	Single line	9	05	*	9.05
+0211	EA1480	003	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Belaugh Lane LG	10	01		10.01
+0211	EA1480	003	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Coltishall Lane LC	10	30		10.30
+0211	EA1480	003	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Tunstead Market Street LC	10	49	AHBC	10.49
+0211	EA1480	003	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Water Pit Lane LC	10	68		10.68
+0211	EA1480	003	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Tunstead Church Lane LC	11	29		11.29
+0212	EA1480	004	Whitlingham Jn to Cromer WHC Anglia	05/08/06		12	10	*	12.10
+0212	EA1480	004	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Sloley Church Lane LC	12	17	AHBC	12.17
+0212	EA1480	004	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Broad Road LC	12	58		12.58
+0212	EA1480	004	Whitlingham Jn to Cromer WHC Anglia	05/08/06		12	71	*	12.71
+0212	EA1480	004	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Worstead LC	13	10	AHBC	13.10
+0212	EA1480	004	Whitlingham Jn to Cromer WHC Anglia	05/08/06	WORSTEAD	13	12		13.12
+0212	EA1480	004	Whitlingham Jn to Cromer WHC Anglia	05/08/06		13	61	*	13.61
+0212	EA1480	004	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Heath Farm LC	15	05		15.05
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06		15	40	*	15.40
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06		15	68	*	15.68
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06	NORTH WALSHAM	16	00		16.00
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06		16	02	*	16.02
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06		16	30	*	16.30
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Pond Street LC	18	27		18.27
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06		18	62	*	18.62
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06	Walpole LC	18	67	CCTV	18.67
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06	GUNTON	19	63		19.63
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06		20	70	*	20.70
+0213	EA1480	005	Whitlingham Jn to Cromer WHC Anglia	05/08/06		23	20	*	23.20
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07	Change of mileage	24	00		24.00
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07		11	54		11.54
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07	ROUGHTON ROAD	11	55		11.55
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07		11	58	*	11.58
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07		13	10	*	13.10
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07	Change of mileage	13	48	*	13.48
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07		45	64		45.64
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07	Cromer Jn	46	27		46.27
+0214	EA1480	006	Whitlingham Jn to Cromer WHC Anglia	01/12/07	GROMER	46	42		46.42
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09	OHNS	52	28		52.28
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09		52	33	*	52.33
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09		52	55	*	52.55
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09		52	56	*	52.56
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09	Hunwick Jn	52	65		52.65
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09	East Gate LC	53	12	CCTV	53.12
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09	East Gate Jn	53	14		53.14
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09	Hythe Jn	53	36		53.36
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09	HYTHE	53	49		53.49
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09	Hythe Station LC	53	54	CCTV	53.54
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09		53	55	*	53.55
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09	Wivenhoe Park LC	54	61	UWC	54.61
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09		55	25	*	55.25
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09		55	45	*	55.45
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09		55	55	*	55.55
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	WIVENHOE	56	00		56.00
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09		56	60	*	56.60
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	ALRESFORD	57	63		57.63
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	Alresford LC	57	68	CCTV	57.68
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	Coach Road LC	58	02	CCTV	58.02
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	Thorrington LC	59	41	M03	59.41
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	Thorrington Crossing Box	59	42		59.42
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09		59	67	*	59.67
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	Frating LC	59	74	AHBC	59.74
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	(Supervised by Thorrington	59	74	X	59.74
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	Crossing box)	59	74	X	59.74
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09		60	43	*	60.43
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	Great Bentley LC	60	62	MCB	60.62
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	GREAT BENTLEY	60	66		60.66
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	WEELEY	62	78		62.78
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09		63	35	*	63.35
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06		64	53	*	64.53
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06		64	68	*	64.68
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06	Thorpe-le—Soken (1') SB	65	06		65.06
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06	THORPE-LE-SOKEN	65	07		65.07
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06	Thorpe-le-Soken Jn	65	20	*	65.20
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06		65	24	*	65.24
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06	Three Gates LC (Clacton Line)	65	65		65.65
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007	Giles LC	67	45	UWC	67.45
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007	Burrs Road LC	68	04	MCG	68.04
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007		69	35	*	69.35
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007	Clacton (C) SB	69	42		69.42
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007	GLAGTON-ON-SEA	69	56		69.56
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	Gospel Oak (GO) SB	0	00		0.00
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	GOSPEL OAK	0	04		0.04
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08		0	43		0.43
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	Covered Way to	0	43	X	0.43
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08		0	52		0.52
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	Junction Road Jn	0	58	*	0.58
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08		2	42		2.42
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08		2	44	*	2.44
+0150	EA1370	001	Gospel Oak to Barking Tilbury Jn West GOJ TAH Anglia	29/09/08	Cripple Siding GSP	2	44	X	2.44
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	Upper Holloway SB	2	76	UH	2.76
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	UPPER HOLLOWAY	3	00		3.00
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06		3	08	*	3.08
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06		3	28	*	3.28
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	CROUCH HILL	3	65		3.65
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06		4	01		4.01
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	Crouch Hill Tunnel to	4	01	X	4.01
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	(90yds)	4	05		4.05
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	Harringay Park Jn SB	4	12	HP	4.12
+0151	EA1370	002	Gospel Oak to Barking Tilbury Jn West TAH Anglia	05/08/06	Harringay Park Jn	4	15		4.15
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	HARRINGAY GREEN LADIES	4	61		4.61
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	South Tottonham West Jn	5	65		5.65
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06		5	66	*	5.66
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	SOUTH TOTTENHAM	5	69		5.69
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	South Tottenham Station Jn . SB (8)	5	71	*	5.71
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06	South Tottenham East Jn	5	73	*	5.73
+0152	EA1370	003	Gospel Oak to Barking Tilbury Jn West TAH TFH Anglia	05/08/06		5	77	*	5.77
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		6	47	*	6.47
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		6	58	*	6.58
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	BLACKHORSE ROAD	7	21		7.21
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	WALTHAMSTOW QUEENS ROAD	8	11		8.11
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	LEYTON MIDLAND ROAD	9	22		9.22
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	LEYTONSTONE HIGH ROAD	10	00		10.00
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08	WANSTEAD PARK	11	15		11.15
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		11	19	*	11.19
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		11	34	*	11.34
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		11	44	*	11.44
+0153	EA1370	004	Gospel Oak to Barking Tilbury Jn West TFH Anglia	09/02/08		11	69	*	11.69
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		11	73	*	11.73
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		11	74		11.74
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	Woodgrange Park Jn	11	79		11.79
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		12	00	*	12.00
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	WOODGRANGE PARK	12	05		12.05
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		12	16	*	12.16
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08		13	05	*	13.05
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	Barking Station Jn .	13	12		13.12
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	BARKING	12	05		12.05
+0154	EA1370	005	Gospel Oak to Barking Tilbury Jn West TFH Anglia	22/09/08	Barking Tilbury Line Jn West	13	42		13.42
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	Manningtree North Jn			X	.
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	MANNINGTREE	59	35		59.35
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	Manningtree South Jn	59	45		59.45
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	CW	59	47		59.47
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	OHNS			Z	.
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007	Manningtree East Jn	59	67		59.67
+0063	EA1120	001	Manningtree to Harwich Town MAH NTE Anglia	01/12/2007		59	74	*	59.74
+0064	EA1120	002	Manningtree to Harwich Town MAH Anglia	05/08/06	Mistley Footpath LC	61	10	RIG	61.10
+0064	EA1120	002	Manningtree to Harwich Town MAH Anglia	05/08/06	MISTLEY	61	14		61.14
+0064	EA1120	002	Manningtree to Harwich Town MAH Anglia	05/08/06	Mistley Up Sidings GIF	61	19		61.19
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	Bradfield LC (UWC)	62	37	RIG	62.37
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	Jaques Hall LC	63	31		63.31
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	Wrabness Footpath LC	65	04	RIG	65.04
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	WRABNESS	65	06		65.06
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06	Copperas LC	66	49	UWC	66.49
+0065	EA1120	003	Manningtree to Harwich Town MAH Anglia	05/08/06		67	33	*	67.33
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston Goods Jn	68	02		68.02
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston Yard	68	51	*	68.51
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston West (MOB) LC	68	61		68.61
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston SB	68	62	P	68.62
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	HARWICH INTERNATIONAL	68	72		68.72
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	PORT			Z	.
+0066	EA1120	004	Manningtree to Harwich Town MAH Anglia	01/12/07	Parkeston East LC	68	79	CCTV	68.79
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06		69	15	*	69.15
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06		69	54	*	69.54
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06		70	02	*	70.02
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06	DOVERCOURT	70	19		70.19
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06	Alexandra Road LC	70	37	CCTV	70.37
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06		70	49	*	70.49
+0067	EA1120	005	Manningtree to Harwich Town MAH Anglia	05/08/06	HARWIcH TOWN	70	61		70.61
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Chippenham Jn	16	04		16.04
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		00	63		00.63
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		00	54	*	00.54
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		00	31	*	00.31
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Change of mileage	00	00	*	00.00
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Site of former Snailwell Jn	01	54		01.54
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Kings Sidings GF	2	64		2.64
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Munceys LC	4	16		4.16
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Fordham LC	4	64	AHBC-X	4.64
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Cockspin Road LC	5	05	AHBC-X	5.05
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Hitch's No.12 LC	6	58		6.58
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Hitch's No.13 LC	6	61		6.61
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Horse Fen LC	6	74		6.74
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Mill Drove LC	7	28	Al-lBC—X	7.28
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		7	30	*	7.30
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Soham Common LC	7	42		7.42
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Clark & Butchers LC	7	53	*	7.53
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Single Line	7	61		7.61
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Soham Station LC	7	78		7.78
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		8	00	*	8.00
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Straws LC	8	02		8.02
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Middlemere LC	8	25	AHBC	8.25
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Tiled House Farm LC (AH BC)	8	66		8.66
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Short Drove LC	9	07		9.07
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Poplar Drove No.30 LC	9	35		9.35
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		9	40	*	9.40
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Leonards No.31 LC	9	47		9.47
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Barway Sidings LC	9	76	AHBC	9.76
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Blockmore LC	10	36		10.36
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Ambrose's LC	11	11		11.11
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Roundabc-ut Drove LC	11	36		11.36
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07		11	36		11.36
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07		12	02	*	12.02
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Wells Engine LC	12	03		12.03
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Hawks LC	12	17		12.17
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Single Line	12	27		12.27
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Ely Dock Jn	12	33		12.33
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07		69	79		69.79
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Hackney Downs North Jn	3	04		3.04
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		3	07	*	3.07
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		3	13	*	3.13
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	REOTORY ROAD	3	64		3.64
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	STOKE NEWINGTON	4	16		4.16
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Stoke Newington Tunnel	4	19		4.19
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	(60 yards) to	4	22		4.22
+0107	EA1170	001	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	STAMFORD HILL	5	03		5.03
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		5	39	*	5.39
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Seven Sisters Jn	5	40		5.40
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	SEVEN SISTERS	5	48		5.48
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Seven Sisters GF	5	52		5.52
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		5	75	*	5.75
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	BRUCE GROVE	6	28		6.28
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		6	43	*	6.43
+0108	EA1170	002	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	WHITE HART LANE	7	11		7.11
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	White Hart Lane GF	7	36		7.36
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	SILVER STREET	7	75		7.75
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		8	40	*	8.40
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	EDMONTON GREEN	8	45		8.45
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06		8	65	*	8.65
+0109	EA1170	003	Hackney Downs North Jn to Enfield Town HDT Anglia	05/08/06	Bury Street Jn	9	20		9.20
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	OHNS	9	30		9.30
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	BUSH HILL PARK	9	69		9.69
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	Lincoln Road LC	10	25	MCG	10.25
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06		10	33	*	10.33
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	ENFIELD TOWN	10	55		10.55
+0110	EA1170	004	Hackney Downs North Jn to Enfield Town ENT Anglia	05/08/06	Enfield Town Platform GF	10	55	X	10.55
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	SHENFIELD	20	16		20.16
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	Shenfield Jn	20	22		20.22
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		20	32	*	20.32
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	OHNS	20	65		20.65
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	OHNS	20	72		20.72
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		21	10	*	21.10
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	Mountnessing Jn	21	32		21.32
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		21	35	*	21.35
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		21	40	*	21.40
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		23	75	*	23.75
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		24	00	*	24.00
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		24	10	*	24.10
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08		24	13	*	24.13
+0044	EA1050	001	Shenfield Jn to Southend Victoria SSV Anglia	25/03/08	BILLERIGAY	24	23		24.23
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		24	33		24.33
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		26	60	*	26.60
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		28	64	*	28.64
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	WICKFORD	29	02		29.02
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	Wickford Jn	29	13		29.13
+0045	EA1050	002	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		30	05	*	30.05
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	OHNS	32	79		32.79
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	RAYLEIGH	33	09		33.09
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		35	20	*	35.20
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	HOGKLEY	36	01		36.01
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06		36	29	*	36.29
+0046	EA1050	003	Shenfield Jn to Southend Victoria SSV Anglia	05/08/06	ROGHFORD	38	54		38.54
+0047	EA1050	004	Shenfield Jn to Southend Victoria SSV Anglia	01/12/07	PRITPLEWELL	40	67		40.67
+0047	EA1050	004	Shenfield Jn to Southend Victoria SSV Anglia	01/12/07		41	11	*	41.11
+0047	EA1050	004	Shenfield Jn to Southend Victoria SSV Anglia	01/12/07	Southend GF	41	41		41.41
+0047	EA1050	004	Shenfield Jn to Southend Victoria SSV Anglia	01/12/07	SOUTHEND VICTORIA	41	42		41.42
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Brundall Jn	5	72		5.72
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06		6	00	*	6.00
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	No.2 LC	6	11		6.11
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Chapel Road LC	7	55	MCG	7.55
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	LINGWOOD	7	78		7.78
+0216	EA1500	001	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Lingwood LC	8	03	M06	8.03
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Single line	10	20	*	10.20
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Acle SB	10	33	A	10.33
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	AGLE	10	34		10.34
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Single line	10	42	*	10.42
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06		10	50	*	10.50
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Damgate LC	11	06		11.06
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	No.23 LC	12	27		12.27
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Britannia Farm LC	15	14		15.14
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06		17	04	*	17.04
+0217	EA1500	002	Brundall Jn to Yarmouth NAY Anglia	05/08/06	Breydon Access No.51 LC	17	02		17.02
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07	REEDHAM			Z	.
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07		20	16	*	20.16
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07	Yarmouth SB	20	29	Y	20.29
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07	YARMOUTH	20	45		20.45
+0218	EA1500	003	Brundall Jn to Yarmouth NAY RBY Anglia	01/12/07	GF	20	45		20.45
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	UPMINSTER	15	20		15.20
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	Upminster GF	15	36		15.36
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	Upminster (UR) IECC	15	38		15.38
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	Upminster East Jn	15	39		15.39
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06		0	00		0.00
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06		00	20	*	00.20
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06		00	29	*	00.29
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	OGKENDON	3	05		3.05
+0182	EA1410	002	Upminster to West Thurrock Jn UPG Anglia	05/08/06		5	10	*	5.10
+0182	EA1410	002	Upminster to West Thurrock Jn UPG Anglia	05/08/06	CHAFFORD HUNDRED	5	38		5.38
+0182	EA1410	002	Upminster to West Thurrock Jn UPG Anglia	05/08/06	OHNS	6	15		6.15
+0182	EA1410	002	Upminster to West Thurrock Jn UPG Anglia	05/08/06		6	23	*	6.23
+0183	EA1410	003	Upminster to West Thurrock Jn UPG Anglia	05/08/06		6	45	*	6.45
+0183	EA1410	003	Upminster to West Thurrock Jn UPG Anglia	05/08/06	West Thurrock Jn .	6	56		6.56
+0183	EA1410	003	Upminster to West Thurrock Jn UPG Anglia	05/08/06		19	03		19.03
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	ROYSTON	44	72		44.72
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		45	20	*	45.20
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		45	26	*	45.26
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		45	60	*	45.60
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	ME LDRETH	47	75		47.75
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		49	22	*	49.22
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Meldreth Road LC	49	37	AHBC	49.37
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		49	40	*	49.40
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Shepreth LC	49	63	AHBC	49.63
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	SHEPRETH	49	67		49.67
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		50	00	*	50.00
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Angle Lane LC	50	05	RIG	50.05
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		50	15	*	50.15
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Foxten Gate Box	50	74		50.74
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Foxton LC	50	74	M05	50.74
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	FOXTON	50	77		50.77
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		51	60	*	51.60
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Hayes LC	52	02	UWC	52.02
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		52	40	*	52.40
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Harston LC	52	46	AHBC	52.46
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		53	78	*	53.78
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Hauxton LC	54	01	AHBC	54.01
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Rectory Farm LC	54	45	UWC	54.45
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		54	72	*	54.72
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		55	18	*	55.18
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	OHNS	55	20		55.20
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Websters LC	55	23		55.23
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		53	03		53.03
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Shepreth Branch Jn .	55	26		55.26
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		53	06		53.06
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Broxbourne Jn	18	35		18.35
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		18	40	*	18.40
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		18	50	*	18.50
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	RYE HOUSE	18	71		18.71
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		19	20	*	19.20
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Cranbourne LC	19	42	RIG-X	19.42
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	St Margarets LC	20	23	CCTV	20.23
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	ST MARGARETS	20	25		20.25
+0117	EA1210	001	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Maltings LC	20	39	UWG	20.39
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Amwell Marsh LC	20	75	UWC	20.75
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Hardmead LC	21	36	UWC	21.36
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		21	43	*	21.43
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	00	*	22.00
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	02	*	22.02
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Single line	22	07		22.07
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	10	*	22.10
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	WARE	22	16		22.16
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Ware LC	22	21	CCTV	22.21
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	22	*	22.22
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	26	*	22.26
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06		22	54	*	22.54
+0118	EA1210	002	Broxbourne Jcn to Hartford East HEB Anglia	05/08/06	Viaduct Maintenance LC	23	13	UWC	23.13
+0119	EA1210	003	Broxbourne Jcn to Hartford East HEB Anglia	01/12/07	Mead Lane FP	23	57	RIG-X	23.57
+0119	EA1210	003	Broxbourne Jcn to Hartford East HEB Anglia	01/12/07		23	73	*	23.73
+0119	EA1210	003	Broxbourne Jcn to Hartford East HEB Anglia	01/12/07		23	78	*	23.78
+0119	EA1210	003	Broxbourne Jcn to Hartford East HEB Anglia	01/12/07	HERTFORD EAST	24	19		24.19
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	Clapton Jn .	4	37		4.37
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	OHNS	4	46		4.46
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	ST. JAMES STREET	5	55		5.55
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06		5	67	*	5.67
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	Walthamstow GF	6	12		6.12
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	WALTHAMSTOW CENTRAL	6	16		6.16
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06		6	44	*	6.44
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06		6	49	*	6.49
+0114	EA1200	001	Clapton Junction to Chingford CJC Anglia	05/08/06	Hoe Street Tunnel to (71 yards)	6	52		6.52
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06	wooo STREET	7	07		7.07
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06		7	25	*	7.25
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06		7	30	*	7.30
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06	Highams Park Lc	3	45	CCTV	3.45
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06	HIGHAIUIS PARK	8	52		8.52
+0115	EA1200	002	Clapton Junction to Chingford CJC Anglia	05/08/06		9	60	*	9.60
+0116	EA1200	003	Clapton Junction to Chingford CJC Anglia	01/12/07		10	07	*	10.07
+0116	EA1200	003	Clapton Junction to Chingford CJC Anglia	01/12/07	CHINGFORD	10	33		10.33
+0116	EA1200	003	Clapton Junction to Chingford CJC Anglia	01/12/07	Chingford Platform GF	10	33	X	10.33
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Wickford Jn	29	13		29.13
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07		29	19	*	29.19
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	BAT'PLESBRIDGE	31	40	*	31.40
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Tabrums Cross LC	33	38		33.38
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Woodham Fenn LC	33	56		33.56
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	SOUTH WOODHAM FERRERS	34	00		34.00
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Woodham Ferrers LC	34	08	ABCL	34.08
+0048	EA1060	001	Wickford Jn to Southminster WIS Anglia	20/05/07	Stowmaries No.1 LC	34	77		34.77
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	Hogwell LC	35	32		35.32
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	Little Hayes LC	35	66		35.66
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	Estuary LC	36	07		36.07
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	Rookery No1LC	36	55		36.55
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07		37	03	*	37.03
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07		37	20	*	37.20
+0049	EA1060	002	Wickford Jn to Southminster WIS Anglia	20/05/07	NORTH FAMBRIDGE	37	23		37.23
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Great Sandfords LC	39	27		39.27
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	ALTHORNE	40	27		40.27
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Althome LC	40	31	AOCL	40.31
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Stokes Hall LC	41	18		41.18
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Creaksea Place No.1 LC	42	42		42.42
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	BURNHAII-ON—CROUCH	43	24		43.24
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Goldens LC	44	53		44.53
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07		45	23	*	45.23
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	Southminster GF	45	30		45.30
+0050	EA1060	003	Wickford Jn to Southminster WIS Anglia	27/01/07	SOUTHMINSTER	45	42		45.42
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0242	EA1570	001	March (East&WestJn's) to Wisbech WIG Anglia	21/02/09	Wigbech			Z	.
+0242	EA1570	001	March (East&WestJn's) to Wisbech WIG Anglia	21/02/09	Llne			Z	.
+0242	EA1570	001	March (East&WestJn's) to Wisbech WIG Anglia	21/02/09	March East Jn	85	78		85.78
+0242	EA1570	001	March (East&WestJn's) to Wisbech WIG Anglia	21/02/09	March West Jn a	85	78	X	85.78
+0242	EA1570	001	March (East&WestJn's) to Wisbech WIG Anglia	21/02/09	Whitemoor Jn	86	18	*	86.18
+0242	EA1570	001	March (East&WestJn's) to Wisbech WIG Anglia	21/02/09	Elm Road LC (AHBC)	36	60	*	36.60
+0242	EA1570	001	March (East&WestJn's) to Wisbech WIG Anglia	21/02/09	Bridge No.2314	87	29	*	87.29
+0242	EA1570	001	March (East&WestJn's) to Wisbech WIG Anglia	21/02/09	Chain Bridge LC (AHBC)	87	31	*	87.31
+0243	EA1570	002	March (East&WestJn's) to Wisbech WIG Anglia	04/08/07	Coldham LC	89	21	TMO	89.21
+0243	EA1570	002	March (East&WestJn's) to Wisbech WIG Anglia	04/08/07	Waldersea LC	90	29	TMO	90.29
+0243	EA1570	002	March (East&WestJn's) to Wisbech WIG Anglia	04/08/07	Redmoor LC	92	09	AOCL	92.09
+0243	EA1570	002	March (East&WestJn's) to Wisbech WIG Anglia	04/08/07	Wisbech Bypass LC	92	26	AOCL	92.26
+0243	EA1570	002	March (East&WestJn's) to Wisbech WIG Anglia	04/08/07	Weasenham Lane LC (TMO)	93	15	*	93.15
+0243	EA1570	002	March (East&WestJn's) to Wisbech WIG Anglia	04/08/07	Wisbech	93	60		93.60
+0243	EA1570	002	March (East&WestJn's) to Wisbech WIG Anglia	04/08/07	End of line	93	60	X	93.60
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Westerfield Jn	72	23		72.23
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06		72	36	*	72.36
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06		74	30	*	74.30
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	DERBY ROAD	74	67		74.67
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06		75	12		75.12
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06		75	68	*	75.68
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Routes No.8 LC	77	36	RIG	77.36
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Levington No.6 LC	80	00	AHBC	80.00
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Morston Hall LC	80	64	AHBC	80.64
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Thorpe Lane LC	81	41	AHBC	81.41
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Gun Lane LC	82	01	UWC	82.01
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Keepers Lane LC	82	33	UWG	82.33
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Trimley LC	82	80	CCTV	82.80
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	TRIMLEY	82	64		82.64
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Felixstowe Beach Jn	83	57	*	83.57
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	FELIXSTOWE TOWN	84	30		84.30
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0148	EA1360	001	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Territory Boundary	0	54		0.54
+0148	EA1360	001	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Dudding Hill Jn (DH) SB	0	54	X	0.54
+0148	EA1360	001	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Dudding Hill Jn	1	03	*	1.03
+0148	EA1360	001	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06		6	10	*	6.10
+0148	EA1360	001	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Territoryl Boundary	6	51	*	6.51
+0148	EA1360	001	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Neasden Jn	7	02		7.02
+0148	EA1360	001	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Neasden Jn (NJ) SB	7	03		7.03
+0149	EA1360	002	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Acton Canal Wharf (ACW) SB	8	41		8.41
+0149	EA1360	002	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Acton Canal Wharf Jn	8	45		8.45
+0149	EA1360	002	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06		8	75		8.75
+0149	EA1360	002	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Change of mileage	8	77		8.77
+0149	EA1360	002	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06		0	63		0.63
+0149	EA1360	002	Budding Hill Jn to Acton Wells Jn CAW Anglia	05/08/06	Acton Wells Jn . SB	0	66	AW	0.66
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08	Stratford Central Jn East	3	76		3.76
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08	STRATFORD	4	00		4.00
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08		4	02	*	4.02
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08	OHNS	4	14		4.14
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08	Temple Mills East Jn	4	45		4.45
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		4	47	*	4.47
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		4	52	*	4.52
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	Batching Plant Sidings	4	61		4.61
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		5	03	*	5.03
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	Ruckholt Rd Jn	5	17		5.17
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	OrientWaySidings	5	58		5.58
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	Temple Mills West Jn	5	78		5.78
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		6	01	*	6.01
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	OHNS	6	15	*	6.15
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		7	04		7.04
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	Coppermill Jn .	7	14		7.14
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		4	71		4.71
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08	Airport			Z	.
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08	Lines			Z	.
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08	Stansted South Jn	33	54		33.54
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08	Stansted North Jn	33	54	X	33.54
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08		33	66	*	33.66
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08	OHNS			Z	.
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08	Stansted East Jn	34	26		34.26
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08		34	45	*	34.45
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08	Tye Green Jn	35	06	*	35.06
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08		35	15		35.15
+0120	EA1220	001	Stansted South & North Jn's to Stansted Airport TLA Anglia	08/03/08	Stansted Airport Tunnel to (1944 yds)	36	23		36.23
+0121	EA1220	002	Stansted South & North Jn's to Stansted Airport TLA Anglia	01/12/07	Coopers Lane Jn			X	.
+0121	EA1220	002	Stansted South & North Jn's to Stansted Airport TLA Anglia	01/12/07		36	57	*	36.57
+0121	EA1220	002	Stansted South & North Jn's to Stansted Airport TLA Anglia	01/12/07		36	62	*	36.62
+0121	EA1220	002	Stansted South & North Jn's to Stansted Airport TLA Anglia	01/12/07	STANSTED AIRPORT	36	67		36.67
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	Bury Street Jn	9	20		9.20
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	OHNS	9	30		9.30
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06		9	48	*	9.48
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	SOUTHBURY	10	32		10.32
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	TURKEY STREET	12	16		12.16
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	Park Lane LC	13	15	MCG	13.15
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	THEOBALDS GROVE	13	45		13.45
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06		14	19	*	14.19
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	OHNS	14	25		14.25
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	OHNS	14	27	*	14.27
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	Cheshunt Jn	14	28		14.28
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06		13	71		13.71
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	CHESHUNT			Z	.
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	Thorpe-Le—Soken Jn	65	19		65.19
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06		65	20	*	65.20
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	Three Gates LC	65	65		65.65
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	Pork Lane LC (AH BC)	66	65		66.65
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	Nursery LC	67	32	UWC	67.32
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	KIRBY GROSS	67	55		67.55
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07		67	60	*	67.60
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07	FRINTON-ON-SEA	68	66		68.66
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07	Frinton gate box	66	76		66.76
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07	Frinton LC	68	76		68.76
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07		69	60	*	69.60
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07		70	05	*	70.05
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07	WALTON-ON-THE-NAZE	70	15		70.15
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Marks Tey Jn Mainline points	46	56		46.56
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Marks Tey Jn	46	53		46.53
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		46	57	*	46.57
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	NIARKS TEY	46	59		46.59
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		46	62	*	46.62
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		46	66	*	46.66
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Marks Tey GF	47	43		47.43
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Church House Farm LC	47	50		47.50
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	CHAPPEL & WAKES COLNE	50	18		50.18
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Museum GF	50	26		50.26
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Mount Bures LC	52	61	ABCL	52.61
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	BURES	53	45		53.45
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Sewage Works Lane LC	56	62	UWC	56.62
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Shalfords LC	56	73	UWC	56.73
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Comard LC	57	42	ABCL	57.42
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		58	22	*	58.22
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Sudbury Ladysbridge LC	58	25	UWC	58.25
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		58	29	*	58.29
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	SUDBURY	58	32		58.32
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07	Trowse Jn	113	68		113.68
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07	Change of mileage	123	00		123.00
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07	Trowse Swing Bridge SB	123	37	TB	123.37
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07	Trowse Swing Bridge	123	37		123.37
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07		123	47	*	123.47
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07		123	56	*	123.56
+0040	EA1013	002	Trowse Jn to Norwich LTN Anglia	01/12/07	Thorpe Jn .	123	60		123.60
+0040	EA1013	002	Trowse Jn to Norwich LTN Anglia	01/12/07	NORWICH	124	09		124.09
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0232	EA1550	001	Ely North Jn to Ely West Jn (Ely West Curve) EWC Anglia	05/08/06	Ely North Jn	71	63		71.63
+0232	EA1550	001	Ely North Jn to Ely West Jn (Ely West Curve) EWC Anglia	05/08/06	Ely West Curve No.1 LC	72	06		72.06
+0232	EA1550	001	Ely North Jn to Ely West Jn (Ely West Curve) EWC Anglia	05/08/06	Ely West Curve No.2 LC	72	40		72.40
+0232	EA1550	001	Ely North Jn to Ely West Jn (Ely West Curve) EWC Anglia	05/08/06	Ely West Jn	72	63		72.63
+0232	EA1550	001	Ely North Jn to Ely West Jn (Ely West Curve) EWC Anglia	05/08/06		72	39		72.39
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0220	EA1520	001	Saxmundham Jn to Sizewell SIZ Anglia	05/08/06	Saxmundham Jn (TEP) GF	91	40		91.40
+0220	EA1520	001	Saxmundham Jn to Sizewell SIZ Anglia	05/08/06	Knodishall LC	92	49	TMO	92.49
+0220	EA1520	001	Saxmundham Jn to Sizewell SIZ Anglia	05/08/06	West House LC (T MO)	93	32		93.32
+0220	EA1520	001	Saxmundham Jn to Sizewell SIZ Anglia	05/08/06	Saxmundham Road LC (T M0)	94	02		94.02
+0220	EA1520	001	Saxmundham Jn to Sizewell SIZ Anglia	05/08/06	Leiston Station LC	95	15	TMO	95.15
+0220	EA1520	001	Saxmundham Jn to Sizewell SIZ Anglia	05/08/06	Sizewell LC (T MO)	95	79	TEP	95.79
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0219	EA1510	001	Reedham Jn to Yan'nouth RBY Anglia	05/08/06	Reedham Jn	12	34		12.34
+0219	EA1510	001	Reedham Jn to Yan'nouth RBY Anglia	05/08/06		12	43	*	12.43
+0219	EA1510	001	Reedham Jn to Yan'nouth RBY Anglia	05/08/06	Church Dam LC	12	76		12.76
+0219	EA1510	001	Reedham Jn to Yan'nouth RBY Anglia	05/08/06	Church Lane LC	13	35		13.35
+0219	EA1510	001	Reedham Jn to Yan'nouth RBY Anglia	05/08/06	BERNEY ARMS	15	71		15.71
+0219	EA1510	001	Reedham Jn to Yan'nouth RBY Anglia	05/08/06		17	21	*	17.21
+0219	EA1510	001	Reedham Jn to Yan'nouth RBY Anglia	05/08/06		17	45	*	17.45
+0219	EA1510	001	Reedham Jn to Yan'nouth RBY Anglia	05/08/06	Breydon Access N024 LC	19	13		19.13
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0215	EA1490	001	Cromer to Sheringham CRS Anglia	05/08/06	CROMER	46	42		46.42
+0215	EA1490	001	Cromer to Sheringham CRS Anglia	05/08/06	Cromer Jn	46	27		46.27
+0215	EA1490	001	Cromer to Sheringham CRS Anglia	05/08/06	WEST RUNTON	44	39		44.39
+0215	EA1490	001	Cromer to Sheringham CRS Anglia	05/08/06	Beeston Regis LC	43	69		43.69
+0215	EA1490	001	Cromer to Sheringham CRS Anglia	05/08/06	SHERINGHAM	42	61		42.61
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Felixstowe Beach Jn	83	57		83.57
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07		84	10	*	84.10
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Felixstowe Beach LC	84	69	CCTV	84.69
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Felixstowe Dock Jn	85	22		85.22
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Network Rail Boundary Rail Yard	85	29		85.29
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Network Rail Boundary South Teminal	85	34		85.34
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	TRIMLEY	0	00		0.00
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	Trimley LC	0	00	CCTV	0.00
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	Network Rail Boundary	0	18		0.18
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	Port of Felixstowe	0	18	X	0.18
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	North Terminal Branch	0	18	X	0.18
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	(Network Rail Signal 00634 at 00m 730h)	0	18	X	0.18
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	Thames Haven Jn	26	41		26.41
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	Sewage Farm LC	26	77	UWC	26.77
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08		27	05	*	27.05
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	Hydroeraeker LC	29	04	AOCL	29.04
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08		29	62	*	29.62
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08		29	77	*	29.77
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	No.43 Gate LC	29	78	TMO	29.78
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	Thames Haven Shunter's Cabin	30	18		30.18
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06	Gas Factory Jn	2	57		2.57
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06		2	59	*	2.59
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06	OHNS	2	75		2.75
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06	Bow Road	3	07	Closed	3.07
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06		3	16	*	3.16
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06	Bow . Jn	3	24		3.24
+0180	EA1400	001	Gas Factory Jn to Bow Jn GFB Anglia	05/08/06		2	69		2.69
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09	Channelsea North Jn	3	32		3.32
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09		0	00		0.00
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09	HighMeadan.	0	15	*	0.15
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09		0	18	*	0.18
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09		0	42	*	0.42
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09	Temple Mills East Jn	0	59		0.59
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0146	EA1340	001	Stratford Lea Jn to High Meads Jn LLS Anglia	05/08/06		3	19		3.19
+0146	EA1340	001	Stratford Lea Jn to High Meads Jn LLS Anglia	05/08/06	Lea Jn	0	51		0.51
+0146	EA1340	001	Stratford Lea Jn to High Meads Jn LLS Anglia	05/08/06		0	53		0.53
+0146	EA1340	001	Stratford Lea Jn to High Meads Jn LLS Anglia	05/08/06		0	62		0.62
+0146	EA1340	001	Stratford Lea Jn to High Meads Jn LLS Anglia	05/08/06	High Meads Jn .	0	65		0.65
+0146	EA1340	001	Stratford Lea Jn to High Meads Jn LLS Anglia	05/08/06		0	15		0.15
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	South Acton Jn	2	52	*	2.52
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Bollo Lane (Kew Line) LC	2	63	CCTV	2.63
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Kew East Jn .	3	27	*	3.27
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Kew East Jn . (KE) SB	3	32		3.32
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06		3	35	*	3.35
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Route Boundary	3	61		3.61
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	Change of Mileage	9	68		9.68
+0145	EA1330	001	South Acton Jn to Old & New Kew Jns NKE Anglia	05/08/06	To Old Kew Jn	10	01		10.01
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0129	EA1300	001	South Tottenham West Jn to Seven Sisters Jn SSL Anglia	05/08/06	South Tottenham West Jn	5	65		5.65
+0129	EA1300	001	South Tottenham West Jn to Seven Sisters Jn SSL Anglia	05/08/06		0	13		0.13
+0129	EA1300	001	South Tottenham West Jn to Seven Sisters Jn SSL Anglia	05/08/06	OHNS	0	11		0.11
+0129	EA1300	001	South Tottenham West Jn to Seven Sisters Jn SSL Anglia	05/08/06	Seven Sisters Jn	0	00		0.00
+0129	EA1300	001	South Tottenham West Jn to Seven Sisters Jn SSL Anglia	05/08/06		5	40		5.40
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0128	EA1290	001	Tottenham South Jn South Tottenham East Jn TSE Anglia	05/08/06	Tottenham South Jn .	5	41		5.41
+0128	EA1290	001	Tottenham South Jn South Tottenham East Jn TSE Anglia	05/08/06	Change of mileage	5	54	*	5.54
+0128	EA1290	001	Tottenham South Jn South Tottenham East Jn TSE Anglia	05/08/06		6	22		6.22
+0128	EA1290	001	Tottenham South Jn South Tottenham East Jn TSE Anglia	05/08/06	South Tottenham East Jn	5	73		5.73
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09	Kings Lynn Jn .	96	50		96.50
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09		0	22	*	0.22
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09	Middleton Towers LC No.6	3	11	TMO	3.11
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09	(Network Rail boundary)	3	11	X	3.11
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09	Middleton Towers	3	44		3.44
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0111	EA1180	001	Reading Lane to Navarino Road Jn (Graham Road Curve) GRE Anglia	05/08/06	Reading Lane Jn	2	55		2.55
+0111	EA1180	001	Reading Lane to Navarino Road Jn (Graham Road Curve) GRE Anglia	05/08/06		2	71	*	2.71
+0111	EA1180	001	Reading Lane to Navarino Road Jn (Graham Road Curve) GRE Anglia	05/08/06	Navarino Road Jn	2	79		2.79
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09	Channelsea South Jn	0	29		0.29
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09		0	29	*	0.29
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09	Carpenters Rd North Jn	0	25		0.25
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09		0	23	*	0.23
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09	Stratford Central Jn West	0	00		0.00
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0069	EA1140	001	Ipswich Docks Branch IPD Anglia	05/08/06	Ipswich Goods Jn	68	72		68.72
+0069	EA1140	001	Ipswich Docks Branch IPD Anglia	05/08/06	Ranelagh Road LC	0	56	MCG	0.56
+0069	EA1140	001	Ipswich Docks Branch IPD Anglia	05/08/06	Stake Bridge LC	1	23		1.23
+0069	EA1140	001	Ipswich Docks Branch IPD Anglia	05/08/06	Network Rail Boundary	1	23	X	1.23
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0068	EA1130	001	Griffin Wharf Branch GRW Anglia	10/02/07	Halifax Jn	67	72		67.72
+0068	EA1130	001	Griffin Wharf Branch GRW Anglia	10/02/07		0	00		0.00
+0068	EA1130	001	Griffin Wharf Branch GRW Anglia	10/02/07	West Bank Terminal ®	0	38		0.38
+0068	EA1130	001	Griffin Wharf Branch GRW Anglia	10/02/07	Griffin Wharf Boundary	0	47		0.47
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09	East Gate Jn	53	14		53.14
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09	Hythe Jn	53	14	X	53.14
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09	Colne Jn	53	30	*	53.30
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09		53	59	*	53.59
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09		53	63		53.63
+0060	EA1100	001	East Gate Jn 8: Hythe Jn to Colchester Town STB CTH Anglia	02/03/09	COLGHESTER TOWN	53	76		53.76
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Witham Jn	38	55		38.55
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07		24	15		24.15
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Cut Throat Lane LC	24	05	RIG	24.05
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07		23	75	*	23.75
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	New House Farm No.43 LC	21	65	UWC	21.65
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	White Notley LC	21	11	ABCL	21.11
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	WHITE NOTLEY	21	10		21.10
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Fairheads No. 39	20	77	UWC	20.77
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	CRESSING	20	00		20.00
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Cressing LC	19	75	ABCL	19.75
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	Cousins No.2 LC	19	18	UWC	19.18
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	BRAINTREE FREEPORT	18	54		18.54
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07		18	27	*	18.27
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07		18	12	*	18.12
+0051	EA1070	001	Witham Jn to Braintree BRA Anglia	30/03/07	BRAINTREE	17	71		17.71
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	ROMFORD	0	00		0.00
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06		0	13	*	0.13
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06		0	18	*	0.18
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06		0	35	*	0.35
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	OHNS	0	42		0.42
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	OHNS	0	70		0.70
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	EMERSON PARK	1	64		1.64
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06		3	25	*	3.25
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	UPMINSTER	3	30		3.30
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06	Forest Gate Jn	0	00		0.00
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06		0	03	*	0.03
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06	OHNS	0	12		0.12
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06	OHNS	0	14		0.14
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06		0	28	*	0.28
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06	Woodgrange Park Jn	0	31		0.31
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06		11	79		11.79
+page	route	sequence	name	date	location	miles	chains	restriction	miles.chains
+0041	EA1020	001	Carpenters Rd South Jn to Carpenters Rd North Jn CNS Anglia	10/01/09	Carpenters Rd. South Jn	3	54		3.54
+0041	EA1020	001	Carpenters Rd South Jn to Carpenters Rd North Jn CNS Anglia	10/01/09		1	12		1.12
+0041	EA1020	001	Carpenters Rd South Jn to Carpenters Rd North Jn CNS Anglia	10/01/09	Carpenters Rd North Jn	0	70		0.70
+0041	EA1020	001	Carpenters Rd South Jn to Carpenters Rd North Jn CNS Anglia	10/01/09		0	25		0.25

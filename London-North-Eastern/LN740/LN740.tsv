@@ -1,0 +1,23 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	Marsh West Jn	107	69	
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	Great Coates No. 1 SB	108	34	
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	Network Rail IABP boundary	103	44	
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	108 73*	103	44	X
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06		4	79	
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	ABP I Network Rail boundary	4	33	
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	Pyewipe Road SB	4	20	P
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	Pyewipe Road LC	4	19	M06
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	Tioxide UK GF	4	06	
+0289	LN740	001	Grimsby, Marsh West Jn to Humber Road Jn MWN PYE3 PYE2 London North Eastern	02/12/06	Woad Lane LC	3	36	AHBC
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06	Marsh Lane LC	1	25	AHBC
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06		0	75	
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06	Kiln Lane LC	0	51	AOCL
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06		0	18	
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06		0	00	
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06		106	50	
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06	Immingham East Jn SB	106	34	I
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06	Immingham East Jn	106	31	
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06		106	21	
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06	Ambulance LC	104	39	UWC
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06	Immingham Reception Sidings SB	104	30	IR
+0290	LN740	002	Grimsby, Marsh West Jn to Humber Road Jn PYE2 PYE1 BRI2 London North Eastern	02/12/06	Humber Road Jn	104	05	

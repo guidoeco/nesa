@@ -1,0 +1,13 @@
+0 41 a:
+
+46 46
+Signal I430 0 47
+
+0 60 *
+Clachnaharry Down Stop Signal 1 12
+
+1 45 *
+Clachnahany Canal Bridge 1 46
+
+1 50 *
+

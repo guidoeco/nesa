@@ -1,0 +1,16 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	UPMINSTER	15	20	
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	Upminster GF	15	36	
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	Upminster (UR) IECC	15	38	
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	Upminster East Jn	15	39	
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06		0	00	
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06		00	20	*
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06		00	29	*
+0181	EA1410	001	Upminster to West Thurrock Jn UPG Anglia	05/08/06	OGKENDON	3	05	
+0182	EA1410	002	Upminster to West Thurrock Jn UPG Anglia	05/08/06		5	10	*
+0182	EA1410	002	Upminster to West Thurrock Jn UPG Anglia	05/08/06	CHAFFORD HUNDRED	5	38	
+0182	EA1410	002	Upminster to West Thurrock Jn UPG Anglia	05/08/06	OHNS	6	15	
+0182	EA1410	002	Upminster to West Thurrock Jn UPG Anglia	05/08/06		6	23	*
+0183	EA1410	003	Upminster to West Thurrock Jn UPG Anglia	05/08/06		6	45	*
+0183	EA1410	003	Upminster to West Thurrock Jn UPG Anglia	05/08/06	West Thurrock Jn .	6	56	
+0183	EA1410	003	Upminster to West Thurrock Jn UPG Anglia	05/08/06		19	03	

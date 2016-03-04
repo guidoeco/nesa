@@ -1,0 +1,11 @@
+13 40 *
+13 10 *-
+Pontypridd Jn 13 O4
+12 74 *
+PONTYPRIDD 12 72
+12 65 *
+12 52 *-
+Pontypridd South Jn 12 47
+TREFFOREST 12 00
+11 50 9c
+

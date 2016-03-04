@@ -1,0 +1,35 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Shaftholme Jn	68	75	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06		68	69	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06		68	54	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Thorpe LC (AOCL)	68	43	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Ritchies LC	68	30	UWC
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06		67	73	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Haywood LC	67	57	CCTV
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06		67	56	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06		67	55	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Rushey Moor LC	67	10	UWC
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06		66	30	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Askem LC	66	26	CCTV
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06		65	74	*
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Selby Road LC	65	73	AHBC
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Norton LC	65	12	MCB
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Lowfield LC	64	71	UWC
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Stubbs Walden South LC	64	28	CCTV
+0427	LN888	001	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	02/12/06	Stubbs Walden North LC	64	11	CCTV
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Womersley LC	62	49	AHBC
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Post Office Lane HABD	62	16	
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Post Office Lane LC	62	14	AHBC
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Spring Lodge LC	61	21	AHBC
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Cridling Stubbs LC	60	45	AHBC
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Waterfields No1LC	59	06	UWC
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08		58	71	*
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08		58	72	
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Knottingley South Jn	58	86	
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08		58	48	*
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08		58	21	*
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Knottingley West Jn	58	20	*
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08		2	71	
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08		2	65	*
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08		2	43	*
+0428	LN888	002	Shaftholme Jn to Ferrybridge North Jn KWS FKW London North Eastern	30/08/08	Ferrybridge North Jn	2	27	

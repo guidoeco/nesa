@@ -1,0 +1,20 @@
+SOUTH GROYDON 11 21
+
+11 25 1-
+
+11 28 *
+South Croydon Jn (11 29)
+
+11 35 *
+
+11 37 9:
+South Croydon Substation 11 40
+PURLEY OAKS 12 34
+Purley Oaks TP Hut 12 39
+PU RLEY 13 29
+
+15 13
+
+13 32 *-
+Purley Substatian 13 44
+

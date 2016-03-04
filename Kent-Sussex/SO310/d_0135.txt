@@ -1,0 +1,17 @@
+NRN CSR
+
+TCB Ashford IECC (NK)
+RAB DC:Lewisham
+
+UPL 33
+
+Platform 1-4 PP-A
+All platforms - permitted for platform sharing during
+times of significant service interuptions.
+
+1 Up Main
+
+2 Reversible
+
+3 Down Main
+

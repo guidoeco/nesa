@@ -1,0 +1,9 @@
+Mossband Jn 9 18
+
+3 02
+Bush-on-Esk No.4 LC (00) 1 79
+Bush-on-Esk No.2 LC (AOCL) 1 07 i:
+Bush-on-Esk West Jn 1 06
+Bush-on-Esk East Jn 0 69
+Network Rail Boundary 0 24
+

@@ -1,0 +1,10 @@
+Hyndland EastJn O 00
+
+O 05 *
+JORDANHILL 0 12
+Hyndland West Jn 70 22
+
+0 67 *-
+SCOTSTOUNHILL 1 20
+GARSCADDEN 1 58
+

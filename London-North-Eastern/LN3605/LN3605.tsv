@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0248	LN3605	001	Corby BSC Works to Corby North BSC London North Eastern	02/12/06	Corby 380 Works	2	05	
+0248	LN3605	001	Corby BSC Works to Corby North BSC London North Eastern	02/12/06		1	47	*
+0248	LN3605	001	Corby BSC Works to Corby North BSC London North Eastern	02/12/06	Water Works LC	1	40	
+0248	LN3605	001	Corby BSC Works to Corby North BSC London North Eastern	02/12/06		1	35	*
+0248	LN3605	001	Corby BSC Works to Corby North BSC London North Eastern	02/12/06	Network Rail Boundary	0	16	
+0248	LN3605	001	Corby BSC Works to Corby North BSC London North Eastern	02/12/06	Corby North	0	00	
+0248	LN3605	001	Corby BSC Works to Corby North BSC London North Eastern	02/12/06	79JP32			Z

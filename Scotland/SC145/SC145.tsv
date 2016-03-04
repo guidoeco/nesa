@@ -1,0 +1,69 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0295	SC145	001	Fort William Jn to Mallaig MLG1 MLG2 Scotland	02/12/06	Fort William Jn SB & TEP	0	05	
+0295	SC145	001	Fort William Jn to Mallaig MLG1 MLG2 Scotland	02/12/06	(Change of ELR	1	27	
+0295	SC145	001	Fort William Jn to Mallaig MLG1 MLG2 Scotland	02/12/06	MLG1 to MLG2)	0	00	
+0295	SC145	001	Fort William Jn to Mallaig MLG1 MLG2 Scotland	02/12/06	Banavie LC	0	18	RIC
+0295	SC145	001	Fort William Jn to Mallaig MLG1 MLG2 Scotland	02/12/06	BANAVIE	0	22	
+0295	SC145	001	Fort William Jn to Mallaig MLG1 MLG2 Scotland	02/12/06		0	24	*
+0295	SC145	001	Fort William Jn to Mallaig MLG1 MLG2 Scotland	02/12/06	Banavie SC	0	26	
+0295	SC145	001	Fort William Jn to Mallaig MLG1 MLG2 Scotland	02/12/06	Canal Bridge	0	27	
+0296	SC145	002	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		0	29	*
+0296	SC145	002	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		0	41	*
+0296	SC145	002	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		0	45	*
+0296	SC145	002	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Stepps Cottage LC	0	46	UWC
+0296	SC145	002	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	CORPACH	1	30	
+0296	SC145	002	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Corpach LC	1	33	AOCL
+0296	SC145	002	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Orival LC	1	67	UWC
+0297	SC145	003	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	Annat East LC	2	14	
+0297	SC145	003	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	Annat Gate Box	2	15	
+0297	SC145	003	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	AnnatWestLC	2	22	RC
+0297	SC145	003	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	Annat Pulp Mill GF	2	28	
+0297	SC145	003	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	Locheil OB LC	4	19	UWC
+0297	SC145	003	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	LOGH EIL OUTWARD	4	20	
+0297	SC145	003	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	BOUND TEP	4	20	X
+0297	SC145	003	Fort William Jn to Mallaig MLGZ Scotland	02/12/06		4	24	*
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Fassfem No.1 LC	6	04	UWC
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Fassfem No.2 LC	6	21	UWC
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Drumbeg Farm LC	7	26	UWC
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Corriebeg Farm No.1 LC	7	42	UWC
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Corriebeg No.2 LC (UWC) .7 68	7	42	X
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	LOCHEILSIDE	7	79	
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Camus An Eng Farm No.1 LC	9	15	UWC
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Camus An Eng Farm No.2 LC	9	22	UWC
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Camus An Eng Farm No.3 LC	9	29	UWC
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Heads of Lochiel LC	9	36	UWC
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		11	77	*
+0298	SC145	004	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		13	00	*
+0299	SC145	005	Fort William Jn to Mallaig MLGZ Scotland	02/12/06		13	65	*
+0299	SC145	005	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	Glenﬁnnan Viaduct to	14	05	
+0299	SC145	005	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	Sdg GF	14	05	X
+0299	SC145	005	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	GLENFINNAN TEP	14	58	
+0299	SC145	005	Fort William Jn to Mallaig MLGZ Scotland	02/12/06		14	61	*
+0299	SC145	005	Fort William Jn to Mallaig MLGZ Scotland	02/12/06		17	68	*
+0300	SC145	006	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		18	63	*
+0300	SC145	006	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		20	20	*
+0300	SC145	006	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		21	20	*
+0300	SC145	006	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		23	36	*
+0300	SC145	006	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	LOCHAILORT	23	67	
+0301	SC145	007	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	BEASDALE	28	49	
+0301	SC145	007	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	Borrodale Tunnel	29	16	
+0301	SC145	007	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	to 350 yards	29	32	
+0301	SC145	007	Fort William Jn to Mallaig MLGZ Scotland	02/12/06		29	49	*
+0301	SC145	007	Fort William Jn to Mallaig MLGZ Scotland	02/12/06		30	77	*
+0301	SC145	007	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	Sdg GF	30	77	X
+0301	SC145	007	Fort William Jn to Mallaig MLGZ Scotland	02/12/06	ARISAIG TEP	32	02	
+0302	SC145	008	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		32	08	*
+0302	SC145	008	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		33	77	*
+0302	SC145	008	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Creag Mhor LC	33	79	UWC
+0302	SC145	008	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		36	15	*
+0302	SC145	008	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		36	29	*
+0302	SC145	008	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Macleans LC (UWC)	36	34	*
+0302	SC145	008	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		36	45	*
+0302	SC145	008	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		36	50	*
+0303	SC145	009	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Morar LC (AOCL)	36	56	*
+0303	SC145	009	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	MORAR	36	59	
+0303	SC145	009	Fort William Jn to Mallaig MLG2 Scotland	02/12/06		38	23	*
+0303	SC145	009	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Mallaig GF	38	23	X
+0303	SC145	009	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Sdg GF	38	23	X
+0303	SC145	009	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	Sdg GF	38	23	X
+0303	SC145	009	Fort William Jn to Mallaig MLG2 Scotland	02/12/06	MALLAIG TEP	39	39	

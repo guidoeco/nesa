@@ -1,0 +1,32 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Pirbright Jn	29	39	
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		29	40	*
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		29	60	*
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		30	00	*
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		30	40	*
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Foxhills Tunnel	300	64	
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06	(418 yards)	31	03	
+0093	SW120	001	PirbrightJunction to Alton PAA1 Wessex	02/12/06		31	30	*
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06	Ash Vale Jn	32	30	HW
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06		40	57	
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06	ASH VALE	32	38	
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06	Aldershot North Jn	33	40	
+0094	SW120	002	PirbrightJunction to Alton AAV PAA1 NSA Wessex	02/12/06		50	43	
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06		34	33	*
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Aldershot Tunnel	34	46	
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	(76 Yards)	34	50	
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Aldershot SB	35	00	AS
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	ALDERSHOT	35	00	
+0095	SW120	003	PirbrightJunction to Alton PAA1 Wessex	02/12/06	Down Siding	35	00	X
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		35	35	*
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		36	55	*
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		36	75	
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		39	22	
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06		39	23	*
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06	Famham LC	40	33	CCTV
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06	Famham SB	40	33	FN
+0096	SW120	004	PirbrightJunction to Alton PAA1 PAA2 Wessex	02/12/06	FARNHAM	40	33	
+0097	SW120	005	PirbrightJunction to Alton PAA2 Wessex	02/12/06		41	00	*
+0097	SW120	005	PirbrightJunction to Alton PAA2 Wessex	02/12/06	Farnham Depot Shunt Panel (FD)	41	00	X
+0097	SW120	005	PirbrightJunction to Alton PAA2 Wessex	02/12/06	BENTLEY	44	24	
+0098	SW120	006	PirbrightJunction to Alton PAA2 Wessex	02/12/06	ALTON	49	13	

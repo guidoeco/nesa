@@ -1,0 +1,8 @@
+NRN
+RETB 114 Saxmundham SB (SM)
+RA?r
+CD Nuclear Flask trains not to exceed 40mph
+Other freight trains not to exceed 20mph
+Up platform - 108m (117 yds)
+Down platform - 60m (63 yds)
+

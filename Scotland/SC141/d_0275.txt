@@ -1,0 +1,20 @@
+RETB 101 Banavie SC
+
+6) = 15 mph through loop
+points, in both directions,
+and over loop lines
+
+CL 5601‘ (171 m)
+
+(26 SLU's)
+
+Q) = Applies to single headed
+Class 1. 2. 3 8: 5 trains
+
+@ = Applies to Class 4, 6 & 0
+trains and double headed Class
+1, 2, 3 & 5 trains
+
+G) = Applies to Class 7 a 3
+trains
+

@@ -1,0 +1,11 @@
+RETB 125 Machynlleth SB (MH)
+RA?
+RETB 101
+ELR: SBA1
+ELR : SBAZ
+RETB Emergency Telephone
+Down and Up platforms
+- 165m, 18(1de
+CL 282m. 924ft
+DRS 96m, 315ft
+

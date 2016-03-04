@@ -1,0 +1,8 @@
+NRN
+TCB Tyneside SB (T)
+RAB AC: York ECR
+DS= Down Sunderland
+US= Up Sunderland
+speeds apply to Metro trains only
+B =
+

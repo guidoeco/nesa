@@ -1,0 +1,9 @@
+Walsh's Bridge 117 56
+Rose Street LC (CCTV) 117 71
+lnverness TCB and RETB SC(I) 117 77
+118 O1
+0 18
+
+(North lines only)
+INVERNESS 118 O3
+

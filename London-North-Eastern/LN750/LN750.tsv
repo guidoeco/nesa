@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0298	LN750	001	Woodburn Jn to Deepcar MACB London North Eastern	02/12/06	Woodbum Jn SB	42	29	W
+0298	LN750	001	Woodburn Jn to Deepcar MACB London North Eastern	02/12/06		42	24	*
+0298	LN750	001	Woodburn Jn to Deepcar MACB London North Eastern	02/12/06	Deepcar	33	35	
+0298	LN750	001	Woodburn Jn to Deepcar MACB London North Eastern	02/12/06	Deepcar Exchange Sidings	33	35	X

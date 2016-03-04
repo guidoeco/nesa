@@ -1,0 +1,21 @@
+Swindon Jn 77 36
+Foot crossing (WL) 77 42
+
+77 60 *
+Single Line Jn ("Loco Yard") 76 2O
+Purton Collins Lane LC (AHBC) 81 09
+Purton Common LC (UWC) 81 65
+
+82 70 *
+Gambols LC (UWC) 63 57
+Gryphon Lodge LC (UWC) 84 66
+NRN Channel change 66 72
+(Up direction)
+Minety LC (M06) 86 74
+NRN Channel change 66 76
+(Down direction)
+
+90 40 *
+Kemble Tunnel 90 41
+374m (409 yards) 90 60
+

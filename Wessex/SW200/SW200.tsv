@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0150	SW200	001	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	Hampton Court Jn	13	47	
+0150	SW200	001	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		13	47	*
+0150	SW200	001	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	HINCHLEY WOOD	14	04	
+0150	SW200	001	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	GLAYGATE	15	11	
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	OXSHOTP	16	79	
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		17	26	*
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	Cooks LC	17	39	CCTV
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	Polyapes	17	57	UWC
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		18	10	*
+0151	SW200	002	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	OOBHAM AND STOKE D'ABERNON	18	63	
+0152	SW200	003	Hampton Court Junction to Guildford (via Cobham) NGL LEJ Wessex	02/12/06	Effingham Jn	21	04	
+0152	SW200	003	Hampton Court Junction to Guildford (via Cobham) NGL LEJ Wessex	02/12/06	EFFINGHAM JUNCTION	21	10	
+0152	SW200	003	Hampton Court Junction to Guildford (via Cobham) NGL LEJ Wessex	02/12/06	Down Sidings	21	14	
+0152	SW200	003	Hampton Court Junction to Guildford (via Cobham) NGL LEJ Wessex	02/12/06	HORSLEY	22	16	
+0153	SW200	004	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	GLANBON	25	26	
+0153	SW200	004	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		28	18	*
+0153	SW200	004	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	LONDON ROAD	28	47	
+0154	SW200	005	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06		28	59	*
+0154	SW200	005	Hampton Court Junction to Guildford (via Cobham) NGL Wessex	02/12/06	(Guildford)	29	70	

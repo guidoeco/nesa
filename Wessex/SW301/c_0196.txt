@@ -1,0 +1,9 @@
+22 72 *-
+REIGATE 24 27
+Reigate SB (RG) 24 31
+Reigate LC 24 31
+Buckland LC (AHBC) 26 49
+Betchworth LC (CCTV) 27 14
+BETOHWORTH 27 17
+Betchworth Ground Frame 27 21
+

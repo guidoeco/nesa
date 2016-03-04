@@ -1,0 +1,13 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0235	LN3520	001	Sheet Stores Jn. to Stenson Jn. SSJ London North Eastern	02/12/06	Sheet Stores Jn	119	62	
+0235	LN3520	001	Sheet Stores Jn. to Stenson Jn. SSJ London North Eastern	02/12/06	Lock Lane LC	120	29	MCB
+0235	LN3520	001	Sheet Stores Jn. to Stenson Jn. SSJ London North Eastern	02/12/06	Grammars LC	120	44	UWC
+0235	LN3520	001	Sheet Stores Jn. to Stenson Jn. SSJ London North Eastern	02/12/06	Whites LC	121	35	UWC
+0235	LN3520	001	Sheet Stores Jn. to Stenson Jn. SSJ London North Eastern	02/12/06	Castle Donington	123	33	
+0236	LN3520	002	Sheet Stores Jn to Stenson Jn SSJ MJS London North Eastern	24/01/09	Elliots LC	124	44	UWC
+0236	LN3520	002	Sheet Stores Jn to Stenson Jn SSJ MJS London North Eastern	24/01/09	Cottons LC	125	28	UWC
+0236	LN3520	002	Sheet Stores Jn to Stenson Jn SSJ MJS London North Eastern	24/01/09		127	20	*
+0236	LN3520	002	Sheet Stores Jn to Stenson Jn SSJ MJS London North Eastern	24/01/09		128	00	*
+0236	LN3520	002	Sheet Stores Jn to Stenson Jn SSJ MJS London North Eastern	24/01/09		132	00	*
+0236	LN3520	002	Sheet Stores Jn to Stenson Jn SSJ MJS London North Eastern	24/01/09	Stenson Jn	132	12	
+0236	LN3520	002	Sheet Stores Jn to Stenson Jn SSJ MJS London North Eastern	24/01/09		4	50	

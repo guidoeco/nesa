@@ -1,0 +1,50 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	(South Croydon Jn)	11	29	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	(South Croydon Substation)	11	40	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06		11	45	*
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	Selsdon Road Jn	11	59	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	SANDERSTEAD	12	23	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	RIDDLESDOWN	13	38	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	Riddlesdown TP Hut	13	38	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	Riddlesdown Tunnel	13	48	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	(837 yards) to	14	06	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06		14	55	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	UPPER WARLINGHAM	15	33	
+0209	SO530	001	South Croydon to East Grinstead SCU1 Kent / Sussex	02/12/06	Upper Warlingham Substation	15	71	
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08		17	05	*
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	WOLDINGHAM	17	15	
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	Woldingham Ground Frame	17	15	X
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08		17	50	*
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	Oxted Tunnel	17	66	
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	(1m 501 yards) to	19	08	*
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	Oxted Substation	19	38	
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08		20	20	*
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	OXTED	20	25	
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	Oxted SB	20	31	GD
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	Limpsfield Tunnel	20	58	
+0210	SO530	002	South Croydon to East Grinstead SCU1 Kent / Sussex	22/03/08	(565 yards) to	21	03	
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06	HURST GREEN	21	20	
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06		21	30	*
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06	HurstGreen TP Hut	21	35	
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06	HurstGreen Jn	21	35	
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06		21	55	*
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06		21	45	*
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06		22	24	*
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06	Sunt Farm No 1 Crossing	23	23	
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06	Eden Substation	23	47	
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06	Lingfield TP Hut	25	42	
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06		26	11	*
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06	Lingfield Ground Frame	26	11	X
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06	LINGFIELD	26	23	
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06		26	60	*
+0211	SO530	003	South Croydon to East Grinstead SCU1 HGG1 Kent/Sussex	02/12/06		27	54	*
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08	Dormans Substation	27	59	
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08	DORMANS	27	62	
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08		27	69	*
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08		28	60	*
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08		29	59	*
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08		29	67	*
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08	East Grinstead TP Hut	29	72	*
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08	EAST GRINSTEAD	30	04	
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08		30	10	*
+0212	SO530	004	South Croydon to East Grinstead HGG1 Kent / Sussex	22/03/08		30	12	*

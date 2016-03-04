@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0195	NW4013	001	Hest Bank to Bare Lane HBL LNW North	07/10/06	Hest Bank Jn	3	10	
+0195	NW4013	001	Hest Bank to Bare Lane HBL LNW North	07/10/06		0	00	
+0195	NW4013	001	Hest Bank to Bare Lane HBL LNW North	07/10/06		0	02	*
+0195	NW4013	001	Hest Bank to Bare Lane HBL LNW North	07/10/06		1	28	*
+0195	NW4013	001	Hest Bank to Bare Lane HBL LNW North	07/10/06	Bare Lane Jn	1	30	
+0195	NW4013	001	Hest Bank to Bare Lane HBL LNW North	07/10/06		0	44	

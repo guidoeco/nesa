@@ -1,0 +1,18 @@
+MOORGATE 0 00
+
+0 13 *
+
+0 15 *
+OLD STREET 0 45
+Poole Street 1 22
+
+1 49 *
+ESSEX ROAD 1 59
+
+1 61 ul-
+HIGHBURY&ISLINGTOH 2 21
+DRAYTON PARK 2 56
+
+2 64 *-
+Finsbury Park Jn 3 37
+

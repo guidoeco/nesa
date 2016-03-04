@@ -1,0 +1,12 @@
+NRN
+TCB Bristol SB (B)
+RAB
+UC Up Charfield
+DC Down Charfield
+Down platform - 103m, 113yds
+Up platform - 105m, 115yds
+ELR - BGL2
+ELR - YAT
+Up Line bi-directional between
+signals B.136 and 3.240
+

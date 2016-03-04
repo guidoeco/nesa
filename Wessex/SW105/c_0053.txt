@@ -1,0 +1,10 @@
+WOOL 125 69
+Wool (W0) SB 125 69
+Wool Footpath UWC 126 03
+Wool West UWC 126 25
+Darkies UWO 126 40
+East Burton LC (CCTV) 126 56
+Burton Common UWC 127 03
+Hyford UWC 127 54
+Winfrith UWC 127 65
+

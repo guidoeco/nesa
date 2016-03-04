@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0332	SC165	001	Niddrie South Jn to Haymarket WestJn MHY SUB2 Scotland	02/12/06	Niddrie South Jn	7	08	
+0332	SC165	001	Niddrie South Jn to Haymarket WestJn MHY SUB2 Scotland	02/12/06	(Change of ELR MHY to SUB2)	6	30	
+0332	SC165	001	Niddrie South Jn to Haymarket WestJn MHY SUB2 Scotland	02/12/06	Niddrie West Jn	6	30	*
+0332	SC165	001	Niddrie South Jn to Haymarket WestJn MHY SUB2 Scotland	02/12/06		3	55	*
+0332	SC165	001	Niddrie South Jn to Haymarket WestJn MHY SUB2 Scotland	02/12/06		3	25	*
+0332	SC165	001	Niddrie South Jn to Haymarket WestJn MHY SUB2 Scotland	02/12/06	Craiglockhart Jn	1	17	
+0333	SC165	002	Niddrie South Jn to HaymarketWestJn SUBZ GGE Scotland	02/12/06	(Change of ELR SUBZ to VGGE)			X
+0333	SC165	002	Niddrie South Jn to HaymarketWestJn SUBZ GGE Scotland	02/12/06	Gorgie Jn	0	45	
+0333	SC165	002	Niddrie South Jn to HaymarketWestJn SUBZ GGE Scotland	02/12/06		0	00	
+0333	SC165	002	Niddrie South Jn to HaymarketWestJn SUBZ GGE Scotland	02/12/06	Haymarket West Jn	0	41	

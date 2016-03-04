@@ -1,0 +1,14 @@
+Hucknall No 4 LC (RIG) 131 04
+Hucknall No 3 LC (UWC) 131 11
+131 20 *-
+Brickyard Lane LC (ABCL) 131 21
+131 60 *
+HUGKIIALL 131 65
+131 69 *-
+131 78 s:
+132 00 1:
+132 16 *-
+Linby Colliery LC (ABCL) 132 24
+Linby Station LC (ABCL) 132 70
+132 75 *-
+

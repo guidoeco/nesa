@@ -1,0 +1,15 @@
+SEVERN BEACH 11 64
+
+14 53 *
+Holesmouth Jn 14 60
+
+15 14 9:
+ST. ANDREWS ROAD 15 37
+St. Andrews Jn SB (SA)&LC (MOB) 16 00
+(change of mileage and ELR) 9 32
+
+9 29 7:
+Single line Jn 9 18
+
+9 15 i:
+

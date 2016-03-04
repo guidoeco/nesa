@@ -1,0 +1,15 @@
+44 60 *
+Morangie LC (UWC) 45 17
+Edderton No 1 LC (UWC) 48 46
+Manse LC (UWC) 49 20
+Ardvannie No 2 LC (UWC) 51 4O
+
+52 72 i:
+
+54 03 *-
+Mid Feam LC (UWC) 55 26
+Wester Feam No1 LC (UWC) 55 32
+
+55 43 *
+Wester Feam No 2 LC (UWC) 55 50
+

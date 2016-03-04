@@ -1,0 +1,14 @@
+6 31
+
+6 52
+Workington Main No.2 SB 6 53
+
+6 65 *
+WORKINGTON 6 69
+Workington Main No.3 SB 6 74
+
+6 77
+
+7 OD *-
+Merchants Quay LC (UWC) 7 01
+

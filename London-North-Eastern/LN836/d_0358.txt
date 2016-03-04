@@ -1,0 +1,10 @@
+NRN
+TCB York SB
+RAQ AC: York ECR
+DPL = 288m I 945 feet
+PP is authorised on the Down Platform Loop
+and Up Platform line.
+DD=Down Doncaster
+UD=Up Donoaster
+CD TolFrom Wrenthorpe Sidings
+

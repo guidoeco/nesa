@@ -1,0 +1,18 @@
+62 24 *
+Herne Bay Substation 62 46
+HERNE BAY 62 56
+63 37 *-
+63 52 *-
+63 73 at-
+63 79 *-
+Broomfield TP Hut 64 21
+65 65 *-
+Reculver Substation 65 76
+66 20 *-
+Coldharbour TP Hut 67 52
+Minnis Bay Substation 69 27
+70 20 *-
+70 29 *-
+BIRCHINGTON 70 56
+Birchington TP Hut 71 O4
+

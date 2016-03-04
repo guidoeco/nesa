@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0117	GW187	001	Twyford to Henley-On-Thames HEN Western	05/08/06	TWYFORD	31	01	
+0117	GW187	001	Twyford to Henley-On-Thames HEN Western	05/08/06		31	30	*
+0117	GW187	001	Twyford to Henley-On-Thames HEN Western	05/08/06	WARG RAVE	32	68	
+0117	GW187	001	Twyford to Henley-On-Thames HEN Western	05/08/06		33	07	*
+0118	GW187	002	Twyford to Henley-On-Thames HEN Western	05/08/06	Shiplake Viaduct			X
+0118	GW187	002	Twyford to Henley-On-Thames HEN Western	05/08/06		33	18	*
+0118	GW187	002	Twyford to Henley-On-Thames HEN Western	05/08/06	SHIPLAKE	33	61	
+0118	GW187	002	Twyford to Henley-On-Thames HEN Western	05/08/06	Shiplake LC	33	66	AOCL
+0118	GW187	002	Twyford to Henley-On-Thames HEN Western	05/08/06	Bolney Farm LC	34	31	UWC
+0118	GW187	002	Twyford to Henley-On-Thames HEN Western	05/08/06	HENLEY-ON-THAMES	35	48	

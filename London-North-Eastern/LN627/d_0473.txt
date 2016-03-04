@@ -1,0 +1,52 @@
+NRN
+
+TCB Low Gates SB (LG)
+RAB
+
+Controlled by Low Gates (LG) Signal box
+
+to 56 41 Down I 56 18 Up
+
+Other crossings in this area :
+
+T= Spencers UWC at 45 60
+
+T: Hebdons UWC at 45 74
+
+T= Northfield Farm UWC at 46 72
+
+T= Boyes UWC at 47 47
+
+T= Town End Farm UWC at 48 53
+
+T= Pattisons UWC at 49 O7
+
+T= Tunstans UWC at 50 53
+
+T: Mount Pleasant Farm UWC at 51 16
+
+T= Piston Grange No.1 UWC at 51 33
+
+T= Picton Grange No.2 UWC at 51 50
+
+T= The Poplars UWC at 51 72
+
+T= Hill House Farm UWC at 52 51
+
+CD = MGR loaded and empty coal trains consisting
+of HAA type wagons are restricted to 20mph
+maximum speed on both the Down and Up lines
+between 55 29 and 55 64 NRN
+
+Bowesfield so (B)
+
+NRN Channel Change
+
+at 56 75
+
+CW Up at 56 75 (1000 yards before
+
+reaching signal LGG16).
+
+DGL = (288m1945 feet)
+

@@ -1,0 +1,64 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0120	GW200	001	Didcot to Heyford DCL Western	07/06/08	Foxhall Jn			X
+0120	GW200	001	Didcot to Heyford DCL Western	07/06/08	Chester Line Jn	53	12	
+0120	GW200	001	Didcot to Heyford DCL Western	07/06/08	DHcotWestCuwe Jn	53	51	*
+0120	GW200	001	Didcot to Heyford DCL Western	07/06/08	Didcot North Jn (Up)	53	71	*
+0120	GW200	001	Didcot to Heyford DCL Western	07/06/08	Didcot North Jn	54	00	On
+0120	GW200	001	Didcot to Heyford DCL Western	07/06/08		54	05	*
+0121	GW200	002	Didcot to Heyford DCL Western	05/08/06	Appleford LC	54	53	CCTV
+0121	GW200	002	Didcot to Heyford DCL Western	05/08/06	CSR Channel change	55	00	
+0121	GW200	002	Didcot to Heyford DCL Western	05/08/06	(Down direction)	55	00	X
+0121	GW200	002	Didcot to Heyford DCL Western	05/08/06	APPLEFORD	55	16	
+0121	GW200	002	Didcot to Heyford DCL Western	05/08/06		56	00	*
+0121	GW200	002	Didcot to Heyford DCL Western	05/08/06	GULHAM	56	17	
+0122	GW200	003	Didcot to Heyford DCL Western	05/08/06	HADLEY	58	35	
+0122	GW200	003	Didcot to Heyford DCL Western	05/08/06		58	40	
+0122	GW200	003	Didcot to Heyford DCL Western	05/08/06	CSRChannel change	59	65	*
+0122	GW200	003	Didcot to Heyford DCL Western	05/08/06	(Up direction)	59	65	X
+0122	GW200	003	Didcot to Heyford DCL Western	05/08/06	Radley HABD	60	00	*
+0122	GW200	003	Didcot to Heyford DCL Western	05/08/06	Manor Farm LC	60	49	UWC
+0122	GW200	003	Didcot to Heyford DCL Western	05/08/06	Kennington Junction LC	61	04	UWC
+0122	GW200	003	Didcot to Heyford DCL Western	05/08/06	Kennington Jn	61	08	
+0123	GW200	004	Didcot to Heyford DCL Western	05/08/06	Hinksey South	61	53	
+0123	GW200	004	Didcot to Heyford DCL Western	05/08/06	Hinksey Reception Line GF	62	09	
+0123	GW200	004	Didcot to Heyford DCL Western	05/08/06	Hinksey Yard	62	09	X
+0123	GW200	004	Didcot to Heyford DCL Western	05/08/06	Hinksey North	62	50	
+0124	GW200	005	Didcot to Heyford DCL Western	05/04/08	Tuckwells LC	62	64	UWC
+0124	GW200	005	Didcot to Heyford DCL Western	05/04/08		63	00	*
+0124	GW200	005	Didcot to Heyford DCL Western	05/04/08	Station Lo	63	31	
+0124	GW200	005	Didcot to Heyford DCL Western	05/04/08	oxronn	63	41	
+0124	GW200	005	Didcot to Heyford DCL Western	05/04/08	Oxford (0X) SB	63	41	X
+0124	GW200	005	Didcot to Heyford DCL Western	05/04/08	Loco GF	63	53	
+0125	GW200	006	Didcot to Heyford DCL Western	05/04/08		64	00	*
+0125	GW200	006	Didcot to Heyford DCL Western	05/04/08	Up Carriage Sidings GF	64	02	
+0125	GW200	006	Didcot to Heyford DCL Western	05/04/08	Down Carriage Sdgs GF	64	03	
+0125	GW200	006	Didcot to Heyford DCL Western	05/04/08	Oxford North Jn	64	45	
+0125	GW200	006	Didcot to Heyford DCL Western	05/04/08		64	48	
+0125	GW200	006	Didcot to Heyford DCL Western	05/04/08		65	03	*
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06	Wolveroot Jn	66	32	
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06		66	36	*
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06	DrinkwaterLC	66	56	UWC
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06		66	63	*
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06	Stonehouse Farm LC	67	12	UWC
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06	Yamton Lane LC	67	40	AHBC-X
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06	Sandy Lane LC	67	78	AHBC—X
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06		67	79	
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06		68	00	*
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06	Roundham LC	66	43	RIG-X
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06		68	53	
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06		69	11	*
+0126	GW200	007	Didcot to Heyford DCL Western	05/08/06	Bletchington LC	70	37	UWC
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06		72	12	*
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06		72	46	*
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06	Tackley LC	72	47	UWC
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06	TAGKLEY	72	50	
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06	Tackley GF	72	60	
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06		72	69	*
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06		73	12	*
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06	Inkpens No.1 LC	74	10	UWC
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06		74	50	*
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06		74	64	*
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06	Territory Boundary	75	00	
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06	HEYFORD	75	21	
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06	See LNW (S) Territory	75	21	X
+0127	GW200	008	Didcot to Heyford DCL Western	05/08/06	Sectional Appendix	75	21	X

@@ -1,0 +1,12 @@
+Ferryhill Jn 240 40
+240 60 :7:
+
+Aberdeen SB 240 63
+
+ABERDEEN 241 06
+
+(Change of ELR 241 03
+
+ECN5 to ANI1) o 00
+O 20 *
+

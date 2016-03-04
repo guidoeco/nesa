@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0261	LN3620	001	Melton Jn GF to Asfordby GSM London North Eastern	12/07/08	Melton Jn	105	70	
+0261	LN3620	001	Melton Jn GF to Asfordby GSM London North Eastern	12/07/08	Melton Jn GF	105	70	
+0261	LN3620	001	Melton Jn GF to Asfordby GSM London North Eastern	12/07/08	Asfordby Jn GF	106	58	
+0261	LN3620	001	Melton Jn GF to Asfordby GSM London North Eastern	12/07/08	Network Rail [Alstom boundary	106	58	X
+0261	LN3620	001	Melton Jn GF to Asfordby GSM London North Eastern	12/07/08	Asfordby Tunnel	106	75	
+0261	LN3620	001	Melton Jn GF to Asfordby GSM London North Eastern	12/07/08	(419 yards) to	107	15	
+0261	LN3620	001	Melton Jn GF to Asfordby GSM London North Eastern	12/07/08	Network Rail IAshfordby Mine bounda	107	20	

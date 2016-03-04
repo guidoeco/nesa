@@ -1,0 +1,20 @@
+Botany Bay LC (CCTV) 140 53
+Bamby Moor and Sutton LC (CCTV) 141 56
+HABD 143 17
+Torworth LC (CCTV) 143 17
+143 13
+143 25 *-
+Ranskill Loops
+143 65 *-
+_ 143 72
+Ransklll LC(MCB) 143 79
+144 09
+No 238 LC RIG 144 57
+School Lane Public Bridleway LG 145 53
+Scrooby UWC 145 68
+146 71 are
+Bawtry TSC OHNS 147 58
+148 39 *-
+Bawtry Crossovers GSP 148 55
+HABD 148 55
+

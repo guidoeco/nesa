@@ -1,0 +1,8 @@
+NRN
+TCB Kings Cross SB (K)
+RA10 AC:York ECR
+NRN
+NRN Channel change 066
+at 0 08
+Camden Road Jn SB (CR)
+

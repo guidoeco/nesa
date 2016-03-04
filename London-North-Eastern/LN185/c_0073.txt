@@ -1,0 +1,12 @@
+125 51 *-
+
+125 53 *
+Heckington LC (MCG) 125 54
+Heckington SB (HN) 125 54
+HEGKINGTON 125 57
+Great Hale Drove No.1 LC (AHBC) 126 27 1:
+Great Hale Drove No.2 LC (AHBC—X) 127 24
+Stones Sidings LC (UWC) 128 30
+Swineshead LC (AH BC) 130 21
+SWINESHEAD 130 25
+

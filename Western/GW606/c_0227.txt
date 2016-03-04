@@ -1,0 +1,15 @@
+Shortridge Farm 2 LC (UWC) 202 54
+Shortridge Farm 3 LC (UWC) 202 71
+Brightly Weir Farm 1 LC (UWC) 203 23
+Brightly Weir Farm 2 LC (UWC) 203 34
+Brightly Weir Farm 3 LC (UWC) 203 44
+Brightly Mill LC (UWC) 203 66
+Brightly Barton 1 LC (UWC) 204 00
+Umberleigh LG (AOCL) 204 32
+204 40 *
+UMBERLEIGH 204 52
+204 67 *
+Little Weir Farm 2 LC (UWC) 205 06
+Umberleigh Barton 3 LC (UWC) 205 70
+Fishley LC (UWC) 206 43
+

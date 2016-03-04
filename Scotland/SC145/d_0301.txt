@@ -1,0 +1,7 @@
+RETB 102 Banavie SC
+CD = 15 mph through loop
+points, in both directions,
+and over loop lines
+CL 5901‘ (180m)
+(28 SLU's)
+

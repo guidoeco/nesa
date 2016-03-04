@@ -1,0 +1,9 @@
+63 56
+63 65 1:
+SELLAFIELD 63 72
+Sellafield SB 63 76 :7:
+64 02 i:
+64 08 *
+Braystones LC (UWC) 65 73
+BRAYSTONES 65 76
+

@@ -1,0 +1,32 @@
+NRN
+TCB West Midlands s.c. (LJ)
+GSM-R area
+LA
+Axle Counter area
+UD: Up Dorridge
+DD: Down Dorridge
+DHGL (PF): Down Hatton Goods Loop
+190 SLU I 1217 metres! 1331 yards.
+D&UHPL Down 8 Up Hatton Platform Line
+17 SLUI109 metres" 19 yards.
+Platform lengths: Hatton
+Platform 1 - 131 metres
+Platform 2 - 125 metres
+Platform 3 - 134 metres
+Platform lengths: Lapworth
+Down Dorridge - 184 metres
+Up Dorridge - 120 metres
+Platform lengths: Dorridge
+Platform 1 - 181 metres
+Platform 2 - 183 metres
+Platform 3 - 184 metres
+0.0.U. - Out Of Use
+U&DDGL: Up 8 Down Dorridge Goods Loop
+Up direction: 82 SLUI523 metres/572 yards.
+Down direction: 83 SLUI533 metres!533 yards.
+UDPL: Up Dorridge Passenger Loop
+77 SLU (493 metresl539 yards)
+U&DDPL: Up 8 Down Dorridge Passenger Loop
+Up direction: 35 SLUI225 metres/246 yards.
+Down direction: 122 SLUI783 metres/856 yards.
+

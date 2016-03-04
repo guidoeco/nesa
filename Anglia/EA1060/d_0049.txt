@@ -1,0 +1,9 @@
+NRN CSR
+TCB Liverpool St IECC (L)
+RA7 AC: Romford
+CL Down 23
+CL Up 30
+Up platform - 165m (178yd)
+OTNS
+Down platform - 165m (178yd)
+

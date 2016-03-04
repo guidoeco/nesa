@@ -1,0 +1,8 @@
+1 3O *
+WOODSMOOR 1 25
+Woodsmoor L.C. (CCTV) 1 11
+DAVENPORT 0 62
+0 25 *
+Edgeley Junction No.1 0 00
+132 37
+

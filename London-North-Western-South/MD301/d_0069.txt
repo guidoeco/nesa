@@ -1,0 +1,16 @@
+NRN
+TCB West Midlands SC (RC)
+AC: Rugby ECR
+GSM-R area
+LA
+Axle Counter area
+TASS fitted
+West Midlands SC (CB)
+Platform lengths: Coventry
+Platform 1: 321 metres
+Platform 2: 352 metres
+Platform 3: 352 metres
+Platform 4: 242 metres
+UB: Up Bedworth
+DB: Down Bedworth
+

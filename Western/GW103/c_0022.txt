@@ -1,0 +1,11 @@
+18 00 *
+18 20 *-
+18 23 9e
+Barrow crossing (WL) 18 29
+SLOUGH 18 36
+Slough S SB
+
+Slough New (SN) SB 18 46 are
+18 48 *
+18 49 *
+

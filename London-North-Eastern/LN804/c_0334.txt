@@ -1,0 +1,20 @@
+Ferrybridge South Jn 2 38
+Ferrybridge SB (FE) 2 33
+Ferrybridge North Jn 2 27
+Ferrybridge Power Station Jn 2 09
+Ferrybridge Power Station
+
+2 05 1:
+
+2 03 *-
+
+1 25 *
+Brotherton Tunnel 1 24 to (104yards) 1 19
+
+1 18 1:
+Burton Lane (Mastermans) LC (UWC) 0 37
+
+0 26 1:
+
+0 19 *
+

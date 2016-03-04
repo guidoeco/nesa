@@ -1,0 +1,18 @@
+OHNS 39 20
+40 O1 *-
+LEIGHTON BUZZARD 40 14
+4O 25 1k
+40 28 *
+4O 32 *
+Linslade Tunnels 40 60
+(262 metres 287 yards) to 40 73
+42 04 i:
+42 16 *-
+42 22 *-
+Stoke Hammond HABD 42 68
+(Leighton Buzzard) 43 55 *
+Bletchley South Junction 45 46
+46 00 *
+46 18 *-
+46 21 *-
+

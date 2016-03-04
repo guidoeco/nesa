@@ -1,0 +1,11 @@
+Aberbaiden Parc Slip
+
+7 00 *
+Aberbaiden North GF 6 56
+Aberbaiden South GF 6 31
+
+3 65 5:
+Water Street bridge
+
+3 63 *-
+

@@ -1,0 +1,10 @@
+201 35 *-
+Talacre SB (TE) 201 76
+Tyn-y-Morfa LC (M06) 202 65
+
+205 36 *-
+PRESTATYN 205 43
+
+205 49 *
+Prestatyn SB 205 52
+

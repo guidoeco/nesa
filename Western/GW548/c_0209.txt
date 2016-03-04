@@ -1,0 +1,8 @@
+Parson Street Jn 120 28
+120 34 i:
+Ashton Jn 121 00
+Ashton Jn LC (CCTV) 121 18
+Signal 3.335 121 28
+Clifton Bridge No.1 Tunnel 122 23
+(54m, 59yds) 122 25
+

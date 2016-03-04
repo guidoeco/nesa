@@ -1,0 +1,28 @@
+NRN
+TCB Birmingham New St. PSB (NS)
+AC: Rugby ECR
+
+Platform lengths: Smethwick Rolfe Street
+
+Down Stow-138 metres
+
+Up Stem-152 metres
+
+UST=Up Stour
+
+DST=Down Stour
+
+TASS fitted: DST and UST lines
+
+Platform |engths:$methwick Galton Bridge
+
+Down Stow-149 metres
+
+Up Stour-151 metres
+
+Platform lengths: Sandwell and Dudley
+
+Down Stow-271 metres
+
+Up Stow-272 metres
+

@@ -1,0 +1,14 @@
+NRN CSR
+TCB Victoria SB (VS)
+1 Up Chatham Fast
+2 Down Chatham Fast
+3 Up Chatham Slow
+4 Down Chatham Slow
+5 Up Chatham Loop
+6 Down Slow Tonbridge Loop
+7 Up Slow Tonbridge Loop
+8 Down Fast Tonbridge Loop
+9 Up Fast Tonbridge Loop
+10 Reversible Chatham Loop
+11 Up Chatham Loop
+

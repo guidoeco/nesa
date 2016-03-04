@@ -1,0 +1,26 @@
+NRN
+
+TCB York SB
+
+RAB AC: York ECR
+
+DHM =Down Hull Main
+
+UHM =Up Hull Main
+@Marsh Lane Sidings
+
+PF is aumorised on the Down Goods
+
+Loop and Up Goods Line between
+
+Neville Hill West Jn and Marsh
+
+Lane Jn for Class 5 and 0 trains only.
+DHGL=Down Hull Goods Loop - 397m! 1305 feet
+@TolFrom Neville Hill Depot
+@TolFrom Neville Hi|| Up Sidings
+
+UHG=Up Hull Goods
+
+Ground Frame
+

@@ -1,0 +1,14 @@
+29 70
+31 11 :1:
+31 18
+31 27
+Hitchin 'A' GF 31 50
+HITCHIN 31 74
+31 79
+32 06 *-
+Cambridge Jn 32 11
+32 12 *-
+32 47
+Hitchin TSC OHNS 32 57
+Cadwell 33 42
+

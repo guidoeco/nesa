@@ -1,0 +1,44 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06	(Nunheed Jn)	6	09	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06		6	31	*
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06		6	37	*
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06	(Tanners Hill Jn)	5	29	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06		7	14	*
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06		7	22	*
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06		5	42	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06	Lewisham Vale Jn	7	37	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06		5	57	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06	(St Johns)	7	49	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06		5	47	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06	Lewisham Substation	5	70	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06		5	79	*
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06	LEWISHAM	7	61	
+0146	SO330	001	Nunhead to Hayes NTL LVT BEX Kent/Sussex	02/12/06	(Change of Mileage)	6	04	
+0147	SO330	002	Nunhead to Hayes LCH NCS LLL Kent/Sussex	02/12/06	Courthill Loop North Jn	6	21	*
+0147	SO330	002	Nunhead to Hayes LCH NCS LLL Kent/Sussex	02/12/06	(Courthill Loop South Jn)	6	43	
+0147	SO330	002	Nunhead to Hayes LCH NCS LLL Kent/Sussex	02/12/06	(Parks Bridge Jn)	6	14	
+0147	SO330	002	Nunhead to Hayes LCH NCS LLL Kent/Sussex	02/12/06	Ladyell Jn	6	41	
+0147	SO330	002	Nunhead to Hayes LCH NCS LLL Kent/Sussex	02/12/06		6	29	
+0147	SO330	002	Nunhead to Hayes LCH NCS LLL Kent/Sussex	02/12/06	LADYWELL	6	62	
+0147	SO330	002	Nunhead to Hayes LCH NCS LLL Kent/Sussex	02/12/06		6	67	*
+0148	SO330	003	Nunhead to Hayes LCH Kent/Sussex	02/12/06	GATFORD BRIDGE	7	42	
+0148	SO330	003	Nunhead to Hayes LCH Kent/Sussex	02/12/06	Catford Substation	7	64	
+0148	SO330	003	Nunhead to Hayes LCH Kent/Sussex	02/12/06	LOWER SYDENHAM	9	02	
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06		9	35	*
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06	NEW BECKENHAM	9	44	
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06		9	50	*
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06	(Beckenham Spur Jn)	10	06	
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06		9	67	*
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06	New Beckenham Substation	9	68	
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06		10	00	*
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06	CLOCK HOUSE	10	23	
+0149	SO330	004	Nunhead to Hayes NCH NBB Kent/Sussex	02/12/06		10	25	*
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08		11	01	*
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08	ELMERS END	11	07	
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08		11	12	*
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08		11	40	*
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08	EDEN PARK	12	34	
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08	West Wickham Substation	13	07	
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08	WEST WICKHAM	13	19	
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08		14	05	*
+0150	SO330	005	Nunhead to Hayes LCH Kent/Sussex	22/03/08	HAYES	14	32	

@@ -1,0 +1,44 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	CASTLE CARY	129	45	
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Castle Cary Jn	129	50	
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08		129	65	*
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Territory Boundary	130	00	
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Thomey Marsh Lane Crossing	132	06	
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Sparkford Emergency Telephone	134	29	
+0128	SW175	001	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Marston Magna Emergency Telephone	137	00	
+0129	SW175	002	Castle Cary to Dorchester Junction WEY Wessex	13/07/08		141	05	*
+0129	SW175	002	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	Yeovil Pen Mill SB (Y PM)	141	05	X
+0129	SW175	002	Castle Cary to Dorchester Junction WEY Wessex	13/07/08	YEOVIL PEN MILL	141	22	
+0129	SW175	002	Castle Cary to Dorchester Junction WEY Wessex	13/07/08		141	35	*
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Thomford Bridge Crossing	144	24	
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	THORNFORD	144	35	
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Beer Hacket Crossing	144	63	
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	YETIiIINS'PER	145	46	
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07		145	50	*
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Mill Farm Crossing	145	70	
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Meads Farm Crossing	146	16	
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	Pound Lane Crossing	147	10	
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07	CHETNOLE	147	50	
+0130	SW175	003	Castle Cary to Dorchester Junction WEY Wessex	07/07/07		149	30	*
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Evershot Tunnel	149	49	
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	308 Yards to	149	63	
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		149	70	*
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Burl Farm	150	20	UWC
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Hunter	151	56	UWC
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	MAIDEN NEWTON	154	12	
+0131	SW175	004	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		154	65	*
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Crockway Crossing	155	58	
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Hyde	155	78	UWC
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Grimston and Frampton	156	70	
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	661 Yards to	157	20	*
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		158	20	*
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Stratton No.1	158	21	UWC
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Chicks Farm Crossing	156	33	
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Chicks Farm Foot	158	50	UWC
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Poundbury Tunnel	161	03	
+0132	SW175	005	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	267 Yards to	161	15	
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		161	50	*
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	DORGHESTER WEST	161	63	
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		162	00	*
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06	Dorchester Jn	162	14	
+0133	SW175	006	Castle Cary to Dorchester Junction WEY Wessex	02/12/06		136	15	

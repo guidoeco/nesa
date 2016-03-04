@@ -1,0 +1,12 @@
+Marple Wharf Junction 177 23
+177 27 2k
+ROMILEY 178 27
+Romiley Junction SB (RJ) 178 31
+Romiley Junction 178 33 *
+178 36 i:
+Bradbury High Level Tunnel 178 70
+(146 metres I 160 yards) to 178 78
+BREDBURY 179 34
+179 38
+Bradbury GF 179 41
+

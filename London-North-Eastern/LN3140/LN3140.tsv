@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06	Continued on LNW (S)			X
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06	Territory Sectional			X
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06	Appendix			Z
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06	BEDFORD ST. JOHNS	16	05	
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06	Route Boundary	16	07	
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06		16	40	
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06	Bedford Station Jn	16	50	*
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06	change of mileage	49	60	
+0129	LN3140	001	Bedford St. Johns (Exclusive) to Bedford Station BBM SPC1 London North Eastern	02/12/06	BEDFORD	49	65	

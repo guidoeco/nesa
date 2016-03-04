@@ -1,0 +1,10 @@
+RETB 105 Machynlleth SB (MH)
+RA5
+CD10 mph over bridge for other
+than Class 15x trains
+RETB Emergency Telephone
+Platform - 122m, 133:de
+RETB 1 1 9
+Location of known low rail adhesion
+- 93mp. and 95mp.
+

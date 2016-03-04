@@ -1,0 +1,15 @@
+Cuaich LC (UWC) 60 41
+Inchlea LC (UWC) 62 38
+62 40 i:
+62 60
+64 76
+66 46 i:
+67 00
+68 20
+68 22 *-
+68 27 :7:
+68 31
+68 60
+NEWTONMORE 68 62
+Altlaurie LC (UWC) 69 74
+

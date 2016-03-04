@@ -1,0 +1,16 @@
+NRN CSR
+TCB Ashford IECC (AD)
+RAB DC: Paddock Wood
+PLOD at 57m 18ch
+UGL 118
+VHME— Vehicle Health Monitoring
+Equipment. VHME detects overheated
+wheels and axles.
+WILD- Wheel Impact Load Detection.
+WILD detects flat wheels.
+PLOD at 61m 74ch
+CSR
+CR
+1 Up Main
+2 Down Main
+

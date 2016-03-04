@@ -1,0 +1,53 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Camden Road Jn . (CR) SB	5	09	
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Camden Road West Jn	5	10	
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	00	
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	OHNS	0	19	
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	20	*
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	KENTISH TOWN WEST	0	34	
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06		1	00	*
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	GOSPEL OAK	1	01	
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Gospel Oak (GO) SB	1	10	
+0130	EA1310	001	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Gospel Oak Jn	1	10	
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08		1	19	*
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08		1	20	*
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08	HAMPSTEAD HEATH	1	53	
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08		1	63	
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08	Hampstead Heath Tunnel (1166 yards) to	2	36	
+0131	EA1310	002	Camden Road West Junction to Richmond BOK Anglia	29/09/08	FINCHLEY ROAD AND FROGNAL	2	44	
+0132	EA1310	003	Camden Road West Junction to Richmond BOK Anglia	05/08/06	WEST HAMPSTEAD	2	75	
+0132	EA1310	003	Camden Road West Junction to Richmond BOK Anglia	05/08/06	BRONDESBURY	3	36	
+0132	EA1310	003	Camden Road West Junction to Richmond BOK Anglia	05/08/06	BRONDESBURY PARK	3	71	
+0132	EA1310	003	Camden Road West Junction to Richmond BOK Anglia	05/08/06	KENSAL RISE	4	41	
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06		5	10	*
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	CITY LINES	5	10	X
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Kensal Green Junction	0	00	
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	21	
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06		5	29	*
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	WILLESDEN JUNCTION	5	39	
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	HIGH LEVEL	5	39	X
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Willesden High Level Jn (HL) SB	5	48	*
+0133	EA1310	004	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	00	
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Former Old Oak Jn	0	34	
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Change of Mileage	0	43	
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Acton Wells Jn (AW) SB	0	64	
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Acton Wells Jn	0	66	*
+0134	EA1310	005	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Acton Wells Jn	0	72	
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06		0	75	*
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06	Acton Central LC (CCTV)	1	70	*
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06	ACTON CENTRAL	1	73	
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06	SOUTH ACTON	2	48	*
+0135	EA1310	006	Camden Road West Junction to Richmond BOK Anglia	05/08/06	South Acton Jn	2	52	*
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	Bollo Lane Junction	2	63	
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	(Richmond Line) LC (MOB)	2	63	X
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	Bollo Lane Jn (BL) SB	2	63	X
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08		3	09	*
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	Gunnersbury Jn	3	12	
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08		9	76	
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08	GUNNERSBURY	10	05	
+0136	EA1310	007	Camden Road West Junction to Richmond SAR Anglia	19/07/08		10	10	*
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08	KEW GARDENS	11	10	
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08		11	76	*
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08		12	10	*
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08	Richmond (GB) SB	12	22	
+0137	EA1310	008	Camden Road West Junction to Richmond SAR Anglia	19/07/08	RICHMOND	12	39	

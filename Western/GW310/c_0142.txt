@@ -1,0 +1,15 @@
+Sheen Hill No.1 LC (UWC) 102 16
+Sheen Hill No.2 LC (UWC) 102 40
+Ivy Lane LC (UWC) 103 19
+Brown Barn LC (UWC) 103 32
+Clayfield LC (AHBC) 103 54
+Litfleton & Badsey LC (CCTV) 104 31
+Watson LC (UWC) 104 62
+106 38 *
+Single line 106 39
+EVESHAM 106 55
+106 60 *
+Evesham SB 106 70
+106 73 1!:
+Single line 106 75 *-
+

@@ -1,0 +1,16 @@
+15 48 *-
+15 74 *-
+Whitehouse LC (MCB) 15 76
+Whitehouse SB (W) 15 76
+16 18 1-
+South BankJn 17 31
+SOUTH BANK 17 40
+Beam Mill Jn 18 03
+18 29 *-
+18 34 *-
+18 58 are
+Grangetown SB (G) 18 65
+Grangetown Jn 18 75
+19 03
+Shell Jn 19 32
+

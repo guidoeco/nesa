@@ -1,0 +1,35 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	(REDHILL)	22	40	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06		23	40	*
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Bowerhill Lane Substation	24	21	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	NUTFIELD	24	47	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Henshaw TP Hut	25	53	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Bletohingley Tunnel 28to25	25	53	X
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	(1327 yards)	27	05	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Bletohingley Tunnel Substation	27	06	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Godstone Ground Frame	27	30	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Route Boundary	28	09	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	GODSTONE	28	13	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Godstone TP Hut	28	20	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Dodds Copioe Substation	29	42	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Crowhurst Jn TP Hut	30	60	
+0216	SO550	001	Redhill to Tonbridge RTT Kent/Sussex	02/12/06	Littlebrowns Substation	32	03	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Edenbridge Ground Frame			X
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	EDENBRIDGE	33	03	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Edenbridge TP Hut	33	30	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09		34	27	*
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Medhurst Row Crossing	34	28	RIG
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09		34	29	*
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Medhurst Row Substation	34	41	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Brasted Lands Crossing	35	38	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Bough Beech TP Hut	36	59	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Chiddingstone Substation	37	00	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	PENSHURST	38	03	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Penshurst TP Hut	38	11	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Penshurst Tunnel 38to13	38	11	X
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	(78 yards)	38	17	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Leigh Substation	39	39	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	LEIGH	39	56	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	Haysden TP Hut	40	74	
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09		41	27	*
+0217	SO550	002	Redhill to Tonbridge RTT Kent! Sussex	14/03/09	(TONBRIDGE)	42	16	

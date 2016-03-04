@@ -1,0 +1,10 @@
+77 60 
+'hornhill SB 77 58
+75 00 *
+74 40 E
+74 16 *-
+Drumlanrig Tunnel 73 69
+410 yards to 73 O5
+73 00 ‘k
+70 00 *
+

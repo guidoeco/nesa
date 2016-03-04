@@ -1,0 +1,7 @@
+NRN
+TCB Tyneside SB (T)
+RAB
+UC = Up Carlisle
+D0 = Down Carlisle
+C Up at 1 07 (Secured out of use)
+

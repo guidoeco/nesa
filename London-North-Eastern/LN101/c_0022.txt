@@ -1,0 +1,19 @@
+Claypole Down Loop 115 46
+Bamby Lane LC (CCTV) 115 73
+116 09 *
+116 13
+Balderton LC (CCTV) 116 70
+Bullpit Lane LC (CCTV) 118 26
+Bamby LC (CCTV) 119 03
+Newark South Jn 119 73
+NEWARK NORTH GATE 120 08
+120 21 *
+Whitehouse Lane Footpath LC RIG 120 40
+Newark Crossing South Jn 120 51
+120 62 1-
+Newark Crossing 120 63
+121 00 *-
+Church Lane LC (CCTV) 122 07
+Bathley Lane LC (CCTV) 122 78
+Nome" Lane LC (CCTV) 123 38
+

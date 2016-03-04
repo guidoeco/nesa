@@ -1,0 +1,7 @@
+CurriehillGSP 94 50
+QUERIEHILL 95 42
+OHNS 95 65
+Whitelaw Footpath LC (RIG) 96 20
+97 10 9:
+WESTER HAILES 97 17
+

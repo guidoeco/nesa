@@ -1,0 +1,125 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	Westbury Line Jn	36	17	
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08		36	28	*
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08		36	29	*
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	CSR Channel change	36	30	
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	(Up direction)	36	30	X
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	Reading Upper Triangle Depot	36	40	*
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	Oxford Road Jn	36	67	
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08		36	68	*
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	READING WEST	36	75	
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08		37	02	*
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	Southcote Jn	37	62	
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	(Change of ELR)	37	62	X
+0185	GW500	001	Reading to Cogload Jn via Westbury & Frome A/LS BKE BHL Western	27/07/08	(Territory Boundary)	37	76	*
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		38	20	*
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Drakes No.2 LC	40	63	UWC
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	THEALE	41	22	
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Theale Reception	41	54	
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Sidings GF	41	54	X
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		42	08	
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Ufton LC	43	39	AHBC
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Tawney LC	44	11	UWC
+0186	GW500	002	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	ALDERMASTON	44	63	
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	CSR Channel change	45	14	Down
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Wickham Knights LC	46	16	UWC
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	CSR Channel change	46	40	Up
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		46	50	*
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Midgham LC	46	56	CCTV
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	MIDGHAM	46	59	
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Compeday LC	47	08	UWC
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		47	10	*
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Crannel's LC	47	47	UWC
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Colthrop HABD	48	44	
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Colthrop LC	48	75	MCB
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	THATCHAM	49	45	
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Thatcham LC	49	51	CCTV
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Ordnance Depot LC	50	04	UWC
+0187	GW500	003	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		51	50	*
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07	SheIIMex&BPGF@	52	12	
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07	Racecourse Sidings GF	52	13	
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07	NEWBURY RAGEGOURSE	52	31	
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07		52	40	*
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07	NEWBURY	53	06	
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07	Hamstead LC	56	09	CCTV
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07	Kintbury HABD	58	00	
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07	KINTBURY	53	33	
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07	Kintbury LC	58	42	MOB
+0188	GW500	004	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	01/12/07		53	50	*
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07	UPL	60	12	
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07	UPL	60	55	
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07	Hungerford GF	61	25	
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07		61	40	*
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07	HUNGERFORD	61	43	
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07	Hungerford LC	61	47	CCTV
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07		62	00	*
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07		63	05	*
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07		64	10	*
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07	Fairfield LC	64	67	UWC
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07	Wansdyke LC	66	02	UWC
+0189	GW500	005	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	20/10/07	BEDWYN	66	33	
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Beech Drive LC	67	32	UWC
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Crofton LC	68	04	RIG
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		68	10	*
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		68	50	*
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		69	40	*
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	Savemake GF	70	07	
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		70	55	*
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	PEWSEY	75	26	
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06	HABD	75	60	
+0190	GW500	006	Reading to Cogload Jn Via Westbury 8: Frame A/Ls BHL Western	05/08/06		76	10	*
+0191	GW500	007	Reading to Cogload Jn via Westbury & Frome A/LS BHL SWY Western	16/06/07		78	71	
+0191	GW500	007	Reading to Cogload Jn via Westbury & Frome A/LS BHL SWY Western	16/06/07	Woodborough Sidings GF	78	73	
+0191	GW500	007	Reading to Cogload Jn via Westbury & Frome A/LS BHL SWY Western	16/06/07	(Change of ELR)	81	19	
+0191	GW500	007	Reading to Cogload Jn via Westbury & Frome A/LS BHL SWY Western	16/06/07		83	20	*
+0191	GW500	007	Reading to Cogload Jn via Westbury & Frome A/LS BHL SWY Western	16/06/07	Urchfont HABD	84	28	
+0192	GW500	008	Reading to Cogload Jn Via Westbury 8: Frame A/Ls SWY Western	05/08/06		85	00	*
+0192	GW500	008	Reading to Cogload Jn Via Westbury 8: Frame A/Ls SWY Western	05/08/06		85	40	*
+0192	GW500	008	Reading to Cogload Jn Via Westbury 8: Frame A/Ls SWY Western	05/08/06		86	40	*
+0192	GW500	008	Reading to Cogload Jn Via Westbury 8: Frame A/Ls SWY Western	05/08/06		86	72	
+0192	GW500	008	Reading to Cogload Jn Via Westbury 8: Frame A/Ls SWY Western	05/08/06	Lavington	88	06	
+0192	GW500	008	Reading to Cogload Jn Via Westbury 8: Frame A/Ls SWY Western	05/08/06	NRN Channel change	94	00	
+0192	GW500	008	Reading to Cogload Jn Via Westbury 8: Frame A/Ls SWY Western	05/08/06		94	41	
+0193	GW500	009	Reading To Cogload Jn via Westbury & Frome A/LS SWY WES WEY Western	05/08/06	Heywood Road Jn	94	45	*
+0193	GW500	009	Reading To Cogload Jn via Westbury & Frome A/LS SWY WES WEY Western	05/08/06	(Change of ELR)	94	45	X
+0193	GW500	009	Reading To Cogload Jn via Westbury & Frome A/LS SWY WES WEY Western	05/08/06	Faimood Jn	97	02	
+0193	GW500	009	Reading To Cogload Jn via Westbury & Frome A/LS SWY WES WEY Western	05/08/06	(Change of ELR)	111	18	
+0193	GW500	009	Reading To Cogload Jn via Westbury & Frome A/LS SWY WES WEY Western	05/08/06	Masters LC	111	53	UWC
+0194	GW500	010	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY FRA Western	05/08/06	Clink Road Jn	114	44	
+0194	GW500	010	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY FRA Western	05/08/06	(Change of ELR)	114	44	X
+0194	GW500	010	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY FRA Western	05/08/06	Blatchbridge Jn	116	37	
+0194	GW500	010	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY FRA Western	05/08/06	(Change of ELR)	116	52	
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06		120	50	
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06	East Somerset Jn	120	73	
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06	(Witham)			Z
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06		121	00	*
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06	Denning's LC	122	01	UWC
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06		123	40	*
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06		125	10	*
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06		125	42	*
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06	HABD	125	69	
+0195	GW500	011	Reading to Cogload Jn Via Westbury 8: Frame A/LS WEY Western	05/08/06	BRUTON	126	09	
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08		129	14	
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08		129	30	*
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08	CASTLE CARY	129	45	
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08	Castle Cary Jn	129	50	
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08	(Change of ELR)	115	32	
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08		129	65	*
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08	Territory Boundary	130	00	
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08		115	38	*
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08		116	00	*
+0196	GW500	012	Reading to Cogload Jn via Westbury & Frome A/LS WEY CCL Western	07/10/08	Parsonage Farm LC	117	10	UWC
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	Keinton Mandeville HABD	120	06	
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06		120	10	
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06		122	24	
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	Somerton GF	126	11	
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	Somerton Tunnel	126	59	
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	(963m ,1053 yds) to	127	27	
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	Holly Moor LC	133	31	UWC
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	Athelney LC	134	79	AHBC
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	Cutts Drove LC	135	00	UWC
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06		137	65	*
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	Cogload Jn (Up)	138	03	*
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06		158	23	
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06	Cogload Jn (Down)	138	30	*
+0197	GW500	013	Reading to Cogload Jn Via Westbury 8: Frame A/LS CCL Western	05/08/06		158	50	

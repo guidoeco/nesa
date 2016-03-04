@@ -1,0 +1,18 @@
+NRN
+TCB Preston SB (PN)
+Platform Lengths: Todmorden
+Platform Up 102m (112 yds)
+Platform Down 102m (112 yds)
+ULY = Up L&Y
+DLY = Down L&Y
+UEL = Up East Lancs
+DEL = Down East Lanos
+NRN
+Area channel
+change at Down
+20m 41ch
+NRN
+Area channel
+change at @ Up
+20m 59oh
+

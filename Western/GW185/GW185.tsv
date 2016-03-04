@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0114	GW185	001	Maidenhead to Marlow WBB Western	05/08/06	MAIDENHEAD	24	19	
+0114	GW185	001	Maidenhead to Marlow WBB Western	05/08/06		24	51	*
+0114	GW185	001	Maidenhead to Marlow WBB Western	05/08/06	Furze Platt LC	25	36	ABCL
+0114	GW185	001	Maidenhead to Marlow WBB Western	05/08/06	FURZE PLATT	25	41	
+0115	GW185	002	Maidenhead to Marlow WBB Western	05/08/06	BOOKHAM	27	12	
+0115	GW185	002	Maidenhead to Marlow WBB Western	05/08/06	Cookham LC	27	16	ABCL
+0115	GW185	002	Maidenhead to Marlow WBB Western	05/08/06		28	40	*
+0115	GW185	002	Maidenhead to Marlow WBB Western	05/08/06	Boume End GF	28	50	
+0115	GW185	002	Maidenhead to Marlow WBB Western	05/08/06	BOURNE END	28	55	
+0116	GW185	003	Maidenhead to Marlow MWB Western	05/08/06	Boume End GF	28	50	
+0116	GW185	003	Maidenhead to Marlow MWB Western	05/08/06		0	06	
+0116	GW185	003	Maidenhead to Marlow MWB Western	05/08/06	Brooksby LC	0	18	AOCL
+0116	GW185	003	Maidenhead to Marlow MWB Western	05/08/06	Marina LC (AOCL)	0	21	*
+0116	GW185	003	Maidenhead to Marlow MWB Western	05/08/06	Spade Oak LC	0	58	UWC
+0116	GW185	003	Maidenhead to Marlow MWB Western	05/08/06	Calcott Lane LC	1	44	UWC
+0116	GW185	003	Maidenhead to Marlow MWB Western	05/08/06		2	35	*
+0116	GW185	003	Maidenhead to Marlow MWB Western	05/08/06	HARLOW	2	54	

@@ -1,0 +1,9 @@
+Whissendine SB 99 15
+Whissendine LC (M03) 99 15
+Wymondham LC (MCG) 99 67
+100 02 *
+100 21 it
+Bretts LC (UWC) 102 02
+Freeby LC (UWC) 102 15
+Wyfordby LC (M06) 102 38
+

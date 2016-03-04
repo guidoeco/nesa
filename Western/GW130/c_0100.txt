@@ -1,0 +1,13 @@
+See Anglia Route
+Sectional Appendix
+Acton Wells Jn 0 72
+
+O 49
+Territory boundary South East 0 39
+(Anglia Route)
+
+0 16 a:
+Acton East 0 08
+
+4 O7
+

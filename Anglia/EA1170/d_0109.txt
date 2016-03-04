@@ -1,0 +1,16 @@
+NRN CSR
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+USY - Up Southbury
+DSY - Down Southbury
+Up platform - 183m (204 yd)
+Down platform - 188m (205 yd)
+Instruction in Section 1 applies at
+Park Road (Bridge 1956) at 8m 070h
+Up platform - 186m (202 yd)
+Down platform - 185m (200 yd)
+General instruction applies at
+Church Street (Bridge 1960) at 8m 51 ch
+UED - Up Enfield
+DED - Down Enfield
+

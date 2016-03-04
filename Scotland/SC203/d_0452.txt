@@ -1,0 +1,26 @@
+RETB 102 Invemess SC (I)
+G) = 15 mph through loop
+points, in both directions,
+and over loop lines
+DRS 1075f (325m)
+(52 SLU's)
+CL 1345f (410m)
+(65 SLU's)
+C2) Permissive arrangements in
+RETB territory.
+PP(A) - detaching, for booked
+movements only
+See Local Instructions for
+conditions under which trains may
+detach
+Plungers are provided at the
+Down "Points Set" indicators
+for operating the junction
+points under the instructions
+of the signaller at Inverness
+(RETB) SC. A duplicate
+plunger, for the Down line
+only, is additionally provided
+on the Down platform under
+the overbridge
+

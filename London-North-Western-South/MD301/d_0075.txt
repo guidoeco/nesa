@@ -1,0 +1,8 @@
+NRN
+AC: Rugby ECR
+UST = Up Stour
+DST = Down Stour
+UDby = Up Derby
+DDby = Down Derby
+U&DDby = Up & Down Derby
+

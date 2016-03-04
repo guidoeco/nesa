@@ -1,0 +1,20 @@
+NRN CSR
+TCB Ashford IECC (AD)
+RAB DC: Paddock Wood
+Platform 1 PP-A
+Platform 2 PP—A
+Platform 3 PP-A
+Platform 4 PP-A
+Also permitted for platform sharing
+during times of significant service
+interuptions.
+Down Main and Up Loop platform
+lines are reversible.
+PLOD at 22m zaoh
+1 Down Loop
+2 Down Main
+3 Up Loop
+4 Up Main
+5 Up Bat & Ball
+6 Down Bat & Ball
+

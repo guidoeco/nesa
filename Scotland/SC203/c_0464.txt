@@ -1,0 +1,12 @@
+Rossal No 2 LC (UWC) 74 36
+Rovie LC (AOCL) 76 35
+Rovie LC (UWC) 76 43
+ROGART TEP 77 01
+Rogart, LC (open) 77 08
+West Kinnauld No 2 LC (UWC) 77 36
+West Kinnauld No 3 LC (UWC) 77 53
+Kinnauld East No 1 LC (UWC) 78 01
+Kinnauld East No 2 LC (UWC) 78 25
+Morvich No1 LC (UWC) 78 38
+Morvich No 3 LC (UWC) 78 62
+

@@ -1,0 +1,24 @@
+D = Through Jn
+
+JR = Up Reception
+3R = Down Reception
+)RY = Down Reception Yard
+)GL 1764f (535m)
+
+{84 SLU's)
+
+\lo 1 DR 1743f (530m)
+[83 SLU's)
+
+\lo 2 DR 1533f (466m)
+[73 SLU's)
+
+\lo1 UR 1680f (511m)
+[80 SLU's)
+
+\lo 2 UR 1680f (511m)
+[80 SLU's)
+
+\lo 3 UR 1680f (511m)
+{80 SLU's)
+

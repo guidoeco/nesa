@@ -1,0 +1,10 @@
+(Littlehampton Jn) ( 0 31)
+19 29 *-
+Ford Jn 19 31
+( 0 00)
+19 33 *
+19 37 *-
+Ford LC (CCTV) 19 50
+FORD 19 55
+Yapton TP Hut 20 59
+

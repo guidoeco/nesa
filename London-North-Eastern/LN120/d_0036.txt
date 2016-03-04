@@ -1,0 +1,15 @@
+NRN CSR
+TCB Kings Cross SB (K)
+RAQ AC:York ECR
+CD - TolFrom EMU Sidings
+FF is authorised in the Down Main
+Platform for Class 1, 2, 3 and 5 EMU trains
+PP - Permissive Working - full use for class 1, 2,
+3 (ECS), 5, 9 & 0 trains in Down Bay Platform.
+CSR
+CSR Channel Change A
+Up 27m 380h 03R
+Down 27m 31 ch '
+Down Line Bi—Directional between 27 25
+and 28 15
+

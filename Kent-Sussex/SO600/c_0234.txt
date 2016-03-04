@@ -1,0 +1,7 @@
+32 40 5':
+Bo Peep Jn Substation 32 71
+Bo Peep Jn SB (BJ) 32 72 *-
+Bo Peep Jn 32 76
+
+60 69 i-
+

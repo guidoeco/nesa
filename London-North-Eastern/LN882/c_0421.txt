@@ -1,0 +1,18 @@
+49 00 *-
+Crofton West Jn 49 4O
+Grafton East .Jn 50 23
+Crofton Old Station No1 LC (MCG) 50 25
+50 28
+Streethouse West LC (CCTV) 52 11
+STREETHOUSE 52 15
+Red Lane LC (M66) 52 27
+FEATHERSTONE 53 71
+Featherstone LC (CCTV) 53 71
+Sportsfield LC (UWC) 54 12
+PONTEFRAOT TANSHELF 55 64
+56 26 *
+Pontefract West Jn 56 35 *
+56 38 *
+PONTEFRACT MONKHILL 56 40
+56 60
+

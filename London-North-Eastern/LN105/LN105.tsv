@@ -1,0 +1,13 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07	MOORGATE	0	00	
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07		0	13	*
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07		0	15	*
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07	OLD STREET	0	45	
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07	Poole Street	1	22	
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07		1	49	*
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07	ESSEX ROAD	1	59	
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07		1	61	*
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07	HIGHBURY&ISLINGTOH	2	21	
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07	DRAYTON PARK	2	56	
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07		2	64	*
+0031	LN105	001	Moorgate to Finsbury Park Jn MEB1 London North Eastern	01/12/07	Finsbury Park Jn	3	37	

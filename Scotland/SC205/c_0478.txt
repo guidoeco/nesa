@@ -1,0 +1,10 @@
+Dingwall O 19
+
+0 20 *
+Dingwall canal North LC (UWC) 0 25
+
+0 48 2k
+DingwallNo1LC(AOCL) 0 57
+Dingwall Middle LC (AOCL) O 67
+Dingwall N02 LC (AOCL) 1 05
+

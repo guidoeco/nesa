@@ -1,0 +1,11 @@
+Hartford CLC Jn 23 11
+0 72
+
+0 25
+
+0 16
+
+170 47
+
+Hartford Jn 170 56
+

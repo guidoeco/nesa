@@ -1,0 +1,18 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+Platform Lengths: Aintree
+Up 161m (176 yards)
+Down 1 17m (128 yards)
+Exceptional rail head conditions down
+and up main lines between
+3m 20th and 10m 20¢h.
+U0 = Up Onnskirk
+D0 = Down Ormskirk
+Platform Lengths: Old Roan
+Up 128m (140 yards)
+Down 129m (141 yards)
+Platform Lengths: Maghull
+Up 153m (167 yards)
+Down 142m (155 yards)
+

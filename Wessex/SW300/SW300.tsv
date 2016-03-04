@@ -1,0 +1,17 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Route Boundary	33	10	
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Hackhurst Lane BW	34	57	
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	GOMSHALI.	35	21	
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Gomshall Station HP	35	21	
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Burrows Lane LC (AHBC)	35	60	*
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Share Heath LC	36	51	
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06		36	60	*
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Brook LC (AHBC)	37	19	*
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Ford Crossing	37	70	
+0192	SW300	001	Gomshall to Shalford Junction RSJ Wessex	02/12/06		38	03	*
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	CHILWORTH	39	15	
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Chilworth LC	39	15	CCTV
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	Tangley LC (AHBC)	39	48	*
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	East Shalford Crossing	40	20	
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06	SHALFORD	41	02	
+0193	SW300	002	Gomshall to Shalford Junction RSJ Wessex	02/12/06		41	10	*

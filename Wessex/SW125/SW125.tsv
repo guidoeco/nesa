@@ -1,0 +1,12 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Southcote Jn	37	62	
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Territory Boundary	37	76	
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07		38	08	*
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07		39	05	*
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Grazeley Green	39	78	UWC
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Danes	41	28	UWG
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Great Park	42	58	UWC
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	MORTIMER	43	14	
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Odd Lane	44	63	UWC
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	Branley LC	46	38	CCTV
+0099	SW125	001	Southcote Junction to Basingstoke BKE Wessex	16/04/07	BRAMLEY	46	41	

@@ -1,0 +1,14 @@
+NRN
+
+TCB Edinburgh so (EH)
+N = North Lines
+8 = South Lines
+T8 = Through Siding
+North lines' mileages differ from
+South lines' mileages on this page
+North Lines' mileages are
+shown in brackets []
+ELR - ECN2 = North lines
+
+EGM2 = South lines
+

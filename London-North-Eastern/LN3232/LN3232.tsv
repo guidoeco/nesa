@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06		95	76	
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06	Wigston North Jn	15	31	
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06	SOUTH WIGSTON	14	67	
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06	Glen Parva Jn	14	57	
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06		14	54	*
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06	Glen Parva GF	14	53	
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06	Hinds LC	12	55	UWCIA
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06	Narborough HA D	12	17	
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06	NARBOROUGH	11	67	
+0195	LN3232	001	Wigston North Jn to Hinckley WNS London North Eastern	02/12/06	Narborough LC (MCB)	11	64	CCTV
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08		10	20	*
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08	Croft SB	10	04	
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08		9	56	*
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08	Halts LC	8	76	UWC
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08	M69 Overbridge LC	7	40	UWC
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08	0' Neils LC	7	21	UWC
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08	HINGKLEY	4	00	
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08	Jericho LC	3	31	UWC
+0196	LN3232	002	Wigston North Jn to Hinckley WNS London North Eastern	30/08/08	Route Boundary	2	62	

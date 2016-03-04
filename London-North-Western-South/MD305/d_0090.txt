@@ -1,0 +1,6 @@
+NRN
+AC: Rugby ECR
+Platform lengths:
+Down Main-142 metres
+Up Main-142 metres
+

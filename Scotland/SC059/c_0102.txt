@@ -1,0 +1,9 @@
+OHNS 0 10
+O 13 :1:
+
+Cook Street 0 19
+0 47 *
+101 69 *
+
+Shields Jn 1 00
+

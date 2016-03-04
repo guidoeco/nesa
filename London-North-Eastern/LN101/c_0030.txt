@@ -1,0 +1,14 @@
+Moat Hills LC (CCTV) 156 66
+157 00 *
+157 30
+157 76
+Arksey LC (CCTV) 158 02
+158 43
+HABD 159 10
+Daw Lane LC (CCTV) 159 15
+159 18
+Masserellas Public Bridleway LG 159 66
+160 00 are
+Shaftholme Jn 160 16
+160 30 *
+

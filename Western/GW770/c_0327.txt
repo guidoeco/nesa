@@ -1,0 +1,17 @@
+Buffer stops 18 45112
+
+Ebbw Vale Parkway 18 35
+18 20 'k
+14 65 *
+14 36 *
+
+Former Aberbeeg Jn 14 23 *
+
+(Change of ELR)
+
+Llanhilleth 13 29
+11 72 i:
+10 62 it
+
+Newbridge 1O 45
+

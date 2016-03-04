@@ -1,0 +1,17 @@
+160 40 7k
+Marshfield 163 60
+Marshfield WILD 163 63
+Marshfield HABD 163 73
+Foot crossing (WL) 165 19
+Wentloog Freight 165 22
+Terminal East Jn
+Wentloog Freight 166 01
+Terminal West Jn
+
+167 40 *-
+
+167 50 2k
+Rumney River Bridge Jn 167 61
+
+167 74
+

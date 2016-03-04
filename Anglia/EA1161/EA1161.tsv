@@ -1,0 +1,85 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	STANSTED MOUNTFITGHET	33	28	
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Stansted South Jn	33	54	
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	OHNS	34	10	
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Stansted North Jn	34	30	
+0085	EA1161	001	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Fullers End Footpath LC	34	67	RIG-X
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	ELSENHAM	35	45	
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Elsenham LC	35	45	MCG
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Elsenham GSP	35	64	
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Ugley Lane LC	37	13	UWC
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Hogs Croft LC	38	73	
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	NEWPORT	39	72	
+0086	EA1161	002	Bishops Stortford to Ely North Jn BGK Anglia	11/08/07	Elephant LC	40	13	UWC
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Trees LC	41	31	CCTV
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	AUDLEY END	41	55	
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Audley End Tunnel	42	70	
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	(456 yards) to	43	11	
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Littlebury Tunnel	43	27	
+0087	EA1161	003	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	(407 yards) to	43	46	
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		43	50	*
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Fairheads Lc (RIG)	45	06	UWC
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	GREAT CHESTERFORD	45	56	
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		45	60	*
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Ickleton Rd LC	45	75	CCTV
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		46	20	*
+0088	EA1161	004	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Kings LC	46	35	UWC
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	lckleton Mill Lane LC	46	65	UWC
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Hinxton LC	47	11	AHBC
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Duxford LC	47	62	AHBC
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Duxford CIBA Geigy sidings	48	00	
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	WHITPLESFORD PARKWAY	49	01	
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07		49	04	*
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Crossover	49	45	
+0089	EA1161	005	Bishops Stortford to Ely North Jn BGK Anglia	20/05/07	Della LC	49	54	UWC
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		49	60	*
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Sawston LC	50	46	CCTV
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Demford LC (RIG)	51	36	UWC
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Shelford LC	52	32	CCTV
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	SHELFORD	52	36	
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Granhams LC	52	64	CCTV
+0090	EA1161	006	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	OHNS	52	69	
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Websters LC	53	03	
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Shepreth Branch Jn	53	06	
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	No.91 Dukes LC	53	34	UWC
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	No.92 Pembertons LC	54	04	UWC
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Red Cross Lane LC	54	18	UWC
+0091	EA1161	007	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		54	47	*
+0092	EA1161	008	Bishops Stortford to Ely North Jn BGK Anglia	01/12/07		55	20	*
+0092	EA1161	008	Bishops Stortford to Ely North Jn BGK Anglia	01/12/07		55	30	*
+0092	EA1161	008	Bishops Stortford to Ely North Jn BGK Anglia	01/12/07	Cambridge (CA) SB	55	35	
+0092	EA1161	008	Bishops Stortford to Ely North Jn BGK Anglia	01/12/07	CAMBRIDGE	55	52	
+0093	EA1161	009	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		56	03	*
+0093	EA1161	009	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Coldham Lane Jn	56	51	
+0094	EA1161	010	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Bamwell Jn	57	10	*
+0094	EA1161	010	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Chesterton LC	57	54	CCTV
+0094	EA1161	010	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Chesterton Jn	57	56	
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	OHNS	58	71	
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Milton Fen LC	59	10	AHBC
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Waterbeach GSP	60	78	
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Waterbeach LC	61	00	AHBC
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	WATERBEAOH	61	01	
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Burgess Drove LC	61	20	RIG-X
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Bottisham Road LC	61	48	AHBC
+0095	EA1161	011	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Bannolds LC (AHBC-X)	62	70	*
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		65	40	*
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Naims (No.11?) LC	65	46	UWC
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Dimmocks Cote LC	66	25	AHBC-X
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	West River LC (RIG-X)	66	13	UWC
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Bedford (No.125) LC	69	20	UWC
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		69	33	
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Lloyds & Martin LC	69	55	UWC
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		69	67	*
+0096	EA1161	012	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		69	70	*
+0097	EA1161	013	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Ely Dock Jn	69	79	
+0097	EA1161	013	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		70	20	*
+0097	EA1161	013	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	ELY	70	30	
+0097	EA1161	013	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		70	35	*
+0098	EA1161	014	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Ely station North LC	70	38	CCTV
+0098	EA1161	014	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		70	40	*
+0098	EA1161	014	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		70	70	*
+0098	EA1161	014	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Kiln Lane LC	71	33	AHBC-X
+0099	EA1161	015	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		71	52	*
+0099	EA1161	015	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		71	63	*
+0099	EA1161	015	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06	Ely North Jn	71	68	
+0099	EA1161	015	Bishops Stortford to Ely North Jn BGK Anglia	05/08/06		71	70	

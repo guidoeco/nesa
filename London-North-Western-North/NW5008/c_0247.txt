@@ -1,0 +1,6 @@
+0 16 a:
+STONE 0 07
+Stone Jn 0 DO
+
+27 00
+

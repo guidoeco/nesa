@@ -1,0 +1,9 @@
+East Suffolk Jn 69 41
+Single line 69 42
+69 52 *-
+72 00 *
+Westerfield Station LC (AHBC) 72 16
+WESTERFIELD (TEI') 72 20
+72 22 *
+Westerfield Jn 72 23
+

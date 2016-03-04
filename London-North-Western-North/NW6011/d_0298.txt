@@ -1,0 +1,20 @@
+NRN
+TCB Manchester Piccadilly SB (MP)
+Platform Lengths: Bolton
+Platform 1 Permissive PP -A
+Up 187m (205yards)
+Down 137m (150yards)
+Platform 2 Permissive PP
+104m (114yards)
+Platform 3 Permissive PP -A
+Up 308m (337yards)
+Down 222m (243yards)
+NRN
+Area channel Up
+change at
+10m 65ch NRN
+Down
+Platform Lengths: Hall I' Th' Wood
+Up 83m (91 yards)
+Down 83m (91yards)
+

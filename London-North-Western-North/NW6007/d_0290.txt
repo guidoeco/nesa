@@ -1,0 +1,8 @@
+NRN
+TCB Manchester North SB (MN)
+USF = Up Salford Fast
+DSF = Down Salford Fast
+USS = Up Salford Slow
+DSS = Down Salford Slow
+Manchester Piccadilly SB (MP)
+

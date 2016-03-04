@@ -1,0 +1,18 @@
+68 4O *
+HABD 70 20
+CHESTER-LE-STREET 71 72
+Chester-le-street TSC OHNS 72 04
+72 23 *-
+73 23 *-
+Ouston Crossovers 73 32
+75 23
+Birlley Jn 75 26
+75 29
+75 66 *
+Lamesley Crossover 76 66 *
+77 00 *-
+77 35 6)
+Low Fell Jn 77 37 *
+77 40 CD
+78 08 are
+

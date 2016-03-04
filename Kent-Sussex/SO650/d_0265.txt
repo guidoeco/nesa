@@ -1,0 +1,10 @@
+NRN CSR
+TCB Victoria SB (VC)
+1 Up Crystal Palace
+2 Down Crystal Palace
+3 Up Sydenham Spur
+4 Down Sydenham Spur
+5 Up Crystal Palace Spur
+6 Down Crystal Palace Spur
+7 Crystal Palace Single
+

@@ -1,0 +1,9 @@
+Subway Junction
+
+Gantry 4 - Down Signals
+SN.57,59,61,63,65 8: 67
+Gantry 5 - Up Signals
+SN.70.72.74.76.78 & 80
+Gantry 6 - Down Signals
+SN.81,83,85,87,89 & 91
+

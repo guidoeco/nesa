@@ -1,0 +1,16 @@
+NRN
+TCB Tyneside SB (T)
+RAQ AC:York ECR
+Bi Directional signalling Northallerton
+to Low Fell Jn 50 mph maximum speed
+in the wrong direction unless
+otherwise shown. See Local Instructions
+TOWS between 69 20 and 70 20
+TSND = Tyne South ArrivalIDeparture
+DIUS = DownlUp Slow
+TNND = Tyne North ArrivallDeparture
+DIUG = DownlUp Goods
+('D - Bi Directional signalling Low Fell Jn to Benton
+speeds as shown. See Local Instructions
+UGL 224ml7'35 feet
+

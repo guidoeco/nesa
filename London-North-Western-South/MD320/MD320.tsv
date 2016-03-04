@@ -1,0 +1,53 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Proof House Jn	112	19	
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Curzon Street Jn	112	07	
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	00	
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	04	*
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	05	*
+0096	MD320	001	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	07	*
+0097	MD320	002	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Vauxhall Sidings	0	30	*
+0097	MD320	002	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Vauxhall Junction	0	31	*
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Aston SB	0	37	AN
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	nunnesron	0	53	
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		0	70	*
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	OHNS	1	37	
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		1	47	*
+0098	MD320	003	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		1	49	
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	Aston South Jn	2	61	
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	Change of mileage	1	60	
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07		1	67	*
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	ASTON	1	68	
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	Aston North Jn	1	73	
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07		1	78	*
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	WITTON	2	45	
+0099	MD320	004	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/04/07	Down Goods Loop	2	65	
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07		3	27	*
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	PERRY BARR	3	33	
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07		3	39	*
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Perry Barr South Jn	3	44	
+0100	MD320	005	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Pen-y Barr North Jn	4	10	
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	OHNS	4	17	
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	OHNS	4	22	
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		4	38	
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	HAMSTEAD	4	76	
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Charlemont Road LC	6	74	RIG
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		7	30	*
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		7	45	*
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	TAME BRIDGE PARKWAY	7	48	
+0101	MD320	006	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Newton Jn	7	59	
+0102	MD320	007	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07		7	67	*
+0102	MD320	007	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	31/03/07	Bescot Down Tower SB	8	20	DT
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		8	40	*
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	BESCOT STADIUM	8	47	
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		8	49	*
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Bescot Jn	8	50	
+0103	MD320	008	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06		8	56	*
+0104	MD320	009	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Darlaston Jn	9	65	
+0104	MD320	009	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	OHNS	12	22	
+0104	MD320	009	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Portobello Jn LC	12	47	CCTV
+0104	MD320	009	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	(Noose Lane)	12	47	X
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Portobello Jn	12	64	*
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Wednesfielcl Heath Tunnel	13	65	
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	(164 metres! 179 yards) to	13	73	
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Bushbury (0xley) Jn	15	23	
+0105	MD320	010	Proof House Jn to Bushbury Jn (via Bescot) PBJ LNW South	07/10/06	Bushburan	15	32	

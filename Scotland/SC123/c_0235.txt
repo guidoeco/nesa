@@ -1,0 +1,9 @@
+Bellgrove Jn O 69
+
+0 60 *
+BELLGROVE 0 55
+Bellgrove Tunnel 0 49
+200 yards to 
+O 40
+High St Jn 0 28
+

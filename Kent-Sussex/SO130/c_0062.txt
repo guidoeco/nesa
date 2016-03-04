@@ -1,0 +1,10 @@
+Warren TP Hut 72 14
+Abbotscliffe Substation 73 21
+Abbotscliffe Tunnel 73 23 *
+(1 mile 182 yards) to 74 32 1-
+
+74 41 9:
+Shakespeare TP Hut 74 76
+Shakespeare Tunnel 75 14
+(1387 yards) to 75 77
+

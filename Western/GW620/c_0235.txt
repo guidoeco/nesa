@@ -1,0 +1,13 @@
+Newton Abbot West Jn 214 43
+214 60 *-
+Former Aller Jn 215 09
+215 20 i-
+216 17 a:
+217 68 it
+217 70 *
+219 00 1:
+219 05 1:
+TORRE 219 12
+219 20 :1:
+TORQUAY 219 79
+

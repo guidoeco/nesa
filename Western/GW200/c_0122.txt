@@ -1,0 +1,9 @@
+HADLEY 58 35
+58 40
+CSRChannel change 59 65 *
+(Up direction)
+Radley HABD 60 00 *
+Manor Farm LC (UWC) 60 49
+Kennington Junction LC (UWC) 61 04
+Kennington Jn 61 08
+

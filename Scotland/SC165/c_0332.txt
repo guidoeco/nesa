@@ -1,0 +1,10 @@
+Niddrie South Jn 7 08
+
+(Change of ELR MHY to SUB2) 6 30
+
+Niddrie West Jn 6 30 *
+3 55 it
+3 25 it
+
+Craiglockhart Jn 1 17
+

@@ -1,0 +1,9 @@
+(Change of ELR 30 67
+STRZ to STR3) 46 54
+46 60
+47 34 *
+DunragitSB&LC 47 72
+Little Genoch No 1 LC (UWC) 48 48
+48 55 i:
+48 70 a:
+

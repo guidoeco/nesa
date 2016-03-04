@@ -1,0 +1,19 @@
+Green Lane Crossing 32 29
+Drift Lane LC (AHBC) 32 60
+Nutboume LC (AHBC) 33 12
+NUTBOURNE 33 14
+Pottery FIP Crossing 33 19
+Copse FIF' Crossing 33 44
+Nutboume Substation 33 53
+lnlands Road LC (AHBC) 33 70
+SOUTHBOURNE 34 16
+Southboume LC (CCTV) 34 22
+Church FIP Crossing 34 56
+Penny Lane 35 03
+Route Boundary 35 35
+Emsworth TP Hut 35 38
+EMSWORTH 35 50
+36 60 *-
+WARBLINGTON 36 66
+Warblington LC (CCTV) 36 71
+

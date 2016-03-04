@@ -1,0 +1,72 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	North Stafford Jn	5	14	
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09		30	10	*
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09		30	09	*
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Findem LC	29	49	AHBC
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Willington LC	29	19	AHBC
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Egginton LC	27	50	AHBC
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Hilton LC GF	27	50	X
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Hilton LC	27	08	MCG
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Egginton Jn SB	26	69	EN
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Spurriers No.2	26	06	UWC
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Hayside LC	25	45	UWC
+0226	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Marston on Dove LC	25	28	AHBC
+0227	LN3505	002	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Rowes LC	24	57	UWC
+0227	LN3505	002	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	TUTBURY AND HA1TON	24	13	
+0227	LN3505	002	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Tutbury Crossing SB	24	13	
+0227	LN3505	002	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Tutbury LC	24	13	MOB
+0227	LN3505	002	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Wear Lane LC	23	43	UWC
+0227	LN3505	002	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Brandons LC	23	23	UWC
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Scropton Mill Lane LC	22	75	UWC
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Scropton LC	22	53	M06
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Scropton SB	22	53	
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Archers No 1 LC	22	41	UWC
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Nash's LC	21	20	UWC
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Sudbury SB	20	67	
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Sudbury LC	20	67	MOB
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Dovefields LC	19	62	RIG
+0228	LN3505	E	North Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Marchington Old Station LC	19	01	UWC
+0229	LN3505	004	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Langridge No 2 LC	17	75	UWC
+0229	LN3505	004	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Tunicliffs No1 LC	17	20	UWC
+0229	LN3505	004	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06		16	51	*
+0229	LN3505	004	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Uttoxeter Racecourse LC	16	33	UWC
+0229	LN3505	004	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	UTPOXETER	16	29	
+0229	LN3505	004	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06		16	01	*
+0229	LN3505	004	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Pinfold LC	16	00	M03
+0229	LN3505	004	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Uttoxeter SB	16	00	
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Hockley LC	15	61	CCTV
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06		15	51	*
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Barkers LC	15	27	UWC
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Stathams LC	14	50	UWC
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06		14	20	*
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Loxley Lane LC	14	11	AHBC-X
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Westons LC	13	71	UWC
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Sergeants LC	13	52	UWC
+0230	LN3505	005	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Bramshall LC	13	32	AHBC-X
+0231	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09		13	20	*
+0231	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	NRN Channel change board	12	33	
+0231	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Leigh LC	10	24	AHBC—X
+0231	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Baileys LC	10	06	UWC
+0231	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Upper Leigh LC	9	57	AHBC-X
+0231	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Colliers LC	9	39	UWC
+0231	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Bostocks LC	9	04	UWC
+0231	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Newton LO	7	61	UWC
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Cresswell LC	6	76	AHBC
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Critchlows LC	6	45	UWC
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Bennetts LC	6	07	UWC
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Jacksons LC	5	74	UWC
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Stallington LC	5	42	CCTV
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	BLYTHE BRIDGE	5	23	
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Blythe Bridge LC	5	19	CCTV
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Calverleigh Farm LC	4	59	UWC
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Caverswall SB	4	20	
+0232	LN3505	North	Stafford Jn to Stoke Jn (Exclusive) London North Eastern	23/03/09	Caverswall LC	4	20	MOB
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Meir Tunnel	3	49	
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	(744 metres! 814 yards)	3	12	
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06		2	15	*
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	LONGTON	1	71	
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06		1	65	*
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Foley Crossing SB	1	56	
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Route Boundary	1	40	
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06	Stoke Jn	0	00	
+0233	LN3505	008	North Stafford Jn to Stoke Jn (Exclusive) N88 London North Eastern	02/12/06		20	36	

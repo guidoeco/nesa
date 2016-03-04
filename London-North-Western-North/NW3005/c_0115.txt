@@ -1,0 +1,13 @@
+204 60
+205 40
+Rossett LC (RIG) 206 44
+Broad Oak LC (AHBC) 207 37
+Pulford LC (AHBC) 208 11
+Balderton Tunnel 209 49
+( 8m I 53 yd) 209 51
+Balderton LC (AHBC) 209 67
+Green Lane LC (AHBC) 211 01
+211 60 *
+Saltney Jn 212 06
+181 09
+

@@ -1,0 +1,15 @@
+NRN
+TCB Preston SB (PN)
+Platform Lengths: Bumle Manchester Road
+Platform Up 9m (97 gdsi'
+Platform Down 84m ( 2 yds)
+® Applies to Class 1 to 6 trains and
+light locomotives only
+(:2) Applies to class 7 8; 8 trains only
+NRN
+Area channel Up
+change at
+25m 326h NRN
+DEL =DOWN EAST LANCS
+UEL =UP EAST LANCS
+

@@ -1,0 +1,14 @@
+COPPLESTONE 185 67
+185 74 i:
+ORCHARD ROAD 187 38
+Lapford South GF 189 57
+LAPFORD 189 65
+Lapford North GF 189 73
+Chanson No1 (UWC) 191 24
+Chanson No 2 (UWC) 191 62
+Chanson No 3 (UWC) 192 08
+Single line Jn 193 49 *
+Eggesford LC (T MO) 193 54
+EGGESFORD (TEI') 193 57
+Single line Jn 193 71 2k
+

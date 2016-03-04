@@ -1,0 +1,92 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0051	NW2001	001	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	27/12/08		174	53	
+0051	NW2001	001	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	27/12/08	Weaver Jn	174	70	
+0051	NW2001	001	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	27/12/08	(fromlto)	174	53	
+0051	NW2001	001	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	27/12/08		175	13	*
+0051	NW2001	001	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	27/12/08	OHNS	175	58	
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		176	12	*
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		176	13	*
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		176	41	*
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08	Sutton Weaver GF	177	32	
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		176	39	*
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		176	50	*
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08	Halton Jn SB	179	20	HN
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08	Halton Jn	179	24	
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		160	13	*
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		160	22	
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		160	29	
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08	Runcom SB	160	33	RN
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08	RUNGORN	180	40	
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		161	60	*
+0052	NW2001	002	Weaver Jn. to Liverpool Lime Street WJL1 LNW North	08/12/08		182	08	*
+0053	NW2001	003	Weaver Jn. to Liverpool Lime Street WJL1 WJL2 LNW North	08/12/08	Ditton East Jn	182	67	
+0053	NW2001	003	Weaver Jn. to Liverpool Lime Street WJL1 WJL2 LNW North	08/12/08		182	72	*
+0053	NW2001	003	Weaver Jn. to Liverpool Lime Street WJL1 WJL2 LNW North	08/12/08		182	75	*
+0053	NW2001	003	Weaver Jn. to Liverpool Lime Street WJL1 WJL2 LNW North	08/12/08		182	77	*
+0053	NW2001	003	Weaver Jn. to Liverpool Lime Street WJL1 WJL2 LNW North	08/12/08	Ditton SB	183	00	DN
+0053	NW2001	003	Weaver Jn. to Liverpool Lime Street WJL1 WJL2 LNW North	08/12/08	Ditton West Jn	183	22	
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08		183	46	*
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08		184	06	*
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08		184	57	
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08	Halewood East Jn	184	64	
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08	Halewood West Jn	185	15	
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08		185	20	
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08		185	56	*
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08		186	00	*
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08	OHNS	186	09	
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08	OHNS	186	19	
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08		186	22	*
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08		186	57	
+0054	NW2001	004	Weaver Jn. to Liverpool Lime Street WJ L2 LNW North	08/12/08	Speke Jn GF	186	72	
+0055	NW2001	005	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	Speke Jn SB	187	15	SE
+0055	NW2001	005	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06		187	20	*
+0055	NW2001	005	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	Allerton East Jn	187	60	*
+0055	NW2001	005	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	Allerton Jn 88	187	66	AN
+0055	NW2001	005	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	Allerton Jn	187	74	
+0055	NW2001	005	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	LIVERPOOL SOUTH PARKWAY	187	77	
+0055	NW2001	005	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	Allerton West Jn	188	18	
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	WEST ALLERTON	189	00	
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06		189	05	*
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06		189	50	*
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	MOSSLEY HILL	189	57	
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06		189	65	*
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06		190	00	*
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06		190	68	*
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06		190	69	*
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06	Wavertree Jn	191	00	
+0056	NW2001	006	Weaver Jn. to Liverpool Lime Street WJ L3 LNW North	07/10/06		191	24	*
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	Edge Hill SB	1	57	LE
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07		1	60	*
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	Edge Hill East Jn	191	75	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	EDGE HILL	192	21	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07		1	31	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	Tunnel Rd Tunnel	192	29	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	(63m 74yd Down Fast	1	22	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	53ml58yd Other lines)	192	32	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07		1	20	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	Edge Hill West Jn	192	42	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07		1	10	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	Overbury St. Tunnel	192	43	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	(132ml144yd) (1 09) to	192	50	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07		1	02	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	Smithdown Lane Tunnel	192	69	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	(86m194yd) (0 63) to	192	73	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07		0	59	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	Crown St. Tunnel	192	73	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07	(52ml57yd) (O 58) to	192	76	
+0057	NW2001	007	Weaver Jn. to Liverpool Lime Street WJ L4 LNW North	14/04/07		0	56	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	Mount Pleasant Tunnel	193	09	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	(122ml134yd) (0 42) to	193	15	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07		0	36	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07		193	17	*
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07		0	35	*
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	Lime Street Tunnel	193	21	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	(Up slow line 157ml172yd)	0	31	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	to	193	29	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07		0	23	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	Russell Street Tunnel	193	30	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	(120ml131yd) (O 31) to	193	36	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07		0	16	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	Liverpool Lime Street SB	193	37	LS
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07	LIVERPOOL LIME STREET	193	52	
+0058	NW2001	008	Weaver Jn. to Liverpool Lime Street WJL4 LNW North	01/12/07		0	00	

@@ -1,0 +1,10 @@
+5 1O *
+CITY LINES
+Kensal Green Junction 0 00
+0 21
+5 29 *
+WILLESDEN JUNCTION 5 39
+HIGH LEVEL
+Willesden High Level Jn (HL) SB 5 48 *
+0 00
+

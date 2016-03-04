@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0343	LN816	001	Beighton Jn to Woodhouse Jn BEW London North Eastern	02/12/06	Beighton Jn	46	06	
+0343	LN816	001	Beighton Jn to Woodhouse Jn BEW London North Eastern	02/12/06		48	00	*
+0343	LN816	001	Beighton Jn to Woodhouse Jn BEW London North Eastern	02/12/06	Beighton Station Jn LC	47	42	MOB
+0343	LN816	001	Beighton Jn to Woodhouse Jn BEW London North Eastern	02/12/06	Beighton Station Jn SB	47	42	BX
+0343	LN816	001	Beighton Jn to Woodhouse Jn BEW London North Eastern	02/12/06		46	65	*
+0343	LN816	001	Beighton Jn to Woodhouse Jn BEW London North Eastern	02/12/06		46	61	*
+0343	LN816	001	Beighton Jn to Woodhouse Jn BEW London North Eastern	02/12/06	Woodhouse Jn	46	56	

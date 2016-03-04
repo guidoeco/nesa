@@ -1,0 +1,13 @@
+13 53 a:
+13 55 *
+13 70 *-
+Newport East Jn 14 03
+14 17 *
+14 59 *-
+14 64 it
+Middlesbrough SB (M) 14 71
+MIDDLESBROUGH 15 00
+15 20 are
+15 25 *-
+Guisborough Jn 15 30
+

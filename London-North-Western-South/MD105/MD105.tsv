@@ -1,0 +1,48 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	Hanslope North Junction	56	66	
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	OHNS	58	46	
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		58	53	*
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		56	70	*
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	NRN Channel Change	59	00	
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	Roade HABD	59	72	
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		61	20	*
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		63	06	*
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	Hunsbury Hill Tunnel	64	00	
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08	(1056 metres/1155 yards) to	64	53	
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		65	26	*
+0030	MD105	001	Hanslope Junction to Rugby (via Northampton) HNR LNw South	17/11/08		65	31	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	Northampton South Jn	65	55	
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		65	58	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		65	65	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	NORTHAMPTON	65	68	
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		65	79	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		66	00	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		66	04	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	Northampton North Jn	66	12	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		66	16	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08		66	23	*
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	Northampton Kings Heath	66	23	X
+0031	MD105	002	Hanslope Junction to Rugby (via Northampton) HNR LNW South	15/12/08	Traincare Depot	66	23	X
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09		67	09	*
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09	Mill Lane Jn	67	16	
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09		67	27	*
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09		67	43	*
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09		63	19	*
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09	Althorpe Park HABD	72	04	
+0032	MD105	003	Hanslope Junction to Rugby (via Northampton) HNR LNW South	21/02/09	OHNS	74	60	
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	LONG BUGKBY	75	37	
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Watford Lodge Tunnel	78	47	
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	(105 metres" 15 yards) to	78	52	
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Crick Tunnel	79	20	
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	(544 metresl595 yards) to	79	47	
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Daventry South Jn	80	05	
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Daventry International Rail Freight	80	05	X
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Terminal (DIRFT)	80	05	X
+0033	MD105	004	Hanslope Junction to Rugby (via Northampton) HNR LNW South	03/12/07	Daventry North . Jn	80	76	
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	OHNS	82	21	
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08		83	43	*
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	Hillmorton Junction	33	54	
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08		84	09	*
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	Rugby South Junction	82	26	
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	Rugby PSB	82	26	RY
+0034	MD105	005	Hanslope Junction to Rugby (via Northampton) HNR LNW South	01/12/08	RUGBY	82	40	

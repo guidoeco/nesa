@@ -1,0 +1,11 @@
+NRN
+TCB Manchester North SB (MN)
+to Salford inclusive
+U-SAL = Up Salford
+D-SAL = Down Salford
+Platform Lengths: Salford Central
+Up 136m (149yards)
+Down 140m (153yards)
+ArrlDep Line=ArrivallDeparture Line
+Manchester Piccadilly SB (MP)
+

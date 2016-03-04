@@ -1,0 +1,9 @@
+BURES 53 45
+Sewage Works Lane LC (UWC) 56 62
+Shalfords LC (UWC) 56 73
+Comard LC (ABCL) 57 42
+58 22 :7:
+Sudbury Ladysbridge LC (UWC) 58 25
+58 29 :7:
+SUDBURY 58 32
+

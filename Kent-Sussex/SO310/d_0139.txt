@@ -1,0 +1,25 @@
+NRN CSR
+TCB Ashford IECC (NK)
+RAB DC:Lewisham
+(CHATHAM 06)
+
+UPL 24
+
+Platform 1 PP—A (Detaching only)
+
+Platform 2 PP—G
+
+Platform 3 PP
+
+Platform 1 - permitted for platform sharing during
+
+times of significant service interuptions
+
+1 Up North Kent
+
+2 Down North Kent
+
+3 Up Maidstone Branch
+
+4 Down Maidstone Branch
+

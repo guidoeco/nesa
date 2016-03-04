@@ -1,0 +1,17 @@
+NRN
+or Preston SB (PN)
+UEL=Up East Lanes
+DEL=Down East Lancs
+Platform Lengths: Burnley Barracks
+Platform Up 8 Down 52m (57 yds)
+Platform Lengths: Burnley Central
+Platform Up 8: Down 57m (62 yds)
+Platform Lengths: Brierfield
+Platform Up 8: Down 59m (65 yds)
+U 8: DC='Up 8: Down' Colne
+Platform Lengths: Nelson
+Platform Up 8: Down 95m (104 yds)
+Chafiers L.C. -See local instruction
+Platform Lengths: Colne
+Platform Up 8: Down 64m (70 yds)
+

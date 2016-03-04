@@ -1,0 +1,15 @@
+TONDU 2 63
+2 69 *-
+Tondu Jn 2 70
+Tondu SB 2 70
+(o 00)
+CW (o 02)
+Llynfi Goods Loop 2 72 i:
+Garw GF (O 32)
+3 14
+3 15 *-
+British Tissues LC (UWC) 5 00
+GARTH 7 O1
+(MID-GLAMORGAN)
+7 O2 *-
+

@@ -1,0 +1,13 @@
+KIDBROOKE 7 74
+
+B 65 *-
+Eltham (Well Hall) 8 71
+Substation 9 03 are
+ELTHAII 9 11
+FALCONWOOD 10 27
+
+10 4O *-
+Falconwood TP Hut 10 48
+
+11 18 *
+

@@ -1,0 +1,12 @@
+Warcop 5 54
+Network Rail Boundary
+Appleby East LC (TMO) 11 03
+Appleby North SB (277 34)
+'Commenoement! End of single line' 11 31 :1:
+board
+11 36
+
+277 56
+
+End of Line 11 46
+

@@ -1,0 +1,12 @@
+Brecon Curve GF 50 44
+Brecon Curve Jn 50 53
+HEREFORD 51 03
+Barrow crossing (WL) 51 10 *
+Hereford SB (H) 51 13
+
+51 20 *
+
+51 60 4:
+Former RothenNas Jn 52 19
+(Change of ELR) 0 00
+

@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0406	LN870	001	Wakefield Turners Lane to Calder Bridge Jn CTL London North Eastern	02/12/06	Turners Lane Jn	0	50	
+0406	LN870	001	Wakefield Turners Lane to Calder Bridge Jn CTL London North Eastern	02/12/06		0	49	*
+0406	LN870	001	Wakefield Turners Lane to Calder Bridge Jn CTL London North Eastern	02/12/06		0	01	*
+0406	LN870	001	Wakefield Turners Lane to Calder Bridge Jn CTL London North Eastern	02/12/06	Calder Bridge Jn	0	00	

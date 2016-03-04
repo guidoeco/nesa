@@ -1,0 +1,14 @@
+NRN CSR
+TCB London Bridge SB (L)
+A.W.S not provided for emergency
+and temporary speed restrictions.
+1 No. 1 Down
+2 No. 2 Reversible
+3 No. 3 Up
+4 No. 4 Down
+5 No. 5 Down
+6 No. 6 Up
+7 Down Slow
+8 Down Main
+9 Up Passenger Loop
+

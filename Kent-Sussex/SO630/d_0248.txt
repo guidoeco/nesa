@@ -1,0 +1,23 @@
+NRN CSR
+
+TCB Three Bridges SB (T)
+RAB DC: Brighton
+
+Platform 1 PP-A CSR
+Platform 2 PP-A
+
+Platform 3 PP-A (detaching only) _
+UPL 34
+
+1 Up Brighton
+
+2 Down Brighton
+
+3 Up Cliftonville Spur
+
+4 Down Cliftonville Spur
+
+5 Up West Branch
+
+6 Down West Branch
+

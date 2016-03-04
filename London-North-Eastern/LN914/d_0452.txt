@@ -1,0 +1,14 @@
+NRN
+
+TCB Bridlington SB (BN)
+RAB
+DIUB = Down/Up Bridlington
+
+Seamer SB (SR)
+DB = Down Bridlington
+Other crossings in this area
+T = Royal Oak Farm UWC 42 49
+T = Lowfield No.1 UWC 43 16
+T = Lowfield No.2 UWC 43 28
+U3 = Up Bridlington
+

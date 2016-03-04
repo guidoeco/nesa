@@ -1,0 +1,10 @@
+EAST TILBURY 25 07
+East Tilbury LC (CCTV) 25 12
+25 67 *-
+Mucking LC (AHBC) 26 4O *-
+Thames Haven Jn 26 41
+STANFORD-LE-HOPE 27 13
+Stanford-le-hope LC (CCTV) 27 17
+27 65 *
+Fobbing LC (AHBC—X) 30 36
+

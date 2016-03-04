@@ -1,0 +1,17 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Stainforth Jn	166	70	
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06		166	66	*
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Stainforth Road LC	165	42	AHBC
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Bramwith Road LC	164	72	AHBC
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Thorpe Road LC	164	46	AHBC
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06		164	10	*
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06		163	46	*
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Applehurst Jn	163	27	
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06		163	20	*
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Booths No.1 LC	162	46	UWC
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06		162	40	*
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Booths No.3 LC	162	32	UWC
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Skellow Jn	160	59	
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06		0	61	
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06		0	22	
+0370	LN842	001	Stainforth Jn. to Adwick Jn. CJS SKA London North Eastern	02/12/06	Adwick Jn	0	00	

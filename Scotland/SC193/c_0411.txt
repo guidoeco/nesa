@@ -1,0 +1,12 @@
+48 60
+Red Van LC (UWC) 49 03
+49 60
+49 69 :7:
+Dalnaspidal LC (UWC) 50 60
+51 00
+52 40
+53 00 *-
+53 60
+Whitebridge LC(UWC) 54 14
+Balsporran LC (UWC) 54 65
+

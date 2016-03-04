@@ -1,0 +1,20 @@
+TCB Camden Road Jn so (CR) NR"
+RA8 AC: Rugby
+DC(3): Rugby
+General instruction applies at
+Kentish Town Road (Bridge 25)
+at 05m08ch
+Change of line direction designation
+DC(3): Romford
+Up Platform (W) 102m (110yds)
+Down Platform (E) 105m (114yds)
+('D Cedar Junction
+® Silo Curve
+@ To St Pancras (CTRL)
+@ Future CTRL I NLL Connection line
+(5:) To Paris
+DNL - Down North London
+UNL - Up North London
+NLI - North London Incline
+(6) Class 3, 4, and 0 trains must observe lower speed
+

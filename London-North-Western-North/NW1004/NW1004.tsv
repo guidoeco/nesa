@@ -1,0 +1,13 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08	Network Rail	13	74	*
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08	London North Western	14	00	
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08	(Appendix Boundary)	14	00	X
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08		14	05	*
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08		14	20	*
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08		14	30	*
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08		14	40	*
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08	Rugeley No.1 GF	14	41	
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08	RUGELEY TRENT VALLEY	14	52	
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08	Rugeley No.2 GF	14	63	
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08	Rugeley North Jn	14	69	
+0030	NW1004	001	Rugeley Town (Excl.) to Rugeley North Jn RRN2 LNW North	27/09/08		124	39	

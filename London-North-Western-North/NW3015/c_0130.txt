@@ -1,0 +1,15 @@
+Llandudno Jn 223 12
+O 30
+Glen Conwy LC (AHBC) 0 55
+1 00 i:
+ELAN com 1 39
+Meddiant No.3 LC (UWC) 2 61
+Hendre Waelod No.1 LC (UWC) 2 68
+Meddiant No.4 LC (UWC) 2 75
+Meddiant No.5 LC (UWC) 3 03
+Hendre Waelod No.2 LC (UWC) 3 22
+TAL-Y-GAFN 5 O5
+Tal-y-Cafn LC (MCG) 5 08
+Meddiant lsaf LC (UWC) 5 23
+Brickfield LC (UWC) 5 62
+

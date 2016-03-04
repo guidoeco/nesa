@@ -1,0 +1,11 @@
+277 00 *-
+Winsel LC(UWC) 279 09
+280 51 it
+JOHNSTON 280 67
+(Change of ELR) 280 70
+281 00 *-
+281 25 1:
+Gulf Oil Branch Jn 282 00
+Little Harmiston LC (UWC) 232 08
+Herbrandston Jn 283 12
+

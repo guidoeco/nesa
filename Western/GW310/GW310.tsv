@@ -1,0 +1,79 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Wolvercot Jn	66	32	
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06		66	34	*
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06		67	21	
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Sandford Brake Farm LC	63	14	UWC
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06	HANBOROUGH	70	39	
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06		70	40	
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06		71	40	
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06	GOMBE	71	44	
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06	FINSTOCK	75	10	
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06		76	56	
+0138	GW310	001	Wolvercot Jn to Norton Jn OWW Western	05/08/06	CHARLBURY	76	60	
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Ascorr-UNDER-	80	33	*
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	WYGHWOOD			Z
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Ascott—under—Wychwood	80	36	
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	(AW) SB & LC (MCB)	80	36	X
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Junction (single line)	80	38	
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06		30	40	*
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Hyatlzs LG	81	06	UWC
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	SHIPTON	31	59	
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06		82	17	*
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Lyneham LC	82	45	UWC
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Bruem LC	83	15	CCTV
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Bosleys LC	33	59	UWC
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06		84	58	
+0139	GW310	002	Wolvercot Jn to Norton Jn OWW Western	05/08/06	KINGHAM	84	59	
+0140	GW310	003	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Bledington	85	04	UWC
+0140	GW310	003	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Wooliamsz LC	88	02	UWC
+0140	GW310	003	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Wooliams3 LC	88	29	UWC
+0140	GW310	003	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Frogmore 2 LC	90	49	UWC
+0140	GW310	003	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Moreton-in-Marsh SB	91	56	
+0140	GW310	003	Wolvercot Jn to Norton Jn OWW Western	15/03/08	MORETON-IN-MAIISH	91	61	
+0140	GW310	003	Wolvercot Jn to Norton Jn OWW Western	15/03/08		91	65	*
+0140	GW310	003	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Single line	91	68	*
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06		93	51	*
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06		94	00	*
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Blockley LC	94	77	CCTV
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Mare Brook LC	95	23	UWC
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Briar Hill LC	96	13	UWC
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Campclen LC	96	78	CCTV
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	NRN Channel change (Down direction)	97	40	
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Campden Tunnel	97	47	
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	(81 1 m, 887yds)	93	07	
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	NRN Channel change (Up direction)	98	14	
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06		98	63	
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Poden Farm LC	100	56	UWC
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Honeyboume GF	101	54	
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06		101	58	
+0141	GW310	004	Wolvercot Jn to Norton Jn OWW Western	05/08/06	HONEYBOURHE	101	60	
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Sheen Hill No.1 LC	102	16	UWC
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Sheen Hill No.2 LC	102	40	UWC
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Ivy Lane LC	103	19	UWC
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Brown Barn LC	103	32	UWC
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Clayfield LC	103	54	AHBC
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Litfleton & Badsey LC	104	31	CCTV
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Watson LC	104	62	UWC
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06		106	38	*
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Single line	106	39	
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	EVESHAM	106	55	
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06		106	60	*
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Evesham SB	106	70	
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06		106	73	*
+0142	GW310	005	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Single line	106	75	*
+0143	GW310	006	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Ships LC	107	28	UWC
+0143	GW310	006	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Gishbourne LC	107	45	UWC
+0143	GW310	006	Wolvercot Jn to Norton Jn OWW Western	05/08/06		108	10	*
+0143	GW310	006	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Pools LC	108	58	UWC
+0143	GW310	006	Wolvercot Jn to Norton Jn OWW Western	05/08/06		108	60	*
+0143	GW310	006	Wolvercot Jn to Norton Jn OWW Western	05/08/06	Charlton LC	109	13	UWC
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Mares LC	112	06	UWC
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08		112	44	
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08	PERSHORE	112	52	
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Lewis Na 1	113	31	UWC
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Lewis No 2	113	48	UWC
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Gales LC	114	56	UWC
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08		115	60	*
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Sadler's LC	117	07	UWC
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08		117	20	*
+0144	GW310	007	Wolvercot Jn to Norton Jn OWW Western	15/03/08	Norton Jn and SB	117	26	

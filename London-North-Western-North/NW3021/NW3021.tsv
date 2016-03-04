@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0138	NW3021	001	Frodsham Jn. to Halton Jn. FJH LNW North	08/12/08	Frodsham Jn	11	03	
+0138	NW3021	001	Frodsham Jn. to Halton Jn. FJH LNW North	08/12/08		1	54	
+0138	NW3021	001	Frodsham Jn. to Halton Jn. FJH LNW North	08/12/08	Frodsham Jn SB	1	50	
+0138	NW3021	001	Frodsham Jn. to Halton Jn. FJH LNW North	08/12/08		1	30	*
+0138	NW3021	001	Frodsham Jn. to Halton Jn. FJH LNW North	08/12/08		0	17	*
+0138	NW3021	001	Frodsham Jn. to Halton Jn. FJH LNW North	08/12/08	Halton Jn SB (HN)	0	17	X
+0138	NW3021	001	Frodsham Jn. to Halton Jn. FJH LNW North	08/12/08	Halton Jn	0	00	
+0138	NW3021	001	Frodsham Jn. to Halton Jn. FJH LNW North	08/12/08		179	24	

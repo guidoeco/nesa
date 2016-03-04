@@ -1,0 +1,11 @@
+(Bickley Jn) (12 38)
+(Hawlouood Jn) (12 74)
+(13 07) i:
+Petts Wood TP Hut 12 15
+(13 19)
+Petts Wood Jn Fast Loop 12 24 *
+(13 29)
+Petts Wood Jn Slow Loop 12 27
+(13 35)
+PE1'I'S WOOD 12 53
+

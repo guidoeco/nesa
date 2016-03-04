@@ -1,0 +1,26 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08	Tapton Jn	146	56	
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08		146	69	
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08	NRN Channel Change	146	69	X
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08		146	72	
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08	Barrow Hill Scum Jn	146	76	
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08	Barrow Hill	146	76	X
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08	Barrow Hill North Jn	149	46	
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08	Foxlow Jn	150	64	
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08		150	68	*
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08	Renishaw Slitting Mill LC	151	07	UWC
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08	Renishaw Park	151	55	
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08		151	61	
+0336	LN806	001	Tapton Jn to Masborough Jn CHR London North Eastern	30/08/08		152	47	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06	Beighton Jn	155	43	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06		155	48	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06		157	37	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06	Treeton Sauth	158	29	*
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06		158	58	*
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06	Treeton Jn	158	65	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06	Canklow	160	11	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06		160	57	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06	Masborough Sorting Sidings South Jn	160	61	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06		162	13	*
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06		162	18	
+0337	LN806	002	Tapton Jn to Masborough Jn CHR London North Eastern	02/12/06	Masborough Jn	162	24	

@@ -1,0 +1,6 @@
+NRN CSR
+TCB Motherwell 30 (MS, MY)
+AC: Cathcart ECR
+CW Up 0m 4ch
+@ Through jn.
+

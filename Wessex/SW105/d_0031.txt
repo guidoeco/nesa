@@ -1,0 +1,15 @@
+TCB Eastleigh SB (E) NR" 05R
+RAB DC:Eastleigh
+CD - Trains other than those composed entirely of
+Class 442. 444, 450 units or HST's must not
+exceed 90 mph
+1 Departure Road
+2 Reception Road No. 1
+Trains departing from Eastleigh Yard travelling
+to DSL or DPL will always receive an AWS
+warning indication on E34 and E36 for these
+signals.
+DPL 651 ft
+Permissive working authorised on
+platforms 2 and 3
+

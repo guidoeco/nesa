@@ -1,0 +1,10 @@
+Crianlarich 0 00
+Lower Crianlarich TEP 0 36
+(Up Direction Only)
+(Change of ELR OBN1 to OBNZ) 0 44
+Lower Crianlarich GF 0 44
+3O 23
+Inverhaggernie No.1 LC (UWC) 31 00
+31 40 it
+31 49 i:
+

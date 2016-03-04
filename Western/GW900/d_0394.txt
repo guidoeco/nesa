@@ -1,0 +1,14 @@
+NRN
+TCB Newport SB (N)
+m
+No.1 (UM) (PF)
+No.2 (DM) (PP-NPF)
+No.3 (UR) (PF)
+No.4 (DR) (PF)
+No.5 (DIU) (PP-NPF)
+No.6 (D) (PP-AIPF)
+Platform 1 - 360m, 394de
+Platform 2 - 287m, 314de
+Platform 3 - 311m, 34(3de
+Platform 4 - 250m, 27'3de
+

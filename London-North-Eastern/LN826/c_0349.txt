@@ -1,0 +1,11 @@
+15 75 9:
+MEXBOROUGH 15 71
+Mexborough Jn 15 64
+15 37 *
+14 78 *
+167 15
+Swinton Jn North 167 O3
+166 76
+SWINTON 166 74
+Swinton Jn South 166 56
+

@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07		175	78	
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07	Monk Bretton Loop	175	78	X
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07		176	24	*
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07	Royston Jn	178	17	Former
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07		181	70	*
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07	Oakenshaw South Jn	181	75	*
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07		182	33	*
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07		182	36	*
+0426	LN886	001	Monk Bretton Loop to Crofton East Jn MKB TJC3 London North Eastern	27/12/07	Crofton East Jn	183	04	*

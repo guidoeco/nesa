@@ -1,0 +1,12 @@
+Rosier No.2 Crossing 44 35
+44 57 *-
+BILLINGSHURST 44 71
+BillingshurstSB(BT) 44 74
+Station Road LC 44 75
+Billingshurst Substation 44 78
+45 37 all:
+Hadfold No.2 Crossing 46 00
+Adversane LO (AHBC) 46 31
+Todhurst TP Hut 46 68
+47 70 :1-
+

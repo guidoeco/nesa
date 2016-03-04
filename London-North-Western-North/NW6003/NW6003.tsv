@@ -1,0 +1,48 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	Castlefield Jn 189JP67			X
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		33	57	
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		32	58	*
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		32	54	*
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		32	09	
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	Trafford Pam East Jn	32	02	
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		31	76	
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	UNITEII Fc HALT	31	70	
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	Trafford Park West Jn	31	66	*
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	Trafford Park Sidings	31	35	
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	TRAFFORD PARK	30	68	
+0282	NW6003	001	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	HUMPHREY PARK	30	17	
+0283	NW6003	002	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	URMSTON	29	02	
+0283	NW6003	002	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	CHASSEN ROAD	28	40	
+0283	NW6003	002	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	FLIXTON	27	65	
+0283	NW6003	002	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	IRLAM	25	51	
+0283	NW6003	002	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		25	12	
+0283	NW6003	002	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		24	62	
+0283	NW6003	002	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	Glazebrook East Jn . SB	24	60	GE
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		24	53	
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	GLAZEBROOK	24	37	
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		21	50	*
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	BIRGHWOOD	21	44	
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	PADGATE	20	13	
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		19	70	*
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		19	45	*
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		18	40	
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	Warrington Central SB	18	34	WC
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	WARRINGTON CENTRAL	18	30	
+0284	NW6003	003	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		18	25	*
+0285	NW6003	004	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		17	68	*
+0285	NW6003	004	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		17	12	*
+0285	NW6003	004	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	Burtonwood GF	17	11	
+0285	NW6003	004	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	SANKEY	15	67	
+0285	NW6003	004	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06		13	79	
+0285	NW6003	004	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	WIDNES	12	20	
+0285	NW6003	004	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	HOUGH GREEN	10	42	
+0285	NW6003	004	Castlefield Jn. to Allerton Jn. MAJ LNW North	07/10/06	HALEWOOD	3	15	
+0286	NW6003	005	Castlefield Jn. to Allerton Jn. MAJ LNW North	01/12/07	Hunts Cross SB	7	12	HC
+0286	NW6003	005	Castlefield Jn. to Allerton Jn. MAJ LNW North	01/12/07	HUNTS CROSS	7	07	
+0286	NW6003	005	Castlefield Jn. to Allerton Jn. MAJ LNW North	01/12/07		6	71	
+0286	NW6003	005	Castlefield Jn. to Allerton Jn. MAJ LNW North	01/12/07	Hunts Cross West Jn	6	11	*
+0286	NW6003	005	Castlefield Jn. to Allerton Jn. MAJ LNW North	01/12/07		0	37	
+0287	NW6003	006	Castlefield Jn. to Allerton Jn. AHX LNW North	07/10/06		0	10	*
+0287	NW6003	006	Castlefield Jn. to Allerton Jn. AHX LNW North	07/10/06	Allerton Jn SB	0	08	AN
+0287	NW6003	006	Castlefield Jn. to Allerton Jn. AHX LNW North	07/10/06	Allerton Jn OJPOO	0	08	X
+0287	NW6003	006	Castlefield Jn. to Allerton Jn. AHX LNW North	07/10/06		187	74	

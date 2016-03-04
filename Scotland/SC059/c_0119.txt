@@ -1,0 +1,12 @@
+61 50 i:
+(Change of ELR 61 60 *
+STR1 to STR2) 0 00
+GIRVAN 0 15
+Girvan SB 0 18
+
+O 32 9:
+
+1 33 9c
+
+1 59 i:
+

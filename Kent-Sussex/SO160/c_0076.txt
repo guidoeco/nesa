@@ -1,0 +1,13 @@
+57 51 *-
+Chartham North Substation 58 09
+58 29 9:
+Chartham Hatch LC(AHBC) 58 65 *
+Howfield TP Hut 59 53
+59 59 at:
+60 00 1-
+61 00 *-
+Canterbury East Substation 61 16
+61 3O *-
+GANTERBURY EAST 61 65
+Canterbury East SB (CB) 61 67
+

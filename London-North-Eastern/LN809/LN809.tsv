@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06	Shepcote Lane West Jn	161	24	
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06	Shepcote Lane East Jn	161	20	*
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06	Tlnsley Avesta LC (TMO)	161	04	B
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06	Tlnsley Park Jn	160	68	
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06		160	52	
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06	Tinsley Yard	160	52	X
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06	Tinsley Yard SB	160	02	TY
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06		159	76	
+0340	LN809	001	Shepcote Lane West Jn to Tinsley Yard East End BTJ London North Eastern	02/12/06	Tinsley Yard East End Stop Boards	159	58	

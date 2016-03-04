@@ -1,0 +1,16 @@
+Seal Sands Branch Jn O 00
+ICI Brinefleld LC (OPEN) 0 12
+NEEB LC (OPEN) 0 39
+Enron LC (OPEN) 0 52
+North/South LC (OPEN) 0 71
+Rohm Haas LC (AOCL) @ 1 42
+MonsantolBASF Siding Jn 1 43
+Monsanto/BASF LCIAOCLGD 1 46
+Simon Storage Siding GF 1 52
+Biofuels LC OPEN 1 74
+Seal Sands Chemical Lc (AOCL) €13 2 11
+Phillips No 2 LC (AOCL) @ 2 16
+Seal Sands Road Lc (AOCL) 2 18
+Phillips No 3 LC (AOCL) Q1) 2 22
+End of Network Rail Maintenance 2 44
+

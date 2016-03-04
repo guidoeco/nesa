@@ -1,0 +1,42 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0067	NW2015	001	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/04/07	Ordsall Lane Jn	30	37	
+0067	NW2015	001	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/04/07		30	26	*
+0067	NW2015	001	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/04/07	Eccles SB	27	59	ES
+0067	NW2015	001	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/04/07	ECCLES	27	46	
+0068	NW2015	002	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/10/06	PATRICROFT	26	46	
+0068	NW2015	002	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/10/06		25	43	*
+0068	NW2015	002	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/10/06		25	40	*
+0068	NW2015	002	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/10/06	Astley LC (UWC)	25	40	X
+0068	NW2015	002	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/10/06	Astley SB	22	54	AY
+0068	NW2015	002	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/10/06		22	40	*
+0068	NW2015	002	Ordsall Lane Jn. to Edge Hill DSE LNW North	07/10/06	Culcheth Farm LC	19	39	UWC
+0069	NW2015	003	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08	Parkside GF	16	59	
+0069	NW2015	003	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08	Parkside Jn	16	56	
+0069	NW2015	003	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08	NeMon-le-Willows Jn	16	19	
+0069	NW2015	003	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08		15	83	
+0069	NW2015	003	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08		15	63	
+0070	NW2015	004	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08	NEWTON-LE-WILLOWS	15	60	
+0070	NW2015	004	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08	Earlestown East Jn	14	75	
+0070	NW2015	004	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08	EARLESTOWH	14	58	
+0070	NW2015	004	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08	Earlestown West Jn	14	51	
+0070	NW2015	004	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08		14	20	
+0070	NW2015	004	Ordsall Lane Jn. to Edge Hill DSE LNW North	24/05/08	ST HELENS JUNGTION	11	70	
+0071	NW2015	005	Ordsall Lane Jn. to Edge Hill DSE LNW North	10/04/07	LEA GREEN	10	57	
+0071	NW2015	005	Ordsall Lane Jn. to Edge Hill DSE LNW North	10/04/07	RAINHILL	8	72	
+0071	NW2015	005	Ordsall Lane Jn. to Edge Hill DSE LNW North	10/04/07	WHISTON	7	65	
+0071	NW2015	005	Ordsall Lane Jn. to Edge Hill DSE LNW North	10/04/07	Huyton Jn	5	77	
+0071	NW2015	005	Ordsall Lane Jn. to Edge Hill DSE LNW North	10/04/07	HUYTON	5	55	
+0071	NW2015	005	Ordsall Lane Jn. to Edge Hill DSE LNW North	10/04/07	Huyton SB	5	50	HN
+0071	NW2015	005	Ordsall Lane Jn. to Edge Hill DSE LNW North	10/04/07		5	41	
+0071	NW2015	005	Ordsall Lane Jn. to Edge Hill DSE LNW North	10/04/07	ROBY	5	14	
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08	BROAD GREEN	3	47	
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08	Olive Mount Jn	2	54	
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08	WAVERTREE TECHNOLOGY	2	29	
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08	PARK			Z
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08		2	14	
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08		2	00	*
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08	Bootle Branch Jn	1	78	
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08		1	67	
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08		1	60	*
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08		1	58	
+0072	NW2015	006	Ordsall Lane Jn. to Edge Hill DSE LNW North	01/12/08	Edge Hill SB	1	57	LE

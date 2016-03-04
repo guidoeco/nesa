@@ -1,0 +1,8 @@
+HAYLE 319 31
+Hayle Footpath LC (RIG) 319 34
+319 36 *
+319 50 a:
+St. Elth SB (SE) 320 67
+Jn 320 73
+ST. ERTH 320 78
+

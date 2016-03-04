@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0333	GW790	001	Pengam Jn to 4m 54ch (ABP) Cardiff Docks ROC ROA Western	05/08/06	Pengam Jn	168	20	
+0333	GW790	001	Pengam Jn to 4m 54ch (ABP) Cardiff Docks ROC ROA Western	05/08/06	Pengam LC	168	25	UWC
+0333	GW790	001	Pengam Jn to 4m 54ch (ABP) Cardiff Docks ROC ROA Western	05/08/06	(Change of mileage and ELR)	168	61	
+0333	GW790	001	Pengam Jn to 4m 54ch (ABP) Cardiff Docks ROC ROA Western	05/08/06		3	41	
+0333	GW790	001	Pengam Jn to 4m 54ch (ABP) Cardiff Docks ROC ROA Western	05/08/06	Tidal Sidings GF	3	76	*
+0333	GW790	001	Pengam Jn to 4m 54ch (ABP) Cardiff Docks ROC ROA Western	05/08/06	Tremorfa Works GF	4	38	
+0333	GW790	001	Pengam Jn to 4m 54ch (ABP) Cardiff Docks ROC ROA Western	05/08/06	Splotl Jn	4	53	
+0333	GW790	001	Pengam Jn to 4m 54ch (ABP) Cardiff Docks ROC ROA Western	05/08/06	Port Boundary	4	54	

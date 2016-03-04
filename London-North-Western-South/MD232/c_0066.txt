@@ -1,0 +1,9 @@
+Abbey Junction 9 60
+9 65 9:
+Midland Yard Junction 10 09
+10 18 *
+Limit of Electrification 10 39
+(OLE in up direction)
+NUNEATON 10 45
+10 57 *-
+

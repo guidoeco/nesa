@@ -1,0 +1,16 @@
+NRN CSR
+TCB Reading SB (R)
+RAB
+Location of known low rail adhesion
+- All lines 44mp. to 45m 60ch
+ATP - UM and DM
+Platform 1 - 69m. 75yds 6)
+Platform 2 - 140m, 153yd$
+Platform 3 - 150m, 164de
+Platform 4 - 150m, 164de
+(1) see Local Instructions
+Platform 1 -142m. 155de
+Platform 2 - 154m. 163yds
+Platform 3 - 141m, 154de
+Platform 4 - 153m, 167yds
+

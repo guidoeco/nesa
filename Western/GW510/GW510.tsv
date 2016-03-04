@@ -1,0 +1,36 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06	Westbury North Jn	109	49	
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06		109	42	*
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06	Hawkeridge Jn	109	14	
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06		108	60	*
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06		105	70	*
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06	TROWBRIDGE	105	61	
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06	(Both platforms)	105	56	
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06		105	54	*
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06		104	45	*
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06	Bradford Jn	104	40	
+0200	GW510	001	Westbury North Jn to Bathampton Jn WEY BFB Western	05/08/06	(Change of ELR)	9	12	
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06		8	70	*
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Tucker's LC	8	18	UWC
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Cemetery Lane LC	8	01	UWC
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Greenland Mill LC	7	27	AHBC
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Bradford Tunnel	7	25	
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	(145m 159yds)	7	18	
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	BRADFORD-ON-AVON	7	09	
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	AVONGLIFF	5	63	
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	FRESHFORD	4	70	
+0201	GW510	002	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	(Down platform)	4	70	X
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Freshford LC	4	68	UWC
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Fisher's LC	3	50	UWC
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Young's LC	3	25	UWC
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06		3	13.5	
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Dundas Aqueduct	3	12	
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06		3	10	*
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Claverton LC	1	73	UWC
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06		1	00	*
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06		0	50	*
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Glass' LC	0	20	
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06		0	13	*
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06		0	00	
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Bathampton Jn	104	45	UP
+0202	GW510	003	Westbury North Jn to Bathampton Jn BFB Western	05/08/06	Bathampton Jn	104	55	DN

@@ -1,0 +1,21 @@
+NRN CSR
+TCB Rugby PSB (RY)
+AC: Rugby ECR
+DN - Down Northampton
+UN - Up Northampton
+DPL - Down Platform Loop
+PP is authorised on the Down Fast
+and Down Platform Loop in the
+Down direction only
+PP is authorised on the Up 8: Down Slow line in
+the Up direction only.
+Platform Lengths:
+1 - 258 metres 4 - 269 metres
+2 - 240 metres 5 - 113 metres
+3 - 289 metres
+DGL - Down Goods Loop 823 metres
+(900 yards) (PF)
+DNF - Down Northampton Fast
+UNF - Up Northampton Fast
+U&DS - Up & Down Slow
+

@@ -1,0 +1,19 @@
+83 67 *-
+Aberdovey Tunnel No.3 83 74
+175m (191 yards) 34 003
+PENHELIG 84 08
+Aberdovey Tunnel No.4 84 14
+487m (533 yards) 34 33
+Penrhos Lc (UWC) 34 75
+84 77 *-
+ABERDOVEY 85 02
+Treffeddian LC (UWC) 85 38
+RETB Channel Change 86 00
+Cemetry LC (UWC) 86 05
+Dyffryn LC (UWC) 86 38
+86 42 *
+Dafydd LC (UWC) 86 47
+86 60 *
+Rhowniar LC (UWC) 86 64
+Caethle Farm LC (UWC) 87 21
+

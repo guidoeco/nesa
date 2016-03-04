@@ -1,0 +1,23 @@
+Brampton LC (AHBC-X) 44 57
+44 58 :7:
+45 30 *
+45 33 ale
+*
+HABD 2'3 3%
+Long Lane LC (CCTV) 46 34
+47 10 *-
+Welbury LC (AHBC-X) 48 21
+Rounton Gates LC (AHBC-X) 50 12
+Picton LC (CCTV) 52 31
+YARM 54 35
+55 29 *-
+55 64 *
+Yarm Tunnel 55m 76
+(75 yards) 55 79
+56 70 *-
+Eaglescliffe South Jn 56 75 *-
+56 76 *-
+EAGLESGLIFFE 57 00
+57 07
+57 32
+

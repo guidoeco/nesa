@@ -1,0 +1,14 @@
+NRN CSR
+TCB London Bridge SB (L)
+RA7 DC: Lewisham
+Platforms 1-6 PP
+A.W.S not provided for emergency
+and temporary speed restrictions
+between Chafing Cress & New Cross.
+RAT applies over Chafing Cross Bridge on the
+Down and Up Slow lines and Middle Road
+1 Up Fast
+2 Down Fast
+3 Up Slow
+4 Down Slow
+

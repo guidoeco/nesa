@@ -1,0 +1,11 @@
+Newington Substation 42 00
+42 50 *
+42 77 *
+Western Jn 43 70
+(43 75) are
+(Hollands Crossing) (43 77)
+(Middle Jn) (44 13)
+Chalkwell TP Hut 44 13
+Eastern Jn 44 18
+0 00
+

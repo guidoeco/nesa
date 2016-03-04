@@ -1,0 +1,19 @@
+225 00 *
+
+225 10 *-
+Llanelli East LC (CCTV) 225 14
+LLANELLI 225 20
+Llanelli West LC (M63) 225 23
+
+225 30 2k
+
+225 40 *-
+Pembrey HABD 228 59
+Pembrey LC (MOB) 228 70
+Pembrey (PY) SB 228 70
+PEMBREYfiBURRY PORT 229 15
+I PEN-BEE & FORTH TYWYN
+
+231 40
+Penybedd LC (AHBC) 231 67
+

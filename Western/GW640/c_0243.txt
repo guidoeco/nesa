@@ -1,0 +1,12 @@
+LISKEARD 8 67
+Liskeard Jn (264 66)
+(ELR-LIJ) (8 72)
+Liskeard GF 8 52
+Bolitho1LC(UWC) 8 17
+Coombe Jn 6 75
+6 52
+CoombeNo.1GF 6 52
+Coombe LC (UWC) 6 53
+600MBE 6 63
+Coombe No.2GF 6 66 *
+

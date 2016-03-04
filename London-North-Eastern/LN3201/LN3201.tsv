@@ -1,0 +1,293 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0130	LN3201	001	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	ST. PANCRAS	0	12	
+0130	LN3201	001	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		0	24	*
+0130	LN3201	001	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		0	38	*
+0131	LN3201	002	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Dock Jn South	0	59	
+0131	LN3201	002	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Dock Jn Norlh	0	76	
+0131	LN3201	002	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Camden Road Tunnels	0	79	
+0131	LN3201	002	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	(281 metres! 308 yards) to	1	13	
+0131	LN3201	002	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		1	14	*
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	KENTISH TOWN	1	42	
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		1	48	*
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Kentish Town Jn	1	65	*
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Hampstead Tunnel	1	74	
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	(40m I 44 YdS)	1	76	
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		2	00	*
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Carlton Road Jn	2	13	
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Lismore Circus Tunnel	2	17	
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	(101m 110Yds)	2	22	
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		2	20	*
+0132	LN3201	003	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		2	23	*
+0133	LN3201	004	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Belsize Tunnels	2	29	
+0133	LN3201	004	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	(1707m I 1 mile 107'de on slow lines) (slow lines)	2	29	X
+0133	LN3201	004	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	(1619m [1 mile 11yds on fast lines)	2	33	
+0133	LN3201	004	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	(fast lines)	2	33	X
+0133	LN3201	004	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	to	3	34	
+0133	LN3201	004	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		3	35	*
+0133	LN3201	004	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	West Hampstead South Jn	3	53	
+0134	LN3201	005	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		3	70	*
+0134	LN3201	005	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	WEST HAMPSTEAD THAMESLINK	3	73	
+0134	LN3201	005	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	West Hampstead P.S. Box (WH)	4	00	*
+0134	LN3201	005	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	West Hampstead North Jn	4	09	
+0134	LN3201	005	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		4	39	*
+0135	LN3201	006	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Cricklewood South Jn	4	68	
+0135	LN3201	006	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	GRIGKLEWOOD	5	09	
+0135	LN3201	006	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Cricklewood Curve Jn	5	19	
+0135	LN3201	006	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		5	20	*
+0135	LN3201	006	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		5	27	*
+0135	LN3201	006	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		5	30	*
+0136	LN3201	007	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		5	40	*
+0136	LN3201	007	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Cricklewood Depot Jn	5	63	
+0136	LN3201	007	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Cricklewood SB	5	63	X
+0136	LN3201	007	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Brent Curve Jn	6	04	
+0136	LN3201	007	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		6	10	*
+0137	LN3201	008	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Cricklewood Maintenance Depot GF	6	20	
+0137	LN3201	008	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		6	40	*
+0137	LN3201	008	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	HENDON	6	79	
+0137	LN3201	008	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		7	06	*
+0137	LN3201	008	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		7	33	*
+0138	LN3201	009	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		7	50	*
+0138	LN3201	009	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		7	60	*
+0138	LN3201	009	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		7	68	*
+0138	LN3201	009	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Silkstream Jn	7	72	
+0138	LN3201	009	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		7	75	*
+0138	LN3201	009	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	OHNS	8	29	
+0139	LN3201	010	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	MILL HILL BROADWAY	9	28	
+0139	LN3201	010	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Elstree Tunnels 11tO38 *-	9	28	X
+0139	LN3201	010	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	(967 metres! 1058 yards)	12	06	
+0139	LN3201	010	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		12	05	*
+0139	LN3201	010	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		12	06	*
+0139	LN3201	010	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	ELSTREE AND BOREHAMWOOD	12	35	
+0140	LN3201	011	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Radlett Jn	14	33	
+0140	LN3201	011	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	RADLETP	15	17	
+0141	LN3201	012	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Napsbury HABD	18	00	
+0141	LN3201	012	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		18	38	*
+0141	LN3201	012	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		19	23	*
+0141	LN3201	012	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		19	62	*
+0141	LN3201	012	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		19	65	*
+0141	LN3201	012	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	ST. ALBANS	19	71	
+0141	LN3201	012	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		20	00	*
+0142	LN3201	013	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		20	14	*
+0142	LN3201	013	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		20	71	*
+0142	LN3201	013	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		20	77	*
+0142	LN3201	013	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	OHNS	21	18	
+0142	LN3201	013	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Harpenden Jn	24	25	
+0143	LN3201	014	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		24	38	*
+0143	LN3201	014	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	HARPENDEN	24	51	
+0143	LN3201	014	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		24	64	*
+0143	LN3201	014	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		24	78	*
+0143	LN3201	014	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		25	17	*
+0143	LN3201	014	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		26	38	*
+0143	LN3201	014	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Chiltern Green HABD	27	69	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		28	26	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	LUTON AIRPORT PARKWAY	29	19	
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		29	57	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		29	59	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Luton Up Sidings GF	29	69	
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		30	09	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Luton South Jn	30	12	
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		30	15	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		30	17	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	LUTON	30	19	
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		30	27	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		30	31	*
+0144	LN3201	015	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		30	39	*
+0145	LN3201	016	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Luton North Jn	30	52	
+0145	LN3201	016	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		30	73	*
+0145	LN3201	016	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		30	79	*
+0145	LN3201	016	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Limbury Rd Up Line GF (No. 1)	31	45	
+0145	LN3201	016	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Limbury Rd Dn. Line GF (No. 2)	31	69	
+0146	LN3201	017	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	LEAGRAVE	32	60	
+0146	LN3201	017	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Leagrave Jn	33	18	
+0146	LN3201	017	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	OHNS	35	35	
+0147	LN3201	018	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		37	09	*
+0147	LN3201	018	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	HARLINGTON	37	22	
+0147	LN3201	018	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		37	25	*
+0147	LN3201	018	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		37	32	*
+0147	LN3201	018	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		40	09	*
+0147	LN3201	018	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	FLPPWIGK	40	18	
+0147	LN3201	018	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		40	20	*
+0148	LN3201	019	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Flitwick Jn	40	47	
+0148	LN3201	019	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Ampthill Tunnels	42	19	*
+0148	LN3201	019	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	(715 yards) to	42	52	
+0148	LN3201	019	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		42	52	*
+0149	LN3201	020	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Elstow Sidings			X
+0149	LN3201	020	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		48	30	*
+0149	LN3201	020	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Bedford South Jn	48	60	
+0150	LN3201	021	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		49	00	*
+0150	LN3201	021	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08		49	40	*
+0150	LN3201	021	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	Bedford Station Jn	49	60	
+0150	LN3201	021	St. Pancras to Tapton Jn (via Derby) SPC1 London North Eastern	30/08/08	BEDFORD	49	65	
+0151	LN3201	022	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08	Bedford North Jn	50	35	
+0151	LN3201	022	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08		53	00	*
+0152	LN3201	023	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08		53	20	*
+0152	LN3201	023	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08	Oakley HABD	53	60	
+0152	LN3201	023	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08		56	46	
+0152	LN3201	023	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08	Shambrook Jn	56	52	
+0152	LN3201	023	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08	Shambrook Tunnel	59	00	
+0152	LN3201	023	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08	(1701 m I 1 mile 100 yds) to (Slow line only)	60	04	
+0152	LN3201	023	St. Pancras to Tapton Jn (via Derby) SPC2 London North Eastern	30/08/08	NRN channel change	62	64	
+0153	LN3201	024	St. Pancras to Tapton Jn (via Derby) SPC2 SPC3 London North Eastern	30/08/08		64	23	*
+0153	LN3201	024	St. Pancras to Tapton Jn (via Derby) SPC2 SPC3 London North Eastern	30/08/08	Change of ELR	64	78	
+0153	LN3201	024	St. Pancras to Tapton Jn (via Derby) SPC2 SPC3 London North Eastern	30/08/08	WELLINGBOROUGH	65	11	*
+0153	LN3201	024	St. Pancras to Tapton Jn (via Derby) SPC2 SPC3 London North Eastern	30/08/08		65	27	*
+0153	LN3201	024	St. Pancras to Tapton Jn (via Derby) SPC2 SPC3 London North Eastern	30/08/08		65	72	*
+0154	LN3201	025	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	22/03/09		66	70	*
+0154	LN3201	025	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	22/03/09	Harrowden Jn	67	00	
+0154	LN3201	025	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	22/03/09	Harrowden Jn HABD	67	36	
+0154	LN3201	025	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	22/03/09	Kettering South Jn	70	60	
+0155	LN3201	0026	St. Pancras to Tapton Jn (via Derby) SPCS London North Eastern	23/03/09		71	03	*
+0155	LN3201	0026	St. Pancras to Tapton Jn (via Derby) SPCS London North Eastern	23/03/09	KETTERING	72	01	
+0155	LN3201	0026	St. Pancras to Tapton Jn (via Derby) SPCS London North Eastern	23/03/09		72	19	*
+0155	LN3201	0026	St. Pancras to Tapton Jn (via Derby) SPCS London North Eastern	23/03/09	Kettering Station Jn	72	20	
+0155	LN3201	0026	St. Pancras to Tapton Jn (via Derby) SPCS London North Eastern	23/03/09		73	00	*
+0155	LN3201	0026	St. Pancras to Tapton Jn (via Derby) SPCS London North Eastern	23/03/09	Kettering North Jn	74	00	
+0155	LN3201	0026	St. Pancras to Tapton Jn (via Derby) SPCS London North Eastern	23/03/09	Braybrooke LC	80	34	UWC
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08		82	00	*
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08	Little Bowden LC	82	33	RIG
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08		82	62	*
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08	MARKET HARBOROUGH	82	74	
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08		83	10	*
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08		84	24	*
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08	East Langton HABD	86	20	
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08	Watkins LC	87	12	UWC
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08		92	36	*
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08		92	50	*
+0156	LN3201	027	St. Pancras to Tapton Jn (via Derby) SPC3 London North Eastern	30/08/08	Kilby Bridge Jn	93	40	
+0157	LN3201	028	St. Pancras to Tapton Jn (via Derby) SPC3 SPC4 London North Eastern	30/08/08	Hills LC	93	49	UWC
+0157	LN3201	028	St. Pancras to Tapton Jn (via Derby) SPC3 SPC4 London North Eastern	30/08/08	Cooks Lane LC	93	56	UWC
+0157	LN3201	028	St. Pancras to Tapton Jn (via Derby) SPC3 SPC4 London North Eastern	30/08/08	Wigston South Jn	95	37	
+0157	LN3201	028	St. Pancras to Tapton Jn (via Derby) SPC3 SPC4 London North Eastern	30/08/08	Change of ELR	95	38	
+0157	LN3201	028	St. Pancras to Tapton Jn (via Derby) SPC3 SPC4 London North Eastern	30/08/08		95	47	*
+0157	LN3201	028	St. Pancras to Tapton Jn (via Derby) SPC3 SPC4 London North Eastern	30/08/08		95	74	*
+0157	LN3201	028	St. Pancras to Tapton Jn (via Derby) SPC3 SPC4 London North Eastern	30/08/08	Wigston North Jn	95	76	
+0158	LN3201	029	St. Pancras to Tapton Jn (via Derby) SPC4 London North Eastern	30/08/08		97	13	*
+0158	LN3201	029	St. Pancras to Tapton Jn (via Derby) SPC4 London North Eastern	30/08/08	Knighton Jn	97	45	
+0158	LN3201	029	St. Pancras to Tapton Jn (via Derby) SPC4 London North Eastern	30/08/08	Knighton Tunnel Sat 02	97	45	X
+0158	LN3201	029	St. Pancras to Tapton Jn (via Derby) SPC4 London North Eastern	30/08/08	(95m I 104 yards)	98	07	
+0158	LN3201	029	St. Pancras to Tapton Jn (via Derby) SPC4 London North Eastern	30/08/08		98	23	*
+0158	LN3201	029	St. Pancras to Tapton Jn (via Derby) SPC4 London North Eastern	30/08/08	Leicester South Jn	98	23	X
+0158	LN3201	029	St. Pancras to Tapton Jn (via Derby) SPC4 London North Eastern	30/08/08		98	73	*
+0159	LN3201	030	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08		99	00	*
+0159	LN3201	030	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	LEICESTER	99	07	
+0159	LN3201	030	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08		99	18	*
+0159	LN3201	030	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Leicester SB	99	30	LR
+0160	LN3201	031	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Humberstone Road Jn	100	20	
+0160	LN3201	031	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08		100	43	*
+0160	LN3201	031	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Thurmaston Wheelchex	101	78	
+0160	LN3201	031	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	SYSTON	103	63	
+0160	LN3201	031	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Syston South Jn	103	72	
+0160	LN3201	031	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Syston North Jn	104	25	
+0161	LN3201	032	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Astral (Shuttlewoods) LC	106	00	UWC
+0161	LN3201	032	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	SILEBY	106	50	
+0161	LN3201	032	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Sileby Jn	107	00	
+0161	LN3201	032	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Mountsorrel	108	00	
+0161	LN3201	032	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Mountsorrel LG	108	15	
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08		108	29	*
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	BARRON-U PON-SOAR	108	52	
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08		108	62	*
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Barrow-upon—Soar HABD	108	72	
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Shuttlewoods Top LC	110	31	UWC
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Moor Lane LC	110	60	UWC
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08		111	00	*
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Loughborough HABD	111	05	
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Allsopps LC	111	19	UWC
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	Loughborough South Jn	111	22	
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08		111	40	*
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08	LOUGHBOROUGH	111	46	
+0162	LN3201	033	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	30/08/08		111	56	*
+0163	LN3201	034	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	14/02/09	Loughborough North Jn	112	06	
+0163	LN3201	034	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	14/02/09		112	40	*
+0163	LN3201	034	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	14/02/09		115	07	*
+0163	LN3201	034	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	14/02/09		115	31	*
+0163	LN3201	034	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	14/02/09		117	70	*
+0163	LN3201	034	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	14/02/09		118	05	*
+0163	LN3201	034	St. Pancras to Tapton Jn (via Derby) SPC5 London North Eastern	14/02/09	EAST MIDLANDS PARKWAY	118	20	
+0164	LN3201	035	St. Prancras to Tapton Jn (via Derby) SPC5 SPCS London North Eastern	30/08/08	Ratcliffe Jn	118	34	*
+0164	LN3201	035	St. Prancras to Tapton Jn (via Derby) SPC5 SPCS London North Eastern	30/08/08	Change of ELR	118	60	
+0164	LN3201	035	St. Prancras to Tapton Jn (via Derby) SPC5 SPCS London North Eastern	30/08/08	Ratcliffe Norlh Jn	118	65	*
+0164	LN3201	035	St. Prancras to Tapton Jn (via Derby) SPC5 SPCS London North Eastern	30/08/08	Red Hill Tunnels	118	66	
+0164	LN3201	035	St. Prancras to Tapton Jn (via Derby) SPC5 SPCS London North Eastern	30/08/08	(141 metres! 154 yards Fast lines	118	74	
+0164	LN3201	035	St. Prancras to Tapton Jn (via Derby) SPC5 SPCS London North Eastern	30/08/08	155 metres I 170 yards Goods lines)	118	74	X
+0164	LN3201	035	St. Prancras to Tapton Jn (via Derby) SPC5 SPCS London North Eastern	30/08/08	Trent South Jn (GF)	119	16	*
+0164	LN3201	035	St. Prancras to Tapton Jn (via Derby) SPC5 SPCS London North Eastern	30/08/08	Trent South . Jn	119	17	
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08	Sheet Stores Jn	119	58	
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08		119	65	*
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08	LONG EATON	120	28	
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08	Sawley LC	121	39	CCTV
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08		121	40	*
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08	Marlborough Road LC	121	77	BW
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08	Draycott	122	19	GF
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08		122	62	*
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08	SPONDON	125	67	
+0165	LN3201	036	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	17/12/08	Spondon LC	125	67	CCTV
+0166	LN3201	037	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	30/08/08		126	00	*
+0166	LN3201	037	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	30/08/08		126	20	*
+0166	LN3201	037	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	30/08/08		126	40	*
+0166	LN3201	037	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	30/08/08		127	25	*
+0166	LN3201	037	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	30/08/08	Way 8 Works Jn	128	09	
+0166	LN3201	037	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	30/08/08		128	12	*
+0166	LN3201	037	St. Pancras to Tapton Jn (via Derby) SPC6 London North Eastern	30/08/08	Derby SB	128	13	DY
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08	London Road Jn	128	23	
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08		127	54	
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08	DERBY	127	68	
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08	Engine Sidings No 1 GF	128	75	
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08	Derby Station North Jn	128	02	
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08		128	04	*
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08	Derby Jn	128	03	*
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08		128	09	*
+0167	LN3201	038	St. Pancras to Tapton Jn (via Derby) SPC6 SPC8 London North Eastern	30/08/08	Chaddesden Sidings	128	09	X
+0168	LN3201	039	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		128	40	*
+0168	LN3201	039	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		128	50	*
+0168	LN3201	039	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	St Mary's North Jn	129	06	
+0168	LN3201	039	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		129	38	*
+0168	LN3201	039	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		130	00	*
+0168	LN3201	039	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Breadsall	130	58	
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Little Eaton Jn	131	06	*
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Dufiield HABD	132	63	
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		132	70	*
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	DUFFIELD	133	08	
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		133	60	*
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Milford Tunnel	133	67	
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	(855 yards I 782 metres)	134	25	
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Belper GF	134	61	
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		135	40	*
+0169	LN3201	040	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	BELPER	135	55	
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Broadholme	136	48	
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		137	03	*
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		137	50	*
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Ambergate Jn	137	61	
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		138	00	*
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Toadmoor Tunnel	138	07	
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	(129yardsl118 metres)	133	13	
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		138	20	*
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08		139	31	*
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	Wingfield Tunnel	139	47	
+0170	LN3201	041	St. Pancras to Tapton Jn (via Derby) SPC8 London North Eastern	30/08/08	(261 yards/239 metres)	139	59	
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		145	29	*
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		145	63	*
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		145	66	*
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08	Clay Cross Tunnel	146	21	
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08	(1 mile. 24 yards) 0	146	21	X
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08	(1 kilometre, 631 metres)	147	22	
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		147	40	*
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		147	58	*
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08	Clay Cross South Jn	147	69	former
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		142	10	
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		142	30	*
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08	Clay Cross North . Jn	142	77	
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		143	23	*
+0171	LN3201	042	St. Pancras to Tapton Jn (via Derby) SPC8 SPCQ London North Eastern	30/08/08		144	66	*
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08		145	07	*
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08	Chesterfield South Jn	145	21	
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08		145	31	*
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08		145	35	*
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08		146	11	*
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08		146	13	*
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08	Chesterfield Down sidings	146	13	X
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08	CHESTERFIELD	146	20	
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08		146	34	*
+0172	LN3201	043	St. Pancras to Tapton Jn (via Derby) SPC9 London North Eastern	30/08/08	Chesterfield North Jn	146	36	
+0173	LN3201	044	St. Pancras to Tapton Jn (via Derby) SPC9 TJC1 London North Eastern	30/08/08		146	59	*
+0173	LN3201	044	St. Pancras to Tapton Jn (via Derby) SPC9 TJC1 London North Eastern	30/08/08	Change of ELR	146	59	
+0173	LN3201	044	St. Pancras to Tapton Jn (via Derby) SPC9 TJC1 London North Eastern	30/08/08	Tapton Jn	146	64	

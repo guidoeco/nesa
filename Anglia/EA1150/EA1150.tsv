@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09	Channelsea South Jn	0	29	
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09		0	29	*
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09	Carpenters Rd North Jn	0	25	
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09		0	23	*
+0070	EA1150	001	Channelsea South Jn to Stratford Central Jn West CST Anglia	10/01/09	Stratford Central Jn West	0	00	

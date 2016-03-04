@@ -1,0 +1,13 @@
+8 05 a:
+HALE 8 31
+Hale LC (CCTV) 8 36
+
+8 78 *-
+
+9 02 *-
+ASHLEY 10 05
+Mercer's LC (UWC) 11 37
+MOBBERLEY 11 71
+Mobberley LC (MOB) 11 74
+Mobberley SB 11 75
+

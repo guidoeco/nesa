@@ -1,0 +1,16 @@
+Park LaneJn 100 65
+100 70
+
+100 72 :k
+
+101 15 *
+
+0 00 *
+
+Greensfield Jn O 21 1e
+
+0 16 a:
+King Edward Bridge East Jn 0 30
+Tyneside SB (T) 0 32
+King Edward Bridge South Jn 0 48
+

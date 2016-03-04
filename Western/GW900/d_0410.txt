@@ -1,0 +1,8 @@
+NRN
+TCB Port Talbot SB (PT)
+RA7
+C. Down (clipped out of use)
+Location of known low rail adhesion
+- 219mp. and 220mp.
+Platform - 175m, 191yds
+

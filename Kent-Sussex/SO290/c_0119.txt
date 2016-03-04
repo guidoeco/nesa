@@ -1,0 +1,9 @@
+(North Kent East Jn) (4 25)
+4 69 *
+DEPTFORD 4 76
+5 O7 *-
+5 27 *-
+GREENWICH 5 36
+Greenwich Substation 5 37
+5 61 1k
+

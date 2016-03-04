@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0290	NW6007	001	Deal Street Jn. to Ordsall Lane Jn. DSE LNW North	07/10/06		0	32	
+0290	NW6007	001	Deal Street Jn. to Ordsall Lane Jn. DSE LNW North	07/10/06	Deal Street Jn .	0	43	
+0290	NW6007	001	Deal Street Jn. to Ordsall Lane Jn. DSE LNW North	07/10/06		31	07	*
+0290	NW6007	001	Deal Street Jn. to Ordsall Lane Jn. DSE LNW North	07/10/06		31	01	*
+0290	NW6007	001	Deal Street Jn. to Ordsall Lane Jn. DSE LNW North	07/10/06		30	76	
+0290	NW6007	001	Deal Street Jn. to Ordsall Lane Jn. DSE LNW North	07/10/06	Ordsall Lane Jn	30	38	

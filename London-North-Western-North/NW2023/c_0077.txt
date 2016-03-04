@@ -1,0 +1,13 @@
+BRYN 10 22
+GARSWOOD 9 00
+7 01 *-
+6 72 i:
+(8 11)
+6 05 at:
+(7 75)
+Gerards Bridge Jn GF 5 66
+(7 68)
+St Helens Station SB (SH) 5 24
+ST HELENS CENTRAL 5 16
+St Helens Station Jn 5 12
+

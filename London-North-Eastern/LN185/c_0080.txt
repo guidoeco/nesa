@@ -1,0 +1,22 @@
+Wainfleet (Low Road/Spilsby Road) LC (UWC) 121 72
+
+Firsby South Jn(Former) 122 02 *
+Firsby East Jn (Former) 122 22
+
+0 26
+
+0 30 *
+Lymn Banks LC (AOCL-X) 1 46
+
+1 60 *
+Couplands LC (UWC) 2 03
+
+2 12 *-
+Thorpe Culvert SB (TC) 2 21
+Thorpe Culvert LC (MOB) 2 21
+THORPE GULVERT 2 24
+
+2 3O *
+
+2 67 *-
+

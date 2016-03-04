@@ -1,0 +1,20 @@
+NRN CSR
+TCB Marylebone IECC (ME)
+CI) Locomotive hauled trains must
+NOT exceed 70mph
+® Maximum permissible speed for
+trains composed entirely of
+Class 150-168 units
+{3} Maximum permissible speed for
+all other trains
+Platform lengths: Princes Risborough
+Platform 2 - 166 metres
+Platform 3 - 166 metres
+Patrolmans directional line lookouts (PDL):
+Down Main line: A
+Starts: 9m 01ch (Bioester North)
+Ends: 0m 020h (Princes Risborough)
+Up Main line:
+Starts: Om 020h (Princes Risborough)
+Ends: 9m 01ch (Bicester North)
+

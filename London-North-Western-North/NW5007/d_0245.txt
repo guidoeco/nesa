@@ -1,0 +1,13 @@
+NRN
+
+TCB Manchester Piccadilly SB (MP)
+
+AC: Crewe
+UA = Up Airport
+DA = Down Airport
+Manchester Airport
+Platform Lengths
+Platform 1: 196 metres (214 yards) Permissive PP
+Platform 2: 197 metres (216 yards) Permissive PP
+Platform 3: 200 metres (219 yards) Permissive PP
+

@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0049	LN160	001	Loversall Carr Jn. to Flyover West Jn. LCR FWR1 London North Eastern	02/12/06	Lovemall Carr Jn	152	00	
+0049	LN160	001	Loversall Carr Jn. to Flyover West Jn. LCR FWR1 London North Eastern	02/12/06	Rossington Colliery Jn	152	12	
+0049	LN160	001	Loversall Carr Jn. to Flyover West Jn. LCR FWR1 London North Eastern	02/12/06		153	03	*
+0049	LN160	001	Loversall Carr Jn. to Flyover West Jn. LCR FWR1 London North Eastern	02/12/06	Flyover West Jn	153	19	

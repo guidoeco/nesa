@@ -1,0 +1,4 @@
+101 57 :7:
+Bridge St Jn 101 53
+(Change of ELR WCM2 to AYR1) o 00 *
+

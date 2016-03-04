@@ -1,0 +1,14 @@
+NRN CSR
+TCB Dorking SB (CBK)
+RAB DC:Brighton
+(BALCOMBE 01)
+DPL = 33 (Reversible)
+Platform 1 PP-A (Attaching only)
+Platform 2 PP-A
+Also permitted for platform sharing
+during times of significant service
+interuptions.
+Platform 3 PF
+1 Up Main
+2 Down Main
+

@@ -1,0 +1,11 @@
+NRN
+TCB Merseyrail SB (ML)
+Platform Lengths: Upton
+Platform Up 78m (85 yds)
+Platform Down 78m (85 yds)
+CSR
+DC: Sandhills
+Platform Lengths: Bidston
+Platform Up 119m (130 yds)
+Platform Down 119m (130 yds)
+

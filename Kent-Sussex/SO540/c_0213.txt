@@ -1,0 +1,13 @@
+(HurstGreen Jn) (21 35)
+24 09
+Edenbridge Tunnel 24 10
+(319 yards) to 24 24
+EDENBRIDGE TOWN 25 47
+HEVER 27 27
+27 35 it
+Hever Jn 27 42
+27 44
+Mark Beech Tunnel 28 26
+(1341 yards) to 29 07
+COWDEN 29 26
+

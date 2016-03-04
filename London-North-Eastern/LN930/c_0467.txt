@@ -1,0 +1,12 @@
+Skipton Middle Jn 221 33
+222 68
+222 60 :7:
+Haw Bank Tunnel 221 7
+(201m I 220 yards) to 220 77
+Embsay Jn (Former) 220 64
+O 0O
+O 24 *-
+Rylstone LC(TMO) 5 17
+Network Rail Boundary 6 50
+Tilcon Siding (End of Line) 7 09
+

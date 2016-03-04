@@ -1,0 +1,15 @@
+Jn with main lines -0 01
+MOTHERWELL 0 08
+
+0 20 air
+
+0 28 2!:
+AIRBLES 0 61
+
+1 00 *
+
+1 44
+
+6 61
+(change of ELR VIN1 to HMN2) 6 61
+

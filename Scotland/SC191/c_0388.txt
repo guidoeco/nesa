@@ -1,0 +1,11 @@
+Easthaven LC (UWC) 11 76
+Hatton LC (UWC) 12 53
+InverpefforLC (UWC) 13 26
+Balcathie LC (UWC) 14 54
+
+14 78 *
+
+15 11
+
+15 14 *
+

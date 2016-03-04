@@ -1,0 +1,47 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	(Buckland Jn)	99	05	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06		97	67	*
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	East Dover TP Hut	97	57	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Guston Tunnel	97	44	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	(1,412 yards) to	96	60	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Guston Substation	96	02	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	MARTIN MILL	95	05	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Martin Hill TP Hut	94	25	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Hangman's Lane UWC	93	79	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Cold Blow LC (RIG)	92	54	*
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Walmer Substation	92	48	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	WALMER	92	27	
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06		91	76	*
+0096	SO240	001	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06		91	05	*
+0097	SO240	002	Buckland Jn to Minster East Jn BME2 Kent / Sussex	20/09/08	Deal TP Hut	90	62	
+0097	SO240	002	Buckland Jn to Minster East Jn BME2 Kent / Sussex	20/09/08		90	60	*
+0097	SO240	002	Buckland Jn to Minster East Jn BME2 Kent / Sussex	20/09/08	DEAL	90	56	
+0097	SO240	002	Buckland Jn to Minster East Jn BME2 Kent / Sussex	20/09/08		90	51	*
+0097	SO240	002	Buckland Jn to Minster East Jn BME2 Kent / Sussex	20/09/08	Deal SB éEBZ)	90	43	
+0097	SO240	002	Buckland Jn to Minster East Jn BME2 Kent / Sussex	20/09/08	Middle L	90	42	*
+0097	SO240	002	Buckland Jn to Minster East Jn BME2 Kent / Sussex	20/09/08	Northwall LC (RIG)	90	09	*
+0097	SO240	002	Buckland Jn to Minster East Jn BME2 Kent / Sussex	20/09/08	Betteshanger Substation	89	06	
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Gore Top Crossing	87	89	
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Blue Pigeon Crossing	87	48	
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Laslett UWC	87	42	
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Worth TP Hut	87	28	
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Sin Green UWC	87	19	
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	SANDWICH	88	48	
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Sandwich SB	88	43	SW
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Sandwich LC	88	48	
+0098	SO240	003	Buckland Jn to Minster East Jn BME2 Kent / Sussex	02/12/06	Woodnesborough LC	88	12	CCTV
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	Ash Road LC	85	60	AHBC
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	Sandwich Substation	85	42	
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06		85	35	*
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	Richborough LC	85	24	AHBC
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	Long Salts Crossing	85	07	
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06		84	68	*
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06		84	60	*
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	Richborough Casfle Crossing	84	48	
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	Richborough TP Hut	83	59	
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06		82	43	*
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	Minster South Jn	82	21	*
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06		0	32	
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	(MINSTER)	82	11	*
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06		81	64	
+0099	SO240	004	Buckland Jn to Minster EastJn BME2 BME1 MSW Kent/Sussex	02/12/06	(Minster East Jn)	0	00	

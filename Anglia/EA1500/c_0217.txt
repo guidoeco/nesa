@@ -1,0 +1,11 @@
+Single line 10 20 *
+Acle SB (A) 10 33
+AGLE 10 34
+Single line 10 42 *-
+10 50 9e
+Damgate LC 11 06
+No.23 LC 12 27
+Britannia Farm LC 15 14
+17 O4 *-
+Breydon Access No.51 LC 17 02
+

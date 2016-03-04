@@ -1,0 +1,19 @@
+NRN
+TCB Ferrybridge SB (FE)
+RAB
+CW Up at 58 17 (262 yards before signal FE6414)
+- Lockout Protection provided. See General
+Instruction
+
+CD - TolFrom Wagon ArrivallDeparture lines
+® - TolFrom Wagon Arrival Line
+UGO = Up Goole
+DGO = Down Goole
+UGGLD = Up Goole Goods Loop Down
+@ - TolFrom Kellingley Colliery
+
+Sudforth Lane SB (3)
+URS = 2176m I 7140 feet
+DTS = Down Through Siding
+DL = Departure Line AL = Arrival Line
+

@@ -1,0 +1,10 @@
+Camborne LC (CCTV) 313 35
+CAMBORNE 313 40
+314 60 i:
+315 60 *
+Gwinear Road LC (AHBC) 315 73
+316 00 *-
+Upper Trenowin LO(UWG) 316 35
+Lower Trenowin LC (UWC) 316 52
+317 75 a:
+

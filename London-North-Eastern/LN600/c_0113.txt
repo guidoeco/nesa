@@ -1,0 +1,10 @@
+0 24 *-
+Dean Street Crossover 0 28
+Pilgrim Street Crossover 0 36
+MANORS 0 46
+
+O 51 *
+Argyle Street Jn 0 5B *-
+Red Barns Tunnel 0 65
+(90ml98 yards) to 0 70
+

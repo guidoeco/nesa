@@ -1,0 +1,10 @@
+Newark Crossing 17 67
+Newark Crossing East Jn 17 74
+Crankley Point LC (RIG) 17 76
+Winthorpe LC (AHBC) 19 O1
+Langford LC (AHBC) 20 24
+Cottage Lane LC (AHBC) 21 16
+Westbrook Lane LC (RIG) 21 44
+Collingham LC (AHBC) 22 13
+COLLINGHAM 22 17
+

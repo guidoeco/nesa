@@ -1,0 +1,16 @@
+202 48 *
+Port Talbot SB (PT) 202 49
+Port Talbot LC (M03) 202 50
+PORT TALBOT PARKWAY 202 59
+
+202 75 *
+Port Talbot West HABD 203 01
+
+203 71 it
+RAGLAN 204 53
+Briton Ferry East 205 29
+Briton Ferry HABD 205 36
+Briton Ferry Up 206 14
+Flying Loop Jn
+BRITON FERRY 206 40
+

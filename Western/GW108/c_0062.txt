@@ -1,0 +1,11 @@
+Barrow crossing (WL) 163 02
+
+TAUNTON 163 12
+163 23 9:
+163 31 *-
+
+Taunton West Jn 163 34 i:
+164 24
+164 27
+164 33 *-
+

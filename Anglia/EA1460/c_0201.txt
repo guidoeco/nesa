@@ -1,0 +1,8 @@
+Felixstowe Beach Jn 83 57
+
+84 10 are
+Felixstowe Beach LC(CCTV) 84 69
+Felixstowe Dock Jn 85 22
+Network Rail Boundary Rail Yard 85 29
+Network Rail Boundary South Teminal 85 34
+

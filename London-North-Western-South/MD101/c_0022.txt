@@ -1,0 +1,13 @@
+OHNS 80 08
+(83 43) *
+Hillmorton Junction 81 28
+81 60 i:
+(84 09) 5':
+81 72 i
+82 16 2k
+82 18 *
+Rugby South Junction 82 26
+Rugby PSB (RY) 82 26
+82 30 :7:
+RUGBY 82 4O
+

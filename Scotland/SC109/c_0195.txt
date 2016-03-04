@@ -1,0 +1,11 @@
+(Change of ELR PMT to CMS) 25 79
+Carmuirs East Jn & SB 25 79
+0 40
+0 16 i:
+0 11 a:
+(Change of ELR CMS to SCM3) 0 02
+Carmuirs West Jn & SB 0 40
+108 74
+108 75 it
+108 54 i:
+

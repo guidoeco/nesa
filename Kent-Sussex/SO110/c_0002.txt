@@ -1,0 +1,12 @@
+Battersea Pier Jn 0 71 at:
+
+( 0 73) *
+
+0 16 *-
+Route Boundary 1 41
+(Nine Elms Jn) ( 2 00)
+Linford Street TP Hut 1 44
+Linford Street Jn 1 45
+( 2 50)
+Route Boundary ( 2 44)
+

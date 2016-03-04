@@ -1,0 +1,10 @@
+Weaver Jn 174 70
+fromfto (174 53)
+175 13 *
+Birdswood Tunnel 175 43
+(Up Liverpool line Flyover) to (20m722yd) 175 44
+OHNS 175 46
+Preston Brook Tunnel 176 04
+(71ml78yd) to 176 07
+HABD 176 39
+

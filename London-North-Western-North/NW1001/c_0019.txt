@@ -1,0 +1,12 @@
+5 16
+Springs Branch Jn 5 25 *
+
+5 28
+
+5 35 2!:
+Springs Branch Sidings 5 53 *
+Springs Branch 5 57
+(slow lines) Jn
+
+6 04
+

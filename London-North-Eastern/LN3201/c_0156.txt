@@ -1,0 +1,12 @@
+82 00 *-
+Little Bowden LC (RIG) 82 33
+82 62 i:
+MARKET HARBOROUGH 82 74
+83 10 *-
+84 24 *-
+East Langton HABD 86 20
+Watkins LC (UWC) 87 12
+92 36 *
+92 50 *
+Kilby Bridge Jn 93 40
+

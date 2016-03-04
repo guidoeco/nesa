@@ -1,0 +1,12 @@
+CSR Channel change to 06 36 16
+(down direction)
+Westbury Line Jn 36 17
+Reading Maintenance Depot
+and Lower Triangle Stabling Point
+CSR Channel change 05 36 30
+(Up direction)
+36 35 9:
+36 39 9:
+Reading West Jn 36 78
+Down Sidings GF 36 78
+

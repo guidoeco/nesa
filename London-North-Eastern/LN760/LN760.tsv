@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0306	LN760	001	Firbeck Jn. to Harworth Colliery HAC London North Eastern	02/12/06	Firbeck Jn	11	20	
+0306	LN760	001	Firbeck Jn. to Harworth Colliery HAC London North Eastern	02/12/06		11	53	*
+0306	LN760	001	Firbeck Jn. to Harworth Colliery HAC London North Eastern	02/12/06	Huttons LC	13	50	UWC
+0306	LN760	001	Firbeck Jn. to Harworth Colliery HAC London North Eastern	02/12/06	Ramsons LC	14	00	UWC
+0306	LN760	001	Firbeck Jn. to Harworth Colliery HAC London North Eastern	02/12/06	HanNorth Colliery	14	21	

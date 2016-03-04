@@ -1,0 +1,7 @@
+London Road Jn 59 49 *-
+0 00
+0 02 a:
+0 03 *
+Bog Jn O 25 *-
+1 O7
+

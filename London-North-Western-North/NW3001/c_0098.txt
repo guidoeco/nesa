@@ -1,0 +1,14 @@
+222 31 i:
+222 60 i:
+222 61
+223 08 *
+Llandudno Jn 223 12
+223 21 i:
+223 24 'k
+223 26
+Tamper Siding GF 223 31
+223 36 *
+LLANDUDNO JUNCTION 223 39
+223 50 at:
+Llandudno Junction SB (LJ) 223 55
+

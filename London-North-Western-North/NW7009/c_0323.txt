@@ -1,0 +1,11 @@
+HAPT-ON 18 73
+19 77 5%
+Rose Grove West Jn 20 05
+20 15 *
+ROSE GROVE 20 32
+20 43 *-
+20 48 *-
+20 50
+21 00 9:
+Gannow Jn 21 03 5k
+

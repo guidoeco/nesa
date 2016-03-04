@@ -1,0 +1,17 @@
+Belasis Lane SB 1 04 *-
+
+1 10 *-
+
+1 13
+Port Clarence GF 3 05
+
+3 15 :7:
+Phillips Siding Jn GF 3 25
+North Tees LC (AOCL) 4 19
+Seal Sands LC (AOCL) 4 71
+
+5 00
+Seal Sands Branch Jn 5 01
+
+5 21
+

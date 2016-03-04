@@ -1,0 +1,16 @@
+56 66 *-
+Pontefract East Jn 57 43
+58 16 *
+Knottingley West Jn 58 20
+58 21
+58 27 1-
+KNOTTINGLEY 58 37
+58 51
+Knottingley East Jn 58 69
+59 O4 *
+England Lane LC (MCG) 59 05
+Knottingley LC (CCTV) 59 25
+Rampart Lane LC (UWC) 60 40
+Sudforth Lane LC(MCB) 61 08
+Sudforth Lane SB (8) 61 08
+

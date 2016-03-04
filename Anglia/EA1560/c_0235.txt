@@ -1,0 +1,8 @@
+78 60 it
+Welney Road LC (AHBC—X) 79 50
+Manea SB (M) 80 11
+Manea LC(MCB) 80 13
+MANEA 80 18
+Stonea SB (B) 82 D3
+Stonea LC (MCG) 82 O4
+

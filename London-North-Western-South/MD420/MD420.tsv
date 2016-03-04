@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0140	MD420	001	Hatton North Junction to Hatton West Junction HHW LNW South	18/02/08	Hatton North Jn .	112	57	
+0140	MD420	001	Hatton North Junction to Hatton West Junction HHW LNW South	18/02/08	Change of mileage	18	25	
+0140	MD420	001	Hatton North Junction to Hatton West Junction HHW LNW South	18/02/08		17	69	*
+0140	MD420	001	Hatton North Junction to Hatton West Junction HHW LNW South	18/02/08	Hatton West Jn	17	62	

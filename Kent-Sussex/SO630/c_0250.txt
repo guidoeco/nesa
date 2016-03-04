@@ -1,0 +1,10 @@
+SOUTHWIOK 4 30
+Shoreham East LG (CCTV) 5 5O
+Shoreham Ground Frame 5 50
+Shoreham Substation 5 65
+SHOREHAM-BY-SEA 5 69
+Shoreham-by—Sea LC (CCTV) 5 75
+Lancing 33 (LG) 8 15
+Lancing LC (CCTV) 8 16
+LANCING 8 19
+

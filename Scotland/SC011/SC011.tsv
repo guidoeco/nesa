@@ -1,0 +1,25 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06	Law Jn	84	08	
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06		84	20	*
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06	OHNS	84	23	
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06		84	50	*
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06		84	53	*
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06	WISHAW	86	31	
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06		86	36	*
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06	Wishaw Central Jn	86	63	
+0040	SC011	001	Law Jn to Uddingston Jn (Via Holytown) WWD Scotland	02/12/06		87	03	*
+0041	SC011	002	Law Jn to Uddingston Jn (Via Holytown) WWD EGSZ Scotland	02/12/06		88	11	*
+0041	SC011	002	Law Jn to Uddingston Jn (Via Holytown) WWD EGSZ Scotland	02/12/06		88	29	*
+0041	SC011	002	Law Jn to Uddingston Jn (Via Holytown) WWD EGSZ Scotland	02/12/06		89	05	*
+0041	SC011	002	Law Jn to Uddingston Jn (Via Holytown) WWD EGSZ Scotland	02/12/06	Holytown Jn	89	66	
+0041	SC011	002	Law Jn to Uddingston Jn (Via Holytown) WWD EGSZ Scotland	02/12/06		1	27	
+0041	SC011	002	Law Jn to Uddingston Jn (Via Holytown) WWD EGSZ Scotland	02/12/06	(Change of ELR WD to EGSZ)	1	28	
+0041	SC011	002	Law Jn to Uddingston Jn (Via Holytown) WWD EGSZ Scotland	02/12/06	HOLYTOWN	1	10	
+0042	SC011	003	Law Jn to Uddingston Jn (Via Holytown) EGSZ EGS1 Scotland	02/12/06	Mossend East Jn	0	40	
+0042	SC011	003	Law Jn to Uddingston Jn (Via Holytown) EGSZ EGS1 Scotland	02/12/06		3	63	
+0042	SC011	003	Law Jn to Uddingston Jn (Via Holytown) EGSZ EGS1 Scotland	02/12/06	(Change of ELR E682 to EGS1)	3	63	
+0042	SC011	003	Law Jn to Uddingston Jn (Via Holytown) EGSZ EGS1 Scotland	02/12/06	Mossend West Jn	3	04	
+0042	SC011	003	Law Jn to Uddingston Jn (Via Holytown) EGSZ EGS1 Scotland	02/12/06	BELLSHILL	2	30	
+0042	SC011	003	Law Jn to Uddingston Jn (Via Holytown) EGSZ EGS1 Scotland	02/12/06	OHNS	0	66	
+0042	SC011	003	Law Jn to Uddingston Jn (Via Holytown) EGSZ EGS1 Scotland	02/12/06	Viewpark Sdgs	0	53	
+0042	SC011	003	Law Jn to Uddingston Jn (Via Holytown) EGSZ EGS1 Scotland	02/12/06	Uddingston Jn	-0	03	

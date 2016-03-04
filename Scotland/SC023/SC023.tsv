@@ -1,0 +1,25 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08	Jn with main lines	-0	01	
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08	MOTHERWELL	0	08	
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08		0	20	*
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08		0	28	*
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08	AIRBLES	0	61	
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08		1	00	*
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08		1	44	
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08		6	61	
+0048	SC023	001	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	14/01/08	(change of ELR VIN1 to HMN2)	6	61	
+0049	SC023	002	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06		6	22	
+0049	SC023	002	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06	Haughhead Jn	6	18	
+0049	SC023	002	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06	Bamcluith Tunnel	5	79	
+0049	SC023	002	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06	380 yards to	5	62	
+0049	SC023	002	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06		5	20	*
+0049	SC023	002	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06		5	14	
+0049	SC023	002	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06	HAMILTON CENTRAL	5	03	
+0050	SC023	003	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06		4	60	*
+0050	SC023	003	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06	HAMILTON WEST	4	12	
+0050	SC023	003	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06		4	04	*
+0050	SC023	003	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06	Eamock Sdgs	3	62	
+0050	SC023	003	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06	BLANTYRE	2	29	
+0050	SC023	003	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06		0	29	*
+0050	SC023	003	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06		0	19	*
+0050	SC023	003	Motherwell to Newton, Hamilton Jn (Via Hamilton) HMN2 Scotland	02/12/06	Newton, Hamilton Jn	0	07	

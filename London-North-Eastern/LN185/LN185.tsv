@@ -1,0 +1,141 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0067	LN185	001	Allington WestJn to Skegness ABE GRS1 London North Eastern	30/08/08		108	69	
+0067	LN185	001	Allington WestJn to Skegness ABE GRS1 London North Eastern	30/08/08	Allington West Jn	0	00	
+0067	LN185	001	Allington WestJn to Skegness ABE GRS1 London North Eastern	30/08/08		0	18	*
+0067	LN185	001	Allington WestJn to Skegness ABE GRS1 London North Eastern	30/08/08		0	24	*
+0067	LN185	001	Allington WestJn to Skegness ABE GRS1 London North Eastern	30/08/08	Allington North Jn	0	34	
+0067	LN185	001	Allington WestJn to Skegness ABE GRS1 London North Eastern	30/08/08		4	08	
+0067	LN185	001	Allington WestJn to Skegness ABE GRS1 London North Eastern	30/08/08	Barkston East Jn	110	12	Former
+0068	LN185	002	Allington West Jn to Skegness GRS1 London North Eastern	02/12/06	Lodge Farm LC	110	65	UWC
+0068	LN185	002	Allington West Jn to Skegness GRS1 London North Eastern	02/12/06	Hough Lane LC (AH BC—X)	111	08	
+0068	LN185	002	Allington West Jn to Skegness GRS1 London North Eastern	02/12/06	Frinkley Lane LC	111	53	AHBc-X
+0068	LN185	002	Allington West Jn to Skegness GRS1 London North Eastern	02/12/06	Honington LC (AH BC-X)	111	72	
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Apple-whites No.3 LC	112	65	UWC
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Cradbums No.4 LC	113	09	UWC
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	No.6 LC	113	25	UWC
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Sudbmok LC	113	72	AHBC-X
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		114	00	*
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		114	37	*
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Ancaster SB	114	48	AR
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Ancaster LC	114	48	MCG
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	ANCASTER	114	53	
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		114	64	*
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		115	28	*
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Wilsford LC	116	59	AHBC-X
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	No.18 LC	117	05	UWC
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Kelby Lane LC	117	47	AHBC—X
+0069	LN185	003	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		117	59	*
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		118	31	*
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Rauceby SB fRY)	118	39	
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Rauceby LC MCG)	118	39	
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	RAUCEBY	118	42	
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	IClauaarrington LC	118	79	AHBC
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Mountains No.29 LC	119	48	UWC
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Sleaford West Jn	120	29	
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Sleaford West LC	120	33	M06
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Sleaford West SB	120	33	SW
+0070	LN185	004	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		120	35	*
+0071	LN185	005	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	SLEAFORD	120	53	
+0071	LN185	005	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Sleaford East SB	120	60	SE
+0071	LN185	005	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Sleaford East LC	120	60	MCB
+0071	LN185	005	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		120	67	*
+0071	LN185	005	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Sleaford East Jn	121	21	
+0071	LN185	005	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	No.36 LC	121	72	UWC
+0072	LN185	006	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		122	07	*
+0072	LN185	006	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		122	51	*
+0072	LN185	006	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Kirkby Laythorpe LC	122	52	AHBC
+0072	LN185	006	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Burton Lane No.1 LC	123	55	AHBC
+0072	LN185	006	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Whitehouse Farm LC	124	48	UWC
+0072	LN185	006	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Burton Lane No.2 LC (AHBC)	125	05	*
+0072	LN185	006	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Simpsons LC	125	24	UWC
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		125	51	*
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06		125	53	*
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Heckington LC	125	54	MCG
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Heckington SB	125	54	HN
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	HEGKINGTON	125	57	
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Great Hale Drove No.1 LC (AHBC)	126	27	*
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Great Hale Drove No.2 LC	127	24	AHBC—X
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Stones Sidings LC	128	30	UWC
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	Swineshead LC (AH BC)	130	21	
+0073	LN185	007	Allington West Jn to Skegness GRSZ London North Eastern	02/12/06	SWINESHEAD	130	25	
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06	Hubberts Bridge LC	133	46	M06
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06	Hubberts Bridge SB	133	46	
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06	HUBBERTS BRIDGE	133	48	
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06		133	52	*
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06		133	53	*
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06	Wyberton LC	135	58	CCTV
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06		136	40	*
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06		137	06	
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06		106	70	
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06		106	73	*
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06	Sleaford Sidings Ground Frame	106	75	*
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06	Broadfield Lane LC	107	00	CCTV
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06		107	12	*
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06	Boston West Street Jn SB	107	13	WS
+0074	LN185	008	Allington WestJn to Skegness GRSZ GRSS London North Eastern	02/12/06	Boston West Street Jn LC	107	13	M03
+0075	LN185	009	Allington West Jn to Skegness GRS London North Eastern	02/12/06	BOSTON	107	24	
+0075	LN185	009	Allington West Jn to Skegness GRS London North Eastern	02/12/06		107	35	
+0075	LN185	009	Allington West Jn to Skegness GRS London North Eastern	02/12/06	Grand Sluice LC	107	41	CCTV
+0075	LN185	009	Allington West Jn to Skegness GRS London North Eastern	02/12/06		107	56	*
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06		107	66	*
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06	Tattershall Road LC (AH BC)	107	69	
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06		107	70	*
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06		108	13	*
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06	Red Cap Lane LC (ABCL)	108	27	*
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06	Maud Foster LC	108	66	AHBC
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06	Willoughby Road LC	108	69	AHBC
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06	Pilleys Lane LC	108	76	AHBC
+0076	LN185	010	Allington West Jn to Skegness GRS London North Eastern	02/12/06	Willow Lane LC	110	15	AHBC
+0077	LN185	011	Allington West Jn to Skegness GR83 London North Eastern	13/12/08	Hum Lane LC	110	53	UWC
+0077	LN185	011	Allington West Jn to Skegness GR83 London North Eastern	13/12/08	High Ferry Lane Lc	111	04	AHBO
+0077	LN185	011	Allington West Jn to Skegness GR83 London North Eastern	13/12/08	High Ferry LC	111	23	AHBC
+0077	LN185	011	Allington West Jn to Skegness GR83 London North Eastern	13/12/08	No.18 LC	111	45	UWC
+0077	LN185	011	Allington West Jn to Skegness GR83 London North Eastern	13/12/08	Sibsey SB	112	07	8
+0077	LN185	011	Allington West Jn to Skegness GR83 London North Eastern	13/12/08	Sibsey LC	112	07	MCG
+0077	LN185	011	Allington West Jn to Skegness GR83 London North Eastern	13/12/08		112	12	
+0078	LN185	012	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Wards Dyke LC	112	25	UWC
+0078	LN185	012	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Hobhole Bank LC	113	54	UWC
+0078	LN185	012	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Hobhole Bank Bridleway	113	57	
+0078	LN185	012	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Old Leake LC (AH BC-X)	113	59	
+0078	LN185	012	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	No.30 LC	113	64	UWC
+0078	LN185	012	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Simmon House LC	114	11	AHBC-X
+0079	LN185	013	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Boston and Spilsby Road LC	116	24	AHBC-X
+0079	LN185	013	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Eastville LC	116	78	AHBc-X
+0079	LN185	013	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Grants LC	117	60	UWC
+0079	LN185	013	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Bellwater Jn SB	118	56	BJ
+0079	LN185	013	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Bellwater Jn LC	116	56	MCG
+0079	LN185	013	Allington West Jn. to Skegness GR83 London North Eastern	02/12/06	Little Steeping LC	120	20	AHBC-X
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08	Wainfleet (Low Road/Spilsby Road) LC	121	72	UWC
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08	Firsby South Jn (Former)	122	02	*
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08	Firsby East Jn	122	22	Former
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08		0	26	
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08		0	30	*
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08	Lymn Banks LC	1	46	AOCL-X
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08		1	60	*
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08	Couplands LC	2	03	UWC
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08		2	12	*
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08	Thorpe Culvert SB	2	21	TC
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08	Thorpe Culvert LC	2	21	MOB
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08	THORPE GULVERT	2	24	
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08		2	30	*
+0080	LN185	014	Allington WestJn. to Skegness GR83 GRS4 London North Eastern	09/08/08		2	67	*
+0081	LN185	015	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	Brewster Lane LC	3	06	AOCL-X
+0081	LN185	015	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	Matt Pitts Lane LC (AOCL—X)	3	62	*
+0081	LN185	015	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06		3	63	*
+0081	LN185	015	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06		4	12	*
+0081	LN185	015	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	'WAINFLEET	4	15	
+0081	LN185	015	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	Wainfleet SB	4	18	
+0081	LN185	015	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	Wainfleet LC	4	18	MCG
+0081	LN185	015	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06		4	20	*
+0082	LN185	016	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06		4	34	*
+0082	LN185	016	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	Wainfleet Bypass LC	4	56	AHBC-X
+0082	LN185	016	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06		5	00	*
+0082	LN185	016	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	Simpsons LC	5	32	UWC
+0082	LN185	016	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	HAVENHOUSE	5	78	
+0082	LN185	016	Allington West Jn. to Skegness GRS4 London North Eastern	02/12/06	Havenhouse LC	6	00	AHBC—X
+0083	LN185	017	Allington West Jn. to Skegness GRS4 London North Eastern	01/12/07	Eptons LC	7	23	UWC
+0083	LN185	017	Allington West Jn. to Skegness GRS4 London North Eastern	01/12/07	Seacroft LC	8	02	AOCL-X
+0083	LN185	017	Allington West Jn. to Skegness GRS4 London North Eastern	01/12/07		8	25	*
+0083	LN185	017	Allington West Jn. to Skegness GRS4 London North Eastern	01/12/07		8	75	*
+0083	LN185	017	Allington West Jn. to Skegness GRS4 London North Eastern	01/12/07	Skegness SB	9	05	
+0083	LN185	017	Allington West Jn. to Skegness GRS4 London North Eastern	01/12/07	SKEGNESS	9	17	

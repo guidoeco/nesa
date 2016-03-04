@@ -1,0 +1,25 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0141	SC073	001	Kilwinning Jn to Largs LGS1 Scotland |	11/11/08	Kilwinning Jn	25	65	
+0141	SC073	001	Kilwinning Jn to Largs LGS1 Scotland |	11/11/08	KILWINNING	26	00	
+0141	SC073	001	Kilwinning Jn to Largs LGS1 Scotland |	11/11/08		26	07	*
+0141	SC073	001	Kilwinning Jn to Largs LGS1 Scotland |	11/11/08	Dubbs Jn	26	70	
+0142	SC073	002	Kilwinning Jn to Largs LGS1 Scotland	11/11/08	STEVENSTON	28	25	
+0142	SC073	002	Kilwinning Jn to Largs LGS1 Scotland	11/11/08	Stevenston LC	28	28	CCTV
+0142	SC073	002	Kilwinning Jn to Largs LGS1 Scotland	11/11/08		29	33	*
+0143	SC073	003	Kilwinning Jn to Largs LGS1 LGSZ Scotland	11/11/08	SALTCOATS	29	55	
+0143	SC073	003	Kilwinning Jn to Largs LGS1 LGSZ Scotland	11/11/08		29	77	*
+0143	SC073	003	Kilwinning Jn to Largs LGS1 LGSZ Scotland	11/11/08		30	00	
+0143	SC073	003	Kilwinning Jn to Largs LGS1 LGSZ Scotland	11/11/08	ARDROSSAN SOUTH BEACH	30	38	
+0143	SC073	003	Kilwinning Jn to Largs LGS1 LGSZ Scotland	11/11/08	(Change of ELR LGS1 to LGSZ)	30	49	*
+0143	SC073	003	Kilwinning Jn to Largs LGS1 LGSZ Scotland	11/11/08		31	00	*
+0144	SC073	004	Kilwinning Jn to Largs LGSZ ? Scotland	11111108	WEST KILBRIDE	35	10	
+0144	SC073	004	Kilwinning Jn to Largs LGSZ ? Scotland	11111108	Hunterstan	36	41	
+0144	SC073	004	Kilwinning Jn to Largs LGSZ ? Scotland	11111108	Fairlie High Sdg GF	38	69	
+0144	SC073	004	Kilwinning Jn to Largs LGSZ ? Scotland	11111108	FAIRLIE	39	01	
+0145	SC073	005	Kilwinning Jn to Largs LGSZ Scotland	11/11/08		39	12	
+0145	SC073	005	Kilwinning Jn to Largs LGSZ Scotland	11/11/08	Fairlie Tunnel to 990 yards	39	57	
+0145	SC073	005	Kilwinning Jn to Largs LGSZ Scotland	11/11/08	Admiralty Sdg GF	39	58	
+0145	SC073	005	Kilwinning Jn to Largs LGSZ Scotland	11/11/08		40	30	*
+0145	SC073	005	Kilwinning Jn to Largs LGSZ Scotland	11/11/08		40	70	*
+0145	SC073	005	Kilwinning Jn to Largs LGSZ Scotland	11/11/08		41	30	*
+0145	SC073	005	Kilwinning Jn to Largs LGSZ Scotland	11/11/08	LARGS	42	07	

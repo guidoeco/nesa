@@ -1,0 +1,17 @@
+Brancliffe East Jn 0 00
+O 03 *-
+3 14 9c
+Dinnington Jn 3 17 *-
+9 23
+Maltby Colliery
+Maltby Colliery SB (M) 9 31
+9 62
+11 17 *-
+FirbeckJn 11 20
+14 20 *-
+14 62
+St Catherinean 15 17
+Low Ellers Curve Jn 15 55
+Markham Main Colliery GF 18 21
+Kirk SandallJn 20 49
+

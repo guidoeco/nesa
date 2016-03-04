@@ -1,0 +1,8 @@
+Preston North Jn 0 21 *-
+0 30 'k
+0 31 *
+Preston Fylde Jn 0 33
+Preston SB (PN) 0 41
+1 20 *-
+1 31 *-
+

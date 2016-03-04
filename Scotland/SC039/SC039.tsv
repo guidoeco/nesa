@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08	Kilmamock	-0	05	
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08		0	13	*
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08		0	30	*
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08		2	20	*
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08	Gatehead LC	2	51	AHBC
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08		3	25	*
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08		4	20	
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08		4	68	*
+0083	SC039	001	Kilmarnock to Barassie BAK Scotland	11/11/08		5	66	*
+0084	SC039	002	Kilmarnock to Barassie BAK Scotland	02/12/06	Shewalton Moss GF	5	71	OOU
+0084	SC039	002	Kilmarnock to Barassie BAK Scotland	02/12/06		5	77	*
+0084	SC039	002	Kilmarnock to Barassie BAK Scotland	02/12/06	Caledonian Paper Mill Sdg	6	60	
+0084	SC039	002	Kilmarnock to Barassie BAK Scotland	02/12/06		7	40	*
+0084	SC039	002	Kilmarnock to Barassie BAK Scotland	02/12/06	Barassie	7	56	*

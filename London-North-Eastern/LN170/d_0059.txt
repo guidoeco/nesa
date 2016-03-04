@@ -1,0 +1,13 @@
+NRN
+TCB Lincoln 800 (City workstation)
+RAB
+DS - Down Spalding
+US - Up Spalding
+RI - Lockout Protection provided. See General
+Instruction
+@ToiFrom Terrace Sidings
+DG - Down Gainsborough
+UG - Up Gainsborough
+FF is authorised on Platforms 3, 4 and 5 for
+trains booked to call at Lincoln Central only
+

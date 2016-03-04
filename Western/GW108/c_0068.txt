@@ -1,0 +1,10 @@
+194 18 av:
+TER ST THOMAS 194 66
+City Basin Jn 195 11
+
+195 40 *
+Exminster WILD 198 68
+Exminster HABD 198 70
+Turf Lock LC (UWC) 199 53
+Powderham LC (UWC) 200 50
+

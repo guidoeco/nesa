@@ -1,0 +1,12 @@
+NRN
+
+TCB Greenhill Jn SB (GJ)
+DBGL = Down Branch Goods Loop
+UBGL = Up Branch Goods Loop
+DGL 1450f (440m)
+(69 SLU's)
+UGL 1430f (435m)
+(68 SLU's)
+
+Cowlairs SC (CG)
+

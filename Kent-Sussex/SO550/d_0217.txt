@@ -1,0 +1,11 @@
+NRN CSR
+TCB Ashford SB (AD)
+RAB DC:Brighton
+CSR channel 66 applies in Up direction only 05R
+-a
+(PEMBURY 08)
+NRN
+DC:Paddock Wood
+1 Up Godstone
+2 Down Godstone
+

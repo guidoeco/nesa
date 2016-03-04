@@ -1,0 +1,9 @@
+73 34
+
+73 73 *
+CHANDLERS FORD 75 25
+Chandlers Ford UWC 75 40
+Crawford UWC 78 40
+Crampmoor Crossing 78 60
+Halterworth LC (AHBC) 79 24
+

@@ -1,0 +1,14 @@
+Tapton Jn 146 56
+146 69
+NRN Channel Change
+146 72
+Barrow Hill Scum Jn 146 76
+Barrow Hill
+Barrow Hill North Jn 149 46
+Foxlow Jn 150 64
+150 68 *
+Renishaw Slitting Mill LC (UWC) 151 O7
+Renishaw Park 151 55
+151 61
+152 47
+

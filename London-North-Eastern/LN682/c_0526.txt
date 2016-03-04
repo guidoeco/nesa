@@ -1,0 +1,26 @@
+Baron House LC (RIG-X) 41 56
+42 44 *
+Danton School LC (AHBC-X) 43 23 *
+Denton Farm LC cgUWCEa 43 43
+Benton Village L (MC ) 43 65
+Upper Danton LC (AHBC-X) 44 01
+Benton Mains Farm LC(UWC) 44 18
+Upper Denton West LC (UWC) 44 34
+44 64 *-
+Hightown Farm LC (UWC) 44 66
+Hioksons LC (UWC) 45 11
+Lane Head LC (M06) 45 38 *
+Baggarah Farm LC (UWC) 45 48
+t3$ 33$ ES'MCB' 18 £1
+46 34 *-
+46 60 1-
+Denton Mill LC (UWC) 47 19
+Naworth LC (AHBC—X) 47 67
+Milton Village LC (M03) 48 60
+BRAMPTON 49 21
+49 70 *-
+Brampton Fell LC (MOB) 50 10
+Brampton Fell SB 50 10
+51 17 *
+51 49 *-
+

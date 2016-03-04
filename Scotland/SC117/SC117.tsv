@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0205	SC117	001	Grangemouth Jn to Grangemouth Oil Terminal and Docks Yard (goods line) GMH Scotland	19/03/07	Grangmouth Jn SB	0	00	
+0205	SC117	001	Grangemouth Jn to Grangemouth Oil Terminal and Docks Yard (goods line) GMH Scotland	19/03/07	Fouldubs Jn SB	1	51	
+0205	SC117	001	Grangemouth Jn to Grangemouth Oil Terminal and Docks Yard (goods line) GMH Scotland	19/03/07		1	52	*
+0205	SC117	001	Grangemouth Jn to Grangemouth Oil Terminal and Docks Yard (goods line) GMH Scotland	19/03/07		2	23	*
+0207	SC117	003	Grangemouth Jn to Grangemouth Oil Terminal and Docks Yard (goods line) GMH Scotland	02/12/06	BP Chemicals GF	2	67	*
+0207	SC117	003	Grangemouth Jn to Grangemouth Oil Terminal and Docks Yard (goods line) GMH Scotland	02/12/06	Grangemouth Tongues LC	3	44	AOCL
+0207	SC117	003	Grangemouth Jn to Grangemouth Oil Terminal and Docks Yard (goods line) GMH Scotland	02/12/06	Oil Terminal LC	3	67	AOCL

@@ -1,0 +1,11 @@
+NRN
+TCB Cowlairs 30 (CG, CE)
+UPL 3150f (959m)
+(150 SLU's)
+DA =  Arrival
+DPL (Down) 3100f (944m)
+(147 SLU's)
+DPL (Up) 2900f (910m)
+(142 SLU's)
+DD = Down Departure
+

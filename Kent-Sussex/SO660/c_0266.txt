@@ -1,0 +1,14 @@
+(PURLEY) (15 13)
+Chipstead Line Jn 15 23
+15 28 *-
+Purley Substation 15 28
+KENLEY 18 29
+Kenley TP Hut 18 67
+WHYTELEAFE 17 58
+Whyteleafe LC (CCTV) 17 63
+WHYTELEAFE SOUTH 18 18
+Whyteleafe South Substation 18 18
+Whyteleafe South LC (CCTV) 18 21
+19 53 at:
+CATERHAM 19 70
+

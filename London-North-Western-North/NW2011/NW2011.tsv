@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0066	NW2011	001	Walton Old Jn. to Arpley Jn. WOA LNW North	07/10/06	Walton Old Jn	17	23	
+0066	NW2011	001	Walton Old Jn. to Arpley Jn. WOA LNW North	07/10/06		0	68	
+0066	NW2011	001	Walton Old Jn. to Arpley Jn. WOA LNW North	07/10/06	Arpley Grid Iron Jn South	0	66	
+0066	NW2011	001	Walton Old Jn. to Arpley Jn. WOA LNW North	07/10/06	Arpley Yard	0	66	X
+0066	NW2011	001	Walton Old Jn. to Arpley Jn. WOA LNW North	07/10/06		0	10	*
+0066	NW2011	001	Walton Old Jn. to Arpley Jn. WOA LNW North	07/10/06	Arpley Grid Iron Jn North	0	05	
+0066	NW2011	001	Walton Old Jn. to Arpley Jn. WOA LNW North	07/10/06	Arpley Jn OJPOO	0	05	X
+0066	NW2011	001	Walton Old Jn. to Arpley Jn. WOA LNW North	07/10/06		11	03	*

@@ -1,0 +1,7 @@
+Trowse Jn 113 68
+Change of mileage 123 00
+Trowse Swing Bridge SB (TB) 123 37
+Trowse Swing Bridge 123 37
+123 47 1:
+123 56 *
+

@@ -1,0 +1,8 @@
+34 29 *
+Water Orton East Jn 34 43
+(33 22)
+WATER ORTON 34 54
+(33 34)
+35 D4 *-
+Water Orton West Jn 35 15
+

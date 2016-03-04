@@ -1,0 +1,5 @@
+Lancing Substation 3 60
+EAST WORTHING 9 55
+WORTHING 10 46
+Worthing LC (CCTV) 10 59
+

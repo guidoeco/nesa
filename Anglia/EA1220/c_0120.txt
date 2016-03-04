@@ -1,0 +1,18 @@
+Airport
+Lines
+
+Stansted South Jn 33 54
+Stansted North Jn
+
+33 66 *-
+
+OHNS
+
+Stansted East Jn 34 26
+
+34 45 are
+Tye Green Jn 35 06 *-
+
+35 15
+Stansted Airport Tunnel to (1944 yds) 36 23
+

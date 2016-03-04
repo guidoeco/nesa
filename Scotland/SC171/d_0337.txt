@@ -1,0 +1,10 @@
+‘ ' ' I U06 I
+N = North lines
+8 = South Lines
+AWS is not provided between top
+of the page and Mound Tunnels (excl.)
+For details of lockouts in this area
+see Local Instructions
+ELR - ECN2 = North Lines
+EGM3 = South Lines
+

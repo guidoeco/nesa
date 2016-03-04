@@ -1,0 +1,11 @@
+Kings Dyke LC (MOB) 96 73
+Kings Dyke SB (K) 96 75
+Funthams Lane LC (CCTV) 97 16
+Territory Boundary 96 40
+99 70 i:
+100 16
+100 37
+CrescentJn. 100 66
+76 25
+PETERBOROUGH 76 29
+

@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0502	LN638	001	Grangetown (Shell Jn) to Cleveland Freightliner Terminal (Wilton) W01 London North Eastern	02/12/06	Shell Jn	0	00	
+0502	LN638	001	Grangetown (Shell Jn) to Cleveland Freightliner Terminal (Wilton) W01 London North Eastern	02/12/06	Network Rail Boundary	1	03	
+0502	LN638	001	Grangetown (Shell Jn) to Cleveland Freightliner Terminal (Wilton) W01 London North Eastern	02/12/06	Eastgate Mount LC (OPEN)	1	34	*
+0502	LN638	001	Grangetown (Shell Jn) to Cleveland Freightliner Terminal (Wilton) W01 London North Eastern	02/12/06	ICI Wilton Jn	1	38	
+0502	LN638	001	Grangetown (Shell Jn) to Cleveland Freightliner Terminal (Wilton) W01 London North Eastern	02/12/06	ICI Weighbridge House	1	78	
+0502	LN638	001	Grangetown (Shell Jn) to Cleveland Freightliner Terminal (Wilton) W01 London North Eastern	02/12/06	Goal Access LC	2	07	OPEN
+0502	LN638	001	Grangetown (Shell Jn) to Cleveland Freightliner Terminal (Wilton) W01 London North Eastern	02/12/06	North Gate LC	2	24	OPEN
+0502	LN638	001	Grangetown (Shell Jn) to Cleveland Freightliner Terminal (Wilton) W01 London North Eastern	02/12/06	Cleveland Freightliner Terminal	2	61	Wilton

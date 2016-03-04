@@ -1,0 +1,6 @@
+263 07
+Holyhead SB (HD) 263 26
+Platform 3 GF 263 49
+HOLYHEAD 263 52
+Platform 1 GF 263 56
+

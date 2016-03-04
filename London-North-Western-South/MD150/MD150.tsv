@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Continued on Anglia			X
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Route Sectional Appendix			X
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	EA1310 seq 4			X
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Kensal Green Jn	5	10	
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Territory Boundary	5	25	
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Change of electrification	5	25	X
+0055	MD150	001	Kensal Green Jn. to Willesden Suburban Jn. KGW LNW South	07/10/06	Willesden Suburban Jn	5	36	

@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0129	GW240	001	Didcot East Jn to Didcot North Jn Via Avoiding Line DEC Western	05/08/06	Didcot East Jn	52	66	
+0129	GW240	001	Didcot East Jn to Didcot North Jn Via Avoiding Line DEC Western	05/08/06	Foot crossing	53	06	WL
+0129	GW240	001	Didcot East Jn to Didcot North Jn Via Avoiding Line DEC Western	05/08/06	Didcot North Jn	53	71	Up
+0129	GW240	001	Didcot East Jn to Didcot North Jn Via Avoiding Line DEC Western	05/08/06	Didcot North Jn	54	00	Dn

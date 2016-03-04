@@ -1,0 +1,7 @@
+Humberstone Road Jn 100 20
+100 43 *
+Thurmaston Wheelchex 101 78
+SYSTON 103 63
+Syston South Jn 103 72
+Syston North Jn 104 25
+

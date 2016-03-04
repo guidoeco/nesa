@@ -1,0 +1,14 @@
+NRN CSR
+TCB Three Bridges SB (T)
+(B) - Train Stop - 9m 05ch
+(A) - Buffer Stop - 9m 39ch
+1 Up Selhurst Spur
+2 Down Selhurst Spur
+3 Through Road/Goods Road
+4 Up Wallington
+5 Up London Bridge Slow
+6 Up London Bridge Fast
+7 Down London Bridge Fast
+8 Down Wellington
+9 Down London Bridge Slow
+

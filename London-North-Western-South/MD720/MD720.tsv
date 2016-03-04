@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	PRINCES RISBOROUGH	24	40	
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Change of mileage	24	48	
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08		42	31	
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08		42	36	*
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	MONKS RISBOROUGH	43	57	
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	LITTLE KIMBLE	45	14	
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Apsley Manor Farm No.2 LC	46	58	UWC
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Dodds LC	46	70	UWC
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Marsh Lane LC (ABCL)	47	00	*
+0193	MD720	001	Princes Risborough to Aylesbury PRA LNW South	19/04/08	Moat Farm No.1 LC	47	44	UWC
+0194	MD720	002	Princes Risborough to Aylesbury PRA LNW South	07/10/06		49	18	*
+0194	MD720	002	Princes Risborough to Aylesbury PRA LNW South	07/10/06	Change of mileage	49	35	*
+0194	MD720	002	Princes Risborough to Aylesbury PRA LNW South	07/10/06		38	08	
+0194	MD720	002	Princes Risborough to Aylesbury PRA LNW South	07/10/06	AYLESBURY	38	13	

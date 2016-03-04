@@ -1,0 +1,32 @@
+Walton LC (M06) 9 35
+
+8 60
+
+8 53 *-
+
+8 48
+
+8 44 *-
+Melton Lane SB 8 41
+Melton Lane LG(MCB) 8 41
+
+8 18 *-
+FERRIBY 7 42
+
+7 36 al-
+
+7 32
+HESSLE 4 64
+Hessle East Jn 3 20
+
+2 40 *-
+
+2 20 *-
+Hessle Road South Jn 1 77
+Hessle Road SB (HR) 1 77
+
+1 73
+
+1 54 *
+Chalk Lane LC (CCTV) 1 49
+

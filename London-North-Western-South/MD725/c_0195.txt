@@ -1,0 +1,10 @@
+AYLESBURY 38 13
+38 18 *
+38 38
+38 47 *-
+39 O1
+
+Aylesbury Vale Junction 40 26 *
+
+AYLESBURY VALE PARKWAY 40 38
+

@@ -1,0 +1,7 @@
+RETB 101 Machynlleth SB (MH)
+RA5
+
+Location of known low rail adhesion
+
+- 37m 70ch and 38m 50ch
+

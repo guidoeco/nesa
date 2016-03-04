@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0194	LN3231	001	Wigston South Jn to Glen Parva Jn WGP London North Eastern	02/12/06	Wigston South Jn	95	37	
+0194	LN3231	001	Wigston South Jn to Glen Parva Jn WGP London North Eastern	02/12/06		95	46	*
+0194	LN3231	001	Wigston South Jn to Glen Parva Jn WGP London North Eastern	02/12/06		96	03	*
+0194	LN3231	001	Wigston South Jn to Glen Parva Jn WGP London North Eastern	02/12/06	Glen Parva Jn	96	07	
+0194	LN3231	001	Wigston South Jn to Glen Parva Jn WGP London North Eastern	02/12/06		14	57	

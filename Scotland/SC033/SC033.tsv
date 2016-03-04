@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0079	SC033	001	Dumfries to Maxwelltown (Goods Line) (OOU) MAX Scotland	02/12/06	Dumfries	91	63	
+0079	SC033	001	Dumfries to Maxwelltown (Goods Line) (OOU) MAX Scotland	02/12/06		91	53	
+0079	SC033	001	Dumfries to Maxwelltown (Goods Line) (OOU) MAX Scotland	02/12/06		0	00	
+0079	SC033	001	Dumfries to Maxwelltown (Goods Line) (OOU) MAX Scotland	02/12/06	Scottish Oil Sdg GF	1	79	
+0079	SC033	001	Dumfries to Maxwelltown (Goods Line) (OOU) MAX Scotland	02/12/06		2	25	*
+0079	SC033	001	Dumfries to Maxwelltown (Goods Line) (OOU) MAX Scotland	02/12/06		2	27	*
+0079	SC033	001	Dumfries to Maxwelltown (Goods Line) (OOU) MAX Scotland	02/12/06	ICISdg GF	2	71	
+0079	SC033	001	Dumfries to Maxwelltown (Goods Line) (OOU) MAX Scotland	02/12/06	End Of Branch	3	01	

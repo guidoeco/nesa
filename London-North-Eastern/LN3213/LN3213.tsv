@@ -1,0 +1,30 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	MOORGATE	0	00	
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	Barbican Tunnel	0	31	
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	(631 metresl690 yards)	0	32	*
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	BARBICAN	0	35	
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	Smithfield Tunnel	0	39	
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	(221 metresl242 yards)	0	50	
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07		0	54	*
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	Farringdon Jn	0	58	*
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	FARRINGDON	0	62	
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07		0	64	*
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	Clerkenwell No1 Tunnel	0	79	
+0187	LN3213	001	Moorgate to Kentish Town Jn MCL London North Eastern	01/12/07	(668 metres! 731 yards) to	1	32	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	Clerkenwell No 2 Tunnel	1	32	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	(142 metres! 155 yards)	1	39	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	Clerkenwell No 3 Tunnel	1	39	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	(199 metres! 218 yards)	1	50	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	KINGS GROSS THAMESLINK	1	55	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	(CLOSED)			Z
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	Kings Cross Tunnel	1	59	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	(1549 metres I 1694 yards) to	2	56	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	51'. PANCRAS INTERNATIONAL	2	11	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	Camden Road Tunnels	2	75	
+0188	LN3213	002	Moorgate to Kentish Town Jn MCL London North Eastern	09/12/07	(280 metres! 305 yards) 31009	2	75	X
+0189	LN3213	003	Moorgate to Kentish Town Jn MCL London North Eastern	23/06/07	KENTISH TOWN	3	40	
+0189	LN3213	003	Moorgate to Kentish Town Jn MCL London North Eastern	23/06/07	Kentish Town Jn	3	58	
+0189	LN3213	003	Moorgate to Kentish Town Jn MCL London North Eastern	23/06/07	Hampstead Jn Tunnel	3	73	
+0189	LN3213	003	Moorgate to Kentish Town Jn MCL London North Eastern	23/06/07	(44de)			Z
+0189	LN3213	003	Moorgate to Kentish Town Jn MCL London North Eastern	23/06/07	Carlton Road Jn	4	03	
+0189	LN3213	003	Moorgate to Kentish Town Jn MCL London North Eastern	23/06/07		2	13	

@@ -1,0 +1,21 @@
+1 09 *
+
+1 23 *
+
+1 25 2k
+Skelton Jn 1 50 *-
+
+1 60 *
+York FS OHNS 2 O4
+
+3 02 *
+Skelton Bridge Jn 3 11
+
+3 17
+
+3 23
+
+3 25 *-
+
+3 28 *
+

@@ -1,0 +1,12 @@
+LONDON BRIDGE 0 00
+( 1 69)
+0 14
+( 2 02)
+
+London Bridge SB (L)
+
+London Bridge TP Hut 0 19
+(2 03)
+0 21 *-
+0 32 9c
+

@@ -1,0 +1,18 @@
+NRN
+AB Glazebrook East Jn SB (GE)
+Platform Lengths: Glazebrook
+Up 90m (98yards)
+Down 88m (96yards)
+Platform Lengths: Birchwood
+Up 171m (1 BTyards)
+Down 170m (186yards)
+Platform lengths: Padgate
+Up 90m (98yards)
+Down 91m (100yards)
+TCB Warrington Central SB (WC)
+Platform Lengths: Warrington Central
+Platform 1
+Up 126m (138yards)
+Platform 2
+Down 123m (135yards)
+

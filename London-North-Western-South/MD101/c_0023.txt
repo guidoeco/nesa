@@ -1,0 +1,11 @@
+RUGBY 82 40
+Rugby 3.6.6. 82 60
+Rugby North Junction 82 70
+83 08 *-
+83 13 1':
+Trent Valley Junction 83 18
+83 33 *-
+83 42 1k
+83 48 1|:
+OHNS 83 58
+

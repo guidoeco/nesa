@@ -1,0 +1,30 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	Clarbeston Rd Jn	271	08	
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	Tanyard LC	273	72	UWC
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	Crundale Mill LC	274	07	UWC
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	Crundale LC	274	34	AHBC
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	Shoals Hook LC	275	13	UWC
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	Single Line Jn	275	65	*
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06		275	66	*
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	HAVERFORDWESTI	276	08	
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	HWLFFORDD			Z
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	Barrow crossing (WL)	276	13	*
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06		276	18	
+0444	GW960	001	Clarbeston Road to Milford Haven SWM2 Western	05/08/06	Single Line Jn	276	43	*
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06		277	00	*
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06	Winsel LC	279	09	UWC
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06		280	51	*
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06	JOHNSTON	280	67	
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06	(Change of ELR)	280	70	
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06		281	00	*
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06		281	25	*
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06	Gulf Oil Branch Jn	282	00	
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06	Little Harmiston LC	232	08	UWC
+0445	GW960	002	Clarbeston Road to Milford Haven SWM2 MIL Western	05/08/06	Herbrandston Jn	283	12	
+0446	GW960	003	Clarbeston Road to Milford Haven MIL Western	05/08/06	Steynton LC	283	21	UWC
+0446	GW960	003	Clarbeston Road to Milford Haven MIL Western	05/08/06		284	00	*
+0446	GW960	003	Clarbeston Road to Milford Haven MIL Western	05/08/06	Loop GF	284	44	
+0446	GW960	003	Clarbeston Road to Milford Haven MIL Western	05/08/06	Yard GF	284	53	
+0446	GW960	003	Clarbeston Road to Milford Haven MIL Western	05/08/06	MILFORD HAVEN	284	65	
+0446	GW960	003	Clarbeston Road to Milford Haven MIL Western	05/08/06	South GF	284	69	
+0446	GW960	003	Clarbeston Road to Milford Haven MIL Western	05/08/06	End of line	284	71	

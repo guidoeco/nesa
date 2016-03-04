@@ -1,0 +1,11 @@
+NRN CSR
+DC: Sandhills
+Platform Lengths: Wallasey Grove Rd
+Up: 127m (139 yards)
+Down: 127m (139 yards)
+Platform Lengths: New Brighton
+Platform 1 Permissive PP
+120m (131 yards)
+Platform 2 Permissive PP
+126m (138 yards)
+

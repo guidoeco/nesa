@@ -1,0 +1,9 @@
+Loughborough North Jn 112 06
+112 40 2k
+115 07 1:
+115 31 a:
+117 70 a:
+118 05 *
+
+EAST MIDLANDS PARKWAY 118 20
+

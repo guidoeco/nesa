@@ -1,0 +1,84 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	(Swanley Jn)	17	46	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Wasted Lane TP Hut	18	41	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Eynsford Tunnel	18	67	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	(828 yards) to	19	24	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Eynsford Substation	19	52	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	OCC Xing	19	57	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Footpath Xing	19	59	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	EYNSFORD	20	32	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Lullingstone Substation	21	33	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Willmotts FIP Crossing	22	33	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	SHOREHAM	22	52	
+0064	SO140	001	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Greenhill Substation	23	15	
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07		24	00	*
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07	OTFORD	24	06	
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07	Otford Ground Frame	24	14	*
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07	Otford Jn	24	53	*
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07		24	58	*
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07	Otford Jn Substation	24	60	
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07		25	40	*
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07	BAT & BALL	25	51	
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07	(Sevenoaks Jn)	26	61	
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07		25	07	*
+0065	SO140	002	Swanley to Ashford SBJ OJS Kent/Sussex	27/01/07	Seal Crossing	25	78	
+0066	SO140	003	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Noahs Ark Substation	26	31	
+0066	SO140	003	Swanley to Ashford SBJ Kent/Sussex	02/12/06	KEMSING	26	79	
+0066	SO140	003	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Oldbury Substation	28	12	
+0066	SO140	003	Swanley to Ashford SBJ Kent/Sussex	02/12/06		29	05	*
+0066	SO140	003	Swanley to Ashford SBJ Kent/Sussex	02/12/06	BOROUGH GREEN & WROTHAM	29	46	
+0066	SO140	003	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Borough Green Substation	29	63	
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06		30	65	*
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06		31	13	*
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Wrotham Heath Substation	31	37	
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06		32	75	*
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Church Road Substation	33	07	
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06		33	40	*
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Wast Malling Substation	34	55	
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06	WEST MALLING	34	61	
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06	EAST MALLING	35	64	
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06		35	72	*
+0067	SO140	004	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Ditton Substation	36	29	
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06		36	65	*
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06	BARMING	37	43	
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06		33	00	*
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Barming Substation	38	05	
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06		39	25	*
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Maidstone Substation	39	55	*
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06		39	59	*
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Maidstone East SB	39	72	ME
+0068	SO140	005	Swanley to Ashford SBJ Kent/Sussex	02/12/06	MAIDSTONE EAST	39	76	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Week Street Tunnel	40	01	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	(98 yards)	40	06	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Wheeler Street Tunnel	40	09	*
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	(358 yards) to	40	25	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06		40	30	*
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06		40	69	*
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Mote Park Substation	41	20	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06		42	25	*
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06		42	50	*
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	BEARSTED	42	59	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06		42	74	*
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Bearsted Substation	42	78	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Snarkhurst Wood Substation	44	53	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	HOLLINGBOURNE	45	02	
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06		45	60	*
+0069	SO140	006	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Hollingbourne Substation	46	25	
+0070	SO140	007	Swanley to Ashford SBJ Kent/Sussex	02/12/06	HARRIETSHAM	47	36	
+0070	SO140	007	Swanley to Ashford SBJ Kent/Sussex	02/12/06		47	70	*
+0070	SO140	007	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Harrietsham Substation	47	79	
+0070	SO140	007	Swanley to Ashford SBJ Kent/Sussex	02/12/06	LENHAM	49	11	
+0070	SO140	007	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Lenham Substation	49	53	
+0070	SO140	007	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Salve Substation	51	28	
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Chafing Substation	53	05	
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06	CHARING	53	11	
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Westwell Substation	54	53	
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Hothfield Sidings	55	50	
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06		55	73	*
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06		56	22	
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06		56	50	*
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Potters Corner Substation	57	77	
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06		58	01	*
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06		58	39	*
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06		58	51	*
+0071	SO140	008	Swanley to Ashford SBJ Kent/Sussex	02/12/06	Godinton Substation	58	53	

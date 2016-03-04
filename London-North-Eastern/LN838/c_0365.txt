@@ -1,0 +1,11 @@
+STARBECK 18 27
+Starbeck LC iMCB) 18 24
+Starbeck SB SB) 18 24
+18 23 *-
+18 13 *
+Belmont LC (MCB) 17 69
+17 50 it
+17 27 9c
+16 74 7k
+16 59 5':
+

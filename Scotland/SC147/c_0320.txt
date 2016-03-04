@@ -1,0 +1,11 @@
+O 33 *
+Haymarket North & South Tunnels 0 47 9:
+to 1040 yards 1 14
+HAYMARKET 1 19
+46 02
+45 78 *
+(1 27) i:
+45 73 i:
+45 72
+Haymarket East Jn (1 29)
+

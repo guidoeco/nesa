@@ -1,0 +1,15 @@
+41 71 *
+Balnacra LC (AOCL) 42 12
+
+42 44 *-
+Balnacra No 2 LC (UWC) 42 58
+Dalmartin LC (UWC) 43 00
+Coulags No1 LC (UWC) 43 32
+Coulags No 3 LC (UWC) '44 14
+Blackwood No 1 LC (UWC) 44 35
+Blackwood LC (ABCL) 44 67
+Sdg GF
+STRATHGARRON TEP 45 74
+Strathcarron LC (AOCL) 45 77
+West end loop points 46 01 it
+

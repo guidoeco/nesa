@@ -1,0 +1,13 @@
+Robinsons LC (UWC) 101 36
+100 47 *
+Ulceby North Jn 100 44
+100 41
+100 38
+ULCEBY 100 36
+Ulceby Jn LC (M03) 100 32
+Ulceby Jn SB (UJ) 100 32
+Ulceby South Jn 100 31
+Brocklesby East Jn 99 39
+Brocklesby Jn SB (B) 99 31
+Brocklesby West Jn 99 20
+

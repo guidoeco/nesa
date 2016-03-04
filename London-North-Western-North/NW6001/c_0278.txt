@@ -1,0 +1,16 @@
+8 75 *
+MOSES GATE 9 06
+Moses Gate Jn 9 28
+
+9 31
+Bumden Jn 10 04
+
+10 20 *
+
+10 26
+Bolton EastJn 10 31
+
+10 42 *
+BOLTON 10 50
+Bolton WestJn 10 55 *
+

@@ -1,0 +1,19 @@
+Flemingate LC (RC) 8 O2 *
+Beverley LC iMCB) 8 16
+Beverley SB BS) 8 16 *
+BEVERLEY 8 20
+
+8 26 *
+Cherry Tree LC (CCTV) 3 39
+Beverley North LC (CCTV) 8 62
+AM 11 16
+Arrarn LC (AHBC-X) 11 16
+Scorborough LC (AHBC—X) 12 24
+Lookington LC (AHBC—X) 12 74
+Beswick LC (AHBC—X) 13 53
+Kilnwick LC (AHBC-X) 14 O1
+Walton LC (AHBC-X) 14 44
+Cranswick LC (AHBC-X) 16 18
+HUTTON GRANSWICK 16 21
+Hutton LC (AHBC-X) 16 73
+

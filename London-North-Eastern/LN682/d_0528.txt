@@ -1,0 +1,44 @@
+NRN
+
+TCB Carlisle SB (CE) 083
+
+RA8 AC: Cathcart ECR
+
+AWS not provided at Carlisle Station signals
+
+6) - TolFrom NewcastleiLeeds see LN682 seq 6 and
+Network Rail LNW Route Sectional Appendix
+
+® - ToIFrom Penrit_h see Network Rail LNW Route
+Sectional Appendix
+
+© - TolFrom Workington see Network Rail LNW
+Route Sectional Appendix
+
+UIDN = UplDown Newcastle
+
+UM = Up Main
+
+DM = Down Main
+
+UMC = Up Maryport & Carlisle
+
+DMC = Down Maryport & Garlisle
+
+PP is aulhorised in Platforms 1, 3 and 4
+
+CARLISLE STATION AREA
+
+ALL LINES AND CROSSOVERS
+
+BETWEEN 68 61 and 0 20 ARE
+
+20 MPH MAXIMUM SPEED
+
+B = B UpIDown Goods line
+
+C = C UplDown Goods line
+
+GD - TolFrom Gretna Jn see Network Rail LNW
+Route Sectional Appendix
+

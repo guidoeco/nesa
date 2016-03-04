@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07	Corby Gates SB LC	55	54	CG
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07		55	69	*
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07	WETHEIIAL	55	76	
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07		56	03	*
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07	Wetheral HABD (to Carlisle box)	56	73	
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07	Scotby LC	56	76	UWC
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07	Network Rail	58	00	
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07	London Norfl1 Western	58	00	X
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07	(Appendix Boundary)	58	00	X
+0424	NW9909	001	Corby Gates to Petteril Bridge Jn. NEC LNW North	07/07/07	Petteril Bridge Jn	59	26	*

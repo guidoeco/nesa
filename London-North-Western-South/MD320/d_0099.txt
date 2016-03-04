@@ -1,0 +1,17 @@
+NRN
+TCB Birmingham New Street PSB (NS)
+AC: Rugby ECR
+
+Platform lengths: Aston
+
+Down -148 metres
+
+Up -145 metres
+
+Platform lengths: Witton
+
+Down-139 metres
+
+Up-137 metres
+DGL 55 SLU (385 yards/352 metres)
+

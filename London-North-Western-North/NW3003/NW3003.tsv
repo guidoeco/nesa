@@ -1,0 +1,25 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0108	NW3003	001	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	28/02/09	Chester East Jn	0	24	
+0108	NW3003	001	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	28/02/09		0	29	*
+0108	NW3003	001	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	28/02/09		0	53	*
+0108	NW3003	001	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	28/02/09	Mickle Trafford SB	2	59	MT
+0108	NW3003	001	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	28/02/09		2	63	
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06		7	28	*
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06		7	29	*
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	HELSBY	7	34	
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	Helsby Junction SB	7	34	X
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06		7	36	*
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06		7	40	
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06		7	50	*
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	FRODSHAM	9	68	
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	Frodsham Tunnel	10	07	
+0109	NW3003	002	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	(80m 187 yd) to	10	11	
+0110	NW3003	003	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	Frodsham Jn	11	04	
+0110	NW3003	003	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	Frodsham Jn SB	11	09	
+0110	NW3003	003	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06		11	31	
+0110	NW3003	003	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	Sutton Tunnel	11	63	
+0110	NW3003	003	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	(1750m 1914 yd) to	12	70	
+0110	NW3003	003	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	RUNCORN EAST	13	06	
+0110	NW3003	003	Chester East Jn. to Acton Grange Jn. CHW1 LNW North	07/10/06	Norton SB	13	17	
+0111	NW3003	004	Chester East Jn. to Acton Grange Jn. CHW LNW North	07/10/06	Acton Grange GF No.2	16	07	
+0111	NW3003	004	Chester East Jn. to Acton Grange Jn. CHW LNW North	07/10/06	Acton Grange Jn	16	19	

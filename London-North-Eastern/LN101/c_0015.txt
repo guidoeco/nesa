@@ -1,0 +1,18 @@
+76 10 *-
+Nene Carriage Sidings
+76 19 1k
+Crescent Jn 76 25 are
+PETERBOROUGH 76 29
+76 31 1c
+76 35 'k
+76 37 1e
+76 38 *-
+Spittal Jn 76 45
+Peterborough (P) 76 47 *
+76 56 'k
+76 57 av:
+76 60 *
+76 70 1k
+76 71 it
+Eastfield 77 02
+

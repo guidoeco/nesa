@@ -1,0 +1,13 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0201	SC115	001	Cowlairs West Jn to Knightwood North Jn MRL1 Scotland	02/12/06	Cowlairs West Jn	8	26	
+0201	SC115	001	Cowlairs West Jn to Knightwood North Jn MRL1 Scotland	02/12/06	Cowlairs North Jn	8	08	
+0201	SC115	001	Cowlairs West Jn to Knightwood North Jn MRL1 Scotland	02/12/06		8	07	*
+0201	SC115	001	Cowlairs West Jn to Knightwood North Jn MRL1 Scotland	02/12/06	ASHFIELD	7	76	
+0201	SC115	001	Cowlairs West Jn to Knightwood North Jn MRL1 Scotland	02/12/06	POSSILPARK AND PARKHOUSE	7	46	
+0202	SC115	002	Cowlairs West Jn to Knightwood North Jn MRL1 MRL2 Scotland	23/10/07	GILSHOCHILL	6	37	
+0202	SC115	002	Cowlairs West Jn to Knightwood North Jn MRL1 MRL2 Scotland	23/10/07	SUMMERSTON	6	04	
+0202	SC115	002	Cowlairs West Jn to Knightwood North Jn MRL1 MRL2 Scotland	23/10/07	MARYHILL	5	57	
+0202	SC115	002	Cowlairs West Jn to Knightwood North Jn MRL1 MRL2 Scotland	23/10/07	(Change of ELR MRL1 to MRL2)	5	51	
+0202	SC115	002	Cowlairs West Jn to Knightwood North Jn MRL1 MRL2 Scotland	23/10/07	Maryhill Park Jn	5	51	
+0202	SC115	002	Cowlairs West Jn to Knightwood North Jn MRL1 MRL2 Scotland	23/10/07		4	40	
+0202	SC115	002	Cowlairs West Jn to Knightwood North Jn MRL1 MRL2 Scotland	23/10/07	Knightswood North Jn	5	67	

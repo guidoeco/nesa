@@ -1,0 +1,10 @@
+CHAPELTON 207 02
+Chapelton Station LC (UWC) 207 06
+Great Fisherton Farm1 LC (UWC) 207 72
+Great Fisherton Farm 2 LC (UWC) 208 27
+210 78
+211 17 *-
+Bamstaple GF 211 18
+BARNSTAPLE 211 25
+Endofline 211 31
+

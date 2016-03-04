@@ -1,0 +1,196 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0401	SC193	001	Perth to Inverness SCM4 SCM5 HGL1 Scotland	02/12/06	Down main signal P29	150	50	*
+0401	SC193	001	Perth to Inverness SCM4 SCM5 HGL1 Scotland	02/12/06	(Change of SCM4 to SCM5)	150	50	X
+0401	SC193	001	Perth to Inverness SCM4 SCM5 HGL1 Scotland	02/12/06	Down Fast signal P61 and up Fast	151	00	*
+0401	SC193	001	Perth to Inverness SCM4 SCM5 HGL1 Scotland	02/12/06	signal P64 and Down Dundee loop	151	00	X
+0401	SC193	001	Perth to Inverness SCM4 SCM5 HGL1 Scotland	02/12/06	signal P65	151	00	X
+0401	SC193	001	Perth to Inverness SCM4 SCM5 HGL1 Scotland	02/12/06		151	03	
+0401	SC193	001	Perth to Inverness SCM4 SCM5 HGL1 Scotland	02/12/06		21	01	*
+0401	SC193	001	Perth to Inverness SCM4 SCM5 HGL1 Scotland	02/12/06	Perth 83	151	05	
+0402	SC193	002	Perth to Inverness HGL1 Scotland	07/05/08	PERTH	151	25	
+0402	SC193	002	Perth to Inverness HGL1 Scotland	07/05/08	Up fast signal P174	151	52	*
+0403	SC193	003	Perth to Inverness HGL1 Scotland	02/12/06		152	20	*
+0403	SC193	003	Perth to Inverness HGL1 Scotland	02/12/06	Connection to south and of Perth Yard	152	32	
+0403	SC193	003	Perth to Inverness HGL1 Scotland	02/12/06		153	00	
+0403	SC193	003	Perth to Inverness HGL1 Scotland	02/12/06		153	16	*
+0403	SC193	003	Perth to Inverness HGL1 Scotland	02/12/06		153	60	
+0403	SC193	003	Perth to Inverness HGL1 Scotland	02/12/06		154	00	*
+0403	SC193	003	Perth to Inverness HGL1 Scotland	02/12/06		154	72	*
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06		156	36	*
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06		158	10	*
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06		158	33	*
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06		158	36	*
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06	(Change of ELR	158	38	
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06	HGL1 to HGL2)	7	02	
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06	Stanlean SB	7	07	
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06		7	28	*
+0404	SC193	004	Perth to Inverness HGL1 HGL2 Scotland	02/12/06		7	53	*
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06	Charleston LC	8	32	UWC
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06	Kinclaven LC	8	63	UWC
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06	Murthly LC	10	15	AHBC
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06		12	39	*
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06	Kingswood Tunnel	12	78	
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06	(330 yards) to	13	13	
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06		13	20	*
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06		13	16	
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06		13	63	*
+0405	SC193	005	Perth to Inverness HGL2 Scotland	02/12/06		14	74	*
+0406	SC193	006	Perth to Inverness HGL2 Scotland	02/12/06	Dunkeld SB	15	25	
+0406	SC193	006	Perth to Inverness HGL2 Scotland	02/12/06	DUNKELD and BIRNAM	15	31	
+0406	SC193	006	Perth to Inverness HGL2 Scotland	02/12/06		15	45	*
+0406	SC193	006	Perth to Inverness HGL2 Scotland	02/12/06		16	45	*
+0406	SC193	006	Perth to Inverness HGL2 Scotland	02/12/06	lnverTunnel	16	55	
+0406	SC193	006	Perth to Inverness HGL2 Scotland	02/12/06	370 yards to	16	72	
+0406	SC193	006	Perth to Inverness HGL2 Scotland	02/12/06		17	00	*
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08		17	42	*
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08	Inchmagranachan No.2 LC	18	36	UWC
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08	Inchmagranachan No.3 LC	18	57	UWC
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08		19	40	
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08	Easter Dalguise No.1LC	19	76	UWC
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08	Easter Dalguise No.2 LC	20	14	UWC
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08		20	23	*
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08		20	52	*
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08	Guay LC	21	29	UWC
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08	Haugh of Tullymet LC	22	67	RIG
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08		23	61	
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08	Moulineam LC	25	33	RIG
+0407	SC193	007	Perth to Inverness HGL2 Scotland	10/10/08		27	21	*
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06	PITLOGHRY	28	21	
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06	Pitlochry SB	28	31	
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06	Moulin LC	28	65	UWC
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06		30	00	
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06		31	57	*
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06	Killiecrankie Tunnel	31	66	
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06	(240 yards) to	31	77	
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06		32	06	*
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06	Urrard No.1 LC	32	15	UWC
+0408	SC193	008	Perth to Inverness HGL2 Scotland	02/12/06		32	20	
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06	Urrard No2LC	32	41	UWC
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06	Auldclune N03 LC	33	27	UWC
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06	Kings Island LC	34	02	UWC
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06	BallentoulLC	34	36	UWC
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06		34	77	*
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06		35	02	*
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06	BlairAtholl SB and LC	35	05	M03
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06	BLAIR ATHOLL	35	09	
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06		37	00	
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06	Pitagowan LC	38	30	UWC
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06		38	60	
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06		39	20	*
+0409	SC193	009	Perth to Inverness HGL2 Scotland	02/12/06		39	60	
+0410	SC193	010	Perth to Inverness HGL2 Scotland	02/12/06	Clunes LC	41	25	UWC
+0410	SC193	010	Perth to Inverness HGL2 Scotland	02/12/06		41	40	
+0410	SC193	010	Perth to Inverness HGL2 Scotland	02/12/06		41	68	*
+0410	SC193	010	Perth to Inverness HGL2 Scotland	02/12/06		42	40	
+0410	SC193	010	Perth to Inverness HGL2 Scotland	02/12/06		42	44	*
+0410	SC193	010	Perth to Inverness HGL2 Scotland	02/12/06		43	60	
+0410	SC193	010	Perth to Inverness HGL2 Scotland	02/12/06	Dalnacardoch GF	44	76	
+0410	SC193	010	Perth to Inverness HGL2 Scotland	02/12/06		47	00	
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06		48	60	
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06	Red Van LC	49	03	UWC
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06		49	60	
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06		49	69	*
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06	Dalnaspidal LC	50	60	UWC
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06		51	00	
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06		52	40	
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06		53	00	*
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06		53	60	
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06	Whitebridge LC	54	14	UWC
+0411	SC193	011	Perth to Inverness HGL2 Scotland	02/12/06	Balsporran LC	54	65	UWC
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06		55	40	
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06		56	40	
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06		57	40	*
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06	Ben Alder LC	58	30	UWC
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06	DALWI-IINNIE	58	47	
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06	Dalwhinnie SB	58	53	
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06	Distillery Burn LC (UWC)	58	70	*
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06		59	50	*
+0412	SC193	012	Perth to Inverness HGL2 Scotland	02/12/06		60	40	
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06	Cuaich LC	60	41	UWC
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06	Inchlea LC	62	38	UWC
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		62	40	*
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		62	60	
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		64	76	
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		66	46	*
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		67	00	
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		68	20	
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		68	22	*
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		68	27	*
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		68	31	
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06		68	60	
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06	NEWTONMORE	68	62	
+0413	SC193	013	Perth to Inverness HGL2 Scotland	02/12/06	Altlaurie LC	69	74	UWC
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	Ballachroan LC	70	32	UWC
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	Pitmain No1 LC	70	56	UWC
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	Pitmain No 2 LC	70	71	UWC
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	KINGUSSIE	71	43	
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	KingusSie SB and LC	71	50	M63
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	Macraes LC	72	39	UWC
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	Lynchat LC	73	11	UWC
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06		73	17	*
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	Balavil Burn LC	73	72	UWC
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06		74	00	
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	Balavil Gates LC	74	05	UWC
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06		74	76	
+0414	SC193	014	Perth to Inverness HGL2 Scotland	02/12/06	Croftcarnoch No 2 LC	74	77	UWC
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06		76	20	*
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06		76	70	*
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06	South Pts	77	23	
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06	North Pts	77	55	*
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06		79	00	
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06		30	00	
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06		81	40	
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06		82	09	*
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06		82	29	*
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06	Lynwilg No1 LC	82	31	UWC
+0415	SC193	015	Perth to Inverness HGL2 Scotland	02/12/06		83	05	*
+0416	SC193	016	Perth to Inverness HGL2 Scotland	02/12/06		83	15	*
+0416	SC193	016	Perth to Inverness HGL2 Scotland	02/12/06	AVIEMORE	83	31	
+0416	SC193	016	Perth to Inverness HGL2 Scotland	02/12/06	Aviemore	83	51	
+0416	SC193	016	Perth to Inverness HGL2 Scotland	02/12/06		33	63	*
+0416	SC193	016	Perth to Inverness HGL2 Scotland	02/12/06		84	40	
+0416	SC193	016	Perth to Inverness HGL2 Scotland	02/12/06		86	40	
+0416	SC193	016	Perth to Inverness HGL2 Scotland	02/12/06		88	03	
+0416	SC193	016	Perth to Inverness HGL2 Scotland	02/12/06		89	00	
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08		89	59	*
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08	South Pts	89	65	
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08		89	73	*
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08	CARRBRIDGE	90	00	
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08	North Pts	90	15	
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08		91	40	
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08		92	60	
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08		93	40	*
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08		93	67	
+0417	SC193	017	Perth to Inverness HGL2 Scotland	08/03/08		94	60	*
+0418	SC193	018	Perth to Inverness HGL2 Scotland	30/08/08		95	13	*
+0418	SC193	018	Perth to Inverness HGL2 Scotland	30/08/08	South Pts	95	14	
+0418	SC193	018	Perth to Inverness HGL2 Scotland	30/08/08	North Pts	95	46	
+0418	SC193	018	Perth to Inverness HGL2 Scotland	30/08/08		97	14	*
+0418	SC193	018	Perth to Inverness HGL2 Scotland	30/08/08		97	60	
+0418	SC193	018	Perth to Inverness HGL2 Scotland	30/08/08	South Pts	98	60	
+0418	SC193	018	Perth to Inverness HGL2 Scotland	30/08/08	North Pts	99	11	*
+0419	SC193	019	Perth to Inverness HGL2 Scotland	02/12/06	South Pts	102	70	
+0419	SC193	019	Perth to Inverness HGL2 Scotland	02/12/06	North Pts	103	23	
+0419	SC193	019	Perth to Inverness HGL2 Scotland	02/12/06		105	00	
+0419	SC193	019	Perth to Inverness HGL2 Scotland	02/12/06		107	00	
+0419	SC193	019	Perth to Inverness HGL2 Scotland	02/12/06		108	60	
+0419	SC193	019	Perth to Inverness HGL2 Scotland	02/12/06		110	58	*
+0419	SC193	019	Perth to Inverness HGL2 Scotland	02/12/06		110	73	*
+0420	SC193	020	Perth to Inverness HGL2 Scotland	02/12/06	Culloden No 1 GF	111	17	
+0420	SC193	020	Perth to Inverness HGL2 Scotland	02/12/06	Gulloden	111	30	
+0420	SC193	020	Perth to Inverness HGL2 Scotland	02/12/06	Culloden No 2 GF	111	32	*
+0420	SC193	020	Perth to Inverness HGL2 Scotland	02/12/06		113	00	
+0420	SC193	020	Perth to Inverness HGL2 Scotland	02/12/06		116	37	*
+0421	SC193	021	Perth to Inverness HGL2 Scotland	02/12/06	Cradlehall	116	44	
+0421	SC193	021	Perth to Inverness HGL2 Scotland	02/12/06		117	32	*
+0422	SC193	022	Perth to Inverness HGL2 Scotland	02/12/06	Raigmore LC: (CCTV)	143	09	*
+0422	SC193	022	Perth to Inverness HGL2 Scotland	02/12/06		143	33	*
+0423	SC193	023	Perth to Inverness HGL2 Scotland	02/12/06	Millbum Jn 143	39	00	
+0423	SC193	023	Perth to Inverness HGL2 Scotland	02/12/06		117	37	*
+0424	SC193	024	Perth to Inverness HGL2 RSW WCK Scotland	01/12/07	Walsh's Bridge	117	56	
+0424	SC193	024	Perth to Inverness HGL2 RSW WCK Scotland	01/12/07	Rose Street LC	117	71	CCTV
+0424	SC193	024	Perth to Inverness HGL2 RSW WCK Scotland	01/12/07	Invemess T03 and RETB SC	117	77	I
+0424	SC193	024	Perth to Inverness HGL2 RSW WCK Scotland	01/12/07		118	01	
+0424	SC193	024	Perth to Inverness HGL2 RSW WCK Scotland	01/12/07		0	18	
+0424	SC193	024	Perth to Inverness HGL2 RSW WCK Scotland	01/12/07	(North lines only)	0	18	X
+0424	SC193	024	Perth to Inverness HGL2 RSW WCK Scotland	01/12/07	INVERNESS	118	03	

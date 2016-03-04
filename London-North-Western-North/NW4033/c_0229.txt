@@ -1,0 +1,11 @@
+Low Mill LC (RIG) 24 25
+Low Mill HABD 24 27
+Currock GF 26 66
+Currock Jn 26 74 i:
+27 20 *-
+27 45 5k
+27 49
+Carlisle South Jn 27 49
+68 67
+Carlisle SB (CE) 68 69
+

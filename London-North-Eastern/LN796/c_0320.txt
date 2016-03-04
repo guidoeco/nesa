@@ -1,0 +1,6 @@
+Rufford Colliery 2 10
+2 07
+1 67
+Elmsley LC (OPEN) 1 07
+Rufford Colliery Jn 0 00
+

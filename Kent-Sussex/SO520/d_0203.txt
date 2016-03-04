@@ -1,0 +1,17 @@
+NRN CSR
+TCB Chichester SB (CC)
+RAB DC: Brighton
+CSR
+NRN CSR
+TCB Havant SB (HT)
+RAB DC: Eastleigh J J 
+GSM-R area (IVRS)
+Up Exit 35m 35ch
+. Down Entry 35m 35ch
+LA
+Axle Counters:
+UP Exit 35m 35¢h
+Down Entry 35m 350h
+1 Up
+2 Down
+

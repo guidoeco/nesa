@@ -1,0 +1,47 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06	Ipswich Goods Jn	68	72	
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06		69	04	*
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06	Ipswich Upper Yard	69	04	X
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06	East Suffolk Jn	69	41	
+0032	EA1012	001	Ipswich to Trowse Junction LTN Anglia	05/08/06		69	60	*
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	DaineslMayhew LC	72	75	
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Claydon LC	73	47	CCTV
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Claydon GF	73	70	
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Barham sidings	74	12	
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Baylam LC	75	17	AHBC-X
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	NEEDHAM MARKET	77	07	
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	Gypsy Lane LC	77	64	
+0033	EA1012	002	Ipswich to Trowse Junction LTN Anglia	05/08/06	OHNS	79	10	
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06		80	00	*
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06		80	35	*
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06	STOWMARKET	80	46	
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06	Stowmarket (MGB) LC	80	54	
+0034	EA1012	003	Ipswich to Trowse Junction LTN Anglia	05/08/06	(Supervised by Stowmarket Gate Box)	80	54	X
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Regent Street LC	80	68	CCTV
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Marsh Lane LC	81	26	UWC
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06		81	52	*
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Haughley LC	82	70	AHBC
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Haughley Jn	82	79	
+0035	EA1012	004	Ipswich to Trowse Junction LTN Anglia	05/08/06	Wassicks LC	83	79	AHBC—X
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Cow Green GSP	85	20	
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Gislingham LC	88	14	
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Rectory Rd LC	91	05	AHBC-X
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Beecroft (Wright's) LC	91	16	UWC
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Mellis LC	91	34	AHBC—X
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	Palgrave LC (AH BC—X)	94	04	
+0036	EA1012	005	Ipswich to Trowse Junction LTN Anglia	05/08/06	DISS	94	79	
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Audley End (Norfolk) LC (AH BC—X)	97	04	
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Burston LC	97	47	AHBC-X
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Gissing No 2 LC	98	57	AHBC-X
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	OHNS	98	76	
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Hales Street LC	100	26	AHBC—X
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Tivetshall LC	100	43	AHBC—X
+0037	EA1012	006	Ipswich to Trowse Junction LTN Anglia	05/08/06	Black Mill LG	101	01	
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Moulton LC	101	51	AHBC—X
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Flordon GSP	106	63	
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Newton Flotman LC	108	19	AHBC-X
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Swainsthorpe LC	109	54	AHBC-X
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06		111	36	*
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06		112	63	*
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06	Lakenham	113	32	
+0038	EA1012	007	Ipswich to Trowse Junction LTN Anglia	05/08/06		113	62	*

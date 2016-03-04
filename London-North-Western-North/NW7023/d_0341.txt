@@ -1,0 +1,20 @@
+NRN
+
+TCB Manchester North SB (MN)
+
+DA = Down Ashton
+
+UA = Up Ashton
+
+U-AS = Up Ashburys
+
+D-AS = Down Ashburys
+
+UB = Up Brewery
+
+DB = Down Brewery
+
+UR = Up Rochdale
+
+DR = Down Rochdale
+

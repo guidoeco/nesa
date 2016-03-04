@@ -1,0 +1,15 @@
+17 05 *-
+WOLDINGHAM 17 15
+Woldingham Ground Frame
+
+17 50 *
+Oxted Tunnel 17 66
+(1m 501 yards) to 19 08 *-
+Oxted Substation 19 38
+
+20 20 *
+OXTED 20 25
+Oxted SB (GD) 20 31
+Limpsfield Tunnel 20 58
+(565 yards) to 21 03
+

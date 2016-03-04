@@ -1,0 +1,12 @@
+36 60 *-
+Flllan TEP 36 67
+(Up direction only)
+37 00 9:
+Inverhaggemie No 2 LC (UWC) 37 57
+38 00 i:
+39 15 i:
+Kirkton Farm LO (UWG) 39 17
+39 52 a:
+39 61 i:
+39 67 i:
+

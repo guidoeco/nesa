@@ -1,0 +1,37 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	Hirwaun pond	27	15	
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	(End of line)	27	15	X
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	Himaun LC	26	02	TMO
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08		23	10	*
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	Robertson LC	23	08	TMO
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	Aberdare GF	22	37	
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	ABERDARE IABERDAR	22	34	
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08		22	32	*
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08		22	28	*
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	Cwmbach Sidings LC	21	39	UWC
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	Cwmbach LC	20	78	UWC
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08		20	73	*
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	CWMBAGH	20	72	
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	(Change of Mileage and ELR)	20	68	
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08		22	23	
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08	(Change of ELR)	22	01	
+0354	GW834	001	Hirwaun to Abercynon VON ALK ABD Western	30/06/08		21	78	*
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08	Abercwmboi Loop *			X
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08		21	10	*
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08	FERNHILL	20	79	
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08		20	78	*
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08		20	45	*
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08	Single line Jn , change of ELR and	20	16	
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08	mileage.	0	33	
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08	MOUNTAIN ASH!	0	23	
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08	ABERPENNAR			Z
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08	Single line Jn , change of ELR and	0	00	
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08	mileage.	19	60	
+0355	GW834	002	Hirwaun to Abercynon ABD MOA Western	30/06/08		19	59	*
+0356	GW834	003	Hirwaun to Abercynon ABD Western	30/05/08	PENRHIWCEIBER	18	75	
+0356	GW834	003	Hirwaun to Abercynon ABD Western	30/05/08		18	28	*
+0356	GW834	003	Hirwaun to Abercynon ABD Western	30/05/08		18	19	*
+0356	GW834	003	Hirwaun to Abercynon ABD Western	30/05/08		16	66	*
+0356	GW834	003	Hirwaun to Abercynon ABD Western	30/05/08		16	63	*
+0356	GW834	003	Hirwaun to Abercynon ABD Western	30/05/08		16	40	*
+0356	GW834	003	Hirwaun to Abercynon ABD Western	30/05/08	Abercynon Jn	16	35	

@@ -1,0 +1,27 @@
+NRN
+
+TCB West Midlands s.c. (LJ)
+GSM-R area
+
+Exit: Down Bordesley: 127m 75ch
+. Entry: Up Bordesley: 127m 680h
+
+L A
+Axle Counter area
+
+UB: Up Bordesley
+
+DB: Down Bordesley
+
+USH: Up Snow Hill
+
+DSH: Down Snow Hill
+
+0.0.U. - Out Of Use
+
+UBGL (PF) - Up Bordesley Goods Loop
+172 SLUI1102 metresl1205 yards.
+
+DBGL (PF) - Down Bordesley Goods Loop
+84 SLUI538 metres/588 yards.
+

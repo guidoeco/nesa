@@ -1,0 +1,10 @@
+HILLSIDE 16 26
+16 30 *
+Crescent Rd LC (AHBG) 16 76 :1:
+BIRKDALE 17 22
+Birkdale LC (CCTV) 17 26
+Aughton Rd LC (CCTV) 17 49
+Duke Street LC (CCTV) 17 65
+Portland St LC (CCTV) 18 oo
+16 05 a:
+

@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	Little Eaton Jn	131	06	
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	Little Eaton Station LC	131	35	TMO
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	Little Eaton Village LC	131	51	TMO
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	Coxbench LC	133	03	TMO
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	Holbrook LC	133	23	TMO
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	Kilburn LC	134	75	TMO
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06		134	76	*
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	Denby North LC	135	46	TMO
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	Network Rail Boundary	135	58	
+0199	LN3240	001	Little Eaton Jn to Denby LED London North Eastern	02/12/06	End of Line	135	73	

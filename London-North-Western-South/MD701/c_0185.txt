@@ -1,0 +1,9 @@
+24 00 *
+24 15 7k
+PRINCES RISBOROUGH 24 4O
+Princes Risborough Junction 24 50 *
+Network Rail Boundary on Thame Branch (0 50)
+24 60 'ie
+25 40 *-
+25 60 :7:
+

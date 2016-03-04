@@ -1,0 +1,19 @@
+50 53
+
+Hereford Yard Jn 0 00
+
+0 04
+
+Burnett Road LC (TMO) 0 O5
+
+Brecon Cve Jn 0 19
+
+(Change of mileagelELR) 149 44
+
+Footpath LC 149 53
+
+Footpath LC 149 56
+
+Sun Valley LG 149 78
+Hereford Electricity Board
+

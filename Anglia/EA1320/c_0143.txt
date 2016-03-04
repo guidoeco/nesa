@@ -1,0 +1,6 @@
+Lea Jn 3 19
+
+3 30 *
+Channelsea North Jn 3 32
+Channelsea South Jn 3 33
+

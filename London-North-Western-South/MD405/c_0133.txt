@@ -1,0 +1,15 @@
+Leamington Spa Jn 106 25
+106 28 *
+106 54 *
+
+Change of mileage 107 06
+
+0 00
+
+Milverton Jn 0 10
+0 18 :7:
+
+Kenilworth South Jn 3 73
+
+Kenilworth North Jn 4 47
+

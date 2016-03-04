@@ -1,0 +1,15 @@
+NRN
+TCB York SB (Y)
+RAQ AC:York ECR
+(D - ToIFrom Parcels Sidings
+PP is authorised on Platform
+lines 3, 4, 5, 9, 10 and 11 for Class 1, 2, 5
+and 0 trains during service disruption and for booked
+attaching. Booked stabling is authon'sed in
+platforms 9, 10 and 11 only.
+PP - Permissive Working - full use for class 1, 2,
+3 (E08), 5, 9 & 0 trains in Platforms 1, 2, 6, 7 & 8.
+(2) - Maintenance Siding
+® - Loco Line
+(NOTE:- Table duplicated in LN854 seq 11)
+

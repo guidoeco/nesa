@@ -1,0 +1,8 @@
+HANDFORTH 178 24
+Cheadle Hulme South Jn 180 OD *-
+OHNS 180 15
+GHEADLE HULME 180 57
+Cheadle Hulme North Jn 180 67
+Adswood Road Jn 181 46
+181 60 *
+

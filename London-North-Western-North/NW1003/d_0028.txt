@@ -1,0 +1,7 @@
+NRN
+Line out of use (see Local Instructions).
+GSM-R area
+LA
+AWS and TPWS not provided.
+D&U = 'Down & Up' line
+

@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0533	LN698	001	Butterwell South Branch BW01 London North Eastern	02/12/06	Ashington SB	3	02	
+0533	LN698	001	Butterwell South Branch BW01 London North Eastern	02/12/06	Network Rail! RJB Boundary	3	05	
+0533	LN698	001	Butterwell South Branch BW01 London North Eastern	02/12/06		3	29	*
+0533	LN698	001	Butterwell South Branch BW01 London North Eastern	02/12/06	New Moor LC	4	17	AOCL
+0533	LN698	001	Butterwell South Branch BW01 London North Eastern	02/12/06	Potland LC (AOCL)	4	76	*
+0533	LN698	001	Butterwell South Branch BW01 London North Eastern	02/12/06	Signal BB	5	38	
+0533	LN698	001	Butterwell South Branch BW01 London North Eastern	02/12/06	(End of Section)	5	38	X

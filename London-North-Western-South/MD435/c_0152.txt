@@ -1,0 +1,10 @@
+137 46 *
+138 32 *
+138 60 *-
+Cradley Heath LC (CCTV) 138 65
+CRADLEY HEA11-I 138 70
+139 20 a:
+LYE 140 14
+Stourbridge North Jn 141 06
+Change of mileage 142 51
+

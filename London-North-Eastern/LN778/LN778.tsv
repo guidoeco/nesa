@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0326	LN778	001	Seymour Jn to Bolsover 3001 London North Eastern	02/12/06	Seymour Jn	7	51	
+0326	LN778	001	Seymour Jn to Bolsover 3001 London North Eastern	02/12/06	Markham Colliery Jn	7	05	Former
+0326	LN778	001	Seymour Jn to Bolsover 3001 London North Eastern	02/12/06		6	00	*
+0326	LN778	001	Seymour Jn to Bolsover 3001 London North Eastern	02/12/06	Bolsover Colliery GF	5	64	
+0326	LN778	001	Seymour Jn to Bolsover 3001 London North Eastern	02/12/06		5	46	
+0326	LN778	001	Seymour Jn to Bolsover 3001 London North Eastern	02/12/06		5	24	
+0326	LN778	001	Seymour Jn to Bolsover 3001 London North Eastern	02/12/06	Bolsover	5	21	

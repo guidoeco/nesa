@@ -1,0 +1,11 @@
+NRN
+TCB Mickie Trafford SB (MT)
+{1} Applies to Class 7 & 8 trains only
+{2) Applies to light locomotives only
+Q3) Applies to Class 1 to 6 trains only
+Released by Mickie Trafford box
+Platfrom Len%hs: Mouldsworth
+Platform Up m (84 gds)
+Platfolm Down 51 m ( 6 yds)
+D&UM=Down & up Manchester
+

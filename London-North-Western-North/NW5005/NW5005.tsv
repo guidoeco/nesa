@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0244	NW5005	001	Heald Green South Jn. to Heald Green West Jn. SMA LNW North	12/05/08	Heald Green South Jn	2	50	
+0244	NW5005	001	Heald Green South Jn. to Heald Green West Jn. SMA LNW North	12/05/08		1	48	
+0244	NW5005	001	Heald Green South Jn. to Heald Green West Jn. SMA LNW North	12/05/08	OHNS	1	35	
+0244	NW5005	001	Heald Green South Jn. to Heald Green West Jn. SMA LNW North	12/05/08	Heald Green West Jn	1	10	*

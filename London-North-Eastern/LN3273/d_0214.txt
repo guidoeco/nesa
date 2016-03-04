@@ -1,0 +1,13 @@
+NRN
+TCB Derby EMCC (PK)
+RAB
+Erewash Workstation
+7
+GSM-R area
+LA
+UDES - Up and Down Erewash Slow
+UEF - Up Erewash Fast
+DEF - Down Erewash Fast
+UK - Up Kirkby
+DK - Down Kirkbyr
+

@@ -1,0 +1,51 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Staythorpe Crossing LC	14	20	M03
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Staythorpe Crossing SB	14	20	
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		14	72	*
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		16	33	*
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		16	43	*
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		16	71	*
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		16	74	*
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Newark Castle LC	16	79	MOB
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Newark Castle SB	16	79	NC
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		17	00	*
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	NEWARK CASTLE	17	02	
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		17	10	*
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		17	21	*
+0088	LN206	001	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		17	28	*
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Newark Crossing	17	67	
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Newark Crossing East Jn	17	74	
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Crankley Point LC	17	76	RIG
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Winthorpe LC	19	01	AHBC
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Langford LC	20	24	AHBC
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Cottage Lane LC	21	16	AHBC
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Westbrook Lane LC	21	44	RIG
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Collingham LC	22	13	AHBC
+0089	LN206	002	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	COLLINGHAM	22	17	
+0090	LN206	003	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Cross Lane LC	22	34	AHBC
+0090	LN206	003	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Swinderby Road LC (AH BC)	22	46	
+0090	LN206	003	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06		22	63	*
+0090	LN206	003	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Tomlinsons LC	23	37	UWC
+0090	LN206	003	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Clements No.1 LC	23	49	UWC
+0090	LN206	003	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	South Scarle LC	24	31	AHBC
+0090	LN206	003	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	02/12/06	Meardsall Lane LC	24	54	UWC
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	SWINDERBY	24	64	
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Swinderby LC	24	68	MCG
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Swinderby SB	24	68	8
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08		24	74	*
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Eagle Bamsdale LC	25	64	AHBC
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Eagle and Thorpe LC	26	53	AHBC-X
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Thorpe-on-the-Hill LC	27	29	AHBC-X
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Whisby Quarry LC	27	75	UWC
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Walkers (No.63) LC	28	50	UWC
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	HYKEHAM	29	44	
+0091	LN206	004	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Hykeham LC	29	44	AHBC—X
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Doddington Road LC	30	18	CCTV
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Boultham LC	31	17	CCTV
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08		31	20	*
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08		32	08	*
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Skewbridge Tip LC	32	15	UWC
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Boultham Jn	32	40	*
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	Rustons Tip LC (RIG)	32	52	*
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08		32	69	*
+0092	LN206	005	Staythorpe Crossing to West Holmes Jn. NOB1 London North Eastern	30/08/08	West Holmes Jn	32	70	

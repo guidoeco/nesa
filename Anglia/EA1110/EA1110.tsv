@@ -1,0 +1,14 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	Thorpe-Le—Soken Jn	65	19	
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06		65	20	*
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	Three Gates LC	65	65	
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	Pork Lane LC (AH BC)	66	65	
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	Nursery LC	67	32	UWC
+0061	EA1110	001	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	05/08/06	KIRBY GROSS	67	55	
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07		67	60	*
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07	FRINTON-ON-SEA	68	66	
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07	Frinton gate box	66	76	
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07	Frinton LC	68	76	
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07		69	60	*
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07		70	05	*
+0062	EA1110	002	Thorpe-Le-Soken Jn to Walton-On-Naze TWN Anglia	20/05/07	WALTON-ON-THE-NAZE	70	15	

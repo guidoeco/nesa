@@ -1,0 +1,17 @@
+Heaton Norris Jn 183 56
+Heaton Norris Jn SB (HN) 183 63
+OHNS 183 70
+183 74 it
+OHNS 184 04
+Wheelchex 184 27
+HEATON CHAPEL 184 47
+OHNS 185 66
+LEVENSHULME 186 O1
+186 22 *
+186 25 i:
+186 39 *
+186 43 i:
+Slade Lane Jn 186 46
+186 50 *
+186 55 *-
+

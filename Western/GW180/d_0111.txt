@@ -1,0 +1,19 @@
+NRN CSR
+
+TCB Slough New SC (SN)
+RAB AC: Romford
+
+ATP - provided
+
+LOD(T) (T4IT1,2,3) at 24301 m
+
+LOD(T) (T 411' 1 2,3) at 25389m
+
+U&DT4 - Up and Down Terminal 4
+
+U&DT4 - Bi-directional
+
+Platforms - 195m (213 yards)
+
+LOD(T) (T4IT1,2,3) at 26520m
+

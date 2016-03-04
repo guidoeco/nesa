@@ -1,0 +1,16 @@
+Ashcombe TP Hut 6 10
+
+6 57 *-
+Kingston Tunnel 7 13
+(107 yards) to 7 18
+
+7 70 *-
+LEWES 7 77
+
+(49 74)
+Lewes Substation 8 01
+
+(50 O1)
+Lewes SB (LW) 50 03 *-
+Lewes Ground Frame 50 03
+

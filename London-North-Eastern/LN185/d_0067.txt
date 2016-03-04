@@ -1,0 +1,15 @@
+NRN
+TCB Allington SB (AL)
+RAB
+6) Nottingham lines mileage
+
+NRN
+NRN Channel Change at 0 09 V
+DS - Down Sleaford
+US - Up Sleaford
+- Lockout Protection provided. See General
+
+Instruction
+
+Change of ELR ABE to GRS1 at 4 08 I 110 12
+

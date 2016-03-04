@@ -1,0 +1,10 @@
+NRN
+TCB Preston SB (PN)
+DEL=Down East Lancs
+UEL=Up East Lancs
+ETB Midge Hall SB (MH)
+ETB applies between Midge Hall
+box and Rufford box.
+Platform Lengths: Crosth
+Platform Up 8: Down 76m (83 yds)
+

@@ -1,0 +1,20 @@
+NRN
+TCB Birmingham New St. PSB (NS)
+AC: Rugby ECR
+Platform lengths: Adderley Park
+Down Stow-96 metres
+Up Stow-97 metres
+(D 95mph - Maximum permissible speed for
+locomotive hauled trains from 110m 730h
+(signal NS.440) to 109m 500h (signal NS.41).
+TASS fitted:
+DST line to 111m 33oh
+UST line 111m 74ch to 83m 55m
+UST = Up Stour
+DST = Down Stour
+UDby = Up Derby
+U&DDby = Up & Down Derby
+DDby = Down Derby
+DCH = Down Camp Hill
+U&DCH = Up & Down Camp Hill
+

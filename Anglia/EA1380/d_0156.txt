@@ -1,0 +1,18 @@
+NRN CSR
+TCB Upminster IECC (UR)
+RA3 AC: Romford
+DLR - Docklands Light Railway
+Up platform - 250m (270yd)
+Down Platform - 250m (270yd)
+General instruction applies at
+the following bridges:
+Ratoliffe Lane (Bridge 533) at 1m 53ch
+Chaser Street (Bridge 585) at 1m 66ch
+Huddart Street (Bridge 597) at 2m 31ch
+Robeson Street (Bridge 598) at 2m 340h
+Bow Common Lane (Bridge 599) at 2m 370h
+UPL 244m (266yds)
+General instruction applies at
+Cantrell Road (Bridge 600) at 2m 460h
+Rounton Road (Bridge 6) at 2m TOoh
+

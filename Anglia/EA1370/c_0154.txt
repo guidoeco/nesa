@@ -1,0 +1,11 @@
+11 73 i:
+11 74
+Woodgrange Park Jn 11 79
+12 00 *
+WOODGRANGE PARK 12 05
+12 16 i:
+13 05 *
+Barking Station Jn. 13 12
+BARKING 12 05
+Barking Tilbury Line Jn West 13 42
+

@@ -1,0 +1,16 @@
+HURST GREEN 21 20
+21 30 *-
+HurstGreen TP Hut 21 35
+HurstGreen Jn 21 35
+21 55 ale
+(21 45) *
+22 24 *
+Sunt Farm No 1 Crossing 23 23
+Eden Substation 23 47
+Lingfield TP Hut 25 42
+26 11 are
+Lingfield Ground Frame
+LINGFIELD 26 23
+26 60 are
+27 54 *-
+

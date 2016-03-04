@@ -1,0 +1,15 @@
+(THREE BRIDGES) (29 21)
+
+29 60 *-
+Crawley TP Hut 30 4O
+CRAWLEY 30 49
+Crawley High Street LC (CCTV) 30 63
+Horsham Road LC (CCTV) 31 05
+
+31 48 *
+lfield Substation 31 61
+IFIELD 31 66
+
+32 14 *-
+Bewbush crossing 32 65
+

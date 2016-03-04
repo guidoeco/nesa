@@ -1,0 +1,17 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	Brancliffe East Jn	0	00	
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06		0	03	*
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06		3	14	*
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	Dinnington Jn	3	17	*
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06		9	23	
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	Maltby Colliery	9	23	X
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	Maltby Colliery SB	9	31	M
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06		9	62	
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06		11	17	*
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	Firbeck Jn	11	20	
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06		14	20	*
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06		14	62	
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	St Catherinean	15	17	
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	Low Ellers Curve Jn	15	55	
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	Markham Main Colliery GF	18	21	
+0305	LN758	001	Brancliffe East Jn to Kirk Sandall Jn. BKS London North Eastern	02/12/06	Kirk Sandall Jn	20	49	

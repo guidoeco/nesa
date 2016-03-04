@@ -1,0 +1,32 @@
+NRN CSR
+TCB Wembley Mainline SCC (WM)
+AC: Rugby ECR
+CD UWR PF between WM.936 and WM.83O
+in Up direction and between WM.929
+and WM.936 in the Down direction.
+® DWR PF between WM.827 and WM.933
+in the Down direction and between
+WM.936 and WM.934 in the Up direction.
+TASS fitted:
+DF line throughout
+UF line throughout
+Willesden Relief line mileage in [] brackets
+Line Lockouts:
+UWR 8; DWR! U&DWR: [2m 22ch] to [2m 77ch].
+US I U&DWR: 7m mm to [2m TTGh].
+US: 8m 23Gb to 7m 76cm.
+DS: 8m UOGI'I to 8m 14ch.
+UF 8: BF: 8m 14ch to 8m Web.
+Platform Lengths:
+3 - 181 metres 5 - 146 metres
+4 - 148 metres 6 - 155 metres
+UCL - Up Carriage Line
+R&D - Reception & Departure line
+U&DWR - Up & Down Willesden Relief
+UWR - Up Willesden Relief
+DWR - Down Willesden Relief
+ND - North Departure Line
+NA - North Arrival Line
+SN - Shunt Neck
+M, L - Loco Sidings
+

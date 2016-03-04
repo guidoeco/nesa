@@ -1,0 +1,17 @@
+NRN CSR
+TCB Three Bridges SB (T)
+Permissive working authorised on up
+slow and slow reversible platform
+lines both directions.
+Platforms 2, 3. 4 and 5 platform
+lines are reversible.
+
+CSR
+
+1 Up Fast
+2 Down Fast
+3 Up Slow
+4 Down Slow
+5 Fast Reversible
+6 Slow Reversible
+

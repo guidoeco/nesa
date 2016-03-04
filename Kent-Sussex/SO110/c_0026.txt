@@ -1,0 +1,10 @@
+72 25 are
+WESTGATE-ON-SEA 72 35
+Westgate Substation 72 58
+73 40 *-
+Margate SB (GE) 73 53
+73 60 *-
+MARGATE 73 69
+74 01 *-
+Margate TP Hut 74 36
+

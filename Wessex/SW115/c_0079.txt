@@ -1,0 +1,10 @@
+83 60 *
+Gramshaw Road Crossing 84 22
+85 23 *-
+Quidhampton Siding (132 54)
+Wilton Jn 85 37
+(132 33 )
+85 70 *-
+88 20 *-
+Wilton South 86 25
+

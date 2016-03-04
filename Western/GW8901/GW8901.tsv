@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06	Dynevor Jn	207	67	
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06		19	16	
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06		19	19	*
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06	Dynevor GF	19	36	
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06		20	07	
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06		20	17	*
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06	Jersey Marine Jn South	20	24	
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06		44	19	
+0383	GW8901	001	Dynevor Jn to Jersey Marine Jn South RSB Western	05/08/06		44	27	*

@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	8.106 - Start of 02 Working	13	29	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	West Drayton Jn	13	31	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	West Drayton No.2 GF	13	34	*
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	West Drayton LC (T M0)	13	35	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	End of C2 Section	13	36	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06		13	65	*
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	North Points	14	10	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	Thomey Mill	14	10	X
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	Stone Terminal	14	10	X
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	Engine Release Points	14	46	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	Start/End of 02 Working	15	20	*
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06		15	25	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	Colnbrook CLC Loop	15	25	X
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	(Central Logistics Centre)	15	25	X
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06		15	56	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	Colnbrook Oil Terminal	16	20	
+0112	GW182	001	West Drayton to Colnbrook STA Western	05/08/06	End of Branch	16	25	

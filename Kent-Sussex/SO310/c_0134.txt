@@ -1,0 +1,10 @@
+Crayford Spur "B" Jan 16 11
+(Crayford Spur "A" Jn) (16 41)
+(16 42)
+16 42 ul-
+Dartford Substation 16 45 i:
+16 66 *-
+(via NK)
+DartfordJn 16 75 *
+(17 05)
+

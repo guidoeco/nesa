@@ -1,0 +1,17 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Westerfield Jn	72	23	
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06		72	36	*
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06		74	30	*
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	DERBY ROAD	74	67	
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06		75	12	
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06		75	68	*
+0198	EA1440	001	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Routes No.8 LC	77	36	RIG
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Levington No.6 LC	80	00	AHBC
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Morston Hall LC	80	64	AHBC
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Thorpe Lane LC	81	41	AHBC
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Gun Lane LC	82	01	UWC
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Keepers Lane LC	82	33	UWG
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Trimley LC	82	80	CCTV
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	TRIMLEY	82	64	
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	Felixstowe Beach Jn	83	57	*
+0199	EA1440	002	Westerfield Jn to Felixstowe Town FEL Anglia	05/08/06	FELIXSTOWE TOWN	84	30	

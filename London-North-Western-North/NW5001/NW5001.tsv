@@ -1,0 +1,89 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0231	NW5001	001	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	07/10/06	Crewe North Jn	158	17	
+0231	NW5001	001	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	07/10/06		158	37	*
+0231	NW5001	001	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	07/10/06		158	47	*
+0231	NW5001	001	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	07/10/06		158	51	
+0231	NW5001	001	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	07/10/06	OHNS	158	79	
+0231	NW5001	001	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	07/10/06		159	24	*
+0232	NW5001	002	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08		162	17	*
+0232	NW5001	002	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Sandbach South Jn	162	28	
+0232	NW5001	002	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	SANDBAGH	162	50	
+0232	NW5001	002	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Sandbach North . Jn	162	62	
+0232	NW5001	002	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08		162	63	*
+0232	NW5001	002	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08		162	66	*
+0232	NW5001	002	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	NRN channel change	156	00	
+0233	NW5001	003	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	HOLMES CHAPEL	166	37	
+0233	NW5001	003	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	HABD	166	51	
+0233	NW5001	003	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Goostrey Jn	167	78	
+0233	NW5001	003	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	GOOSTREY	168	35	
+0233	NW5001	003	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Chelford South Jn	171	18	
+0233	NW5001	003	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Chelford North Jn	172	07	
+0233	NW5001	003	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	CHELFORD	172	17	
+0233	NW5001	003	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	OHNS	172	48	
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Alderley Edge. South Jn	175	12	
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	ALDERLEY EDGE	175	21	
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Alderley Edge North Jn	175	42	
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08		176	15	*
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08		176	31	
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	HABD	176	34	
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08		176	40	*
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Wilmslow South Jn	176	53	
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	WILMSLOW	176	71	
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08		177	09	*
+0234	NW5001	004	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	27/04/08	Wilmslow North Jn	177	23	
+0235	NW5001	005	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	14/02/09	HANDFORTH	178	24	
+0235	NW5001	005	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	14/02/09	Cheadle Hulme South Jn	180	00	*
+0235	NW5001	005	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	14/02/09	OHNS	180	15	
+0235	NW5001	005	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	14/02/09	GHEADLE HULME	180	57	
+0235	NW5001	005	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	14/02/09	Cheadle Hulme North Jn	180	67	
+0235	NW5001	005	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	14/02/09	Adswood Road Jn	181	46	
+0235	NW5001	005	Crewe North Jn. to Manchester Piccadilly CMP1 LNW North	14/02/09		181	60	*
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07		182	28	*
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07		182	31	*
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07	Edgeley Jn No.1 SB	182	36	EY1
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07		182	39	*
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07		182	40	*
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07	Manchester South SB (MS)	182	51	*
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07	(not located lineside)	182	51	X
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07	Edgeley Jn No.2 SB	182	53	EY2
+0236	NW5001	006	Crewe North Jn. to Manchester Piccadilly CMP1 CMP2 LNW North	24/06/07		182	59	
+0237	NW5001	007	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		132	70	*
+0237	NW5001	007	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	Stockporl: No1 SB	182	73	3T1
+0237	NW5001	007	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	mcKPon'r	183	01	
+0237	NW5001	007	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		133	07	*
+0237	NW5001	007	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	Stockport No2 SB	133	03	8T2
+0237	NW5001	007	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		133	12	*
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	Heaton Norris Jn	183	56	
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	Heaton Norris Jn SB	183	63	HN
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	OHNS	183	70	
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		183	74	*
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	OHNS	184	04	
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	Wheelchex	184	27	
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	HEATON CHAPEL	184	47	
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	OHNS	185	66	
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	LEVENSHULME	186	01	
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		186	22	*
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		186	25	*
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		186	39	*
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		186	43	*
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08	Slade Lane Jn	186	46	
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		186	50	*
+0238	NW5001	008	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	27/04/08		186	55	*
+0239	NW5001	009	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	02/01/08	Longsight South Jn	186	77	
+0239	NW5001	009	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	02/01/08		187	15	*
+0239	NW5001	009	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	02/01/08		187	21	*
+0239	NW5001	009	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	02/01/08		187	22	*
+0239	NW5001	009	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	02/01/08	Depot Jn	187	44	
+0240	NW5001	010	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	07/10/06	LongsightDepot Jn	187	54	
+0240	NW5001	010	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	07/10/06		188	02	*
+0240	NW5001	010	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	07/10/06	Ardwick Jn	188	08	*
+0240	NW5001	010	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	07/10/06	(Ardwick TPE Train Care Depot)	188	08	X
+0240	NW5001	010	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	07/10/06		188	16	*
+0240	NW5001	010	Crewe North Jn. to Manchester Piccadilly CMP2 LNW North	07/10/06		188	30	*
+0241	NW5001	011	Crewe North Jn. to Manchester Piccadilly CMP LNW North	01/12/07		188	39	*
+0241	NW5001	011	Crewe North Jn. to Manchester Piccadilly CMP LNW North	01/12/07		188	41	*
+0241	NW5001	011	Crewe North Jn. to Manchester Piccadilly CMP LNW North	01/12/07	Manchester Piccadilly East Jn	188	48	*
+0241	NW5001	011	Crewe North Jn. to Manchester Piccadilly CMP LNW North	01/12/07	GF	188	67	
+0241	NW5001	011	Crewe North Jn. to Manchester Piccadilly CMP LNW North	01/12/07	MANCHESTER PICCADILLY	188	70	
+0241	NW5001	011	Crewe North Jn. to Manchester Piccadilly CMP LNW North	01/12/07	Manchester Piccadilly SB	188	70	MP
+0241	NW5001	011	Crewe North Jn. to Manchester Piccadilly CMP LNW North	01/12/07	(located in station building)	188	70	X

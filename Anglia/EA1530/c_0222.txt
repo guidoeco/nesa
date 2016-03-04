@@ -1,0 +1,11 @@
+Fulbourn LC (AHBC) 4 36
+Six Mile Bottom LC (AHBC) 7 65
+Brinkley Road LC (AHBC) 7 78
+Westley Road LC (RIG) 8 74
+Moores LC 10 06
+Single line 10 07
+DULLINGHAM 10 54
+Dullingham (DH) SB 10 54
+Dullingham LC (M06) 10 56
+Single line 11 09
+

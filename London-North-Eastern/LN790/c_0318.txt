@@ -1,0 +1,20 @@
+Ruflord No. 1 Coal Stacking Site G.F. 1 37
+Inkersall LC (OPEN) 1 35 :7:
+Bilsthorpe Colliery Jn 1 08 *-
+Ruflord Colliery Jn 0 25
+
+O 00 *
+
+9 08
+Clipstone Collieran 9 21
+
+9 26 a:
+
+9 74 *
+
+9 78
+
+1O 60 *
+Clipstone South Jn 10 66 *-
+Clipstone EastJn 11 09
+

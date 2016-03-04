@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06	Trent Jn	0	00	*
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06		0	28	
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06		0	25	
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06	Dawes Lane LC	0	32	AOCL
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06		1	36	*
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06	Normanby Park	2	11	BF.
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06		2	63	*
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06	Roxby	3	60	
+0304	LN756	001	Scunthorpe Trent Jn. to Roxby NOP London North Eastern	02/12/06	End of Line	4	20	

@@ -1,0 +1,18 @@
+NRN CSR
+TCB Kings Cross SB (K)
+(1) 0n the Down Fast line between 1m sash
+and 4m 60ch, the permissible speed of
+locomotive-hauled trains of Mark 1 & 2
+ooaching stock and light locomotives,
+or loco-hauled trains of short formation
+as detailed in Rule Book Module
+TW3, Section 2, is 60 mph.
+
+CSR
+
+CSR Channel change
+Down 1m 560h 7
+(Up 2m 12ch) u"
+D6 = Down Goods
+UG = Up Goods
+

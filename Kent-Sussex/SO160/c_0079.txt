@@ -1,0 +1,13 @@
+Lydden TP Hut 73 28
+Kearsney Substation 75 03
+KEARSNEY 75 09
+Buckland Jn TP Hut 76 19
+(98 76)
+76 20 are
+(98 37) 7k
+(99 00) *-
+Buckland Jn 7B 32
+(99 05)
+Charlton Tunnel 76 65
+(265 yards) to 76 77 *-
+

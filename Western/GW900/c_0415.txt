@@ -1,0 +1,20 @@
+245 34 *
+Llanstephan Footpath LC (RIG) 245 58
+Glynisw LC (UWC) 247 00
+Nantyci No.2 LC (UWC) 247 37
+Gorsecoch LC (UWC) 248 35
+Bragty LC (UWC) 249 11
+Samau LC (CCTV) 249 57
+Samau Lower LC (UWC) 249 74
+Dori LC (UWC) 252 45
+St Clears GF 253 08
+St Clears LC (CCTV) 253 18
+FFynnongain LC (RIG) 254 29
+
+255 60
+Whitland Tunnel 257 01
+(171m,187yds) 257 10
+Isooed LC (UWC) 258 02
+
+258 26 *
+

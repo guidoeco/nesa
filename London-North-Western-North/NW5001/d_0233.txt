@@ -1,0 +1,32 @@
+NRN
+TCB Manchester South 300 (MS)
+AC: Crewe
+
+Platform Lengths: Holmes Chapel
+Up 167 metres (182 yards)
+Down 167 metres (182 yards)
+
+Patrolman's Directional Lockout. Up Wilmslow
+and Down Wilmslow lines between Sandbach North
+Junction and Goostrey Junction.
+Platform Lengths: Goostrey
+Up 167 metres (182 yards)
+Down 167 metres (182 yards)
+Exceptional Rail Head Conditions
+Up Wilmslow line between 170m OOch
+
+and 168m 30ch.
+
+DCL: Down Chelford Loop = 849 metres (2785 feet)
+UCL: Up Chelford Loop = 905 metres (2969 feet)
+Patrolman's Directional Lockout. Up Wilmslow
+and Down Wilmslow lines between Goostrey
+Junction and Chelford North Junction.
+Platform Lengths: Chelford
+Up 167 metres (182 yards)
+Down 125 metres (136 yards)
+
+Patrolman's Directional Lockout. Up Wilmslow
+and Down Wilmslow lines between Chelford North
+Junction and Alderley Edge South Junction.
+

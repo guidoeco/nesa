@@ -1,0 +1,13 @@
+Fiskerton Jn LC (MCG) 12 03
+Fiskerton Jn SB 12 O3
+12 42 *
+Fiskerton LC (M08) 12 43
+FISKERTON 12 46
+Rolleston LC (MCG) 13 08
+ROLLESTON 13 13
+Rolleston Mill LC (UWC) 13 24
+Brettles LC (UWC) 13 67
+Staythorpe LC (MOB) 14 20
+Staythorpe Crossing SB 14 20
+14 72 *
+

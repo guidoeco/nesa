@@ -1,0 +1,17 @@
+NRN Channel change 9 31
+(Down direction)
+NRN Channel change 9 39 *
+(Up direction)
+10 14
+10 38 *
+11 02 1:
+All Stretton No.1 LC (UWC) 11 38
+Church Stretton SB 12 54
+CHURCH STRETTON 12 63
+Marsh Farm HABD 14 33
+Woodlands LC (UWG) 14 66
+14 72 *
+Old Mill LC (UWC) 15 06
+Marsh Brook SB 15 29
+Marsh Brook LC (MOB) 15 29
+

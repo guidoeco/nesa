@@ -1,0 +1,9 @@
+Moulton LC(AHBC—X) 101 51
+Flordon GSP 106 63
+Newton Flotman LC (AHBC-X) 108 19
+Swainsthorpe LC (AHBC-X) 109 54
+111 36 *
+112 63 1e
+Lakenham 113 32
+113 62 *-
+

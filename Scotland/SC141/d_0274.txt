@@ -1,0 +1,9 @@
+RETB 101 Banavie SC
+6) = Applies to single headed
+Class 1, 2, 3 & 5 trains
+Q) = Applies to Class 4, 6 8: 0
+trains and double headed Class
+1,2,3 8: 5 trains
+= Applies to Class 7 & 8
+trains
+

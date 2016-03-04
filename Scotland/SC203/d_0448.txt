@@ -1,0 +1,18 @@
+TCB lnvemess SC (I)
+UN = Up North
+DN = Down North
+Lines between the top of the
+page and Clachnaharry Down
+Stop Signal (Down direction)!
+Signal I430 (Up direction)
+are controlled by lnverness
+(T CB) SC (I)
+
+RETB 102
+RETB controlled by lnvemess
+(RETB) SC applies between
+Clachnaharry Down Stop Signal
+(Down direction)ISignal I430
+(Up direction) and the end of
+the page
+

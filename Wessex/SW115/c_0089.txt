@@ -1,0 +1,7 @@
+168 38 *
+Pinhoe LC (CCTV) 168 39
+PINHOE 168 44
+170 00 1-
+Up Sidings
+Exmouth Jn SB (EJ) 170 21
+

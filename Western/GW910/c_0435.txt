@@ -1,0 +1,8 @@
+0 52 *
+Techan Fach Crossing 0 51
+Genwen Jn O 41 *
+Spring Point 0 35
+0 02 *
+Llandeilo Jn O 00
+223 49
+

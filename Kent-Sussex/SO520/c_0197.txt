@@ -1,0 +1,12 @@
+ArundelTP Hut 57 79
+ARUNDEL 58 28
+Arundel SB (AR) 58 36
+Arundel Ground Frame 58 36
+59 60 *-
+(18 65) *-
+(18 67) at
+Ford Substation 59 71
+ArundelJn 59 75
+(Change of mileage) 18 01
+Hutchings Crossing 19 02
+

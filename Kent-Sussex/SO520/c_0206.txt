@@ -1,0 +1,11 @@
+HILSEA 41 41
+42 33 'k
+43 16 ~k
+43 23 1':
+Fratton East 43 33
+43 41 *-
+FRATI'ON 43 64
+Fratton Depot Ground Frame 43 67
+43 77 -k
+44 13 9:
+

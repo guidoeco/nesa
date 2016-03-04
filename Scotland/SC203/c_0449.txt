@@ -1,0 +1,10 @@
+Bruichnain LC (UWC) 2 63
+Bullocks LC (UWC) 2 73
+Bunchrew Farm LC (UWC) 3 10
+Bunchrew LC (AOCL) 3 58
+5 01 i
+Lentran Station LC (UWC) 5 64
+Groam Farm South LC (UWC) 7 29
+Groam Farm LC (UWC) 7 41
+Clunes TEP 7 51
+

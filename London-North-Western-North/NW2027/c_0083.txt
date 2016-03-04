@@ -1,0 +1,13 @@
+Stop Board 5 43 *
+(down direction)
+
+Regent Road LC (AOCL) 5 53
+Network Rail! M.D.H.C. Boundary
+
+Strand Road LC (00) 5 73
+(M.D.H.C)
+
+Liverpool Bulk Handling Terminal I
+
+Seaforth Container Terminal
+

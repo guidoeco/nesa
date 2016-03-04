@@ -1,0 +1,11 @@
+Fordgate 154 12
+Cogload Jn (Up) 158 23
+Cogload Jn (Down) 158 50
+NRN Channel change 158 65
+Cogload HABD 158 70
+Hyde Farm LC (UWC) 160 75
+Broomhay LC (UWC) 161 32
+Taunton East Jn 162 35
+
+162 38
+

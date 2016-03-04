@@ -1,0 +1,14 @@
+141 14 *
+GHEPSTOWIcAs-GWENT 141 33
+
+141 35 a:
+
+143 00 *
+Sharpes LC (UWC) 143 15
+Three Gates LC (UWC) 143 35
+Curb Hut LC (UWC) 144 06
+Ifton Hill Farm LC (UWC) 145 11
+Caldicot HABD 145 50
+Caerwent Branch Jn 146 76
+Caldicot LC (MOB) 147 03
+

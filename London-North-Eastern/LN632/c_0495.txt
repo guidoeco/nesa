@@ -1,0 +1,17 @@
+Grewgrass LC (UWC) 25 05
+LONGBECK 25 26
+Longbeck LC (MCB) 25 31
+Longbeck SB (L) 25 31
+MARSKE 25 65
+26 49 'k
+26 59 *-
+Saltbum Riding School LC (UWC) 26 63
+26 70 1|:
+26 74 *-
+27 02 *-
+Saltbum West Jn 27 05 at
+27 13 1-
+27 42 *-
+27 47 *-
+SALTBURN 27 57
+

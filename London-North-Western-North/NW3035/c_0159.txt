@@ -1,0 +1,5 @@
+Hartford WestJn 22 12
+0 11
+Hartford North Jn 0 29
+0 36
+

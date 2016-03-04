@@ -1,0 +1,9 @@
+Selhurst Jn 9 43 *-
+Selhurst Substation "A" 9 48
+Cottage Jn 9 64
+(9 52)
+(Gloucester Road Jn) (9 65)
+Windmill Bridge Jn 10 12 *-
+(9 69)
+10 07 *-
+

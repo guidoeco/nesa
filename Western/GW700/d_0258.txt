@@ -1,0 +1,24 @@
+NRN
+
+TCB Gloucester SB (G)
+RAB
+
+Indicators not extinguished by
+movements from Loco Spur
+
+G.135
+
+Platform 1 - 246m (269 yards)
+Platform 2 - 248m (271 yards)
+Platform 3 - 105m (115 yards) (PP)
+Platform 4 - 324m (354 yards)
+633316.233
+
+UR Up relief
+
+(I) PF on Up Main in Up direction
+
+only, between G31 and 6.35
+
+Signal G.31
+

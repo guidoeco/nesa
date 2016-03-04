@@ -1,0 +1,12 @@
+BLACKFRIARS 0 30
+
+0 35 *-
+Blackfriars Substation 0 48
+
+0 50 i:
+
+0 62 *
+Blackfriars Jn 0 63
+Southwark Substation 0 67
+(Metropolitan Jn) (1 14)
+

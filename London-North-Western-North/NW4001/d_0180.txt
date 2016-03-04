@@ -1,0 +1,42 @@
+NRN
+
+TCB Carlisle PSB (CE) 088
+
+AC: Cathcart
+
+UPL: Up Passenger Loop.
+
+UTS: Up Through Siding.
+
+DN ARR: Down Arrival line.
+
+RR: Run Round Road.
+
+UPL: 484 metres (1588 feet) (to signal CE .463).
+879 metres (2884 feet) (to position light
+signal CE.453).
+
+UTS: 677 metres (2221 feet).
+
+Goods line mileages are given in ( ) brackets.
+
+Goods lines have ELR: KMG1.
+
+AWS and TPWS not provided on Up Goods, Up
+
+Avoiding. Down Arrival and Down Departure lines.
+
+TPWS not provided on Down Goods line.
+
+TASS fitted: Down Main line and Up Main line
+
+throughout.
+
+6) Up Reception Sidings.
+
+(2) Up Departure Sidings.
+
+RR: Run Round Road.
+
+UP ARR: Up Arrival line.
+

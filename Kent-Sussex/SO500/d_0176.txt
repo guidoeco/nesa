@@ -1,0 +1,12 @@
+NRN CSR
+TCB Three Bridges SB (T)
+Indicator positioned at entrance
+of tunnel. (Hove end)
+1 Carriage Road
+2 Up Main
+3 Down Main
+4 Goods Reception
+5 Up Loop
+6 Up Clitonville Spur
+7 Down Cilftonville Spur
+

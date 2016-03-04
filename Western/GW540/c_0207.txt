@@ -1,0 +1,15 @@
+Filton Jn No.1 4 40
+4 47 -k
+
+Filtan Jn No.2 4 66
+
+Filton Jn HABD 4 75
+5 48 *-
+
+Patchway Jn No.1 5 53
+5 57 *
+
+Patchway Jn No.2 5 61
+
+112 68
+

@@ -1,0 +1,15 @@
+21 22 *
+
+21 30 *
+ACHANALT 21 34
+
+21 38 *
+
+21 43 *
+Strath LC (UWC) 22 31
+Rose Bank LC (UWC) 23 18
+
+25 76 *
+
+26 44 i:
+

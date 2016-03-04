@@ -1,0 +1,40 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	HADFIELD	12	61	
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		12	42	*
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Dinting East Jn	12	00	
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Dinting SB	11	72	DG
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	DINTING	11	72	
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Dinting West Jn	11	66	
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		11	59	*
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		11	40	*
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		10	20	*
+0266	NW5015	001	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		10	00	*
+0267	NW5015	002	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	BROADBOTTOM	9	60	
+0267	NW5015	002	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	HATPERSLEY	8	58	
+0267	NW5015	002	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	GODLEY	7	72	
+0267	NW5015	002	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	NEWTON	7	27	
+0267	NW5015	002	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	FLOWERY FIELD	6	56	
+0267	NW5015	002	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Hyde Jn	6	16	
+0267	NW5015	002	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		6	07	
+0268	NW5015	003	Hadfield to Ardwick Jn. HAJ LNW North	03/11/08	Guide Bridge East Jn	5	32	
+0268	NW5015	003	Hadfield to Ardwick Jn. HAJ LNW North	03/11/08		5	13	*
+0268	NW5015	003	Hadfield to Ardwick Jn. HAJ LNW North	03/11/08	Guide Bridge West Jn	5	10	
+0268	NW5015	003	Hadfield to Ardwick Jn. HAJ LNW North	03/11/08	Guide Bridge SB	5	04	GB
+0268	NW5015	003	Hadfield to Ardwick Jn. HAJ LNW North	03/11/08	GUIDE BRIDGE	4	76	
+0268	NW5015	003	Hadfield to Ardwick Jn. HAJ LNW North	03/11/08	Guide Bridge Station Jn	4	73	
+0268	NW5015	003	Hadfield to Ardwick Jn. HAJ LNW North	03/11/08		4	72	*
+0268	NW5015	003	Hadfield to Ardwick Jn. HAJ LNW North	03/11/08	FAIRFIELD	3	52	
+0269	NW5015	004	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	GORTON	2	54	
+0269	NW5015	004	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Gorton Jn	2	50	
+0269	NW5015	004	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Ashburys East Jn	1	56	
+0269	NW5015	004	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Ashburys SB	1	54	AS
+0269	NW5015	004	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	ASHBURYS	1	42	
+0269	NW5015	004	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		1	38	*
+0270	NW5015	005	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Ashburys West Jn	1	36	
+0270	NW5015	005	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		1	30	
+0270	NW5015	005	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	OHNS	1	12	
+0270	NW5015	005	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		0	76	
+0270	NW5015	005	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Ardwick TPE Train Care Depot	0	75	*
+0270	NW5015	005	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	ARDWICK	0	64	
+0270	NW5015	005	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06	Ardwick Jn	0	40	
+0270	NW5015	005	Hadfield to Ardwick Jn. HAJ LNW North	07/10/06		188	08	

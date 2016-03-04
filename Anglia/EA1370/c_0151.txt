@@ -1,0 +1,14 @@
+Upper Holloway SB (UH) 2 76
+UPPER HOLLOWAY 3 00
+
+3 08 i:
+
+3 28 1:
+CROUCH HILL 3 65
+
+4 01
+Crouch Hill Tunnel to
+(90yds) 4 05
+Harringay Park Jn SB (HP) 4 12
+Harringay Park Jn 4 15
+

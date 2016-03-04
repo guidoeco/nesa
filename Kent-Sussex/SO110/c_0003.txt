@@ -1,0 +1,16 @@
+(BATTERSEA PARK) ( 7 27)
+(Stewarts Lane Jn ) ( 1 27)
+(Longhedge Jn) ( 0 39)
+( 0 03) *
+Route Boundary 1 16
+Factory Jn . 1 61 *-
+( 6 58)
+0 00
+( 6 61) *
+Wandsworth Road Jn ( 6 53) *
+WANDSWORTH ROAD 1 75
+( 6 52)
+Voltaire Road Jn 2 15
+( 6 39)
+Voltaire Road TP Hut 2 10
+

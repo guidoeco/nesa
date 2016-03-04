@@ -1,0 +1,21 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0488	SC207	001	Georgemas Jn to Thurso Scotland	23/03/09	Georgemas Jn	0	00	
+0488	SC207	001	Georgemas Jn to Thurso Scotland	23/03/09	Hay LC	0	72	AOCL
+0488	SC207	001	Georgemas Jn to Thurso Scotland	23/03/09	Gunn LC	1	05	UWC
+0488	SC207	001	Georgemas Jn to Thurso Scotland	23/03/09		1	17	*
+0488	SC207	001	Georgemas Jn to Thurso Scotland	23/03/09	Blackhillock LC	1	44	UWC
+0488	SC207	001	Georgemas Jn to Thurso Scotland	23/03/09	Sordale No 1 LC	1	59	UWC
+0488	SC207	001	Georgemas Jn to Thurso Scotland	23/03/09	Sordale No 2 LC	1	79	UWC
+0488	SC207	001	Georgemas Jn to Thurso Scotland	23/03/09	Sordale No 4 LC	2	29	UWC
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Carsgoe No1 LC	2	41	UWC
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Carsgoe No 2 LC	2	55	UWC
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Carsgoe No 3 LC	2	77	UWC
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Carsgoe No 4 LC	3	17	UWC
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Todholes No 1 LC	3	35	UWC
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Todholes No 2 LC	3	48	UWC
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09		4	04	*
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09		4	25	*
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Bleachﬁeld LC	5	63	UWC
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Sdg GF	5	63	X
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	Stn GF	5	63	X
+0489	SC207	002	Georgemas Jn to Thurso Scotland	23/03/09	THURSO TEP	6	50	

@@ -1,0 +1,18 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+DO=Down Ormskirk
+U0=Up Onnskirk
+Exceptional rail head conditions down
+and up main lines between
+33m 16ch and 30m 720h.
+Platfonn Lengths: Rios Lane
+Up 128m (140 yards)
+Down 140m (153 yards)
+Platform Lengths: Fazakerley
+Up 128m (140 yards)
+Down 140m (153 yards)
+Platform Lengths: Kirkby
+Up & Down
+126m (138 yards)
+

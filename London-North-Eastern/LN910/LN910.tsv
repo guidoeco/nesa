@@ -1,0 +1,14 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06	Temple Hirst Jn	169	16	
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06		169	46	*
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06		169	55	*
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06	Burn Lane LC	170	70	MCG
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06	Henwick Hall LC	172	20	MCB
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06		172	75	
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06	Brayton LC	173	02	CCTV
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06		173	26	*
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06		173	27	*
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06	Canal Jn	173	59	
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06		174	06	*
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06		174	09	*
+0445	LN910	001	Temple Hirst Jn to Selby South Jn TCW1 London North Eastern	02/12/06	Selby South Jn	174	11	

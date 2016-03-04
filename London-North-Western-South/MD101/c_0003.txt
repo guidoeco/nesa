@@ -1,0 +1,16 @@
+Camden Junction South 1 10
+
+1 27 *
+Camden Jn (Down DC line) 1 36
+Camden Jn (Up DC line) 1 40
+
+1 51 *
+Camden Jn
+
+1 52 9:
+Primrose Hill Tunnels 1 54 :1:
+Fast Lines
+(1081 metres 182 yards) t0
+Slow lines 2 27 *-
+(1070 metres 1170 yards) 2 3O 1:
+

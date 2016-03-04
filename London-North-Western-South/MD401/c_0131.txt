@@ -1,0 +1,17 @@
+Bentley Heath LC (CCTV) 119 43
+WIDNEY MANOR 120 66
+122 00 *
+SOLIHULL 122 25
+0LTON 124 11
+125 00 *
+ACOGKS GREEN 125 08
+125 53 i:
+125 60 are
+Tyseley South Jn 125 73
+125 74 *
+Tyseley No.3 GF 126 00 *
+TYSELEY 126 05
+(Birmingham Railway Museum)
+Tyseley North Jn 126 23
+Tyseley No.1 SB (TY1) 126 40
+

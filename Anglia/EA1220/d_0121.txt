@@ -1,0 +1,10 @@
+NRN CSR
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+U&D.A - Up & Down Airport
+UAD - Up Arrival Down
+UDD - Up Departure Down
+Platform 1 -291m (315 yd) PP
+Platform 2 - 91m (98 yd) PP
+Platform 3 - 274m (296 yd) PP
+

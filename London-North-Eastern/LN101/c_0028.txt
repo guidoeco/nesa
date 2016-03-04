@@ -1,0 +1,20 @@
+153 69
+
+153 74
+Potteric Carr Jn 153 78
+Decoy North Jn 154 13
+
+154 36 1-
+Belmont Yards
+Carr (Up Goods line&Transfer line only.) 154 50 *-
+
+
+155 23 *-
+
+155 25 are
+Sand Bank Jn 155 32 *-
+Balby Bridge Tunnel 155 34 to 95m 95 yards) 155 38
+Bridge Jn 155 38
+
+155 39
+

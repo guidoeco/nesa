@@ -1,0 +1,12 @@
+RUGELEY TRENT VALLEY 124 22
+Rugeley Engineers Siding GF 124 29
+Rugeley North Jn 124 39
+126 59 *-
+126 67 *
+Colwich Jn 127 05 *
+127 11 *-
+127 13 i:
+128 02 a:
+Shugborough Tunnel 128 46
+(710ml 777yd) to 129 01
+

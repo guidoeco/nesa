@@ -1,0 +1,12 @@
+Hazel Grove High Level Jn 177 40 *
+177 46 '3"
+178 60 a:
+181 70 *-
+Cheadle Jn 181 71
+35 64
+35 60 *
+Cheadle Wood Farm LC (UWC) 35 18
+34 70 2k
+Northenden Jn 33 52 *-
+Northenden Jn SB (MN) 33 49
+

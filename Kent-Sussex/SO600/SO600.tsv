@@ -1,0 +1,98 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	(Willingdon Jn)	20	36	
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06		21	39	
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06		21	40	*
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Stone Cross TP Hut	21	41	
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06		21	46	*
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Pevensey LC	23	01	
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Pevensey & Wesiham SB	23	03	CCV
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	PEVENSEY & WESTHANI	23	07	
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Pevensey Substation	23	16	
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	PEVENSEY BAY	23	68	
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Wallsend LC	23	72	CCTV
+0231	SO600	001	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Hooe Level TP Hut	24	75	
+0232	SO600	002	Willingdon Jn to Ashford WJB Kent/Sussex	17/05/08	NORMANS BAY	25	77	
+0232	SO600	002	Willingdon Jn to Ashford WJB Kent/Sussex	17/05/08	Havensmouth LC	26	00	
+0232	SO600	002	Willingdon Jn to Ashford WJB Kent/Sussex	17/05/08	Normans Bay Substation	26	56	
+0232	SO600	002	Willingdon Jn to Ashford WJB Kent/Sussex	17/05/08	Pevensey Sluice LC	26	59	AHBC
+0232	SO600	002	Willingdon Jn to Ashford WJB Kent/Sussex	17/05/08	Route Boundary	27	06	
+0232	SO600	002	Willingdon Jn to Ashford WJB Kent/Sussex	17/05/08	COODEN BEACH	27	53	
+0232	SO600	002	Willingdon Jn to Ashford WJB Kent/Sussex	17/05/08	Cooden Halt TP Hut	28	20	
+0232	SO600	002	Willingdon Jn to Ashford WJB Kent/Sussex	17/05/08	COLLINGTON	29	04	
+0233	SO600	003	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Bexhill Substation	29	61	
+0233	SO600	003	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Bexhill SB	29	61	COW
+0233	SO600	003	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	BEXHILL	29	69	
+0233	SO600	003	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Bexhill Ground Frame	29	77	
+0233	SO600	003	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Galley Hill Ground Frame	30	60	OOU
+0233	SO600	003	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06		31	14	
+0233	SO600	003	Willingdon Jn to Ashford WJB Kent/Sussex	02/12/06	Bexhill East TP Hut	31	23	
+0234	SO600	004	Willingdon Jn to Ashford WJB Kent/Sussex	05/02/07		32	40	*
+0234	SO600	004	Willingdon Jn to Ashford WJB Kent/Sussex	05/02/07	Bo Peep Jn Substation	32	71	
+0234	SO600	004	Willingdon Jn to Ashford WJB Kent/Sussex	05/02/07	Bo Peep Jn SB (BJ)	32	72	*
+0234	SO600	004	Willingdon Jn to Ashford WJB Kent/Sussex	05/02/07	Bo Peep Jn	32	76	
+0234	SO600	004	Willingdon Jn to Ashford WJB Kent/Sussex	05/02/07		60	69	*
+0235	SO600	005	Willingdon Jn to Ashford TTH Kent/Sussex	04/12/06	Bo Peep Tunnel	60	71	
+0235	SO600	005	Willingdon Jn to Ashford TTH Kent/Sussex	04/12/06	(1318 yards) to	61	51	*
+0235	SO600	005	Willingdon Jn to Ashford TTH Kent/Sussex	04/12/06	8T LEONARDS WARRIOR	61	55	
+0235	SO600	005	Willingdon Jn to Ashford TTH Kent/Sussex	04/12/06	SQUARE			Z
+0235	SO600	005	Willingdon Jn to Ashford TTH Kent/Sussex	04/12/06	Hastings Tunnel	61	59	
+0235	SO600	005	Willingdon Jn to Ashford TTH Kent/Sussex	04/12/06	(788 yards) to	62	15	
+0235	SO600	005	Willingdon Jn to Ashford TTH Kent/Sussex	04/12/06		62	16	*
+0236	SO600	006	Willingdon Jn to Ashford TTH ATH Kent/Sussex	22/03/08	Hastings TP Hut	62	19	
+0236	SO600	006	Willingdon Jn to Ashford TTH ATH Kent/Sussex	22/03/08	HASTINGS	62	33	
+0236	SO600	006	Willingdon Jn to Ashford TTH ATH Kent/Sussex	22/03/08		82	34	
+0236	SO600	006	Willingdon Jn to Ashford TTH ATH Kent/Sussex	22/03/08	Hastings SB	82	24	EDL
+0236	SO600	006	Willingdon Jn to Ashford TTH ATH Kent/Sussex	22/03/08		82	18	*
+0237	SO600	007	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Mount Pleasant Tunnel	81	60	
+0237	SO600	007	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	(230 yards) to	81	50	
+0237	SO600	007	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Ore Ground Frame	81	46	
+0237	SO600	007	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	ORE	81	42	*
+0237	SO600	007	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Ore Substafion	81	31	
+0237	SO600	007	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06		81	30	*
+0237	SO600	007	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Ore Up Siding	81	30	X
+0237	SO600	007	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06		81	28	*
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Ore Tunnel	81	10	*
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	(1402 yards) to	80	26	
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	THREE OAKS	78	65	
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Doleham Crossing	77	60	
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06		77	45	*
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	DOLEHAM	77	43	
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06		77	08	
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Haystaoks Crossing	77	05	
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Coopers & Farmers UWC	76	59	
+0238	SO600	008	Willingdon Jn to Ashford ATH Kent/Sussex	02/12/06	Coopers Crossing	76	47	
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Snailham	75	71	Accom
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Merrick No.3	75	44	Accom
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Merrick No.2	75	21	Accom
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Mair No.2	73	73	Accom
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	WINCHELSEA	73	22	
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07		73	17	*
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Wmchelsea LC	73	16	AOCL
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07		73	15	*
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Ferry Road LC	71	46	CCTV
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07		71	42	*
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07		71	40	*
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	RYE	71	36	
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Rye SB	71	34	RY
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07		71	31	*
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07		71	29	*
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Grove Road LC	71	24	CCTV
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Cookes	70	39	Accom
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	East Guldeford LC	70	19	AHBC
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Pear Tree	69	77	Accom
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Star LC	69	40	AHBC
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Bakers	69	33	Aocom
+0239	SO600	009	Willingdon Jn to Ashford ATH Kent/Sussex	14/03/07	Cooks No.1	69	29	Accom
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07	Bans	68	77	Accom
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07	Becketts LC	66	47	AHBC
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07		64	53	*
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07	APPLEDORE	64	50	
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07	Appledore LC	64	45	AHBC
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07	Kenardington LC	63	73	AHBC
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07	Warehome LC	62	60	AHBC
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07	HAM STREET	61	51	
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07		60	15	
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07		58	10	*
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07		57	21	*
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07		57	17	*
+0240	SO600	010	Willingdon Jn to Ashford ATH Kent/Sussex	21/04/07	(Junction at Ashford)	56	20	

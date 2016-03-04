@@ -1,0 +1,34 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06	Carstairs South Jn	73	17	
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06	OHNS	73	24	
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06		73	39	*
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06	Carstairs East Jn ,	73	48	
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06		74	10	
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06	(Change of ELR ECA1 to ECA2)	74	10	
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06		74	40	*
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06		77	25	
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06	Auchengray LC (AH BCX)	79	34	
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06	Auchengray HABD	79	35	Up
+0030	SC003	001	Carstairs South Jn to Haymarket East Jn ECA1 ECA2 Scotland	02/12/06	OHNS	79	40	
+0031	SC003	002	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	02/12/06	Torphin LC	85	03	UWC
+0031	SC003	002	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	02/12/06		87	65	
+0031	SC003	002	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	02/12/06		88	38	*
+0031	SC003	002	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	02/12/06		88	49	*
+0031	SC003	002	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	02/12/06	Midcalder Jn	89	76	
+0031	SC003	002	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	02/12/06	Kirknewton LC	90	65	AHBC
+0031	SC003	002	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	02/12/06	KIRKNEWTON	90	70	
+0032	SC003	003	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	17/02/08	CurriehillGSP	94	50	
+0032	SC003	003	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	17/02/08	QUERIEHILL	95	42	
+0032	SC003	003	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	17/02/08	OHNS	95	65	
+0032	SC003	003	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	17/02/08	Whitelaw Footpath LC	96	20	RIG
+0032	SC003	003	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	17/02/08		97	10	*
+0032	SC003	003	Carstairs South Jn to Haymarket East Jn ECA2 Scotland	17/02/08	WESTER HAILES	97	17	
+0033	SC003	004	Carstairs South Jn to Haymarket East Jn ECA2 ECA3 Scotland	02/12/06		97	77	*
+0033	SC003	004	Carstairs South Jn to Haymarket East Jn ECA2 ECA3 Scotland	02/12/06	Kingsknowe LC	97	79	AHBC
+0033	SC003	004	Carstairs South Jn to Haymarket East Jn ECA2 ECA3 Scotland	02/12/06	KINGSKNOWE	98	05	
+0033	SC003	004	Carstairs South Jn to Haymarket East Jn ECA2 ECA3 Scotland	02/12/06	SLATEFORD	98	75	
+0033	SC003	004	Carstairs South Jn to Haymarket East Jn ECA2 ECA3 Scotland	02/12/06	Slateford Jn	99	01	
+0033	SC003	004	Carstairs South Jn to Haymarket East Jn ECA2 ECA3 Scotland	02/12/06	(Change of ELR ECA2 to ECA3)	99	01	
+0034	SC003	005	Carstairs South Jn to Haymarket East Jn ECA3 Scotland	02/12/06		99	25	*
+0034	SC003	005	Carstairs South Jn to Haymarket East Jn ECA3 Scotland	02/12/06		100	26	*
+0034	SC003	005	Carstairs South Jn to Haymarket East Jn ECA3 Scotland	02/12/06	Haymarket East Jn	100	41	

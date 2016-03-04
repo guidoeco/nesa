@@ -1,0 +1,12 @@
+Kelloe Access Line Jn 15 00
+Tyneside T433 signal 14 78
+Ferryhill Up Sidings
+'A' Ground Frame
+
+14 23
+Kelloe Bank Foot Branch Jn 14 09
+'3' Ground Frame
+Kelloe Bank Foot Staff Instrument 14 03
+West Cornforth LC (TMO) 13 16
+Kolloe Bank Foot North End 11 06
+

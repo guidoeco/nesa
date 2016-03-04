@@ -1,0 +1,7 @@
+Kingswinford Jn South 144 33
+Kingswinford Jn South SB (KJ)
+
+Network Rail Boundary 145 60
+Pensnett 145 73
+End of line 146 30
+

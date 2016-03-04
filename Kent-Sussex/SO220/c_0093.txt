@@ -1,0 +1,24 @@
+Folly Farm UWC 71 28
+Broad Oak LC (AHBC) 71 77
+Sturry Substation 72 46
+STURRY 72 57
+Sturry LC 72 58
+Sturry SB (ST) 72 58
+Westbere TP Hut 74 1O
+Hoplands Farm Crossing 74 51
+Chislet Colliery Substation 75 54
+Port Farm Crossing 76 O6
+76 30 *
+Grove Ferry LC (AHBC) 76 52
+77 14 *-
+Grove Ferry TP Hut 77 17
+Wall End Crossing 77 26
+Cater Crossing 77 76
+Sarre Bridge Crossing 78 37
+Sarre Substation 78 66
+Mile Drove Crossing 79 08
+Monkton Court Crossing 79 36
+Monkton TP Hut 80 28
+Walters Hall Crossing 80 44
+Sheriffs Court Crossing 80 60
+

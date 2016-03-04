@@ -1,0 +1,12 @@
+NRN
+
+TCB Tyneside SB (T)
+RAB AC: York ECR
+DS= Down Sunderland
+US= Up Sunderland
+UPL= 442 m [1449 feet
+0 = 15 D = E
+
+15
+@ speeds apply to Metro trains only
+

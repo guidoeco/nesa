@@ -1,0 +1,16 @@
+37 76 *-
+Bedhampton LC (CCTV) 38 1O
+BEDHAMPTON 38 14
+38 28 *
+38 29 *
+38 60 *
+Farlington Jn 4O 33
+(91 14)
+(91 00) *
+(91 00) *
+40 77 *
+(90 75) *
+(90 75) *
+Portcreek Jn 41 03 *
+(91 O1)
+

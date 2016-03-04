@@ -1,0 +1,17 @@
+60 43 *-
+Tyddyn-y-pwll LC (UWC) 60 50
+60 71 *
+RaIItLC(UWC) 60 78
+61 11 *
+Talerddig GF 61 13
+Ystrad Fawr LC (UWC) 61 25
+Talerddig (TEP) 61 26
+61 34 k
+61 60 *-
+RETB Channel Change 62 00
+Ty'n-yr-Wtre No.2 LC (UWC) 63 05
+Caetwpa LC (UWC) 63 13
+63 60 *-
+Coed Cae No.1 LC (UWC) 64 06
+Pentre Mawr LC (UWC) 65 36
+

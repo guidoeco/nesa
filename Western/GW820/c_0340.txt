@@ -1,0 +1,14 @@
+End of Line 20 75
+Colliery Crossing 20 70
+20 66
+Loop 20 41 *-
+Cwm bargoed 20 40
+Cwmbargoed LC (T M0) 20 37
+Site of former Taff Bargoed Branch .Jn 13 53
+(Change of ELR)
+Llancaiach lsaf LC (UWC) 13 26
+Site of former Penallta Jn 12 41
+(Change of mileage and ELR) 15 01
+13 43 *
+Ystrad Mynach South Jn 13 41
+

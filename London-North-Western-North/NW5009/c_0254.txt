@@ -1,0 +1,8 @@
+18 06 *
+LONGPORT 17 03
+16 62 *
+16 56 *
+LongportJn. 16 48 7k
+16 27 *-
+BradwellJn 16 16
+

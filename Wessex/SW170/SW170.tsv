@@ -1,0 +1,31 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0123	SW170	001	Westbury to Wilton Junction SWY WEY Wessex	02/12/06	Westbury North Jn	95	37	
+0123	SW170	001	Westbury to Wilton Junction SWY WEY Wessex	02/12/06		109	54	
+0123	SW170	001	Westbury to Wilton Junction SWY WEY Wessex	02/12/06	WESTBURY	109	64	
+0124	SW170	002	Westbury to Wilton Junction WEY Wessex	02/12/06	Westbury South Jn	110	07	
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06		110	28	*
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06	DILTON MARSH	111	11	
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06		114	33	*
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06	WARMINSTER	114	37	
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06		114	40	*
+0125	SW170	003	Westbury to Wilton Junction SAL Wessex	02/12/06	Warminster North GF	114	41	
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Warminster South GF	114	54	
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Beeohgrove GF	115	27	
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Territory Boundary	115	40	
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Corton Steps Crossing	119	41	
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Upton Lovell LC	119	70	AHBC
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Codford LC	120	45	AHBC
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Sherrington Crossing	121	02	
+0126	SW170	004	Westbury to Wilton Junction SAL Wessex	02/12/06	Sherrington FIP Crossing	121	08	
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06		121	20	*
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06		121	40	*
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Stockton Crossing	122	40	
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Tyning LC	12	75	
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Middle Road Crossing	123	36	
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Townsend Crossing	124	12	
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Wylye LC	124	41	AHBC
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Hindon Road Crossing	125	29	
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Eton College Road	125	38	
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06		128	38	*
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06		129	20	*
+0127	SW170	005	Westbury to Wilton Junction SAL Wessex	02/12/06	Couston Bottom Crossing	130	16	

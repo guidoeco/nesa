@@ -1,0 +1,9 @@
+110 60 *
+Cliff Hill No 1 GF 110 63
+
+111 00
+Bardon Hill LC (MOB) 111 23
+Bardon Hill SB (BH) 111 23
+Bardon Hill GF 111 40
+Coalville Jn 112 13
+

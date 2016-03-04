@@ -1,0 +1,11 @@
+115 43 *
+Territory Boundary 115 40
+
+115 37 *
+GRETNA‘GREEN 115 12
+Rigg LC(UWC) 113 09
+Elmside LC(UWC) 111 34
+Stanﬁeld Farm LC (UWC) 111 05
+Muirhouse Farm LC(UWC) 110 73
+Eastriggs 109 75
+

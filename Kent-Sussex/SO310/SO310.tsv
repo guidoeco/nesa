@@ -1,0 +1,115 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0131	SO310	001	Hither Green to Maidstone West (via Dartford) HDR LEE Kent / Sussex	02/12/06	(HITHER GREEN)	7	16	
+0131	SO310	001	Hither Green to Maidstone West (via Dartford) HDR LEE Kent / Sussex	02/12/06	(Lee Spur Jn)	0	29	
+0131	SO310	001	Hither Green to Maidstone West (via Dartford) HDR LEE Kent / Sussex	02/12/06	Lee Loop Jn	7	45	
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	LEE	7	66	
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	Lee TP Hut	8	55	
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06		9	02	*
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	MOTTINGHAM	9	40	
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06		9	70	*
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	New Eltham Substation	10	10	
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	NEW ELTHAM	10	32	
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06		11	40	*
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	Sidcup TP Hut	11	65	
+0132	SO310	002	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	SIDGUP	11	73	
+0133	SO310	003	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	ALBANY PARK	12	68	
+0133	SO310	003	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	Albany Park Substation	13	17	
+0133	SO310	003	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	BEXLEY	13	69	
+0133	SO310	003	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06		14	25	*
+0133	SO310	003	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	Crayford TP Hut	14	79	
+0133	SO310	003	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	02/12/06	GRAYFORD	15	25	
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06	Crayford Spur "B" Jan	16	11	
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06	(Crayford Spur "A" Jn)	16	41	
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06		16	42	
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06		16	42	*
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06	Dartford Substation	16	45	*
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06		16	66	*
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06	(via NK)	16	66	X
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06	Dartford Jn	16	75	*
+0134	SO310	004	Hither Green to Maidstone West (via Dartford) HDR CRA Kent / Sussex	02/12/06		17	05	
+0135	SO310	005	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	22/03/08		16	78	*
+0135	SO310	005	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	22/03/08	DART FORD	17	12	
+0135	SO310	005	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	22/03/08		17	31	*
+0135	SO310	005	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	22/03/08		17	51	*
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	Littlebrook TP Hut	17	79	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08		18	32	*
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	STONE CROSSING	19	07	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	Stone LC	19	14	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	Stone Crossing Substation	19	15	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	GREENHITHE	19	69	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	Greenhithe Tunnel	20	03	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	(253 yards) to	20	15	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	Swanscombe TP Hut	20	70	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	SWANSCOMBE	21	14	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	NORTHFLEET	21	69	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	Northfleet Substation	22	25	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	Springhead Road Jn Up	22	27	
+0136	SO310	006	Hither Green to Maidstone West (via Dartford) HDR Kent / Sussex	29/11/08	Springhead Road Jn Down	22	42	
+0137	SO310	007	Hither Green to Maidstone West (via Dartford) Kent / Sussex	02/12/06	Gravesend TP Hut	23	51	
+0137	SO310	007	Hither Green to Maidstone West (via Dartford) Kent / Sussex	02/12/06		23	53	*
+0137	SO310	007	Hither Green to Maidstone West (via Dartford) Kent / Sussex	02/12/06	GRAVESEIID	23	75	
+0137	SO310	007	Hither Green to Maidstone West (via Dartford) Kent / Sussex	02/12/06		24	09	*
+0137	SO310	007	Hither Green to Maidstone West (via Dartford) Kent / Sussex	02/12/06		24	60	*
+0137	SO310	007	Hither Green to Maidstone West (via Dartford) Kent / Sussex	02/12/06	Denton Substation	25	05	
+0137	SO310	007	Hither Green to Maidstone West (via Dartford) Kent / Sussex	02/12/06	Uralite TP Hut	26	49	
+0138	SO310	008	Hither Green to Maidstone West (via Dartford) HDR HTG Kent / Sussex	02/12/06	Shornmead Crossing	27	01	
+0138	SO310	008	Hither Green to Maidstone West (via Dartford) HDR HTG Kent / Sussex	02/12/06	H00 JN STAFF HALT	27	07	DOWN
+0138	SO310	008	Hither Green to Maidstone West (via Dartford) HDR HTG Kent / Sussex	02/12/06	Hoo Jn	27	19	
+0138	SO310	008	Hither Green to Maidstone West (via Dartford) HDR HTG Kent / Sussex	02/12/06	HOD JN STAFF HALT	27	26	UP
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	Higham Substation	27	73	
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	HIGHAM	28	42	
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	Higham Tunnel	28	55	
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	(1531 yards) to Tunnel TP Hut	29	46	
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	Stood Tunnel	29	48	
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	(1 Mile 569 yards) to	30	74	
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08		30	75	*
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	STROOD	31	11	
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08		31	16	*
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	(Strood Substation)	31	23	
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08		31	19	*
+0139	SO310	009	Hither Green to Maidstone West (via Dartford) HDR PWSZ Kent / Sussex	22/03/08	(Rochester Bridge Jn)	31	34	
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06		31	30	*
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06		31	39	*
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Wickham TP Hut	33	02	
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Cuxton Ground Frame	33	31	
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	CUXTOH	33	36	
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Cuxton LC	33	39	
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Cuxton SB	33	40	OX
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	North Halling Crossing	34	33	
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Halling Substation	34	63	
+0140	SO310	010	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Halling Ground Frame	34	79	
+0141	SO310	011	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	HALLING	35	18	
+0141	SO310	011	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Snodland TP Hut	36	46	
+0141	SO310	011	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	SNODLAND	36	59	
+0141	SO310	011	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Snodland LC	36	64	
+0141	SO310	011	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Snodland SB	36	64	EDM
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Abbey Meade Crossing	37	50	
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06		37	55	*
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	WillowWalk FPW	37	61	
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06		37	71	*
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	NEW HYTHE	38	03	
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	New Hythe Substation	38	27	
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06		38	53	*
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Mill Hall Crossing	38	64	
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Aylesford Ground Frame	38	69	
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	AYLESFORD	38	74	
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Aylesford SB	38	75	AF
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Aylesford LC	38	78	
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06		38	79	*
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Aylesford Village LC	39	36	CCTV
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	_ _	39	48	*
+0142	SO310	012	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	thtle Preston Crossmg	39	66	
+0143	SO310	013	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Aylesford TP Hut	40	03	
+0143	SO310	013	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Allington Ground Frame	40	43	
+0143	SO310	013	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Allington Sidings	40	43	X
+0143	SO310	013	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	Maidstone Substation	41	69	
+0143	SO310	013	Hither Green to Maidstone West (via Dartford) PW82 Kent / Sussex	02/12/06	MAIDSTONE BARRAGKS	42	00	
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08		42	19	*
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08		42	29	*
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08	MAIDSTONE WEST	42	36	
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08	Change ofMileage	42	41	
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08		44	56	
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08	Maidstone West SB	44	54	MS
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08		44	45	*
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08	Tovil Crossing	44	30	*
+0144	SO310	014	Hither Green to Maidstone West (via Dartford) PWS1 PWSZ Kent / Sussex	22/03/08	(EAST FARLEIGH)	42	75	

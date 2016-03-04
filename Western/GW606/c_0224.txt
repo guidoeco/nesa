@@ -1,0 +1,13 @@
+Crediton LC (MOB) 179 26
+Crediton (CN) SB 179 26
+(change of ELR)
+179 32 *
+179 36 -k
+179 60 *-
+Salmon Pool LC (AOCL) 180 09
+Stockeydown Farm LC (UWC) 181 70
+182 70
+YEOFORD 182 72
+184 00 *-
+184 40 *-
+

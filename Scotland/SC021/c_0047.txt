@@ -1,0 +1,6 @@
+Coltness (Network Rail Boundary) 0 09
+(Change of ELR 0 00
+0082 to C081) 14 15
+Notice Board 14 17
+GarriongillJn 15 29
+

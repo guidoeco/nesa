@@ -1,0 +1,15 @@
+93 23 *
+93 25
+93 3O
+93 54
+Tile Shed LC (AHBC-X) 93 64
+Boldon LC (AHBC-X) 94 00 i:
+94 45 *-
+94 59
+Boldon East Jn 94 63
+BROGKLEY WHINS 95 09
+Boldon West Jn 95 16
+95 19
+95 20 *
+95 30 9:
+

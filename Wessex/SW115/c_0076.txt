@@ -1,0 +1,8 @@
+GRATELEY 72 49
+78 00 *-
+
+Targetts Crossing 78 21
+82 00 *-
+
+Laverstock North Jn 82 05
+

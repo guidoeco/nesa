@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0157	NW3031	001	Northwich South Jn. to Northwich Station Jn. NSN LNW North	07/10/06	Northwich South Jn	8	37	
+0157	NW3031	001	Northwich South Jn. to Northwich Station Jn. NSN LNW North	07/10/06	Northwich Station Jn	8	66	*
+0157	NW3031	001	Northwich South Jn. to Northwich Station Jn. NSN LNW North	07/10/06		20	52	
+0157	NW3031	001	Northwich South Jn. to Northwich Station Jn. NSN LNW North	07/10/06	NORTHWIGH			Z

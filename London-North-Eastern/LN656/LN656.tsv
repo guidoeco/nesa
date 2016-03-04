@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0511	LN656	001	Seaton-on-Tees Branch SOT London North Eastern	28/02/09	Seaton Snook Jn	0	00	*
+0511	LN656	001	Seaton-on-Tees Branch SOT London North Eastern	28/02/09	Graythorpe LC	0	25	AOCL
+0511	LN656	001	Seaton-on-Tees Branch SOT London North Eastern	28/02/09	West LC	1	38	OPEN
+0511	LN656	001	Seaton-on-Tees Branch SOT London North Eastern	28/02/09	Hartlepool Power Station	1	38	X
+0511	LN656	001	Seaton-on-Tees Branch SOT London North Eastern	28/02/09	Seaton-on-Tees End of line	1	51	

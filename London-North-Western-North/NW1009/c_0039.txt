@@ -1,0 +1,11 @@
+Salop Goods Jn SB (SG) 157 71
+Tunnel 158 14
+(380 metres I 416 yards) to 158 32
+
+158 66 *
+(ELR change) 158 77 *-
+OHNS 158 79
+
+162 17 *-
+Sandbach South Jn 162 28
+

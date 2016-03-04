@@ -1,0 +1,11 @@
+NRN CSR
+TCB Yoker SC (Y F)
+AC: Cathcart ECR
+TOWS through Stobcross Street Tunnel
+DRS 655f (195m)
+(31 SLU's)
+GSM-R
+Down: Start of GSM-R area: 4m 08¢h
+TOWS through Kelvinhaugh Tunnel 7‘
+Up: End of GSM-R area: 4m 70ch
+

@@ -1,0 +1,39 @@
+NRN
+TCB Crewe SB (CE)
+AC: Crewe
+'U&D'L = 'Up & Down' Loop
+(PF) 361m (118411)
+Platform Lengths: Crewe
+Platform 1 Permissive PP
+Up 311m (340yards) Down 332m (363yards)
+Platform 2 Permissive PP
+Up 1 59m (174yards) Down 159m (1 74yards)
+Platform 3 Permissive PP
+Up 90m (98yards) Down 90m (98yards)
+Platform 4 Permissive PP
+Up 132m (144yards) Down 132m (144yards)
+Platform 5 Permissive PP-A
+Up 273m (299yards) Down 256m (280yards)
+Platform 6 Manchester Permissive PP-AC'D
+Up 254m (278yards) Down 313m (342yards)
+Platform 6 Crewe Permissive PP-A®
+Up 387m (423yards) Down 446m (488yards)
+Platform 7 Permissive PP
+Up 154m (168yards) Down 154m (168yards)
+Platform 8 Permissive PP
+Up 116m (127yards) Down 116m (127yards)
+Platform 9 Permissive PP
+Up 202m (221yards) Down 202m (221yards)
+Platform 10 Permissive PP
+Up 80m (87yards) Down 80m (87yards)
+Platform 11 Permissive PP-A
+Up 299m (327yards) Down 308m (337yards)
+Platform 12 Permissive PP-A
+Up 424m (464yards) Down 432m (472yards)
+('D = (Down direction only) Except between signals
+CE.149 & CE.151
+TASS fitted:
+DF line and UF line throughout
+® = Chester Independent Line
+(3) = Holding Siding
+

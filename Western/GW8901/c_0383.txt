@@ -1,0 +1,12 @@
+Dynevor Jn 207 67
+19 16
+19 19 *
+
+Dynevor GF 19 36
+20 OT
+20 17 :7:
+
+Jersey Marine Jn South 20 24
+44 19
+44 27 3k
+

@@ -1,0 +1,11 @@
+0 19 *
+HIGH ST 0 05
+(Change of ELR 0 00
+NEM2 to NEM3) o 00
+High St Tunnel 0 00
+680 yards to O 31
+QUEEN STREET (Low Level) 0 4O
+Charing Cross Tunnel 0 47
+1100 yards to 1 17
+GHARING GROSS 1 20
+

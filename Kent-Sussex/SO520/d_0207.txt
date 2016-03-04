@@ -1,0 +1,29 @@
+NRN CSR
+TCB Havant SB (HT)
+RAB DC: Eastleigh
+GSM-R area (IVRS)
+LA
+Axle Counter area
+6) PLOD at 44m 18ch
+Down Main - Fratton to Blackfriars Jn
+Down Main - Blackfriars Jn
+® PLOD at 44m 220h
+Up and Down Fratton - Fratton to Blackfriars Jn
+Up and Down Main - Blackfriars Jn
+(3) PLOD at 44m 250h
+Up Main - Fratton to Blackfriars Jn
+Up Main - Blackfriars Jn
+GD PLOD at 44m 290h
+Back Road - Blackfriars Jn to Holbmok Road
+Bridge (HT552 ground signal)
+(5) PLOD at 44m 32ch
+Up Main - Blackfriars Jn
+© PLOD at 44m 290h
+Up and Down - Blackfriars Jn
+Down Main - Blackfriars Jn
+Platforms 3 & 4 PP
+1 Up Main
+2 Up & Down Fratton
+3 Down Main
+4 Back Road
+

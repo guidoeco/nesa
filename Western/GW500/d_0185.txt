@@ -1,0 +1,16 @@
+NRN CSR
+TCB Reading SB (R)
+RAB
+Location of known low rail adhesion
+- 36m 200h and 37m BOGh
+CSR
+CD - Down direction 40 ' 7
+Up direcfion 50 
+Down platform - 276m, 302yds
+Up platform - 93m, 102yds
+ATP - UW
+ELR - BKE
+ELR - BHL
+DW - Down Westbury
+UW - Up Westbury
+

@@ -1,0 +1,20 @@
+NRN CSR
+
+TCB Arundel SB (AR)
+
+1 Up Brighton
+
+2 Down Brighton
+
+3 Up East Spur
+
+4 Down EastSpur
+
+5 Down Main
+
+6 Up Main
+
+7 Up Horsham
+
+8 Down Horsham
+

@@ -1,0 +1,28 @@
+NRN CSR
+TCB Lewes SB
+RAB DC:Brighton
+Note:-
+lndicators positioned at
+Cooksbridge end of tunnel
+Platform 1 PP—A (detaching only)
+Platform 2 PP-A
+Also permitted for platform sharing
+during times of significant service
+interuptions
+Platform 3 PP-A (detaching only)
+Platform 4 PP—A
+Also permitted for platform sharing
+during times of significant service
+interuptions
+Platform 5 PP-A
+Also permitted for platform sharing
+during times of significant service
+interuptions
+UPL 17 (Down), 26 (Up)
+1 Up Main
+2 Down Main
+3 Up East Branch
+4 Down East Branch
+5 Up Lewes
+6 Down Lewes
+

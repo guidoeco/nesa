@@ -1,0 +1,22 @@
+Westbury Line Jn 36 17
+36 28 *
+36 29 *-
+
+CSR Channel change 36 30
+
+(Up direction)
+
+Reading Upper Triangle Depot 36 40 *
+
+Oxford Road Jn 36 67
+36 68 *
+
+READING WEST 36 75
+37 02 :1:
+
+Southcote Jn 37 62
+
+(Change of ELR)
+
+(Territory Boundary) (37 76) *
+

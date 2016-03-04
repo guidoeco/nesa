@@ -1,0 +1,164 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Sutton Bridge Jn SB (T EP)	0	65	
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Sutton Bridge Jn	0	63	
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		0	00	
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		0	02	*
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		0	10	*
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		2	10	*
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Hanwood Yard LC	3	73	UWC
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Hanwood LC	4	09	UWC
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Hanselmans1LC	7	17	UWC
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Stretlon Heath LC (AH BC)	8	76	
+0294	GW733	001	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Westbury LC	10	25	AHBC
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	Plas-y-Court LC	12	41	AHBC
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	RETB Channel Change	13	00	
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08		15	30	*
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08		15	70	*
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	Smiths Lower Cefn LC	15	72	UWC
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	chan eof ELR and milea e	15	19	
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	(9 9)	31	20	
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	Parry Green LC	31	25	UWC
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	Buttington Hall LC	31	60	UWC
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	Buttington LC	32	27	AHBC
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	Malt House LC	32	39	UWC
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08		33	55	*
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	WELSHPOOL	33	70	TEP
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08	WelshpoolGF	34	00	
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08		34	02	*
+0295	GW733	002	Sutton Bridge Jn to Aberystwyth SBA1 SBA2 Western	24/05/08		34	25	*
+0296	GW733	003	Sutton Bridge Junction To Aberystwyth SBA Western	15/09/07	Coed Y Dinas LC	34	79	UWC
+0296	GW733	003	Sutton Bridge Junction To Aberystwyth SBA Western	15/09/07		35	41	*
+0296	GW733	003	Sutton Bridge Junction To Aberystwyth SBA Western	15/09/07	Glanhafren LC	35	50	UWC
+0296	GW733	003	Sutton Bridge Junction To Aberystwyth SBA Western	15/09/07		35	74	*
+0296	GW733	003	Sutton Bridge Junction To Aberystwyth SBA Western	15/09/07	Fron LC	36	39	UWC
+0296	GW733	003	Sutton Bridge Junction To Aberystwyth SBA Western	15/09/07		37	35	*
+0296	GW733	003	Sutton Bridge Junction To Aberystwyth SBA Western	15/09/07		37	50	*
+0296	GW733	003	Sutton Bridge Junction To Aberystwyth SBA Western	15/09/07	Munllyn LC	33	06	UWC
+0297	GW733	004	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Forden LC	38	20	AOCL
+0297	GW733	004	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		38	61	*
+0297	GW733	004	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		38	77	*
+0297	GW733	004	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		39	16	*
+0297	GW733	004	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Rhydwhimen LC	39	68	RIG
+0297	GW733	004	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		39	78	*
+0297	GW733	004	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		40	44	*
+0298	GW733	005	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07		40	69	*
+0298	GW733	005	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	Cherry Orchard LC	41	18	UWC
+0298	GW733	005	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07		41	27	*
+0298	GW733	005	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	Upper Llegodig LC	42	60	UWC
+0298	GW733	005	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	The Bryn LC	43	26	UWC
+0298	GW733	005	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	Abermule LC	43	63	AHBC
+0298	GW733	005	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	Court Farm LC	44	04	UWC
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	Red House LC	44	63	UWC
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07		45	47	*
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07		45	79	*
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	Pen-y-gelli No.1 LC	46	29	UWC
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	Pen-y—gelli No.2 LC	46	34	UWC
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07		47	47	*
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	NEWPOWN	47	58	TEP
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07	Newtown GF	47	65	
+0299	GW733	006	Sutton Bridge Junction to Aberystwyth SBA Western	22/01/07		47	79	*
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08		49	48	*
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08	Penstrowed LC	50	25	UWC
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08		50	55	*
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08	Ty Mawr Farm LC	51	18	UWC
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08	Red House Farm No1 LC	51	40	UWC
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08		52	16	*
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08	Llanidloes Road LC	52	70	MCG
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08	Football Field LC	53	11	UWC
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08	Bridge 171	53	16	
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08		53	20	
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08	Caersws LC	53	31	MCG
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08	CAERSWS	53	31	
+0300	GW733	007	Sutton Bridge Junction to Aberystwyth SBA2 Western	02/02/08		53	32	*
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Weig Lane LC	54	26	AOCL
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Craigfryn LC	54	50	UWC
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		55	00	*
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		55	21	*
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		55	27	*
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		55	49	*
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Neuadd LC	55	50	UWC
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Plasau ClatterNo.1LC	55	78	UWC
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		56	02	*
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		56	20	*
+0301	GW733	008	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		56	56	*
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Oerffrwyd LC	57	15	UWC
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		57	40	*
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		57	52	*
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Plas Newydd LC	57	76	UWC
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		58	48	*
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Post Office No.1 LC	58	72	UWC
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Post Office No.2 LC	58	73	UWC
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Game LC (AHBC)	59	17	*
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		59	36	*
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Sam LC	59	42	UWC
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		59	53	*
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		59	59	*
+0302	GW733	009	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Pikins LC	60	35	UWC
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06		60	43	*
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	Tyddyn-y-pwll LC	60	50	UWC
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06		60	71	*
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	RaIItLC	60	78	UWC
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06		61	11	*
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	Talerddig GF	61	13	
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	Ystrad Fawr LC	61	25	UWC
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	Talerddig	61	26	TEP
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06		61	34	*
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06		61	60	*
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	RETB Channel Change	62	00	
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	Ty'n-yr-Wtre No.2 LC	63	05	UWC
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	Caetwpa LC	63	13	UWC
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06		63	60	*
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	Coed Cae No.1 LC	64	06	UWC
+0303	GW733	010	Sutton Bridge Junction to Aberystwyth SBA Western	02/12/06	Pentre Mawr LC	65	36	UWC
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Ty Pella LC	65	57	UWC
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Mywars No.2 LC	66	10	UWC
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Burn LC	66	49	UWC
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		67	40	*
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		68	05	*
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		68	60	*
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		69	20	*
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	RETB Channel Change	70	00	
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Cemmes Road LC	70	05	RIG
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Llanglan Fechan No.2 LC	74	05	UWC
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Llanglan Fechan No.4 LC	74	54	UWC
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		74	74	*
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	RETB Channel Change	75	00	
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Machynlleth SB	75	04	MH
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	MACHYNLLETH	75	04	TEP
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06		75	21	*
+0304	GW733	011	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Rhosfach LC	75	70	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Nawlyns LC	76	15	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Rhiwlas Hall No.2 LC	76	50	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Rhiwlas Hall No.4 LC	76	78	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Doldyfi LC	77	13	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Quay Ward No.1 LC	77	44	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Quay Ward No.2 LC	77	61	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Quay Ward No.3 LC	77	71	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Quay Ward No.4 LC	78	08	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Dovey Juncfion	78	60	
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	RETB Channel Change	79	00	
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	DOVEY JUNCTION	79	03	TEP
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Bridge 242	79	18	
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Bridge 243	80	19	
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Bridge 246	32	48	
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Bridge 247	83	31	
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Brickyard No.3 LC	84	66	UWC
+0305	GW733	012	Sutton Bridge Junction to Aberystwyth SBA Western	05/08/06	Ynyslas LC	85	21	AHBC
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Leri Bridge LC	85	29	UWC
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Bridge 250 851030	85	29	X
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		85	32	
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Aberleri LC	86	04	AHBC
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	BORTI-I (TEP) 87' 27	86	04	X
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Borth Capel Seion LC	87	35	UWC
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Barth Capel Soar LC	87	59	AOCL
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		88	70	*
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Llandre LC (ABCL)	89	58	*
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	Llandre Vicarage LC	90	02	RIG
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	PantY Peron LC	90	64	UWC
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		91	43	*
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06		91	70	*
+0306	GW733	013	Sutton Bridge Junction to Aberystwyth SBA2 Western	05/08/06	RETB Channel Change	93	00	
+0307	GW733	014	Sutton Bridge Junction to Aberystwyth SBA2 Western	23/02/08	Llanbadarn LC	94	56	ABCL
+0307	GW733	014	Sutton Bridge Junction to Aberystwyth SBA2 Western	23/02/08	Aberyshuyth No.1 GF	95	30	
+0307	GW733	014	Sutton Bridge Junction to Aberystwyth SBA2 Western	23/02/08	Aberystwyth No.2 GF	95	56	
+0307	GW733	014	Sutton Bridge Junction to Aberystwyth SBA2 Western	23/02/08	ABERYSTWYTH	95	60	TEP

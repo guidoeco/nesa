@@ -1,0 +1,17 @@
+Apperley Jn 202 3
+202 7 *
+Apperley Lane Tunnel 202 t0 61
+(69m I 75 yards) 202 64
+204 0 al-
+Springs Jn 204 1
+Springs Tunnel 204 7
+(70m I 77 yards) 204t011
+Esholt Jn 204 32
+Greenbottom Tunnel 204 61
+GUISELEY 205 22
+205 23 *
+MENSTON 206 53
+206 70 9e
+BURLEY IN WHARFEDALE 208 2
+Sun Lane LC (UWC) 208 50
+

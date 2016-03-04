@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0198	SW302	001	Redhill to Gatwick Airport RED2 VTB3 Wessex	02/12/06	EARLSWOOD	21	50	
+0199	SW302	002	Redhill to Gatwick Airport VTB3 Wessex	02/12/06	SALFORDS	23	37	
+0200	SW302	003	Redhill to Gatwick Airport VTB3 Wessex	21/04/07		25	40	*
+0200	SW302	003	Redhill to Gatwick Airport VTB3 Wessex	21/04/07	HORLEY	25	60	
+0200	SW302	003	Redhill to Gatwick Airport VTB3 Wessex	21/04/07	GATWIGK AIRPORT	26	47	
+0201	SW302	004	Redhill to Gatwick Airport VTB3 Wessex	02/12/06		26	58	*
+0201	SW302	004	Redhill to Gatwick Airport VTB3 Wessex	02/12/06		26	66	*
+0201	SW302	004	Redhill to Gatwick Airport VTB3 Wessex	02/12/06	Tinsley Green Jn	27	34	
+0201	SW302	004	Redhill to Gatwick Airport VTB3 Wessex	02/12/06		28	73	*

@@ -1,0 +1,82 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07	Edgeley Jn	182	59	
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07		0	00	
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07	Edgeley Jn No.2 SB	0	04	EY2
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07		0	12	*
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07	Edgeley Jn No.1 SB	0	21	EY1
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07		0	33	*
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07		0	68	*
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07		0	69	*
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07		0	74	*
+0139	NW3023	001	Edgeley Jn. No.2 to Mickle Trafford EJN LNW North	10/06/07		3	16	*
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07		3	66	*
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07	Northenden Jn	3	68	
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07		33	53	*
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07	Northenden Jn SB	33	49	NM
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07		33	25	*
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07	Northenden GF	33	28	
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07		30	39	
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07		30	16	*
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07	Skelton Jn	30	14	*
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07		30	12	
+0140	NW3023	002	Edgeley Jn. No.2 to Mickle Trafford WJP LNW North	26/05/07		0	00	
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06		0	33	
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06	Daansgate Jn	7	05	*
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06	Deansgate Jn SB	7	06	DJ
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06	Deansgate Jn LC (MOB)	7	06	X
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06		7	22	*
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06	NAVIGATION ROAD	7	25	
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06	Navigation Road LC	7	30	CCTV
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06		7	32	*
+0141	NW3023	003	Edgeley Jn. No.2 to Mickle Trafford SJD CDM1 LNW North	07/10/06		7	34	*
+0142	NW3023	004	Edgeley Jn. No.2 to Mickle Trafford CDM1 LNW North	07/10/06		7	55	
+0142	NW3023	004	Edgeley Jn. No.2 to Mickle Trafford CDM1 LNW North	07/10/06		7	62	*
+0142	NW3023	004	Edgeley Jn. No.2 to Mickle Trafford CDM1 LNW North	07/10/06		7	70	*
+0142	NW3023	004	Edgeley Jn. No.2 to Mickle Trafford CDM1 LNW North	07/10/06	ALTRINGHAM	7	74	
+0142	NW3023	004	Edgeley Jn. No.2 to Mickle Trafford CDM1 LNW North	07/10/06		8	00	
+0142	NW3023	004	Edgeley Jn. No.2 to Mickle Trafford CDM1 LNW North	07/10/06		7	69	
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		8	05	*
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	HALE	8	31	
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Hale LC	8	36	CCTV
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		8	78	*
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		9	02	*
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	ASHLEY	10	05	
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Mercer's LC	11	37	UWC
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	MOBBERLEY	11	71	
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Mobberley LC	11	74	MOB
+0143	NW3023	005	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Mobberley SB	11	75	
+0144	NW3023	006	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		14	25	*
+0144	NW3023	006	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	KNUTSFORD	14	40	*
+0144	NW3023	006	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Woods Tenement Farm LC	16	55	UWC
+0144	NW3023	006	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	PLUMLEY	17	17	
+0144	NW3023	006	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Plumley West SB	18	07	
+0144	NW3023	006	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	OcteISidings GF	18	43	
+0144	NW3023	006	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Field House Farm LC	18	43	UWC
+0145	NW3023	007	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	LOSTOGK GRALAM	19	15	
+0145	NW3023	007	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		19	48	
+0145	NW3023	007	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Northwich East Jn	19	77	
+0146	NW3023	008	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	23/06/08	NORTHWICH	20	47	
+0146	NW3023	008	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	23/06/08	Northwich Station Jn	20	52	
+0146	NW3023	008	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	23/06/08		20	56	
+0146	NW3023	008	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	23/06/08	Northwich West Jn	20	76	
+0146	NW3023	008	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	23/06/08		21	14	*
+0147	NW3023	009	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		21	58	*
+0147	NW3023	009	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Hartford East Jn	21	67	
+0147	NW3023	009	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Hartford West Jn	22	12	
+0147	NW3023	009	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Greenbank SB	22	21	GK
+0147	NW3023	009	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	GREENBANK	22	28	
+0148	NW3023	010	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Hartford CLC Jn	23	09	*
+0148	NW3023	010	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	GUDDINGTON	25	15	
+0148	NW3023	010	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Forest House Farm LC	26	74	UWC
+0148	NW3023	010	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	DELAMERE	28	11	
+0149	NW3023	011	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	Mouldsworth GF	30	60	
+0149	NW3023	011	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		30	62	*
+0149	NW3023	011	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06	MOULDSWORTH	31	02	
+0149	NW3023	011	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		31	09	*
+0149	NW3023	011	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		31	13	*
+0149	NW3023	011	Edgeley Jn. No.2 to Mickle Trafford CDM2 LNW North	07/10/06		31	40	*
+0150	NW3023	012	Edgeley Jn. No.2 to Mickle Trafford CDM2 MTJZ LNW North	07/10/06	Farmer Johnsons LC	34	06	UWC
+0150	NW3023	012	Edgeley Jn. No.2 to Mickle Trafford CDM2 MTJZ LNW North	07/10/06	Plemstall LC	34	45	UWC
+0150	NW3023	012	Edgeley Jn. No.2 to Mickle Trafford CDM2 MTJZ LNW North	07/10/06		35	23	*
+0150	NW3023	012	Edgeley Jn. No.2 to Mickle Trafford CDM2 MTJZ LNW North	07/10/06	Mickle Trafford SB	35	35	MT
+0150	NW3023	012	Edgeley Jn. No.2 to Mickle Trafford CDM2 MTJZ LNW North	07/10/06		35	40	

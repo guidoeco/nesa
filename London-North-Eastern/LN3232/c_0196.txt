@@ -1,0 +1,11 @@
+10 20 *
+Croft SB 10 04
+
+9 56 *
+Halts LC (UWC) 8 76
+M69 Overbridge LC (UWC) 7 40
+0' Neils LC (UWC) 7 21
+HINGKLEY 4 00
+Jericho LC (UWC) 3 31
+Route Boundary 2 62
+

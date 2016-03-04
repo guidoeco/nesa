@@ -1,0 +1,12 @@
+4 60 i:
+HAMILTON WEST 4 12
+
+4 04 *
+Eamock Sdgs 3 62
+BLANTYRE 2 29
+
+0 29 i:
+
+O 19 9:
+Newton, Hamilton Jn 0 07
+

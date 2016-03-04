@@ -1,0 +1,10 @@
+SHEPHERDS BUSH 4 15
+Westway TP Hut 4 55
+North Pole Jn 5 32 *
+North Pole Substation 5 62
+Boundary 5 65
+
+5 66 are
+Mitre Bridge Jn 5 67
+Mitre Bridge LC (CCTV) 5 72
+

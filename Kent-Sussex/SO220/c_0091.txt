@@ -1,0 +1,22 @@
+56 75 *-
+Hitachi Depot (Access) 57 05
+Kennington TP Hut 58 13
+Spring Grove Crossing 58 47
+Wye Substation 59 66
+Wye Crossing LC 60 26
+WYE 60 32
+Sparrows Bridge UWC 60 74
+Bilting TP Hut 61 32
+Bilting Grange Crossing 61 38
+Bilting Crossing 61 64
+Buckwell Crossing 61 70
+Godmersham Substation 63 O6
+63 40 *-
+Chilham TP Hut 64 59
+64 75 *-
+Chilham Mill LC (CCTV) 64 76
+CHILHAM 65 09 *
+65 12 *
+Chilham Road LC (CCTV) 65 4O
+Shalmsford Street UWC 66 17
+

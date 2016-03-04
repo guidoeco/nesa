@@ -1,0 +1,19 @@
+Ulceby North Jn 100 44
+100 48
+100 50 i:
+100 52 *
+Garola House LC (UWC) 101 39
+Meadow Croft Farm LC (UWC) 101 40
+Bystable Lane LC (MCG) 102 10
+102 72 are
+103 01 i:
+THORNTON ABBEY 103 04
+103 07 *
+103 10 *
+Barton Road LC (MCG) 103 12 *
+Butterswood LC (ABCL-X) 103 48 *
+104 16 i:
+Goxhill SB 104 51
+Goxhill LC (MCG) 104 51
+GOXHILL 104 55
+

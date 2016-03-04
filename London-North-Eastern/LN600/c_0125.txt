@@ -1,0 +1,18 @@
+66 70 *-
+66 72
+BERWIGK—UPON-TWEED 67 00
+67 06 *-
+Berwiok North Crossover 67 08
+67 11
+67 36
+67 36
+67 69 *
+69 00 1-
+Marshall Meadows FS OHNS 69 17
+Network Rail LNEIScotland 69 67 *-
+Territory Boundary 54 50
+(Mileage from Edinburgh)
+E6402 signal (Up) 54 26
+E6403 signal (Down) 54 12
+HABD 54 06
+

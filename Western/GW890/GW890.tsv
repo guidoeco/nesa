@@ -1,0 +1,39 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0378	GW890	001	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Briton Ferry Up Flying Loop Jn	206	14	
+0378	GW890	001	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Court Sart Jn	206	58	
+0378	GW890	001	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	(Down line)	206	58	X
+0378	GW890	001	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		207	12	*
+0378	GW890	001	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		207	55	*
+0378	GW890	001	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		207	57	
+0378	GW890	001	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Dynevor Jn	207	67	*
+0378	GW890	001	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		207	71	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Jersey Marine Jn North	208	33	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		208	37	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	(Change of Mileage)	208	49	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		0	00	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		0	27	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Llandarcy GF	0	37	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		0	48	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		1	06	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Lonlas Tunnel	1	08	
+0379	GW890	002	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	(845m. 924yds)	1	50	
+0380	GW890	003	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Former site of Felin Fran Jn	2	25	
+0380	GW890	003	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		4	03	
+0380	GW890	003	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		4	04	*
+0380	GW890	003	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Llangylelach Tunnel to (1786m, 284yds)	4	04	X
+0380	GW890	003	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		5	13	*
+0380	GW890	003	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Penllergaer Tunnel	6	45	
+0380	GW890	003	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	(260m, 284yds)	6	58	
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07		7	25	*
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07		7	40	*
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07	Pont Lliw	8	06	
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07		8	68	
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07		9	31	
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07	Grovesend Colliery Loop GF	9	34	
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07		9	45	*
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07		9	50	*
+0381	GW890	004	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	25/08/07		10	04	*
+0382	GW890	005	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Grovesend Colliery Loop Jn	10	05	
+0382	GW890	005	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		10	06	*
+0382	GW890	005	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06	Morlais Jn	10	64	
+0382	GW890	005	Court Sart JnlUp Flying Loop Jn to Morlais Jn SDI Western	05/08/06		3	50	

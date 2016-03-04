@@ -1,0 +1,15 @@
+19 20 al-
+Driffield SB (D) 19 26
+Driffield LC (MOB) 19 26
+Driffield Station LC (RC)(MCB) 19 34
+DRIFFIELD 19 38
+Wansford Road LC (CCTV) 19 54
+
+19 60 *
+Nafferton LC (AHBC-X) 21 44
+NAFFERTON 21 44
+Nether Lane LC (AHBC-X) 21 58
+Lowthorpe LC (AH BC—X) 23 64
+Burton Agnes LC (AHBC—X) 25 45
+Carnaby LC (AHBC—X) 28 52
+

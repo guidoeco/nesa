@@ -1,0 +1,6 @@
+
+Queen St High Level Tunnel 0 60
+0 30 *
+990 yards 0 15
+QUEEN ST HIGH LEVEL 0 00
+

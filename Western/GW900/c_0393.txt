@@ -1,0 +1,8 @@
+157 69 it
+Maindee East Jn 157 74
+
+158 10
+Maindee West Jn 158 16
+
+158 31
+

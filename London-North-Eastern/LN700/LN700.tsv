@@ -1,0 +1,4 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0534	LN700	001	Butterwell North Branch BW02 London North Eastern	02/12/06	Butterwell Jn	0	00	
+0534	LN700	001	Butterwell North Branch BW02 London North Eastern	02/12/06		0	05	*
+0534	LN700	001	Butterwell North Branch BW02 London North Eastern	02/12/06	Signal B1	0	48	

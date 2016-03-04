@@ -1,0 +1,15 @@
+Thomdell Substation 52 29
+
+53 36 *-
+
+53 44 *
+Amberley TP Hut 54 20
+Amberley SB (AY) 54 61
+AMBERLEY 54 62
+North Stoke Tunnel 55 30
+(83 yards) to 55 33
+South Stoke South Crossing 55 65
+South Stoke Substation 56 O7
+Peppering Crossing 56 30
+Offham Crossing 56 60
+

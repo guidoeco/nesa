@@ -1,0 +1,15 @@
+Leri Bridge LC (UWC) 85 29
+Bridge 250 851030
+85 32
+Aberleri LC (AHBC) 86 04
+BORTI-I (TEP) 87' 27
+Borth Capel Seion LC (UWC) 87 35
+Barth Capel Soar LC (AOCL) 87 59
+88 70 i:
+Llandre LC (ABCL) 89 58 *
+Llandre Vicarage LC (RIG) 90 02
+PantY Peron LC (UWC) 90 64
+91 43 9:
+91 70 *
+RETB Channel Change 93 00
+

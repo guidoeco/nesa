@@ -1,0 +1,11 @@
+NRN
+TCB Millerhill SB (M) 063
+AC:Cathcart ECR
+CD Entering and leaving yard
+@ Over sidings, excluding hand point
+connections at Monktonhall end
+= Through connections
+@ Through in and single to
+double connection
+Edinburgh SC (EP)
+

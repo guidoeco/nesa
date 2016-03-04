@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08	Exmouth Jn	170	27	
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08		0	01	
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08		0	10	*
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08	POLSLOE BRIDGE	0	34	
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08	DIGBY&80WTON	2	20	
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08		4	00	*
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08		4	15	*
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08	Single line Jn	4	18	
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08	Topsham LC	4	23	CCTV
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08	TOPSHAM	4	26	
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08	Single line Jn	4	34	
+0232	GW611	001	Exmouth Jn to Exmouth EMT Western	18/12/08		4	38	*
+0233	GW611	002	Exmouth Jn to Exmouth EMT Western	18/12/08	Water Lane LC	5	39	UWC
+0233	GW611	002	Exmouth Jn to Exmouth EMT Western	18/12/08	Daws LC	5	51	UWC
+0233	GW611	002	Exmouth Jn to Exmouth EMT Western	18/12/08	EXTON	5	67	
+0233	GW611	002	Exmouth Jn to Exmouth EMT Western	18/12/08	LYMPSTONE COMMANDO	6	23	
+0233	GW611	002	Exmouth Jn to Exmouth EMT Western	18/12/08	LYMPSTONE VILLAGE	7	28	
+0233	GW611	002	Exmouth Jn to Exmouth EMT Western	18/12/08	EXMOUTH	9	32	

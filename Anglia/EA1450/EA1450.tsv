@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	TRIMLEY	0	00	
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	Trimley LC	0	00	CCTV
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	Network Rail Boundary	0	18	
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	Port of Felixstowe	0	18	X
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	North Terminal Branch	0	18	X
+0200	EA1450	001	Trimley to Port of Felixstowe North Quay Terminal TFN Anglia	21/04/07	(Network Rail Signal 00634 at 00m 730h)	0	18	X

@@ -1,0 +1,30 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06	Chandlers Crossing	23	02	
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		23	13	*
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		22	40	*
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06	Banks Crossing	22	32	
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		18	16	
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		80	35	
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06	ROMSEY	80	47	
+0113	SW150	001	Redbridge to Salisbury Tunnel Junction RTJ1 RTJ2 Wessex	02/12/06		81	05	*
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Terrys Crossing	82	30	
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06		82	59	*
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Thurstons Crossing	82	60	
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Butlers Crossing	83	05	
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Kimbridge LC (AHBC)	33	45	*
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	DUNBRIDGE	84	21	
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Dunbridge LC	84	24	AHBC
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Dunbridge Crossing	84	37	
+0114	SW150	002	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Dean Hill LC	86	57	AHBC
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Bishops Crossing	86	73	
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	East Dean Crossing	87	40	
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	BEAM	88	10	
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	Dean LC	88	12	AHBC
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	West Grimstead Crossing	90	64	
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06	East Grimstead GF	90	64	X
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06		94	70	*
+0115	SW150	003	Redbridge to Salisbury Tunnel Junction RTJ2 Wessex	02/12/06		95	20	*
+0116	SW150	004	Redbridge to Salisbury Tunnel Junction RTJ2 LAV Wessex	02/12/06		95	60	*
+0116	SW150	004	Redbridge to Salisbury Tunnel Junction RTJ2 LAV Wessex	02/12/06	Laverstock South Jn	95	61	
+0116	SW150	004	Redbridge to Salisbury Tunnel Junction RTJ2 LAV Wessex	02/12/06		82	39	
+0116	SW150	004	Redbridge to Salisbury Tunnel Junction RTJ2 LAV Wessex	02/12/06		95	78	*

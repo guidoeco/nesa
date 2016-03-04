@@ -1,0 +1,21 @@
+4 12 *-
+NUNTHORPE 4 25
+Nunthorpe LC EMCB) 4 27
+Nunthorpe SB N) 4 27
+
+4 31 'k
+Morton Carr LC (AOCL) 4 68
+Morton Grange Farm No 4 LC (UWC) 5 50
+GREAT AYTON 8 14
+Laings LC (UWC) 9 55
+Atkinson Wood Farm LC (UWC) 9 70
+
+10 18 *-
+
+10 44 are
+Battersby Jn 10 54
+
+12 1O
+BATI'ERSBY 12 03
+End of line 11 61
+

@@ -1,0 +1,10 @@
+Hemerdon GF 239 13
+239 20 1:
+240 30
+242 55
+Tavistock Jn Yard
+242 60
+Marsh Mills
+Tavistock Jn GF 242 69
+242 70 3k
+

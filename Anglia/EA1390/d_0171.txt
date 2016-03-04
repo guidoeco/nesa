@@ -1,0 +1,17 @@
+NRN CSR
+TCB Upminster IECC (UR)
+RA8 AC: Romford
+AWS not provided on Down Goods line after
+UR807 signal
+Dn Goods - PF
+ES1 - Exchange Siding 1
+E32 - Exchange Siding 2
+E83 - Exchange Siding 3
+Exchange Sidings 1 to 3 and the Ford Motor
+Company Connecting line are Goods running lines
+BF-Barking Freightliner Terminal
+CD Down Goods not permissive from UR1139 signal
+Up Platform - 184m (199yds)
+Down Platform - 185m (200yds)
+(2) To CTRL lines
+

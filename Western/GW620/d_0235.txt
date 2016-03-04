@@ -1,0 +1,9 @@
+NRN
+TCB Exeter SB (E) .
+CD Class 4, 6, 7 8: 8 trains
+must NOT exceed 30 mph
+Down platform - 128m, 140de
+Up platform - 144m, 157yds
+Down platform - 237m, 25'9de
+Up platform - 232m, 254de
+

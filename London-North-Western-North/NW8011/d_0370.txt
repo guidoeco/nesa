@@ -1,0 +1,22 @@
+NRN CSR
+TCB Merseyrail SB (ML)
+DC: Sandhills
+
+Platform Lengths: Moreton
+
+Up 127m (13 yards)
+
+Down 126m (138 yards)
+
+Platform Lengths: Meals
+
+Up 127m (139 yards)
+
+Down 126m (138 yards)
+
+Platform Lengths: Manor Road
+
+Up: 128m (140 yards)
+
+Down: 128m (140 yards)
+

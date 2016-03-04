@@ -1,0 +1,8 @@
+NRN
+TCB Dyce SB (DY)
+CL 1410f (430m)
+(67 SLU's)
+PP(A) - detaching, for booked movements only.
+SAR - South Arrival Line
+NAR - North Arrival Line
+

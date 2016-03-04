@@ -1,0 +1,9 @@
+AMPRESS WORKS 96 61
+(Private)
+
+97 47 *
+Lymington Town LC (CCTV) 97 57
+LYMINGTON TOWN 97 57
+Lymington Pier (Sealink) Crossing 98 5
+LYMINGTON PIER 98 15
+

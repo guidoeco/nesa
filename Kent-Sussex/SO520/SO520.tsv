@@ -1,0 +1,196 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	(THREE BRIDGES)	29	21	
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		29	60	*
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Crawley TP Hut	30	40	
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	CRAWLEY	30	49	
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Crawley High Street LC	30	63	CCTV
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Horsham Road LC	31	05	CCTV
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		31	48	*
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	lfield Substation	31	61	
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	IFIELD	31	66	
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		32	14	*
+0190	SO520	001	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Bewbush crossing	32	65	
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Faygate TP Hut	33	40	
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Kilnwood Crossing	33	45	
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	FAYGATE	34	28	
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Raffey Road Substation	35	19	
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Raffey Road Crossing (AHBC)	35	39	*
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Rusper Road Crossing	36	48	
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	LI1TLEHAVEN	36	50	
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Parsonage Road Crossing (AHBC)	37	14	*
+0191	SO520	002	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		37	28	*
+0192	SO520	003	Three Bridges to Portsmouth Harbour TBH1 Kent / Sussex	22/03/08	Junction	35	34	*
+0192	SO520	003	Three Bridges to Portsmouth Harbour TBH1 Kent / Sussex	22/03/08		37	39	
+0192	SO520	003	Three Bridges to Portsmouth Harbour TBH1 Kent / Sussex	22/03/08	Horsham Substation	37	40	
+0192	SO520	003	Three Bridges to Portsmouth Harbour TBH1 Kent / Sussex	22/03/08		37	48	*
+0192	SO520	003	Three Bridges to Portsmouth Harbour TBH1 Kent / Sussex	22/03/08	HORSHAIIII	37	56	
+0192	SO520	003	Three Bridges to Portsmouth Harbour TBH1 Kent / Sussex	22/03/08		37	68	*
+0192	SO520	003	Three Bridges to Portsmouth Harbour TBH1 Kent / Sussex	22/03/08		38	40	*
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Baker's Crossing	39	33	
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Parthings TP Hut	39	34	
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	CHRIST'S HOSPITAL	40	07	
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Marlands Substafion	41	20	
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Bam's Green LC (AHBC)	42	18	*
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Vale Wood Crossing	42	45	
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Pratts Lower Crossing	42	62	
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Barnes Green TP Hut	43	08	
+0193	SO520	004	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		43	20	*
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Rosier No.2 Crossing	44	35	
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		44	57	*
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	BILLINGSHURST	44	71	
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	BillingshurstSB	44	74	BT
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Station Road LC	44	75	
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Billingshurst Substation	44	78	
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		45	37	*
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Hadfold No.2 Crossing	46	00	
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Adversane LO	46	31	AHBC
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Todhurst TP Hut	46	68	
+0194	SO520	005	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		47	70	*
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Cray Lane LC (AHBC)	48	31	*
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Forty Steps FIP	48	52	*
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Codmore Hill Substation	48	57	
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	New Place FIP	49	06	
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		49	07	*
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Pulborough SB	49	74	PH
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	PULBOROUGH	50	00	
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Hardham TP Hut	50	40	
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Hardham LC	50	66	AHBC
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		51	00	*
+0195	SO520	006	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		51	37	*
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Thomdell Substation	52	29	
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		53	36	*
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		53	44	*
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Amberley TP Hut	54	20	
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Amberley SB	54	61	AY
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	AMBERLEY	54	62	
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	North Stoke Tunnel	55	30	
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	(83 yards) to	55	33	
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	South Stoke South Crossing	55	65	
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	South Stoke Substation	56	07	
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Peppering Crossing	56	30	
+0196	SO520	007	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Offham Crossing	56	60	
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	ArundelTP Hut	57	79	
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	ARUNDEL	58	28	
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Arundel SB	58	36	AR
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Arundel Ground Frame	58	36	
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		59	60	*
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		18	65	*
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06		18	67	*
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Ford Substation	59	71	
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Arundel Jn	59	75	
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	(Change of mileage)	18	01	
+0197	SO520	008	Three Bridges to Portsmouth Harbour TBH1 Kent/Sussex	02/12/06	Hutchings Crossing	19	02	
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08	(Littlehampton Jn)	0	31	
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08		19	29	*
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08	Ford Jn	19	31	
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08		0	00	
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08		19	33	*
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08		19	37	*
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08	Ford LC	19	50	CCTV
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08	FORD	19	55	
+0198	SO520	009	Three Bridges to Portsmouth Harbour TBH2 FJL Kent/Sussex	10/11/08	Yapton TP Hut	20	59	
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08	Yapton LC	20	79	AHBC
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08	Lake Lane Crossing	21	18	
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08		21	72	*
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08		22	12	*
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08	BARNHAM	22	29	
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08	Bamham Substation	22	40	
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08		22	43	*
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08	Bamham SC	22	44	BH
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08		22	46	*
+0199	SO520	010	Three Bridges to Portsmouth Harbour TBH2 BBR Kent/Sussex	29/11/08		22	54	*
+0200	SO520	011	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Woodgate LC	23	53	CCTV
+0200	SO520	011	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Park Lane Crossing	23	71	
+0200	SO520	011	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Woodgate TP Hut	24	29	
+0200	SO520	011	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Decoy Crossing	24	64	
+0200	SO520	011	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Woodhom LC	25	20	AHBC
+0200	SO520	011	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Drayton Substation	26	18	
+0200	SO520	011	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Oving Crossing	26	21	
+0200	SO520	011	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Drayton LC	26	48	AHBC
+0201	SO520	012	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Oving Occupation	26	21	
+0201	SO520	012	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Portfield Ground Frames	27	27	
+0201	SO520	012	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Whyke Road LC	27	70	CCTV
+0201	SO520	012	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Chichester TP Hut	28	06	
+0201	SO520	012	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Basin Road LC	28	39	CCTV
+0201	SO520	012	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Stockbridge Road LC	28	43	CCTV
+0201	SO520	012	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	CHICHESTER	28	51	
+0201	SO520	012	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Chichester SB	28	60	00
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08		29	25	*
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Fishbourne Footpath LC	29	27	RIG
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Clay Lane LC	29	49	AHBC
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08		29	52	*
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Fishbourne Substation	29	76	
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	New Fishbourne LC (AHBC)	30	08	*
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	FISHBOURNE	30	12	
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Black Boy Lane LC	30	25	AHBC
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08		31	29	
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	BOSHAM	31	43	
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Bosham LC	31	49	AHBC
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Bosham TP Hut	31	64	
+0202	SO520	013	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	10/11/08	Funtington LC	32	19	AHBC
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Green Lane Crossing	32	29	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Drift Lane LC	32	60	AHBC
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Nutboume LC	33	12	AHBC
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	NUTBOURNE	33	14	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Pottery FIP Crossing	33	19	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Copse FIF' Crossing	33	44	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Nutboume Substation	33	53	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	lnlands Road LC	33	70	AHBC
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	SOUTHBOURNE	34	16	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Southboume LC	34	22	CCTV
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Church FIP Crossing	34	56	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Penny Lane	35	03	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Route Boundary	35	35	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Emsworth TP Hut	35	38	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	EMSWORTH	35	50	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08		36	60	*
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	WARBLINGTON	36	66	
+0203	SO520	014	Three Bridges to Portsmouth Harbour TBH2 Kent/Sussex	29/03/08	Warblington LC	36	71	CCTV
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07		37	13	*
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07		37	20	*
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07		66	10	*
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07	Havant LC	37	26	CCTV
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07	Havant SB	37	28	HT
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07		37	34	*
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07	HAVANT	37	41	
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07		37	61	*
+0204	SO520	015	Three Bridges to Portsmouth Harbour TBH2 WPH2 Kent! Sussex	29/10/07		37	63	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		37	76	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08	Bedhampton LC	38	10	CCTV
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08	BEDHAMPTON	38	14	
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		38	28	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		38	29	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		38	60	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08	Farlington Jn	40	33	
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		91	14	
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		91	00	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		91	00	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		40	38	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		90	75	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		90	75	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08	Portcreek Jn	41	03	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		91	01	
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		41	08	*
+0205	SO520	016	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		41	24	*
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08	HILSEA	41	41	
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		42	33	*
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		43	16	*
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		43	23	*
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08	Fratton East	43	33	
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		43	41	*
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08	FRATPON	43	64	
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08	Fratton Depot Ground Frame	43	67	
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		43	77	*
+0206	SO520	017	Three Bridges to Portsmouth Harbour WPH2 Kent/Sussex	26/01/08		44	13	*
+0207	SO520	018	Three Bridges to Portsmouth Harbour WPH2 PAS Kent! Sussex	10/05/08		44	24	*
+0207	SO520	018	Three Bridges to Portsmouth Harbour WPH2 PAS Kent! Sussex	10/05/08	Blackfriars Jn	44	26	
+0207	SO520	018	Three Bridges to Portsmouth Harbour WPH2 PAS Kent! Sussex	10/05/08		44	28	*
+0207	SO520	018	Three Bridges to Portsmouth Harbour WPH2 PAS Kent! Sussex	10/05/08		44	29	*
+0207	SO520	018	Three Bridges to Portsmouth Harbour WPH2 PAS Kent! Sussex	10/05/08		44	39	*
+0207	SO520	018	Three Bridges to Portsmouth Harbour WPH2 PAS Kent! Sussex	10/05/08	PORTSMOUTH & SOUTHSEA	44	50	
+0207	SO520	018	Three Bridges to Portsmouth Harbour WPH2 PAS Kent! Sussex	10/05/08		44	57	*
+0208	SO520	019	Three Bridges to Portsmouth Harbour WPH2 Kent / Sussex	10/05/08		45	05	*
+0208	SO520	019	Three Bridges to Portsmouth Harbour WPH2 Kent / Sussex	10/05/08		45	07	*
+0208	SO520	019	Three Bridges to Portsmouth Harbour WPH2 Kent / Sussex	10/05/08		45	16	*
+0208	SO520	019	Three Bridges to Portsmouth Harbour WPH2 Kent / Sussex	10/05/08		45	22	*
+0208	SO520	019	Three Bridges to Portsmouth Harbour WPH2 Kent / Sussex	10/05/08	PORTSMOUTH HARBOUR	45	36	

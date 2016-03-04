@@ -1,0 +1,11 @@
+FAIRWATERI TYLLGOED 2 60
+WAUN-GRON PARK 2 25
+
+2 15
+Leckwith Loop South Jn 0 69
+NINIAH PARK 0 63
+
+0 60 1:
+Penath Curve North Jn 0 47
+Radyr Branch Jn 0 25
+

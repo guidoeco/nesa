@@ -1,0 +1,10 @@
+UPHOLLAND 22 24
+23 10 1:
+Dukes Wood LC (UWC) 23 11
+RAINFORD 24 3O
+24 34 *
+Rainford Junction SB 24 35
+24 39 *
+Dale Lane GSP 28 25
+KIRKBY 29 40
+

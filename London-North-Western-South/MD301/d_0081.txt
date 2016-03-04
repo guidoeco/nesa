@@ -1,0 +1,14 @@
+NRN
+TCB Birmingham New St. PSB (NS)
+AC: Rugby ECR
+UST=Up Stour
+DST=Down Steur
+USG=Up Stour Goods
+65 SLU = 416 metresl455 yards
+DSG=Down Stour Goods
+65 SLU = 416 metresl455 yards
+TASS fitted: DST and UST lines
+Platform lengths:
+Down Stem-89 metres
+Up Stou r-89 metres
+

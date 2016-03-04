@@ -1,0 +1,174 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Longlands Jn	28	58	Down
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08		28	76	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08		28	77	*
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Longlands Jn	0	69	Up
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Longlands Tunnel	0	11	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	(50 metres / 55 yards)	0	08	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Boroughbridge Road LC (CCTV) DN	29	72	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	42	21	06	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	UP	0	00	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08		42	21	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Romanby Road LC	42	38	CCTV
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Springwell Lane LC	42	65	AHBC
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Northallerton East Jn	42	79	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08		43	00	*
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Low Gates LC	43	24	M08
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Low Gates SB	43	24	
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08		43	25	*
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Vaseys LC	43	68	UWC
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Clarke LC (UWC)	44	10	*
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08		44	12	*
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08	Walkers LC (UWC)	44	30	*
+0472	LN627	001	Northallerton Longlands Jn to Newcastle East Jn via the Coast LLP1 LLP3 LLP2 LEN3 London North Eastern	25/10/08		44	53	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	Brampton LC	44	57	AHBC-X
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		44	58	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		45	30	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		45	33	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	HABD 2'3 3%	45	33	X
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	Long Lane LC	46	34	CCTV
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		47	10	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	Welbury LC	48	21	AHBC-X
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	Rounton Gates LC	50	12	AHBC-X
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	Picton LC	52	31	CCTV
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	YARM	54	35	
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		55	29	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		55	64	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	Yarm Tunnel	55	76	
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	(75 yards)	55	79	
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		56	70	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	Eaglescliffe South Jn	56	75	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		56	76	*
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07	EAGLESGLIFFE	57	00	
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		57	07	
+0473	LN627	002	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	04/10/07		57	32	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08	Stockton Cut Jn	56	30	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08	Hartbum Jn	59	14	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		59	63	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		59	70	*
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08	STOCKTOH	60	04	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		60	07	*
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		60	54	*
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		60	56	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		60	60	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		61	70	*
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08	Norton-on—Tees South SB	61	71	NS
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08	Norton-on-Tees East SB	62	19	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08	Norton East (Blackwells) LC	62	21	UWC
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		62	22	*
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08	Norton-on-Tees LC	62	63	MOB
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08	Norton-on-Tees SB	62	63	
+0474	LN627	003	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	26/07/08		63	10	*
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Billingham-on-Tees SB	63	60	
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Billingham LC	63	60	
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Billingham Jn	63	69	
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	BILLINGHAM	64	47	
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07		65	00	*
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Cowpen Lane LC	65	44	AHBC—X
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Greatham SB	67	26	GM
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Greatham LC	67	28	M63
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Seaton Snook Jn	68	60	
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	SEATON CARE"!	69	36	
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Seaton Carew Jn	69	41	
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07		69	44	*
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07	Cliff House Jn	70	02	
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07		70	79	*
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07		71	05	*
+0475	LN627	004	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	09/07/07		71	12	
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Stranton SB	71	22	
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		71	30	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Church Street LC	71	40	CCTV
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	HARTLEPOOI.	71	55	
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Clarence Road (CR) SB	71	70	
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		71	73	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		72	20	
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		72	41	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		72	49	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		73	00	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		73	11	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		73	27	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		74	78	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		75	24	*
+0476	LN627	m	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Blackhills Farm LC	78	78	UWC
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		83	30	
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Dawdon Jn	84	11	
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		84	15	*
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Dawdon (DN) SB	84	22	
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Seaham (8) SB	34	44	
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	SEAHAM	34	49	
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		84	58	*
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09		85	20	*
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Hall Dene [HDeMSB	85	24	
+0477	LN627	Northallerton	Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	28/03/09	Hall Dene C CB)	85	24	
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09		85	52	*
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09		87	47	
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09		87	58	*
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09	Ryhope Grange Sidings	87	58	X
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09	Ryhope Grange SB	87	63	RG
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09		88	31	*
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09		89	05	*
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09	Sunderland South Tunnels	89	06	
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09	(650 metres I 711 yards)	89	38	
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09	(116 metres/127 yards)	89	45	
+0478	LN627	007	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	07/02/09		89	40	*
+0479	LN627	008	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		89	49	
+0479	LN627	008	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		89	51	
+0479	LN627	008	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Sunderland South Jn	89	56	
+0479	LN627	008	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		89	57	*
+0479	LN627	008	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		89	59	*
+0479	LN627	008	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	SUNDERLAND	89	60	
+0479	LN627	008	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		89	61	*
+0479	LN627	008	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		89	63	*
+0480	LN627	009	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Sunderland North Tunnel	89	64	
+0480	LN627	009	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	(234 metres 256 yards)	89	76	
+0480	LN627	009	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Sunderland North Jn	89	71	
+0480	LN627	009	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		89	76	*
+0480	LN627	009	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		89	78	*
+0480	LN627	009	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		90	07	*
+0480	LN627	009	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	ST PETER'S	90	08	
+0481	LN627	010	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		90	12	*
+0481	LN627	010	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		90	18	*
+0481	LN627	010	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		90	19	*
+0481	LN627	010	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Monkwearmouth Jn	90	20	
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	STADIUM OF LIGHT	90	48	
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		90	69	*
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		91	00	*
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	SEAURN	91	32	
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		91	40	*
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		93	11	*
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		93	14	*
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	EAST BOLDON	93	17	
+0482	LN627	011	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	East Boldon LC	93	21	CCTV
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		93	23	*
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		93	25	
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		93	30	
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		93	54	
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Tile Shed LC	93	64	AHBC-X
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Boldon LC (AHBC-X)	94	00	*
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		94	45	*
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		94	59	
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Boldon East Jn	94	63	
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	BROGKLEY WHINS	95	09	
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Boldon West Jn	95	16	
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		95	19	
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		95	20	*
+0483	LN627	012	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		95	30	*
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	FELLGATE	96	08	
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Pelaw Metro Jn	97	64	*
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		97	70	*
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		98	02	*
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Pelaw Jn for Jarrow	98	07	
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Pelaw Jn for Leamside	98	16	
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06	Pelaw	98	33	
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		98	40	
+0484	LN627	013	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	02/12/06		98	47	
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07	HEWORTH	99	00	
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07	St James Bridge Jn	100	23	
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07	Park Lane Jn	100	65	
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07		100	75	*
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07	High Level Bridge Jn	101	33	*
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07	High Level Bridge	101	33	
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07		101	45	
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07	High Level Bridge Central Jn	101	39	
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07		100	57	*
+0485	LN627	014	Northallerton Longlands Jn to Newcastle East Jn via the Coast LEN3 London North Eastern	10/03/07	Newcastle East Jn	101	59	

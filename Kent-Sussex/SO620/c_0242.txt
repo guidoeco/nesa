@@ -1,0 +1,14 @@
+1 40 are
+MOULSECOOMB 1 65
+
+1 68
+Roedale TP Hut 2 19
+
+3 04 *
+FALMER 3 39
+Falmer Tunnel 3 62
+(490 yards) 3 66 *-
+
+4 05
+Falmer Substation 4 20
+

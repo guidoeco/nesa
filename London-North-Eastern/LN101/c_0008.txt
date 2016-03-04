@@ -1,0 +1,9 @@
+19 63 :1:
+19 65 *
+Welwyn Garden City Up Yard 20 25
+WELWYN GARDEN CITY 20 25
+21 07 i:
+Digswell 21 18
+21 24 *
+21 36
+

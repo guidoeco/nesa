@@ -1,0 +1,12 @@
+NRN
+TCB Burscough Bridge Jn. SB (BB)
+Platform Lengths: Burscough Bridge
+Up 121m (132yards)
+Down 126m (138yards)
+Platform Lengths: New Lane
+Up 61m (67yards)
+Down 61m (67yards)
+Platform Lengths: Bescar Lane
+Up 66m (72yards)
+Down 60m (66yards)
+

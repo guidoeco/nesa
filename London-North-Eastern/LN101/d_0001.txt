@@ -1,0 +1,13 @@
+NRN CSR
+TCB Kings Cross SB (K)
+RAQ AC:York ECR
+PP - Permissive Working - full use for class 1. 2,
+3 (E08), 5, 9 & 0 trains in all Kings Cross plat-fame.
+All lines 0 00 to 0 64
+Bi-directional working
+Key to running lines.
+2F = No.2 Fast (A)
+1F = No 1 Fast (B)
+ZS = N02 Slow (C)
+18 = No1 Slow (D)
+

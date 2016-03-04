@@ -1,0 +1,10 @@
+South Acton Jn 2 52 *
+Bollo Lane (Kew Line) LC (CCTV) 2 63
+Kew East Jn. 3 27 i:
+Kew East Jn. (KE) SB 3 32
+
+3 35 5:
+Route Boundary 3 61
+Change of Mileage 9 68
+To Old Kew Jn 10 O1
+

@@ -1,0 +1,12 @@
+15 40 *
+15 68 at:
+NORTH WALSHAM 16 00
+16 02 a:
+16 30 *
+Pond Street LC 18 27
+18 62 1e
+Walpole LC (CCTV) 18 67
+GUNTON 19 63
+20 70 i:
+23 20 it
+

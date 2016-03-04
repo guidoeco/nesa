@@ -1,0 +1,16 @@
+NRN
+TCB Birmingham New St. PSB (NS)
+AC: Rugby ECR
+TASS fitted
+Platform lengths: Lea Hall
+Down Stow-185 metres
+Up Stow-184 metres
+Platform lengths: Steohford
+Down Stow-134 metres (To N839)
+Up Stow-172 metres
+UST = Up Stour
+DST = Down Stour
+fl) 95mph - Maximum permissible speed for
+locomotive hauled trains from 110m 730h
+(signal NS.440) to 109m 500h (signal N341).
+

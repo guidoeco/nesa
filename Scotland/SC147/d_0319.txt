@@ -1,0 +1,12 @@
+NRN
+TCB Edinburgh SC (E) 068
+AC:Cathcart ECR
+N = North Lines
+S = South Lines
+AWS is not provided between top
+of the page and Mound Tunnels (exc|.)
+For details of lockouts in this area
+see Local Instructions
+ELR - ECN2 = North Lines
+EGM3 = South Lines
+

@@ -1,0 +1,18 @@
+NRN
+AB Hawkesbury Lane SB (HL)
+area to Bedworth inclusive
+DB: Down Bedworth
+UB: Up Bedworth
+Platform lengths: Bedworth
+DB - 51 metres
+UB - 51 metres
+TCB Rugby 800 (CM)
+area from Bedworth (exclusive) to Nuneaton
+South Junction
+GSM-R area
+Entry: DB 08m 20¢h
+Exit: UB 08m ZOch
+L A
+D&UPL: Down & Up Platform Line
+DTVS: Down Trent Valley Slow
+

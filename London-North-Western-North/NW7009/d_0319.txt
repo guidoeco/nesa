@@ -1,0 +1,24 @@
+NRN
+
+TCB Preston SB (PN)
+UEL=Up East Lancs
+DEL=Down East Lancs
+
+Platform Lengths: Pleasington
+
+Platform Up 72m (79 yds)
+
+Platform Down 77m (84 yds)
+
+Platform Lengths: Cherry Tree
+
+Platform Up 73m (80 yds)
+
+Platform Down 72m (79 yds)
+
+Platform Lengths: Mill Hill
+
+Platform Up 1m (100 yds)
+
+Platform Down 91m (100 yds)
+

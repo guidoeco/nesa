@@ -1,0 +1,43 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08	Rutherglen Central Jn	0	00	
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08	OHNS	0	03	
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08		0	15	*
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08		0	16	*
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08	RUTHERGLEN	0	18	
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08	Rutherglen Footpath LC	0	23	RIG
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08		0	30	*
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08	Rutherglen North Jn	0	31	
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08	Bridge-ton Yard North End	0	43	
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08	(Change of ELR ARG1 to ARGZ)	0	86	
+0052	SC025	001	Rutherglen Central Jn to Finnieston Incl to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG1 ARG2 Scotland	27/12/08	DALMARNOCK	1	01	
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	Dalmamock Road Tunnel	1	02	
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	790 Yards to	1	38	*
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	BRIDGETON	1	41	
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	Canning Street Tunnel	1	46	
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	460 Yards	1	50	*
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		1	67	
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	Anderston Tunnel East Portal	1	75	
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		2	35	*
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		2	44	*
+0053	SC025	002	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		2	45	*
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		2	46	*
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		2	56	*
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	ARGYLE STREET	2	60	
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		2	79	*
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	GLASGOW CENTRAL	3	08	
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		3	13	*
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06		3	16	*
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	Anderston Tunnel West Portal	3	41	
+0054	SC025	003	Rutherglen Central Jn to Finnieston Incl. to Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	02/12/06	ANDERSTON	3	42	
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07		3	43	*
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	Stobcross Street Tunnel	3	45	*
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	to	3	56	*
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	640 Yards to	3	74	
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	EXHIBITION CENTRE	4	03	
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	Kelvinhaugh Tunnel	4	07	
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	950 Yards	4	07	X
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	OHNS	4	23	
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	Finnieston East Jn (On Down Line)	4	41	
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07		4	50	
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	OHNS	4	57	
+0055	SC025	004	Rutherglen Central Jn to Finnieston Incl. Bridgeton Yard (Via Arrival Line)(Goods Line) ARG2 Scotland	23/10/07	Finnieston West Jn (On Up Line)	4	74	

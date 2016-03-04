@@ -1,0 +1,6 @@
+Carstairs Station Jn 73 37
+73 60
+73 64 *
+
+Carstairs East Jn 74 10
+

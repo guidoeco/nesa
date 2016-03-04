@@ -1,0 +1,13 @@
+Hanslope North Junction 56 66
+OHNS 58 46
+58 53 i:
+56 70 *
+NRN Channel Change 59 00
+Roade HABD 59 72
+61 20 5b
+63 06 2k
+Hunsbury Hill Tunnel 64 00
+(1056 metres/1155 yards) to 64 53
+65 26 *-
+65 31 at-
+

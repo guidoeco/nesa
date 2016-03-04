@@ -1,0 +1,17 @@
+LAMPHEYI LLANDYFAI 282 50
+
+284 10 1k
+PEMBROKE I PENFRO 284 11
+(Change of RA) 284 22 *
+
+285 04 are
+Pembroke Tunnel 285 06
+(421 m, 480 yds) to 285 26
+
+285 28 1':
+Llanion LC (OPEN) 285 75 2k
+Pembroke Dock East GF 285 76
+Pembroke Dock Station GF 286 14
+PEMBROKE DOCK 286 26
+DOC PENFRO
+

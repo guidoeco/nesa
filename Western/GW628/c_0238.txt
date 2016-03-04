@@ -1,0 +1,12 @@
+Lipson Jn 244 35
+0 00
+Speedway Jn O 18
+244 30
+Mount Gould Jn 0 34
+(Change of ELR) 244 45
+Former Friary Jn 244 60
+(Change of ELR)
+STOP BOARD 245 13
+Turnchapel Branch Jn 245 17
+Plymouth Friary 245 40
+

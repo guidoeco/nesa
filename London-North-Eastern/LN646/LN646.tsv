@@ -1,0 +1,17 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09	Norton-on—Tees South SB (NS)	0	00	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		0	30	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09	Norton-on—Tees West SB	0	33	
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09	Norton West LC	0	33	
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		1	18	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		3	40	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		4	00	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		4	64	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		5	35	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		5	40	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		9	06	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09		9	20	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09	Signal F.452 Down	9	62	
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09	Signal F.453 Up	9	62	X
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09	Ferryhill South Jn	10	72	*
+0506	LN646	001	Norton-on-Tees South to Ferryhill South Jn. STF London North Eastern	28/02/09	Ferryhill SB (F)	56	73	*

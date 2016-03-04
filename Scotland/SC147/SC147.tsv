@@ -1,0 +1,101 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0304	SC147	001	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	BERWICK	67	00	
+0304	SC147	001	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		67	06	*
+0304	SC147	001	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		67	69	*
+0304	SC147	001	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	No 203 LC	63	52	RIG
+0304	SC147	001	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		69	00	*
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	OHNS	69	17	
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	Territory Boundary	69	67	*
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07		54	50	
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07		50	08	*
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07		49	09	*
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	Reston GSP	47	14	
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	Reston Up GF	46	22	
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	OHNS			Z
+0305	SC147	002	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07		45	34	*
+0306	SC147	003	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		43	30	*
+0306	SC147	003	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		42	41	*
+0306	SC147	003	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Grantshouse	41	14	
+0306	SC147	003	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Up Sidings GF	41	08	
+0307	SC147	004	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		39	78	*
+0307	SC147	004	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		39	40	*
+0307	SC147	004	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		39	05	*
+0307	SC147	004	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		36	08	*
+0307	SC147	004	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		36	02	*
+0307	SC147	004	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		35	39	*
+0308	SC147	005	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		34	75	*
+0308	SC147	005	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Innerwick	34	40	
+0308	SC147	005	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	OHNS	33	60	
+0308	SC147	005	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Torness Sdg GSP	32	77	
+0308	SC147	005	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Oxwellmains HABD	32	65	
+0308	SC147	005	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	(Down)			Z
+0308	SC147	005	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		31	41	*
+0309	SC147	006	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Oxwellmains	31	20	
+0309	SC147	006	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		31	00	*
+0309	SC147	006	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		29	43	*
+0310	SC147	007	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	sgds GF	29	10	*
+0310	SC147	007	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	NEAR	29	05	
+0310	SC147	007	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07		23	35	*
+0310	SC147	007	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	Iton HABD	25	48	Up
+0310	SC147	007	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	was LC	24	57	UWC
+0310	SC147	007	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	Item GSP	24	42	
+0310	SC147	007	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	ELR : ECM8	24	42	X
+0311	SC147	008	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		23	77	*
+0311	SC147	008	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Markle LC	22	14	AHBC
+0311	SC147	008	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		21	65	*
+0311	SC147	008	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		20	71	*
+0311	SC147	008	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		20	21	*
+0311	SC147	008	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Drem Jn	18	15	
+0311	SC147	008	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		18	13	*
+0311	SC147	008	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	DRENI	17	60	
+0312	SC147	009	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		17	41	*
+0312	SC147	009	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		16	25	*
+0312	SC147	009	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		15	60	*
+0312	SC147	009	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	OHNS	13	32	
+0312	SC147	009	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	LONGNIDDRY	13	18	
+0313	SC147	010	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	St Germaine LC	11	52	CCTV
+0313	SC147	010	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07		10	33	*
+0313	SC147	010	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	Prestonpans	9	67	
+0313	SC147	010	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	19/11/07	PRESTONPANS	9	40	
+0314	SC147	011	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	WALLYFORD	7	54	
+0314	SC147	011	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		6	27	*
+0314	SC147	011	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Monktonhall Jn	5	78	
+0314	SC147	011	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	MUSSELBURGH	5	13	
+0315	SC147	012	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06		3	40	*
+0315	SC147	012	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Portobello Jn to Niddriev lines	3	30	
+0315	SC147	012	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Portobello Jn to Leith South	3	25	
+0316	SC147	013	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Craigentinny	2	16	
+0316	SC147	013	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	02/12/06	Jn with Powderhall Branch	1	70	
+0317	SC147	014	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	27/12/06		1	41	*
+0317	SC147	014	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	27/12/06		1	05	*
+0317	SC147	014	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	27/12/06		0	62	*
+0317	SC147	014	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	27/12/06	Abbeyhill Jn	0	61	
+0317	SC147	014	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	27/12/06	Calton North Tunnel	0	50	
+0317	SC147	014	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	27/12/06	490 yards	0	47	
+0317	SC147	014	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	27/12/06	Calton South Tunnel	0	29	*
+0317	SC147	014	Berwick to Haymarket West Jn (Via Waverley) ECM8 Scotland	27/12/06	400 yards	0	27	
+0318	SC147	015	Bewvick to Haymarket West Jn (Via Waverley) ECM9 Scotland	01/12/07	Waverley (East End)	0	21	
+0318	SC147	015	Bewvick to Haymarket West Jn (Via Waverley) ECM9 Scotland	01/12/07		0	19	*
+0318	SC147	015	Bewvick to Haymarket West Jn (Via Waverley) ECM9 Scotland	01/12/07		0	11	*
+0318	SC147	015	Bewvick to Haymarket West Jn (Via Waverley) ECM9 Scotland	01/12/07	Edinburgh	0	07	
+0318	SC147	015	Bewvick to Haymarket West Jn (Via Waverley) ECM9 Scotland	01/12/07	EDINBURGH WAVERLEY	0	00	
+0318	SC147	015	Bewvick to Haymarket West Jn (Via Waverley) ECM9 Scotland	01/12/07		0	00	
+0318	SC147	015	Bewvick to Haymarket West Jn (Via Waverley) ECM9 Scotland	01/12/07	Waverley (West End)	0	15	
+0319	SC147	016	Berwick to Havmarket West Jn (Via Waverley) ECN2 EGM3 Scotland	19l11/07	Mound Tunnels	0	16	
+0319	SC147	016	Berwick to Havmarket West Jn (Via Waverley) ECN2 EGM3 Scotland	19l11/07	to 130 yards	0	22	
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07		0	33	*
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07	Haymarket North & South Tunnels	0	47	*
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07	to 1040 yards	1	14	
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07	HAYMARKET	1	19	
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07		46	02	
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07		45	78	*
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07		1	27	*
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07		45	73	*
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07		45	72	
+0320	SC147	017	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGM3 EGM2 Scotland	01/12/07	Haymarket East Jn	1	29	
+0321	SC147	018	Berwick to HaymarketWestJn (Via Waverley) ECNZ EGM2 Scotland	27/12/06		1	59	*
+0321	SC147	018	Berwick to HaymarketWestJn (Via Waverley) ECNZ EGM2 Scotland	27/12/06	Haymarket Central Jn	45	35	
+0321	SC147	018	Berwick to HaymarketWestJn (Via Waverley) ECNZ EGM2 Scotland	27/12/06		1	66	
+0322	SC147	019	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGMZ EGM1 Scotland	27/12/06	Haymarket West Jn	44	73	
+0322	SC147	019	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGMZ EGM1 Scotland	27/12/06		2	28	
+0322	SC147	019	Berwick to HaymarketWestJn (Via Waverley) ECN2 EGMZ EGM1 Scotland	27/12/06		44	60	*

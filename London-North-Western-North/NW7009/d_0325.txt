@@ -1,0 +1,15 @@
+NRN
+TCB Preston SB (PN)
+@ Applies to Class 1 to 6 trains and
+light locomotives only
+
+(2) Applies to Class 7 8: Strains only
+
+UEL=Up East Lancs
+
+DEL=Down East Lancs
+
+DL&Y=Down L&Y
+
+UL&Y=Up L&Y
+

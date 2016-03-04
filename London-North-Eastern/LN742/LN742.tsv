@@ -1,0 +1,37 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Killingholme (End of line)	2	70	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Yorkshire Tar LC	2	44	TMO
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Admiralty Sidings GF	2	42	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		2	39	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Shell Mex LC	2	34	Open
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Newlnn LC	2	19	Open
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Marsh Farm LC	0	49	Open
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		0	11	*
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		0	04	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		0	00	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		105	10	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Immingham West Jn SB	105	06	IW
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Immingham West Jn	104	74	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		104	72	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		104	71	*
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		104	67	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		104	63	*
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Western Entrance LC	104	55	CCTV
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		104	08	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06	Humber Road Jn	104	05	*
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		103	54	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		103	48	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		103	19	
+0292	LN742	001	Killingholme to Brocklesby Jn KIL2 KIL1 BRI2 London North Eastern	02/12/06		102	73	
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	Robinsons LC	101	36	UWC
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07		100	47	*
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	Ulceby North Jn	100	44	
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07		100	41	
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07		100	38	
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	ULCEBY	100	36	
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	Ulceby Jn LC	100	32	M03
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	Ulceby Jn SB	100	32	UJ
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	Ulceby South Jn	100	31	
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	Brocklesby East Jn	99	39	
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	Brocklesby Jn SB	99	31	B
+0293	LN742	002	Killingholme to Brocklesby Jn BRI2 BRI1 London North Eastern	07/05/07	Brocklesby West Jn	99	20	

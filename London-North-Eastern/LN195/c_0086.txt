@@ -1,0 +1,11 @@
+Allington East .Jn 108 34
+108 64
+108 65 i:
+Allington West Jn 108 69
+Allington LC (MOB) 108 71
+Allington SB (AL) 108 72
+108 74 al-
+109 46
+109 70 a:
+Sewstem Lane LC (RIG) 110 69
+

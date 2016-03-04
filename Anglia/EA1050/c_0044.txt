@@ -1,0 +1,15 @@
+SHENFIELD 20 16
+Shenfield Jn 20 22
+20 32 *-
+OHNS 20 65
+OHNS 20 72
+21 10 *-
+Mountnessing Jn 21 32
+21 35 i:
+21 40 i:
+23 75 *
+24 00 a:
+24 10 *-
+24 13 *
+BILLERIGAY 24 23
+

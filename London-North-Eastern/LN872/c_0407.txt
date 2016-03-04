@@ -1,0 +1,9 @@
+Altofts Jn 185 73
+186 01 *-
+186 05
+Methley Jn 187 41
+Methley North LC (RIG) 188 30
+HABD 188 34
+WOODLESFORD 190 00
+Footpath LC (RIG) 190 00
+

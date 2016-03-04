@@ -1,0 +1,10 @@
+24 4O *-
+CSR Channel change DM 24 60
+
+25 02 5%
+CSR Channel change DR 25 60
+Waltham(Maidenhead)WlLD 26 21
+CSR Channel change UR 28 60
+CSR Channel change UM 29 38
+Ruscombe 29 45
+

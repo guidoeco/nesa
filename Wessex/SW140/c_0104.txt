@@ -1,0 +1,7 @@
+Adelaide LC (CCTV) 1 69
+Bridge No.2 2t 16 i:
+o
+2 22
+BITTERNE 2 36
+2 60 a:
+

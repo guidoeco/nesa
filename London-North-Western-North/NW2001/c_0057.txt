@@ -1,0 +1,21 @@
+Edge Hill SB (LE) (1 57 )
+( 1 60 )*
+Edge Hill East Jn 191 75
+EDGE HILL 192 21
+(1 31)
+Tunnel Rd Tunnel 192 29
+(63m 74yd Down Fast (1 22) 
+53ml58yd Other lines) 192 32
+(1 20)
+Edge Hill West Jn 192 42
+(1 10)
+Overbury St. Tunnel 192 43
+(132ml144yd) (1 09) to 192 50
+(1 02)
+Smithdown Lane Tunnel 192 69
+(86m194yd) (0 63) to 192 73
+(0 59)
+Crown St. Tunnel 192 73
+(52ml57yd) (O 58) to 192 76
+(0 56)
+

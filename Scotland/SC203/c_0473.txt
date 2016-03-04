@@ -1,0 +1,16 @@
+Lochside LC (UWC) 121 00
+
+Ballach LC (UWC) 122 30
+123 40 i:
+123 71 *
+125 24 *
+
+Sdg GF
+
+Farsinard LC (AOCL) 125 67
+
+FORSINARD TEP 125 69
+126 48 *
+127 35 9:
+131 72 *-
+

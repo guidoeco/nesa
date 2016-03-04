@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09	Channelsea North Jn	3	32	
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09		0	00	
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09	HighMeadan.	0	15	*
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09		0	18	*
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09		0	42	*
+0147	EA1350	001	Channelsea North Jn to Temple Mills East Jn CHM LLS Anglia	10/01/09	Temple Mills East Jn	0	59	

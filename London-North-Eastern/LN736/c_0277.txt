@@ -1,0 +1,16 @@
+CLEETHORPES 112 40
+112 20 *
+112 15 a:
+112 00 :1.-
+NEW GLEE 110 78
+110 75 it
+110 44 *
+110 33 :1:
+Fish Dock Road LC (CCTV) 110 31
+110 26 *-
+GRIMSBY DOCKS 110 11
+110 02
+109 59
+Pasture Street SB (P) 109 48
+Pasture Street LC (MOB) 109 48
+

@@ -1,0 +1,26 @@
+NRN CSR
+
+RAB AC: Paddock WoodiCanterbury
+
+DC: Paddock WoodlCanterbury
+Note: Speed beards also indicate
+maximum speeds in kilometres per
+hour. These boards are circular, with
+white numbers on a black
+background.
+Mileages in brackets are kilometre
+distances on Continental main line.
+Permissive working authorised on
+through passenger line (both
+directions), sidings 1 to 7 (both
+directions) and siding 8 (up
+direction).
+Network Rail! Eurotunnel
+Interface Instructions.
+1 Up Main
+2 Down Main
+3 Through Passenger line
+7 Up Slow
+8 Down Fast
+9 'G' Neck
+

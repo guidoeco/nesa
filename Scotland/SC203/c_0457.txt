@@ -1,0 +1,6 @@
+Balintraid LC (UWC) 33 50
+34 45 a:
+34 78 *
+
+Delny LC (AOCL) 34 79
+

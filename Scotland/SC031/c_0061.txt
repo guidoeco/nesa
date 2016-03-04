@@ -1,0 +1,9 @@
+102 04 are
+101 20 a:
+100 40
+99 50 HI:
+Wath LC (UWC) 96 44
+WarrenhillLC(UWC) 95 14
+95 00 27c
+Brasswell LC (AHBC) 93 49 2k
+

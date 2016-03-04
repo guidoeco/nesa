@@ -1,0 +1,9 @@
+BELMONT 16 01
+Belmont TP Hut 16 17
+16 57 *
+17 39 *
+BANSTEAD 17 40
+Banstead Substation 17 56
+18 46 *
+EPSOM DOWNS 18 60
+

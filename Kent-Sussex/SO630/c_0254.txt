@@ -1,0 +1,10 @@
+Roundstone LC (CCTV) 15 00
+Angmering Substation 15 25
+ANGMERIHG 15 44
+Angmering LC (CCTV) 15 48
+Ground Frame
+
+Brook Lane Crossing 16 45
+Nomay Lane Crossing 17 12
+Toddington TP Hut 17 13
+

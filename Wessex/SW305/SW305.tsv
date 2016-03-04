@@ -1,0 +1,78 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0202	SW305	001	Brighton to Havant TBH2 Wessex	02/12/06	BRIGHTON	00	00	
+0202	SW305	001	Brighton to Havant TBH2 Wessex	02/12/06		00	22	*
+0202	SW305	001	Brighton to Havant TBH2 Wessex	02/12/06	Hove Tunnel	01	25	
+0202	SW305	001	Brighton to Havant TBH2 Wessex	02/12/06	220 Yards	00	40	
+0203	SW305	002	Brighton to Havant TBH2 Wessex	02/12/06	HOVE	1	35	
+0203	SW305	002	Brighton to Havant TBH2 Wessex	02/12/06		1	47	*
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	ALDRINGTON	1	74	
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	PO RTSLADE	2	73	
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	Portslade LC	2	73	CCTV
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	FISHERGATE	3	47	
+0204	SW305	003	Brighton to Havant TBH2 Wessex	02/12/06	SOUTHWICK	4	30	
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	Shoreham East LC	5	50	CCTV
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	SHOREHAM—BY—SEA	5	69	
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	Shoreham East LC	5	69	CCTV
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	Lancing SB	8	19	LG
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	Lancing LC	8	19	CCTV
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	LANGING	8	19	
+0205	SW305	004	Brighton to Havant TBH2 Wessex	02/12/06	EAST WORTHING	9	55	
+0206	SW305	005	Brighton to Havant TBH2 Wessex	02/12/06	won-mus	10	46	
+0206	SW305	005	Brighton to Havant TBH2 Wessex	02/12/06	Worthing Lc	10	46	CCTV
+0206	SW305	005	Brighton to Havant TBH2 Wessex	02/12/06	West Worthing LC	11	30	CCTV
+0206	SW305	005	Brighton to Havant TBH2 Wessex	02/12/06	WEST won-rams	11	30	
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	DURRINGTON-ON—SEA	12	13	
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	GORING-BY-SEA	13	07	
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Goring-By—Sea LC	13	07	CCTV
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Ferring LC	13	56	CCTV
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Langmeads No.1 Crossing	14	31	
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Roundstone LC	15	00	CCTV
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	ANGMERING	15	44	
+0207	SW305	006	Brighton to Havant TBH2 Wessex	02/12/06	Angmering LC	15	44	CCTV
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Brook Lane Crossing	16	46	
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Nomay Crossing	17	12	
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Toddington LC (AHBC)	17	49	*
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Tyminster LC	18	02	CCTV
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Bowermans Crossing	18	51	
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06		18	65	*
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06		18	67	*
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Arundel Jn	19	01	
+0208	SW305	007	Brighton to Havant TBH2 Wessex	02/12/06	Hutchings Crossing	19	02	
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Ford Jn	19	31	*
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Ford River Bridge	19	36	
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Ford LC	19	36	CCTV
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	FORD	19	55	
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Withy Tree Crossing	20	23	
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Yapton (AHBC)	20	79	*
+0209	SW305	008	Brighton to Havant TBH2 Wessex	02/12/06	Lake Lane Crossing	21	18	
+0210	SW305	009	Brighton to Havant TBH2 Wessex	02/12/06	BARNHAM	22	29	
+0210	SW305	009	Brighton to Havant TBH2 Wessex	02/12/06	Barnham SB	22	29	BH
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Woodgate LC	23	53	CCTV
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Park Lane Crossing	23	70	
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Decoy Crossing	24	64	
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Woodhorn LC	25	20	AHBC
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Oving Crossing	26	26	
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Drayton LC	26	48	AHBC
+0211	SW305	010	Brighton to Havant TBH2 Wessex	02/12/06	Whyke Road LC	27	70	CCTV
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Basin Road LC	28	39	CCTV
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Stockbridge Road LC	28	43	CCTV
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	CHICHESTER	28	51	
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Chichester SB	28	51	00
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06		29	25	*
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Fishbourne Footpath LC	29	27	RIG
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06	Clay Lane LC	29	49	AHBC
+0212	SW305	011	Brighton to Havant TBH2 Wessex	02/12/06		29	52	*
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	New Fishbourne LC (AHBC)	30	08	*
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	FISHBOURNE	30	12	
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Black Boys LC (AH BC)	30	25	
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	BOSHAM	31	43	
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Bosham LC	31	43	AHBC
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Funtington LC	32	19	AHBC
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Green Lane Crossing	32	29	
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Drift Lane LC	32	60	AHBC
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	Nutboume LC (AH BC)	33	14	
+0213	SW305	012	Brighton to Havant TBH2 Wessex	02/12/06	NUTBOURNE	33	14	
+0214	SW305	013	Brighton to Havant TBH2 Wessex	02/12/06	Inlands Road Lc	33	72	AHBC
+0214	SW305	013	Brighton to Havant TBH2 Wessex	02/12/06	SOUTHBOURNE	34	16	
+0214	SW305	013	Brighton to Havant TBH2 Wessex	02/12/06	Southboume LC	34	16	CCTV
+0214	SW305	013	Brighton to Havant TBH2 Wessex	02/12/06	EMSWORTH	35	50	

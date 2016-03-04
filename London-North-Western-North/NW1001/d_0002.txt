@@ -1,0 +1,21 @@
+NRN
+TCB Stoke-on-Trent 8.0. (CH)
+AC: Crewe
+DTVF: Down Trent Valley Fast
+DTVS: Down Trent Valley Slow
+Platform lengths: Rugeley Trent Valley
+Up (Platform 3) - 145 metres (159 yards)
+Down (Platform 2) - 135 metres (147 yards)
+TASS fitted:
+DTVFIDTVS lines throughout
+DFIDM lines throughout
+UMIUF lines throughout
+DS line to 125m 73ch
+US line from 127m O5oh
+Line name change: DTVS to DM at 127m 04oh
+Line name change: DTVF to DM at 127m 11ch
+Shugborough Tunnel inclusive on Up Main
+Stoke-on-Trent 8.0. (CH)
+Shugborough Tunnel inclusive on Down Main
+Stafford No. 4 SB (SD 4)
+

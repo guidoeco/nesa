@@ -1,0 +1,16 @@
+65 60 *
+(36 60 )
+WARBLINGTON (36 66)
+Warblington LC (CCTV) (36 71 )
+37 13 3*
+37 20 *
+66 10 1|.-
+66 17
+Havant LC (CCTV) 37 26
+Havant SB (HT)
+37 28
+37 34 *
+HAVANT 37 41
+37 61 *
+37 63 :7:
+

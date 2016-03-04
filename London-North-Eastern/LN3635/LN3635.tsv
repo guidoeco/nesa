@@ -1,0 +1,31 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	Bottesford West Jn SB	113	78	BW
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06		114	05	*
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06		114	15	*
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	Orston Lane LC	114	16	MCBR
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06		115	31	*
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	ELTON AND ORSTON	115	34	
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06		115	41	*
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06		117	20	*
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	Aslockton LC	117	22	AHBC—X
+0266	LN3635	001	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	ASLOGKTON	117	22	
+0267	LN3635	002	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	31/03/07	Scarrington Lane LC	117	73	AHBC-X
+0267	LN3635	002	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	31/03/07		118	36	*
+0267	LN3635	002	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	31/03/07	BINGHAII	119	39	
+0267	LN3635	002	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	31/03/07	Bingham LC (MCB)	119	57	*
+0267	LN3635	002	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	31/03/07	Bingham SB	119	57	
+0268	LN3635	003	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	Saxondale LC	120	71	UWC
+0268	LN3635	003	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06		121	60	*
+0268	LN3635	003	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	Bingham Road LC	122	57	UWC
+0268	LN3635	003	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	RADCLIFFE	123	08	
+0268	LN3635	003	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06		123	45	*
+0268	LN3635	003	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	Rectory Jn	123	72	
+0268	LN3635	003	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06		123	73	*
+0268	LN3635	003	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/12/06	Rectory Jn SB	123	76	RJ
+0269	LN3635	004	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/02/08		125	08	*
+0269	LN3635	004	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/02/08	NETHERFIELD	125	13	
+0269	LN3635	004	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/02/08	Netherfield Jn SB (NJ)	125	17	*
+0269	LN3635	004	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/02/08		125	23	
+0269	LN3635	004	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/02/08	Change of mileage	125	25	
+0269	LN3635	004	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/02/08		2	54	
+0269	LN3635	004	Bottesford West Jn (Exclusive) to Netherfield Jn NOG London North Eastern	02/02/08	Netherfield Jn	2	35	

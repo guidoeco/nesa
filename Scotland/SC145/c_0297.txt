@@ -1,0 +1,9 @@
+Annat East LC 2 14
+Annat Gate Box 2 15
+AnnatWestLC (RC) 2 22
+Annat Pulp Mill GF 2 28
+Locheil OB LC (UWC) 4 19
+LOGH EIL OUTWARD 4 20
+BOUND TEP
+4 24 i:
+

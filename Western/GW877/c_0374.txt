@@ -1,0 +1,16 @@
+2 70
+Tondu Jn 0 00
+Tondu SB 0 00
+
+0 05 *
+
+O 17 i:
+
+0 25 *
+Fountain LC (AOCL) 1 05
+Cwmffoes LC (TMO) 2 08
+
+2 25 al-
+Cefn Jn 2 43
+(Change of ELR and mileage) 7 41
+

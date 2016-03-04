@@ -1,0 +1,28 @@
+NRN CSR
+TCB Kings Cross SB (K)
+RAQ AC:York ECR
+
+CSR
+
+CSR Channel
+change  ,7
+Up 2m 12ch  "
+(Down 1m 56cm)
+U0 = Up Canonbury
+UM = Up Moorgate
+DM = Down Moorgate
+DC = Down Canonbury
+('D = ToIFrom Canonbury West Jn seeLN110 seq 1
+Q) = TolFrom Moorgate see LN105 seq 1
+No AWS on Down and Up Goods
+C3) The permissible speed of locomotive-hauled
+trains of Mark 1 8: 2 coaching stock and
+light locomotives, or loco-hauled trains of
+short formation as detailed in Rule Book
+Module TW3, Section 2 is 60 mph on the
+Down Fast line between 1m (inch and 4m 600h
+and 75mph on the Up Fast line between
+3m 290h and 2m 260h.
+D81 = Down Slow No 1
+D82 = Down Slow No 2
+

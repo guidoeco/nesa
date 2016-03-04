@@ -1,0 +1,41 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0286	GW731	001	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Continued in LNW (S) Territory			X
+0286	GW731	001	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Sectional Appendix			X
+0286	GW731	001	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Territory Boundary	170	46	
+0286	GW731	001	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Abbey Foregate (AF) SB	171	13	*
+0286	GW731	001	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Abbey Foregate Jn	171	15	
+0287	GW731	002	Abbey Foregate to Ruabon WSJ2 Western	01/12/07	Abbey Foregate Maintenance Depot			X
+0287	GW731	002	Abbey Foregate to Ruabon WSJ2 Western	01/12/07	Severn Bridge Jn SB	171	33	
+0287	GW731	002	Abbey Foregate to Ruabon WSJ2 Western	01/12/07	SHREWSBURY	171	46	
+0287	GW731	002	Abbey Foregate to Ruabon WSJ2 Western	01/12/07	Crewe Jn SB	171	57	CJ
+0288	GW731	003	Abbey Foregate to Ruabon WSJ2 Western	05/08/06		171	62	*
+0288	GW731	003	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Blackpool LC	173	62	UWC
+0288	GW731	003	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Prince of Wales LC	174	42	UWC
+0288	GW731	003	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Woolascott LC	174	66	UWC
+0289	GW731	004	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Leaton LC	175	34	AHBC
+0289	GW731	004	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Eyton LC (AH BC—X)	173	63	
+0289	GW731	004	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Baschurch LC	179	14	AHBC—X
+0289	GW731	004	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Wykey LC	131	71	UWC
+0290	GW731	005	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Rednal Farm LC	185	35	UWC
+0290	GW731	005	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Decoy LC	185	66	UWC
+0290	GW731	005	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Shell-Mex & BP GF	186	46	
+0290	GW731	005	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Whittington LC	187	67	AHBC
+0290	GW731	005	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Gobowen South GF	189	40	
+0290	GW731	005	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Oswestry Branch Jn	189	43	
+0290	GW731	005	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	GOBOWEN	189	50	
+0291	GW731	006	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Gobowen North LC	189	56	M03
+0291	GW731	006	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Gobowen North SB	189	56	GN
+0291	GW731	006	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Pitts LC	190	41	UWC
+0291	GW731	006	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Weston Rhyn LC	191	40	AHBC
+0291	GW731	006	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Chirk Tunnel	192	35	
+0291	GW731	006	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	(47m, 51yds) 192t°37	192	35	X
+0291	GW731	006	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	CHIRK	192	54	
+0291	GW731	006	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Kronospan GF	192	76	
+0292	GW731	007	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	WhitehurstLC	193	52	UWC
+0292	GW731	007	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Whitehurst Tunnel	194	07	
+0292	GW731	007	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	(42m, 46yds)	194	09	
+0292	GW731	007	Abbey Foregate to Ruabon WSJ2 Western	05/08/06		194	40	*
+0292	GW731	007	Abbey Foregate to Ruabon WSJ2 Western	05/08/06		196	65	*
+0292	GW731	007	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	RUABON	197	04	
+0292	GW731	007	Abbey Foregate to Ruabon WSJ2 Western	05/08/06		197	45	*
+0292	GW731	007	Abbey Foregate to Ruabon WSJ2 Western	05/08/06	Territory Boundary	199	00	

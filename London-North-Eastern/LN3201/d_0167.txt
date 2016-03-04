@@ -1,0 +1,25 @@
+NRN
+
+TCB Derby SB (DY)
+RAB
+AWS Inductors are not provided for Derby
+Station platform starting signals.
+AWS not provided on goods lines
+
+Platform lengths:
+
+Platform 1 - 331 metres
+
+Platform 2 - 316 metres
+
+Platform 3 - 306 metres
+
+Platform 4 - 334 metres
+
+Platform 5 - 66 metres
+
+Platform 6 - 312 metres
+
+PP - Permissive Working - full use for class 1, 2,
+3 (E03), 5, 9 & 0 trains in Platform 5 only.
+

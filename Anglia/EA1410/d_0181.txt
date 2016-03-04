@@ -1,0 +1,8 @@
+NRN CSR
+TCB Upminster IECC (UR)
+RA8 AC: Romford
+Platform 1A - 143m (154de)
+Up Platform - 167m (1 BOyds)
+Down Platform - 165m (1 TBde)
+CL 12 EMU
+

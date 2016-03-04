@@ -1,0 +1,10 @@
+Mickleham Tunnel 19 55
+524 Yards to 19 78
+Mickleham FIP Crossing 20 14
+Route Boundary 21 09
+BOXHILL .8: WESTHUMBLE 21 14
+Dorking SB (CBK) 22 08
+DORKING 22 08
+
+22 15 i:
+

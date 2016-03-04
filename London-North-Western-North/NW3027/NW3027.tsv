@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0152	NW3027	001	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	TIMPERLEY	6	55	
+0152	NW3027	001	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		6	63	*
+0152	NW3027	001	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		6	66	*
+0152	NW3027	001	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	Signal DJ.501	6	73	
+0152	NW3027	001	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	Network Rail NW! Metrolink Boundary	6	77	
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		0	33	
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	Deansgate Jn	7	05	*
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	Deansgate Jn SB	7	07	DJ
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	Deansgate Jn LC (MOB)	7	07	X
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		7	22	*
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	NAVIGATION ROAD	7	25	
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	Navigation Road LC	7	30	CCTV
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		7	32	*
+0153	NW3027	002	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		7	34	*
+0154	NW3027	003	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		7	62	*
+0154	NW3027	003	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		7	70	*
+0154	NW3027	003	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06	ALTRI NGHAM	7	74	
+0154	NW3027	003	Timperley to Altrincham (Metrolink lines) CDM1 LNW North	07/10/06		8	00	

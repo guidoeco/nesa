@@ -1,0 +1,12 @@
+SWINDERBY 24 64
+Swinderby LC (MCG) 24 68
+Swinderby SB (8) 24 68
+24 74 at:
+Eagle Bamsdale LC (AHBC) 25 64
+Eagle and Thorpe LC (AHBC-X) 26 53
+Thorpe-on-the-Hill LC (AHBC-X) 27 29
+Whisby Quarry LC (UWC) 27 75
+Walkers (No.63) LC (UWC) 28 50
+HYKEHAM 29 44
+Hykeham LC (AHBC—X) 29 44
+

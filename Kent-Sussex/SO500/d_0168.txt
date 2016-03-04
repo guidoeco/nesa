@@ -1,0 +1,14 @@
+NRN CSR
+TCB Three Bridges SB (T)
+RAB DC: Brighton
+DPL 34
+UPL 34
+Platform 2 PP
+Platform 3 PP
+1 Up Fast
+2 Down Fast
+3 Up Slow
+4 Down Slow
+5 Up Platform Loop
+6 Down Platform Loop
+

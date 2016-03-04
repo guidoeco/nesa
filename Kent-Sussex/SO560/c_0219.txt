@@ -1,0 +1,17 @@
+Brockham LC (AHBC) 28 08
+DORKING (DEEPDENE) 29 65
+DORKING WEST 30 42
+Dorking West Ground Frame 30 50
+Milton Court Crossing 31 30
+Little Bullsdown Crossing 31 51
+Coombe Lane Crossing 32 24
+Route Boundary 33 10
+Haokhurst Lane BW 34 57
+Gomshall Ground Frame 35 11
+GOMSHALL 35 21
+Gomshall Station FIP 35 21
+Burrows Lane LC (AHBC) 35 60 *
+Share Heath LC 36 51
+
+36 60 *-
+

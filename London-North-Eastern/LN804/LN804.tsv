@@ -1,0 +1,115 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0327	LN804	001	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Tapton Jn	146	64	
+0327	LN804	001	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	NRN Channel Change	146	64	X
+0327	LN804	001	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	DRONFIELD	151	44	
+0327	LN804	001	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Bradway Tunnel	152	49	
+0327	LN804	001	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	(1 m 267 yards) to	153	61	*
+0327	LN804	001	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		153	62	*
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		153	65	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Dore South Jn	153	71	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		154	52	*
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Dore Station Jn	154	54	*
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		154	62	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		154	72	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		155	07	*
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		156	16	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Heeley	156	62	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		157	44	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		157	55	*
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		157	58	*
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		157	74	*
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	East Bank Tunnel	158	01	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	(80 Yards) to	158	05	
+0328	LN804	002	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		158	14	*
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		158	18	*
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Sheffield South Jn	158	27	
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Sheffield SB	158	29	3
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		158	32	*
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	SHEFFIELD	158	40	
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Sheffield North Jn	158	52	
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		158	80	*
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08		158	67	*
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Nunnery Main Line Jn	158	77	
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	Broad Street Tunnel	158	77	
+0329	LN804	003	Tapton Jn to Gascoigne Wood (via Sheffield) TJC1 London North Eastern	30/08/08	(109yards)	159	02	
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08		159	37	*
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08	Mill Race Jn	160	18	
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08		160	47	*
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08	Brightside Jn	161	12	
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08		161	19	*
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08	Wincobank Jn	161	52	
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08		161	65	*
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08	MEADOWHALL	161	70	
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08		163	34	*
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08	Holmes Jn LC	163	43	CCTV
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08	Holmes Jn	163	43	
+0330	LN804	004	Tapton Jn to Gasgoigne Wood (via Sheffield) TJC1 TJCZ London North Eastern	30/08/08		163	52	*
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		163	74	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		161	77	*
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		162	10	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08	Masborough Jn	162	24	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		162	60	*
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		164	64	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08	Aldwarke Jn	164	70	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		164	73	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		165	56	*
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		165	61	*
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08	Swinton Jn South	166	56	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08	SWINTON	166	74	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		166	76	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08	Swinton Jn North	167	03	
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		167	68	*
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08		168	25	*
+0331	LN804	005	Tapton Jn to Gascoigne Wood (via Sheffield) TJC2 TJC3 SMJ1 London North Eastern	30/08/08	Dearne Jn	166	53	
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08		168	64	
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08		17	15	
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08	BOLTON-ON-DEARNE	16	56	
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08	Bolton-on-Deame Footpath LC	16	51	RIG
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08	GOLDTHORPE	15	50	
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08	Hickleton	15	12	HABD
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08		15	08	
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08	Hickleton SB	15	04	H
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08	THURNscOE	14	64	
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08		12	08	*
+0332	LN804	006	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ1 SMJ2 London North Eastern	30/08/08	Frickley Colliery Branch Jn	11	64	
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08	Moorthorpe SB	11	63	M
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08	MOORTHORPE	11	29	
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08	Moorthorpe Footpath LC	11	25	RIG
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08	Moorthorpe Jn	11	24	
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08		11	20	*
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08		8	60	*
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08		8	00	*
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08	Baghill	6	70	HABD
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08		4	66	*
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08	PONTEFRACT BAGHILL	4	31	
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08		4	20	*
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08		3	65	*
+0333	LN804	007	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	30/08/08		3	00	*
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08	Ferrybridge South Jn	2	38	
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08	Ferrybridge SB	2	33	FE
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08	Ferrybridge North Jn	2	27	
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08	Ferrybridge Power Station Jn	2	09	
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08	Ferrybridge Power Station	2	09	X
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08		2	05	*
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08		2	03	*
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08		1	25	*
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08	Brotherton Tunnel 1 24 to	1	19	104yards
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08		1	18	*
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08	Burton Lane (Mastermans) LC	0	37	UWC
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08		0	26	*
+0334	LN804	008	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 London North Eastern	02/09/08		0	19	*
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		0	15	*
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		0	01	*
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		0	00	*
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		16	69	
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		16	66	*
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08	Hillam Gates LC	15	57	CCTV
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		15	07	*
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08	Milford Jn	15	07	X
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		7	65	
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08	Milford SB	7	49	M
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		7	10	*
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		6	45	*
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		6	42	
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08		6	39	
+0335	LN804	009	Tapton Jn to Gascoigne Wood (via Sheffield) SMJ2 SMJ3 MGW London North Eastern	30/08/08	Gascoigne Wood SB	6	27	GW

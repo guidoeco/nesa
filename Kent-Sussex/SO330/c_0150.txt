@@ -1,0 +1,10 @@
+11 01 *-
+ELMERS END 11 07
+11 12 *-
+11 40 are
+EDEN PARK 12 34
+West Wickham Substation 13 07
+WEST WICKHAM 13 19
+14 05 *
+HAYES 14 32
+

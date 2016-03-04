@@ -1,0 +1,37 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06	Ban'y Junction	8	16	
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06		0	00	
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06	Benny Down Passenger Loop	0	00	X
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06		0	45	
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06	Porthkerry No.1 Tunnel	0	52	*
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06	(497m, 543de)	0	52	X
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06	to	0	77	*
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06		1	12	*
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06	Porthkerry No.2 Tunnel	1	73	
+0365	GW870	001	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	02/09/06	(67m. 73yds)	1	76	
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	RHOOSE	3	22	
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Rhoose LC	3	22	CCTV
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		4	64	
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		4	73	*
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		5	00	*
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Aberthaw			Z
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Aberlhaw SBlAberddawan	5	03	
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		5	27	
+0366	GW870	002	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Aberthaw Cement GF	5	36	
+0367	GW870	003	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		5	60	*
+0367	GW870	003	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Church Farm LC	7	09	UWC
+0367	GW870	003	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	LLANTVVIT MAJOR	9	55	
+0367	GW870	003	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		10	71	*
+0367	GW870	003	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Llandow LC	13	25	UWC
+0368	GW870	004	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Farmers LC	13	72	UWC
+0368	GW870	004	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		16	09	*
+0368	GW870	004	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		16	10	*
+0368	GW870	004	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06		16	50	*
+0368	GW870	004	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Fords Junction	17	78	
+0368	GW870	004	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	05/08/06	Fords Siding GF	18	00	
+0369	GW870	005	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	10/04/07		18	35	*
+0369	GW870	005	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	10/04/07	Cowbridge Road SB	16	53	
+0369	GW870	005	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	10/04/07		18	68	*
+0369	GW870	005	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	10/04/07	Bridgend Barry Jn	18	78	
+0369	GW870	005	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	10/04/07		190	35	
+0369	GW870	005	Barry To Bridgend, Barry Jn (Vale of Glamorgan line) VOG Western	10/04/07	BRIDGEND			Z

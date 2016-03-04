@@ -1,0 +1,13 @@
+NRN
+
+TCB Tyneside SB (T)
+
+AC:York ECR
+PP - Permissive Working - full use for class 1, 2,
+3 (E05). 5, 9 & 0 trains.
+AWS not provided
+TPWS not provided
+@ speeds apply to Metro trains only
+DSH= Down South Hylton
+USH= Up South Hylton
+

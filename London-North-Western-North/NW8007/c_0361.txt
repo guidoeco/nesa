@@ -1,0 +1,8 @@
+Bootle Junction 2 34
+2 39
+2 45 *-
+(BOOTLE ORIEL ROAD) (2 61)
+(BOOTLE NEW STRAND) (3 14)
+3 52
+34 4O
+

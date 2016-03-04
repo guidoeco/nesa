@@ -1,0 +1,10 @@
+End of line
+Dewsbury Railway Street 0 1O
+
+0 00
+
+0 27
+
+0 06 *-
+Dewsbury East Jn 0 00
+

@@ -1,0 +1,9 @@
+26 40 9:
+Market Rasen Footpath LC (RIG) 26 52
+MARKET BASE" 26 54
+26 60 *-
+27 05 1k
+27 40 *
+Buslingthorpe LC (AHBC-X) 29 00
+Lissingley LC (AHBC-X) 29 20
+

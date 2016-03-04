@@ -1,0 +1,13 @@
+NRN CSR
+TCB Sittingboume SB (EV) 59
+RAB DC: Canterbury
+DPL 29.
+DGL 54. CSR
+Platform 2 PP-A
+Platform 3 PP-A
+Also permitted for platform sharing
+during times of significant service
+interuptions.
+1 Up Main
+2 Down Main
+

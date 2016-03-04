@@ -1,0 +1,11 @@
+Boume End GF 28 50
+
+0 06
+Brooksby LC (AOCL) 0 18
+Marina LC(AOCL) 0 21 *
+Spade Oak LC (UWC) 0 58
+Calcott Lane LC (UWC) 1 44
+
+2 35 *
+HARLOW 2 54
+

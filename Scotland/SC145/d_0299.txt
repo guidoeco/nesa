@@ -1,0 +1,8 @@
+RETB 108 Banavie SC
+CD = Over Glenﬁnnan Viaduct
+Q) = 15 mph through loop
+points, in both directions,
+and over loop lines
+CL 455f (139m)
+(21 SLU's)
+

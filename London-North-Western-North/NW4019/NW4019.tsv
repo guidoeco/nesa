@@ -1,0 +1,24 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07		18	54	
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07	Oxenholme Junction	18	79	
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07	OXENHOLME	19	11	
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07		19	12	
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07		0	00	
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07		0	01	*
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07		0	22	*
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07		2	00	*
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07	KENDAL	2	05	
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07		2	10	*
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07	Bumeside Higher LC	3	62	MCG
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07	Bumeside Station LC	4	01	UWC
+0197	NW4019	001	Oxenholme to Windermere OXW LNW North	02/06/07	BURNESIDE	4	02	
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06		4	10	*
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06	Bumeside Lower LO (AOCL)	4	11	*
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06		4	12	*
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06		5	32	*
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06	Staveley LC (AHBC)	5	78	*
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06		6	46	*
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06	STAVELEY	6	52	
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06		6	60	*
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06		10	07	*
+0198	NW4019	002	Oxenholme to Windermere OXW LNW North	07/10/06	WINDERMERE	10	15	

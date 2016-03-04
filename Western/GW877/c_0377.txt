@@ -1,0 +1,10 @@
+Margam OVE Loop 1 60
+Margam East Jn 1 40
+Margam Yard Jn 0 79
+CW up 0 65
+(Change of mileage) 0 00
+
+0 70
+Port Talbot Docks O 56
+(Network Rail Boundary)
+

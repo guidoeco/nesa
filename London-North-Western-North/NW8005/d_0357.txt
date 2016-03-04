@@ -1,0 +1,18 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+
+USP=Up Southport
+
+DSP=Down Southport
+
+Platform Lengths: Kirkdale
+
+Up 130m (142 yards)
+
+Down 127m (139 yards)
+
+U0=Up Ormskirk
+
+DO=Down Ormskirk
+

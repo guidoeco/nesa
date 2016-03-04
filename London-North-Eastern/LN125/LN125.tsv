@@ -1,0 +1,75 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Cambridge Jn	32	11	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Hitchin TSC OHNS	32	26	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		32	33	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		32	37	*
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		32	43	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Highover Farm LC	33	02	UWC
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	LEPCHWORTH GARDEN CITY	34	50	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		34	59	*
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		34	63	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		35	46	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		35	55	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		36	37	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	BALDOGK	36	47	
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		36	60	*
+0037	LN125	001	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		36	70	*
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		40	19	*
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		40	59	*
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	ASHWELL & MORDEN	41	00	
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		41	08	*
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Litlington TSC OHNS	43	03	
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Litlington LC AHBC	43	13	*
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	A505 Roundabout (South) Public	43	51	
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Bridleway LC	43	51	X
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Ivy Farm LC RIG	44	19	
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		44	20	*
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		44	46	
+0038	LN125	002	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		44	59	
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		44	70	*
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	ROYSTON	44	72	
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		45	20	*
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		45	26	*
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		45	27	
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Network Rail LNE!	45	60	*
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Anglia Route Boundary	45	60	X
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	MELDRETH	47	75	
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		49	22	*
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Meldreth Road LC	49	37	AHBC
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		49	40	*
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Shepreth LC	49	63	AHBC
+0039	LN125	003	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	SHEPRETH	49	67	
+0040	LN125	004	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Meldreth Road LC	49	37	AHBC
+0040	LN125	004	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		49	40	*
+0040	LN125	004	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Shepreth LC	49	63	AHBC
+0040	LN125	004	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	SHEPRETH	49	67	
+0040	LN125	004	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		50	00	*
+0040	LN125	004	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Angle Lane LC	50	05	RIG
+0040	LN125	004	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		50	15	*
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Foxten Gate Box	50	74	
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Foxton LC	50	74	M05
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	FOXTON	50	77	
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		51	60	*
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Hayes LC	52	02	UWC
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		52	40	*
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Harston LC	52	46	AHBC
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		53	78	*
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Hauxton LC	54	01	AHBC
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Rectory Farm LC	54	45	UWC
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		54	72	*
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		55	18	*
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	OHNS	55	20	
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Websters LC	55	23	
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		53	03	
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06	Shepreth Branch Jn	55	26	
+0041	LN125	005	Hitchin, Cambridge Jn to Cambridge SBR London North Eastern	02/12/06		53	06	
+0042	LN125	006	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06	Websters LC	53	03	
+0042	LN125	006	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06	Shepreth Branch Jn	53	06	
+0042	LN125	006	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06	No.91 Dukes LC	53	34	UWC
+0042	LN125	006	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06	No.92 Pembertons LC	54	04	UWC
+0042	LN125	006	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06	Red Cross Lane LC	54	18	UWC
+0042	LN125	006	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06		54	47	*
+0043	LN125	007	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06		55	20	*
+0043	LN125	007	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06		55	30	*
+0043	LN125	007	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06	Cambridge (CA) SB	55	35	
+0043	LN125	007	Hitchin, Cambridge Jn to Cambridge BGK London North Eastern	02/12/06	CAMBRIDGE	55	52	

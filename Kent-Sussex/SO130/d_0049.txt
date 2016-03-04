@@ -1,0 +1,13 @@
+NRN CSR
+TCB Ashford IECC (AD)
+RAB DC: Paddock Wood
+PLOD at 34m 500h
+DPL 37 (Reversible for trains from
+Maidstone West line to Up Main line).
+PLOD at 34m 76ch
+UPL 83
+1 Down Main
+2 Up Main
+3 Up Maidstone Branch
+4 Down Maidstone Branch
+

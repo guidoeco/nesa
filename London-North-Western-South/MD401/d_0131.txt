@@ -1,0 +1,63 @@
+NRN
+
+TCB West Midlands s.c. (LJ)
+
+Main Lines controlled by West Midlands 8.0.
+GSM-R area
+
+LA
+
+Axle Counter area
+
+UDPL: Up Dorridge Passenger Loop
+
+82 SLUI525 metresl574 yards.
+
+U&DDPL: Up & Down Dorridge Passenger Loop
+Up direction: 35 SLUI225 metres/246 yards.
+Down direction: 122 SLUI783 metres/356 yards.
+UD: Up Dorridge
+
+DD: Down Dorridge
+
+Platform lengfl'ls: Widney Manor
+
+Down Fast-129 metres
+
+Up Fast-129 metres
+
+Platform lengths: Solihull
+
+Down Fast-145 metres
+
+Up Fast-145 metres
+
+Platform lengths: Olton
+
+Down Fast-106 metres
+
+Up Fast-106 metres
+
+Platform lengths:Acocks Green
+
+Down Fast-152 metres
+Up Fast-153 metres
+6) Up Tyseley Through Siding (No Block) from
+
+Tyseley No.1 signal box
+
+(2) Down Tyseley Through Siding (No Block)
+U & DTC: Up & Down Tyseley Chord
+
+UB: Up Bordesley
+
+DB: Down Bordesley
+
+USH: Up Snow Hill
+
+DSH: Down Snow Hill
+
+Platform lengths:Tyseley
+
+Platforms 1 to 4 -152 metres
+

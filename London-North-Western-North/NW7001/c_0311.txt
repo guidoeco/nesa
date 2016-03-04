@@ -1,0 +1,17 @@
+18 60 *
+TODMORDEN 19 13
+
+19 4O *-
+
+19 49
+
+19 55 :1:
+Hall Royd DCE Siding GF 19 56
+Hall Royd Jn 19 61
+Millwood Tunnel 19 63 7k
+(206 m [225 yds) to 19 73
+Castle Hill Tunnel 20 07
+(177 m I 194 yds) to 20 16
+Horsfall Tunnel 20 44
+(250 m I 274 yds) to 20 56
+

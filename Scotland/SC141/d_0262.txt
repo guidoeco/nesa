@@ -1,0 +1,16 @@
+RETB 105 Banavie SC
+CL 780f (238m)
+(37 SLU's)
+
+CD = 15 mph through loop
+points, in both directions,
+and over loop lines
+
+(2) = Applies to Class 1 to 6
+trains
+
+Q) = Applies to Class 7, 8 & 0
+trains
+
+RETB 108
+

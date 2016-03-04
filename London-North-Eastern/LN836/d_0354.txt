@@ -1,0 +1,25 @@
+NRN
+TCB Donoaster SB (D)
+RAQ AC:York ECR
+DLIUES = Down LooolUp East Slow
+DIUWS1 = DownlUp West Slow No1
+DIUWSZ = DownIUp West Slow N02
+@TolFrom Sidings
+(DS) = Down Sheffield
+(US) = Up Sheffield
+PP. is authorised over Platform lines
+No 1 (Up direction only) Nos 3,4 and 8
+for Class 1,2,5 and 0 trains.
+PP - Permissive Working - full use for class 1, 2,
+3 (E08), 5, 9 & 0 trains in Platforms 2, 5, 6 & 7.
+DPL = Down Platform Loop
+UPL = Up Platform Loop
+G1 = 2 Way Goods No1
+G2 = 2 Way Goods N02
+Cut out signs not provided for all 25 speeds
+Bridge Jn to Marshgate Jn
+TS = Thome Slow
+DLS = Down Leeds Slow
+DLG = Down Leeds Goods
+(NOTE:- Table duplicated in LN101 seq 29)
+

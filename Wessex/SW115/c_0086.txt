@@ -1,0 +1,12 @@
+Broom LC(AHBC) 141 14
+Axe LC (AHBG) 141 56
+Axminster LC (CCTV) 144 15
+AXMINSTER 144 41
+Abbey Farm No.20rossing 145 15
+Slymlakes Crossing 145 46
+Oxenlears Crossing 145 78
+148 40 *-
+149 00 *-
+Honiton Tunnel 152m45
+(1345 yards) 153 26
+

@@ -1,0 +1,14 @@
+NRN CSR
+TCB Mothenrvell SC (M)
+AC: Cathcart
+CD = Thro' all connections between
+Coatbridge lines and Goods lines
+CW Up 9m 1430y
+UG = Up Goods
+D6 = Down Goods
+CSR
+Yoker so (Y8)
+GSM-R
+Down: Start of GSM-R area: 8m 46ch
+Up: End of GSM-R area: 8m 46¢h
+

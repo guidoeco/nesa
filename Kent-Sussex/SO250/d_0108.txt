@@ -1,0 +1,33 @@
+NRN CSR
+TCB Wembley Mainline SB (WM)
+AC: Rugby
+
+Cl) TolFrom Up 3: Down High Level
+
+C2) TolFrom Wembley Yard B & C Sidings
+C3) TolFrom Wembley Yard
+
+@ TolFrom Willesden Brent Sidings
+
+1 Down Willesden Relief
+
+2 Up Willesden Relief
+
+3 South Departure
+
+4 South Arrival
+
+5 Up & Down High Level Goods
+
+6 Down Fast
+
+7 Up Fast
+
+8 Down Slow
+
+9 Up Slow
+10 Up & Down Goods No.1
+11 Up & Down Goods No.2
+12 Brent Reception & Departure No.1
+13 Brent Reception & Departure No.2
+

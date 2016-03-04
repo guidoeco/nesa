@@ -1,0 +1,20 @@
+RETB 109 Banavie SC
+Pass of Brander - Stone signals
+between 51 m 60ch and 56 mp
+(See Local Instructions)
+
+RETB 105
+RETB CHANNEL BETWEEN
+53m 60ch AND
+TAYNUILT IS 105
+
+(D = 15 mph through loop
+
+points, in both directions,
+and over loop lines
+
+RETB 121
+CL 7501‘ (229m)
+
+(35 SLU's)
+

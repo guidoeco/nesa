@@ -1,0 +1,7 @@
+80 00 i:
+
+80 35 *
+STOWMARKET 80 46
+Stowmarket (MGB) LC 80 54
+(Supervised by Stowmarket Gate Box)
+

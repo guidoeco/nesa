@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	Thames Haven Jn	26	41	
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	Sewage Farm LC	26	77	UWC
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08		27	05	*
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	Hydroeraeker LC	29	04	AOCL
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08		29	62	*
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08		29	77	*
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	No.43 Gate LC	29	78	TMO
+0184	EA1420	001	Thames Haven Jn to Thames Haven THN Anglia	17/11/08	Thames Haven Shunter's Cabin	30	18	

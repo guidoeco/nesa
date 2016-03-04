@@ -1,0 +1,22 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0168	SC103	001	Garnqueen North Jn to Cowlairs West Jn CBD1 CBD2 Scotland	02/12/06	Garnqueen North	1	33	
+0168	SC103	001	Garnqueen North Jn to Cowlairs West Jn CBD1 CBD2 Scotland	02/12/06	Gartcosh Jn	0	00	
+0168	SC103	001	Garnqueen North Jn to Cowlairs West Jn CBD1 CBD2 Scotland	02/12/06	(Change of ELR	0	00	
+0168	SC103	001	Garnqueen North Jn to Cowlairs West Jn CBD1 CBD2 Scotland	02/12/06	CBD1 to CBDZ)	97	09	*
+0168	SC103	001	Garnqueen North Jn to Cowlairs West Jn CBD1 CBD2 Scotland	02/12/06	Gartcosh GF	97	09	X
+0168	SC103	001	Garnqueen North Jn to Cowlairs West Jn CBD1 CBD2 Scotland	02/12/06	GARTCOSH	97	31	
+0168	SC103	001	Garnqueen North Jn to Cowlairs West Jn CBD1 CBD2 Scotland	02/12/06		97	40	*
+0169	SC103	002	Garnqueen North Jn to Cowlairs West Jn CBD2 Scotland	02/12/06	Heathﬁeld LC	98	31	UWC
+0169	SC103	002	Garnqueen North Jn to Cowlairs West Jn CBD2 Scotland	02/12/06	STEPPS	99	64	
+0169	SC103	002	Garnqueen North Jn to Cowlairs West Jn CBD2 Scotland	02/12/06		101	74	*
+0169	SC103	002	Garnqueen North Jn to Cowlairs West Jn CBD2 Scotland	02/12/06		102	14	*
+0169	SC103	002	Garnqueen North Jn to Cowlairs West Jn CBD2 Scotland	02/12/06		103	00	*
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07	(Change of ELR	103	41	
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07	0302 to SGN)	0	61	
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07	Sighthill East Jn	0	56	
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07	SPRINGBURN	0	42	
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07		0	40	*
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07	Sighthill West Jn	0	32	
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07		-0	01	
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07	Cowlairs West Jn	-0	01	X
+0170	SC103	003	Garnqueen North Jn to Cowlairs West Jn CBD2 SGN Scotland	01/12/07		-0	20	

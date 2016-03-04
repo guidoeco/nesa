@@ -1,0 +1,32 @@
+NRN CSR
+TCB Watford Jn PSB (WJ)
+AC: Rugby ECR
+Platform Lengths: Kings Langley
+1 - 213 metres
+2 - 198 metres
+3 - 245 metres
+4 - 245 metres
+Rugby soc (WT) i
+
+Platform Lengths: Apsley
+1 - 204 metres
+2 - 204 metres
+3 - 247 metres
+4 - 247 metres
+
+GSM-R area
+
+Entry: Down Fast: 21m 66m
+
+7' Entry: Down Slow: 21m 66ch
+
+7 Exit: Up Fast: 21 m 66ch
+
+L A Exit: Up Slow: 21m 660h
+TASS fitted:
+DF line - throughout
+UF line - throughout
+Axle Counters:
+Down Fast & Down Slow: 22m 51ch to 42m 690h
+Up Fast & Up Slow: 42m 690h to 22m 12oh
+

@@ -1,0 +1,12 @@
+NRN CSR
+
+TCB Arundell SB (AR)
+CSR
+
+1 Up Brighton
+2 Down Brighton
+3 Up Main
+4 Down Main
+5 Down Curve
+6 Up Curve
+

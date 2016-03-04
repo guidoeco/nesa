@@ -1,0 +1,10 @@
+Newton Jn 39 42
+39 69 '4‘
+Down Direction 40 60
+Signal PA335
+Auchencmive GF 41 41
+AnnbankGF 43 51 i
+46 14
+Mauchline SB 50 08
+Mauchline 50 16
+

@@ -1,0 +1,9 @@
+GLOSSOP O 01
+0 15 a:
+O 55 *
+Dinting Lane LC(UWC) 0 61
+Dinting South Jn.@ 0 72 *
+DINTING 0 79
+Dinting West Jn© 1 05
+11 66
+

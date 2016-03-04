@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06	Drax Branch Jn	0	00	
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06		0	07	*
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06		0	27	*
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06	West Bank Hall LC	1	49	AHBC
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06	Jacky Duffin Wood LC	2	18	RIG
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06	Linwith Lane LC	2	46	AHBC
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06	Wood Road LC	3	54	UWC
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06	New Oak Farm LC (UWC)	4	00	*
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06		4	07	*
+0431	LN896	001	Drax Power Station Branch DRA1 London North Eastern	02/12/06	Drax Power Station	4	16	

@@ -1,0 +1,7 @@
+Little Genoch N02 LC (UWC) 48 80
+50 10
+52 30 *
+Stranraer Yard GF 53 05
+(Change of ELR STR3 to STR4) 53 05
+53 15 i:
+

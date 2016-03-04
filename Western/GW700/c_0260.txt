@@ -1,0 +1,14 @@
+Grange Court GF 121 28
+121 70 a:
+UGL 121 75
+122 06 :1:
+Westbury LC (AHBC) 122 11
+Broadoak LC (UWC) 123 76
+124 65 *-
+Newnham Tunnel 125t008
+(215m, 235yds) 125 19
+Ruddle Bridge LC (UWC) 125 37
+Bullo Pill HABD 125 59
+127 65 *
+Awre LC (CCTV) 128 22
+

@@ -1,0 +1,31 @@
+NRN CSR
+
+TCB Upminster IECC (UR)
+RA8 AC: Romford
+UTF - Up Tilburyl'Fenohurch St.
+
+DFT - Dn Fenohuroh StlTilbury
+
+W - Westbound LUL District line
+
+E - Eastbound LUL District line
+
+LUL Line passes over U 8: D
+Platform 4 - 278m (1301de) PP-C
+Platform 5 - 257m (278yds) PP-C
+Platform 7 - 246m (266yds)
+
+Platform 8 - 257m (278yds)
+
+LUL Line passes under U 8: D
+
+DCL - Down Connecting Line
+
+UT - Up Tilbury
+
+UCL - Up Connecting Line
+
+DT - Down Tilbury
+
+UT 8: DT - To Pitsea Via Tilbury
+

@@ -1,0 +1,22 @@
+Mount Pleasant Tunnel 193 09
+(122ml134yd) (0 42) to 193 15
+
+(0 36)
+
+193 17 at:
+
+(O 35) *
+Lime Street Tunnel 193 21
+(Up slow line 157ml172yd) (0 31)
+ to 193 29
+
+(O 23)
+Russell Street Tunnel 193 3D
+(120ml131yd) (O 31) to 193 36
+
+(0 16)
+Liverpool Lime Street SB (LS) 193 37
+LIVERPOOL LIME STREET 193 52
+
+(O 00)
+

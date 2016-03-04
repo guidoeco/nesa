@@ -1,0 +1,9 @@
+NRN
+RETB 101 Saxmundham SB (SM)
+RA?r
+CD Freight trains not to exceed 20mph
+General instruction applies at
+Holton Road (Bridge 465) at 100m 39ch
+Up platform - 152m (66m (71 yds) stop)
+Down platform - 96m (66m (71 yds) step)
+

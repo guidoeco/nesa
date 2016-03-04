@@ -1,0 +1,17 @@
+74 62 *-
+
+74 63 -k
+WHITEHAVEN 74 66
+Bransty SB (BY) 74 73
+
+0 16
+Bransty Junction 0 22
+
+O 26 i:
+
+1 20 *
+PARTON 1 33
+
+1 4O *
+Parton SB (PS) 1 41
+

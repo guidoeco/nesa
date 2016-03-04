@@ -1,0 +1,13 @@
+RAMSLINE HALT
+(Non Operational)
+0 66 *-
+0 73
+L 8: NW Jn 0 75
+O 76
+PEARTREE 1 16
+Melbourne Jn 1 27
+UGL 1 31
+DGL 1 44
+1 45 *-
+1 50 *-
+

@@ -1,0 +1,10 @@
+28 40 *-
+28 72 i:
+Kitson Wood Tunnel 28 76
+(265m I 290 yds) to 29 10
+30 17
+30 20 *-
+30 24
+Hall Royd Jn 30 54 *
+19 61
+

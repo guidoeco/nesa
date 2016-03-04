@@ -1,0 +1,8 @@
+4 34 *
+Wainfleet Bypass LC (AHBC-X) 4 56
+
+5 00 *
+Simpsons LC(UWC) 5 32
+HAVENHOUSE 5 78
+Havenhouse LC (AHBC—X) 6 00
+

@@ -1,0 +1,84 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06	Dore West Junction	154	16	*
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06	Network Rail	154	20	
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06	London Norfl1 Western	154	20	X
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06	(Appendix Boundary)	154	20	X
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06		154	41	*
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06	Totley Tunnel East SB	154	62	
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06		154	74	*
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06	Totley Tunnel	155	20	
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06	(5695ml6230yd)	155	75	
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06		156	76	
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06		157	38	
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06		157	76	*
+0379	NW9001	001	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	07/10/06		158	39	
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07	Totley Tunnel	158	63	*
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07	GRINDLEFORD	158	70	
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07	Grindleford SB	159	06	
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07		159	32	*
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07		159	33	*
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07	Wheelchex	159	45	Grindleford
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07		160	47	*
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07	HATHERSAGE	160	60	
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07	BAMFORD	162	42	
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07		163	75	*
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07		164	15	*
+0380	NW9001	002	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	26/02/07	HOPE	164	26	
+0381	NW9001	003	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	21/06/08		165	04	
+0381	NW9001	003	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	21/06/08		165	03	
+0381	NW9001	003	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	21/06/08	Earles Sidings SB	165	20	ES
+0381	NW9001	003	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	21/06/08		165	36	
+0381	NW9001	003	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	21/06/08		165	78	*
+0381	NW9001	003	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS LNW North	21/06/08		167	45	*
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06	EDALE	169	14	
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06	Edale SB	169	23	EE
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06		170	24	*
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06		170	35	
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06	Cowbum Tunnel	170	36	
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06	(3383m 3702yd)	170	50	*
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06		172	44	
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06		172	47	
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06		173	28	*
+0382	NW9001	004	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley Lines) MAS LNW North	07/10/06		173	47	*
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09	Chinley East Jn	173	52	
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09	Chinley SB (CY)	173	52	X
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09	Chinley Norm Jn	174	01	*
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09		168	39	
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09		166	44	
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09		169	09	*
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09	CHINLEY	169	40	
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09		169	47	*
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09		170	40	*
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09		170	70	*
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09		171	20	*
+0383	NW9001	005	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) MAS 'I'I'A1 LNW North	08/02/09		171	52	*
+0384	NW9001	006	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) TTA1 NMC1 LNW North	14/07/07		171	68	
+0384	NW9001	006	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) TTA1 NMC1 LNW North	14/07/07		172	11	*
+0384	NW9001	006	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) TTA1 NMC1 LNW North	14/07/07		172	16	*
+0384	NW9001	006	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) TTA1 NMC1 LNW North	14/07/07	New Mills South Jn SB	172	17	
+0384	NW9001	006	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) TTA1 NMC1 LNW North	14/07/07	New Mills South Jn	172	27	
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06	Newtown Tunnel	172	74	
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06	(82m190yd) to	172	78	
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06		173	60	*
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06		174	16	*
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06	Disley Tunnel	174	17	
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06	(3534ml3866yd) to	176	33	
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06		177	09	
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06		177	25	*
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06		177	35	
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06	Hazel Grove High Level Jn	177	40	*
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06		2	62	
+0385	NW9001	007	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC NMC1 LNW North	07/10/06		177	46	*
+0386	NW9001	008	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC BEJ LNW North	07/10/06	Hazel Grove East Jn	2	35	*
+0386	NW9001	008	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC BEJ LNW North	07/10/06		2	30	
+0386	NW9001	008	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC BEJ LNW North	07/10/06	HAZEL GROVE	2	21	
+0386	NW9001	008	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC BEJ LNW North	07/10/06	Hazel Grove SB (HG)	2	21	X
+0386	NW9001	008	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC BEJ LNW North	07/10/06	Hazel Grove West Jn	2	10	
+0386	NW9001	008	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) HGC BEJ LNW North	07/10/06		2	07	
+0387	NW9001	009	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) BEJ LNW North	10/06/07		1	30	*
+0387	NW9001	009	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) BEJ LNW North	10/06/07	WOODSMOOR	1	25	
+0387	NW9001	009	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) BEJ LNW North	10/06/07	Woodsmoor L.C.	1	11	CCTV
+0387	NW9001	009	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) BEJ LNW North	10/06/07	DAVENPORT	0	62	
+0387	NW9001	009	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) BEJ LNW North	10/06/07		0	25	*
+0387	NW9001	009	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) BEJ LNW North	10/06/07	Edgeley Junction No.1	0	00	
+0387	NW9001	009	Dore West Jn. to Edgeley Jn. No.1 (Hope Valley lines) BEJ LNW North	10/06/07		132	37	

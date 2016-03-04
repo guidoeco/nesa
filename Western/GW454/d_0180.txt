@@ -1,0 +1,13 @@
+NRN
+TCB Bristol SB (B)
+RA?r
+Down platform - 108m, 118de
+Up platform - 106m. 116yds
+CL 512m, 1680ft
+0 Up Loop 3 52
+Platform - 120m, 131yds
+Location of known low rail adhesion
+- 3mp to 2m 40ch
+Platform - 132m, 144de
+CW 2 10
+

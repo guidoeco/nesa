@@ -1,0 +1,13 @@
+Keyham East GF 249 17
+KEYHAM 249 25
+Keyham West GF 249 38
+Dockyard Jn 249 41
+
+249 70
+St. Budeaux Jn 250 00
+ST. BUDEAUX 250 15
+FERRY ROAD
+
+250 20 *
+Single Line Jn 250 25
+

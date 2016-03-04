@@ -1,0 +1,10 @@
+51 15
+52 19 *-
+52 21 *
+Asheham Crossing 52 59
+53 30 at:
+Southease Substation 53 33
+Itford LC (RIG) 53 36
+SOUTHEASE 53 4O
+53 50 a:
+

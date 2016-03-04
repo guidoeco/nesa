@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0248	SC125	001	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	Hyndland East Jn	0	00	
+0248	SC125	001	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07		0	05	*
+0248	SC125	001	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	JORDANHILL	0	12	
+0248	SC125	001	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	Hyndland West Jn	70	22	
+0248	SC125	001	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07		0	67	*
+0248	SC125	001	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	SCOTSTOUNHILL	1	20	
+0248	SC125	001	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	GARSCADDEN	1	58	
+0249	SC125	002	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	Yoker SC	2	04	
+0250	SC125	003	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	YOKER	2	56	
+0250	SC125	003	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	CLYDEBAHK	3	43	
+0250	SC125	003	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	Clydebank Jn	3	60	
+0250	SC125	003	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	Tunnel 23	4	20	
+0250	SC125	003	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	23/10/07	110 yards to	4	25	
+0251	SC125	004	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	01/12/07	Tunnel 25	4	36	
+0251	SC125	004	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	01/12/07	90 yards to	4	40	
+0251	SC125	004	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	01/12/07		4	49	*
+0251	SC125	004	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	01/12/07	DALMUIR	4	62	
+0251	SC125	004	Hyndland East Jn to Dalmuir (Via Yoker) YKR Scotland	01/12/07	Dalmuir Park Jn	4	73	

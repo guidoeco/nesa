@@ -1,0 +1,31 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0108	GW180	001	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	Stockley Flyover	12	00	
+0108	GW180	001	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	Heathrow Tunnel Jn	12	27	
+0108	GW180	001	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	Mileagelmetreage change 19846m	12	27	X
+0108	GW180	001	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	19893m 1:	12	27	X
+0108	GW180	001	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	Tunnel Portals 19908m	12	27	X
+0109	GW180	002	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	Shepiston Lane Escape Shaft 20564m			X
+0109	GW180	002	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	Sipson Farm Escape Shaft 21530m			X
+0109	GW180	002	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	22452m *			X
+0109	GW180	002	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	Custom House Escape Shaft 22481 m			X
+0109	GW180	002	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	22515m 1-			X
+0109	GW180	002	Heathrow Airport Jn to Heathrow Terminals 4 and 5 HLL Western	10/04/07	234mm :1:			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	HEATHRO'IN CENTRAL 23550m			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	(TERMINALS 1, 2, 3)			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	23667m *-			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	23750m 1':			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	23965m a:			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	24113m *			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	T3 Escape Shaft 24200m			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	T5C Escape Shaft 25260m			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	25560m *-			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	25664m 1k			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	25950m *-			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	26035m 1':			X
+0110	GW180	003	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	17/05/2008	HEATHROW TERMINAL 5 26285m (D			X
+0111	GW180	004	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	10/04/07	24124m *			X
+0111	GW180	004	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	10/04/07	Pier 7 Escape Shaft 24301 m			X
+0111	GW180	004	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	10/04/07	Sealand Road Escape Shaft 25389m			X
+0111	GW180	004	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	10/04/07	25848m *-			X
+0111	GW180	004	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	10/04/07	26430m 1k			X
+0111	GW180	004	Heathrow Airport Jn To Heathrow Terminals 4 and 5 HLL Western	10/04/07	HEATH ROW TERMINAL 4 26520m			X

@@ -1,0 +1,6 @@
+1 05 *-
+BETHNAL GREEN 1 10
+Bethnal Green East Jn 1 14
+
+1 18 :1:
+

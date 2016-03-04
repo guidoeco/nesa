@@ -1,0 +1,9 @@
+NRN CSR
+OT Merseyrail SB (ML)
+DC: Sandhills on Down Southport
+& Up Southport lines only.
+UB=Up Bootle
+DB=Down Bootle
+'Down & Up' Goods line for use by Engineers'
+trains only (see Local Instructions)
+

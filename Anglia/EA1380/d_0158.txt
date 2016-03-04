@@ -1,0 +1,8 @@
+NRN CSR
+TCB Upminster IECC (UR)
+RA8 AC: Romford
+W - Westbound LUL District line
+E - Eastbound LUL District line
+IL - Inlet line
+UTF - Up TilburylFenchurch St.
+

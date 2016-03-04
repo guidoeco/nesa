@@ -1,0 +1,20 @@
+NRN
+TCB Hunts Cross SB (HC)
+AC: Crews
+DC: Sandhills
+AC: from Hunts Cross West Jn
+DC: from Hunts Cross to
+Hunts Cross West Jn
+Exceptional rail head conditions down
+main/Cheshire line 7m Sash
+to 6m 11ch.
+Platform Lengths: Hunts Cross
+Platform 1
+Down: 116m (127 yards)
+Platform 2
+Up and Down: 130m (142 yards)
+Platform 3 Permissive PP
+Up and Down: 130m (142 yards)
+UHC = Up Hunts Cross Chord
+DHC = Down Hunts Cross Chord
+

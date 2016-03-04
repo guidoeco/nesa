@@ -1,0 +1,11 @@
+NRN
+TCB Manchester North SB (MN)
+URS = Up Rochdale Slow
+DRS = Down Rochdale Slow
+DRF = Down Rochdale Fast
+URF = Up Rochdale Fast
+UR = Up Rochdale
+DR = Down Rochdale
+DA = Down Ashton
+UA = Up Ashton
+

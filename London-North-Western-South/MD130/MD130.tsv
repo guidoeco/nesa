@@ -1,0 +1,15 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	Watford Yard GF	17	21	
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06		17	24	
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06		0	00	
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	Watford Yard	0	00	X
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	WATFORD JUNCTION	0	15	
+0044	MD130	001	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	(Platform 11)	0	15	X
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06		0	37	*
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	WATFORD NORTH	0	75	
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	Watford North LC	0	73	ABCL
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	GARSTON	1	66	
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	BRICKET WOOD	3	37	
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	HOW WOOD	4	36	
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	PARK STREET	5	02	
+0045	MD130	002	Watford Yard Ground Frame to St. Albans Abbey WSA LNW South	07/10/06	ST ALBANS ABBEY	6	45	

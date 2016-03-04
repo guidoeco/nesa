@@ -1,0 +1,28 @@
+West Sleekbum Jn 0 00
+
+0 29 all:
+Winning Jn 0 32
+Winning LC (MOB) 0 36
+Winning SB 0 36
+
+1 29 *
+Freemans LC (MOB) 1 31
+Freemans SB (F) 1 31
+
+1 32
+
+1 35
+Signal F811 (Down) 1 63
+
+1 70
+
+1 72
+Signal F816 (Up) 1 76
+
+1 79 *
+Cambois LC (TMO) 2 1O
+Battleship Wharf GF 2 60
+
+2 75 *-
+North Blyth 3 22
+

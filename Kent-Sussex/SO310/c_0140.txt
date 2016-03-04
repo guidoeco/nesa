@@ -1,0 +1,12 @@
+31 30 *-
+
+31 39 *-
+Wickham TP Hut 33 02
+Cuxton Ground Frame 33 31
+CUXTOH 33 36
+Cuxton LC 33 39
+Cuxton SB (OX) 33 40
+North Halling Crossing 34 33
+Halling Substation 34 63
+Halling Ground Frame 34 79
+

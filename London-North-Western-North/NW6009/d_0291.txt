@@ -1,0 +1,9 @@
+NRN
+TCB Manchester Piccadilly SB (MP)
+Platform Lengths: Swinton
+Up 68m (74 yards)
+Down 45m (49 yards)
+Platform Lengths: Moorside
+Up 109m (119 yards)
+Down 110m (120 yards)
+

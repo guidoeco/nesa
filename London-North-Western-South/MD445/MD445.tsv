@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08	STOURBRIDGE J"	142	16	
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08		142	24	*
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08	Stourbridge Jn SB	142	25	SJ
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08		142	65	*
+0154	MD445	001	Stourbridge Junction to Stourbridge Town SJS LNW South	20/12/08	STOURBRIDGE TOWN	142	73	

@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Marks Tey Jn Mainline points	46	56	
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Marks Tey Jn	46	53	
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		46	57	*
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	NIARKS TEY	46	59	
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		46	62	*
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		46	66	*
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Marks Tey GF	47	43	
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Church House Farm LC	47	50	
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	CHAPPEL & WAKES COLNE	50	18	
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Museum GF	50	26	
+0052	EA1080	001	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Mount Bures LC	52	61	ABCL
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	BURES	53	45	
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Sewage Works Lane LC	56	62	UWC
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Shalfords LC	56	73	UWC
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Comard LC	57	42	ABCL
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		58	22	*
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	Sudbury Ladysbridge LC	58	25	UWC
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06		58	29	*
+0053	EA1080	002	Marks Tey Jn to Sudbury SUD Anglia	05/08/06	SUDBURY	58	32	

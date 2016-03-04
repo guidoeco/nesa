@@ -1,0 +1,10 @@
+Milford & Brooton HABD 129 29
+Milford Junction 129 31
+129 52
+Whitehouse Junction 130 47
+130 56 *
+131 50 i:
+132 35 1':
+132 79 *
+TrentValley Jn No.1 133 06 "it
+

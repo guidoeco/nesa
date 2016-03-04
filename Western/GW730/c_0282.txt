@@ -1,0 +1,16 @@
+12 14 *
+Great House Farm LC (UWC) 12 21
+12 31 *-
+Price Church Farm LC (UWC) 12 45
+Llancillo Hall LC (UWC) 13 79
+14 00
+Vineyard Farm No1 LC(UWC) 15 25
+Vineyard Farm N02 LC (UWC) 15 45
+Powell LC (UWC) 16 16
+17 20 i:
+17 60 *-
+Blaengavenny Farm LC(UWC) 19 02
+21 16 are
+ABERGAVENNY Y FENNI 22 63
+Abergavenny SB 22 75
+

@@ -1,0 +1,16 @@
+93 35 av:
+93 29 *
+Kettleby LC (AHBC) 92 58
+91 30 *
+Brigg LC(MGL) 91 23
+Brigg SB (B) 91 23
+91 10 1:
+BRIGG 91 01
+90 60 *-
+90 47 a:
+90 35 are
+90 17 *
+Hibaldstow LC (AHBC-X) 89 03
+86 39 1:
+86 35 *
+

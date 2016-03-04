@@ -1,0 +1,9 @@
+189 43
+DEANSGATE 189 57
+Castlefield Jn 189 67 *
+
+190 23
+0rdsall Lane Jn 190 28 *
+
+190 70 *
+

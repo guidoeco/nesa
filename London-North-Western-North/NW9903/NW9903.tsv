@@ -1,0 +1,39 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06	Settle Junction SB	234	44	
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06		234	55	*
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06		234	56	*
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06	Cleatop LC	235	20	UWC
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06		236	16	*
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06		236	25	*
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06	GIGGLES'WICK	236	27	
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06		236	30	*
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06		236	33	*
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06	Tatterthwaite LC	237	09	UWC
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06		233	52	*
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06		238	56	*
+0420	NW9903	001	Settle Jn. to Carnforth Station Jn. SKW LNW North	07/10/06	Lawsing LC	241	34	UWC
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		241	79	*
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08	GLAPHAM	242	00	
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		242	20	*
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		243	79	*
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		244	03	*
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08	Spencers LC	244	61	UWC
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08	BENTHAII	246	23	
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08	Clints Field LC	248	52	UWC
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		249	29	*
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08	WENNINGTON	249	38	
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		249	44	
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		9	45	
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		9	06	*
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08	Malling Tunnel	9	01	*
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08	(1126m I 1232 yds)	9	01	X
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		8	24	*
+0421	NW9903	002	Settle Jn. to Carnforth Station Jn. SKW SJC LNW North	17/03/08		8	21	*
+0422	NW9903	003	Settle Jn. to Carnforth Station Jn. SJC CEC LNW North	01/03/08	Wards LC	6	56	UWC
+0422	NW9903	003	Settle Jn. to Carnforth Station Jn. SJC CEC LNW North	01/03/08	Bowness LC	5	47	UWC
+0422	NW9903	003	Settle Jn. to Carnforth Station Jn. SJC CEC LNW North	01/03/08	Keerhelme LC	4	55	UWC
+0422	NW9903	003	Settle Jn. to Carnforth Station Jn. SJC CEC LNW North	01/03/08		0	31	*
+0422	NW9903	003	Settle Jn. to Carnforth Station Jn. SJC CEC LNW North	01/03/08		0	25	
+0422	NW9903	003	Settle Jn. to Carnforth Station Jn. SJC CEC LNW North	01/03/08	Camforth Station Jn SB	0	09	CS
+0422	NW9903	003	Settle Jn. to Carnforth Station Jn. SJC CEC LNW North	01/03/08	Camforth Station Jn	0	04	
+0422	NW9903	003	Settle Jn. to Carnforth Station Jn. SJC CEC LNW North	01/03/08		0	38	

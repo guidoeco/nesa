@@ -1,0 +1,11 @@
+Mansfield Jn 125 64
+124 22
+Lenton Norlh Jn 124 56
+125 50 *
+Radford Jn (GF) 125 55
+126 03 1k
+Moor Farm LC (UWC) 128 72
+130 37 *
+Trowell South Jn 130 51
+125 O4
+

@@ -1,0 +1,13 @@
+OHNS 3 17
+Canonbury West Jn 3 12
+CANONBURY 2 73
+Canonbury East Jn 2 66
+2 40 51:
+2 28 *
+Dalston Jn 2 21
+Dalston Jn SB (D) 2 16 *-
+DALSTON KINGSLAND 2 06
+Navarino Road Jn 1 52
+Change of mileage 1 11
+OHNS 1 16
+

@@ -1,0 +1,29 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		142	13	
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	MANSFIELD WOODHOUSE	142	17	
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		142	21	
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Signal KS 120 Up	142	30	
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Signal KB 115 Down	142	53	
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		143	40	*
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		144	07	*
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		144	14	*
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		144	20	*
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		144	25	*
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		144	57	*
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		144	59	
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		145	03	*
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	SHIREBROOK	145	05	
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Shirebrook Jn	145	10	
+0310	LN768	001	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Shirebrook Jn SB	145	14	SJ
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Shirebrook East Jn	145	62	
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		145	65	*
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	LANGWITH WHALEY - THORNS	147	14	
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Nomood LC	147	71	MCG
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06		149	05	
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	GRESWELL	149	26	
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Elmton&0reswell Jn SB	149	37	
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Whitwell Tunnel	150	03	
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	(544 yards)	150	28	
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	WHITWELL	150	56	
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Woodend Jn	153	70	*
+0311	LN768	002	Mansfield Woodhouse to Shireoaks East Jn PSE London North Eastern	02/12/06	Shireoaks East Jn	154	30	

@@ -1,0 +1,18 @@
+49 48 *
+Penstrowed LC (UWC) 50 25
+
+50 55 *
+Ty Mawr Farm LC (UWC) 51 18
+Red House Farm No1 LC(UWC) 51 4O
+
+52 16 are
+Llanidloes Road LC (MCG) 52 70
+Football Field LC (UWC) 53 11
+Bridge 171 53 16
+53 20
+
+Caersws LC(MCG) 53 31
+CAERSWS 53 31
+
+53 32 i:
+

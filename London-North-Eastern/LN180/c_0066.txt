@@ -1,0 +1,8 @@
+Sleaford West Jn 1 34
+1 33 *-
+Fen Crossing LC (UWC) 1 52
+2 25 i:
+3 10 1:
+3 38 *
+Sleaford North Jn SB (SN) 3 42
+

@@ -1,0 +1,11 @@
+NRN CSR
+TCB Three Bridges SB (T)
+RAB DC: Brighton
+CSR channel 66 applies in Up direction only 03R
+Permissive working authorised on the
+Up and Down slow platform lines (both directions).
+Platforms 1. 2, 3 8; 6 are
+reversible
+UPL 798 ft
+DPL 798 ft
+

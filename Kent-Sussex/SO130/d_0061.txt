@@ -1,0 +1,12 @@
+Signalling & Remarks
+NRN CSR
+
+TCB Folkestone East SB (YE)
+RAB DC: Canterbury 090
+Down Folkestone Harbour de—electrified
+1 Down Folkestone Harbour
+2 Down Dover
+3 Up Dover
+4 Down Main
+5 Up Main
+

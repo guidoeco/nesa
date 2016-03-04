@@ -1,0 +1,8 @@
+19 20 :1:
+19 60 *
+DARWEN 20 27
+23 40 5%
+Blackburn Bolton Branch Jn. 23 60
+Blackburn Bolton Jn 24 08
+10 11
+

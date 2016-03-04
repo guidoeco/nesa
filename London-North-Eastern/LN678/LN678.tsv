@@ -1,0 +1,51 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	Darlington North Jn	44	36	
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09		44	43	*
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09		44	64	
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09		0	00	
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	Albert Hill	0	32	
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09		0	45	*
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	NORTH ROAD	0	49	
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	Hopetown Jn	0	75	
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09		1	12	*
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	Whiley Hill LC	3	57	AHBC
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	Adams LC	4	00	UWC
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09		4	53	*
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09		4	57	*
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	HEIGHINGTON	5	03	
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	Heighington LC	5	08	MCB
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	Heighington SB	5	10	
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09		5	20	*
+0519	LN678	001	Darlington North Jn to Eastgate DAE1 London North Eastern	28/02/09	NEWTON AYOLIFFE	6	30	
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		7	00	*
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		7	58	*
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		8	08	
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		3	13	*
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	Shildon SB	8	29	8
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	SHILDON	8	34	
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		8	58	*
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	Shildon Tunnel 8t°66	8	58	X
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	(1115 metresl1220 yards)	9	42	
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	BishopAuckland Jn	11	17	*
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		11	20	*
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	BISHOP AUCKLAND	11	23	
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	WITTON PARK	13	40	
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		14	40	*
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	Wear Valley Jn	14	47	Farmer
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		0	00	
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07		0	25	*
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	Witton—Ie-Wear LC	1	14	MCG
+0520	LN678	002	Darlington North Jn to Eastgate DAE1 DAE2 DAE3 London North Eastern	01/12/07	Witton-Ie-Wear Gate Box	1	14	
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06	Wiserley Hall LC	7	15	RIG
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06		7	30	*
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06		9	40	*
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06	Broadwood LC	9	77	AOCL
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06		10	00	*
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06		11	32	*
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06		11	74	*
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06		12	42	*
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06	STANHOPE	12	65	
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06		13	06	*
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06	Unthank LC	13	30	TMO
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06		15	40	*
+0521	LN678	003	Darlington North Jn to Eastgate DAE3 London North Eastern	02/12/06	Eastgate	15	79	

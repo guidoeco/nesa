@@ -1,0 +1,19 @@
+Tynewydd 2 crossing 258 49 *-
+Whitland (W) 38 258 68 i:
+Whitland LC (M08) 258 68
+WHITLAND I HENDY-GWYN 258 74
+258 77 *
+DownSiding GF 258 79
+Whitland Jn 259 01
+Up Siding GF 259 06
+259 53 *
+Llanboidy LC (AHBC) 259 54
+259 55 is
+Llanlliwe Farm LC (UWC) 260 00
+260 42 *-
+Trewem Mill LC (UWC) 260 51
+Trewem Farm LC (UWC) 260 64
+Samlas LC (UWC) 260 74
+CLUNDERWEN 264 22
+Llwyndyrys LC (UWC) 265 43
+

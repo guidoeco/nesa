@@ -1,0 +1,13 @@
+(West London Jn) ( 3 22)
+(CLAPHAM JUNCTION ( 3 74)
+Route Boundary ( 3 30)
+
+2 32 *
+Latchmere Jn No.3 2 39
+
+0 4O
+
+2 42 1-
+Latchmere TP Hut 0 56
+Latchmere Jn No.1 0 63
+

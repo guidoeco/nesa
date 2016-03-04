@@ -1,0 +1,8 @@
+Woodgate LC (CCTV) 23 53
+Park Lane Crossing 23 70
+Decoy Crossing 24 64
+Woodhorn LC (AHBC) 25 20
+Oving Crossing 26 26
+Drayton LC (AHBC) 26 48
+Whyke Road LC (CCTV) 27 70
+

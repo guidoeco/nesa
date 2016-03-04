@@ -1,0 +1,13 @@
+Clarbeston Rd Jn 271 08
+Tanyard LC (UWC) 273 72
+Crundale Mill LC (UWC) 274 07
+Crundale LC (AHBC) 274 34
+Shoals Hook LC (UWC) 275 13
+Single Line Jn 275 65 *
+275 66 *-
+HAVERFORDWESTI 276 08
+HWLFFORDD
+Barrow crossing (WL) 276 13 i:
+276 18
+Single Line Jn 276 43 *
+

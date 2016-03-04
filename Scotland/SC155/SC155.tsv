@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06	Monktonhall Jn	6	11	
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06	(Change of ELR	5	60	
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06	MHL1toMHL2)	5	60	*
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06		1	40	
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06	(Change of ELR MHL2 to MHL3)	0	23	
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06	Millerhill East Jn	0	28	*
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06		0	00	
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06	Millerhill West Jn	0	17	
+0326	SC155	001	Monktonhall Jn to Millerhill Yard (Goods Line) MHL1 MHLZ MHL3 Scotland	02/12/06	Millerhill Yard	0	19	

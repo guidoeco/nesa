@@ -1,0 +1,374 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0001	LN101	001	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	KINGS GROSS	0	00	
+0001	LN101	001	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Kings Grass	0	20	K
+0001	LN101	001	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Gasworks Tunnel	0	22	
+0001	LN101	001	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	(483m 528 yards)	0	46	
+0001	LN101	001	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		0	30	*
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Belle Isle	0	55	*
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Copenhagen Jn	0	64	
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		0	65	*
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		0	66	*
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Copenhagen Tunnel	0	65	
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(543m 594 yards)	1	12	*
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		1	34	
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		1	40	*
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Holloway	1	44	
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		1	57	
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		1	63	
+0002	LN101	002	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		1	70	
+0003	LN101	003	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		2	07	*
+0003	LN101	003	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		2	26	*
+0003	LN101	003	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		2	28	*
+0003	LN101	003	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Finsbury Park Jn	2	33	
+0003	LN101	003	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	FINSBURY PARK	2	41	
+0003	LN101	003	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		2	56	*
+0003	LN101	003	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		2	67	*
+0003	LN101	003	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		3	05	*
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Harringay Jn	3	29	*
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HARRINGAY	3	32	
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		3	34	*
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		3	37	*
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Harringay Viaduct	3	34	
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		3	40	
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		3	61	*
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Ferme Park Sidings	3	61	X
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Homsey EMU Depot	3	77	*
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HOMSEY	4	04	
+0004	LN101	004	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		4	20	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		4	65	*
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Wood Green South Jn	4	68	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		4	75	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	ALEXANDRA PALACE	4	78	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		5	04	*
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Wood Green North Jn	5	07	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Wood Green F.S.OHNs	5	15	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		5	22	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		5	39	*
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Wood Green Tunnels	5	41	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(644m 1 705 yards) to	5	73	
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		5	73	*
+0005	LN101	005	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		5	76	*
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	NEW SOUTHGATE	6	35	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		7	40	*
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bamet Tunnel	7	42	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(553m 605 yards)	7	70	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		7	73	*
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	OAKLEIGH PARK	8	30	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bamet South Crossovers 8 to	9	00	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	NEW BARNET	9	12	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bamet North Crossover	9	18	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Hadley Wood South Tunnel	10	21	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(351 m 384 yards)	10	39	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HADLEY WOOD	10	46	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Hadley Wood North Tunnel	10	60	
+0006	LN101	006	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(212m 232 yards)	10	70	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		11	23	*
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Potters Bar Tunnel	11	25	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(1110m 1214 yards)	12	00	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		12	03	*
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		12	36	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		12	40	*
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		12	53	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	POTTERS BAR	12	57	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Potters Bar TSC OHNS	13	21	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		14	25	*
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	BROOKMANS PARK	14	37	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		14	47	*
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	WELHAM GREEN	15	50	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Marshmoor	16	06	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HATFIELD	17	54	
+0007	LN101	007	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Welwyn F.S.OHNS	19	29	
+0008	LN101	008	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		19	63	*
+0008	LN101	008	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		19	65	*
+0008	LN101	008	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Welwyn Garden City Up Yard	20	25	
+0008	LN101	008	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	WELWYN GARDEN CITY	20	25	
+0008	LN101	008	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		21	07	*
+0008	LN101	008	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Digswell	21	18	
+0008	LN101	008	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		21	24	*
+0008	LN101	008	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		21	36	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	WELWYN NORTH	22	00	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		22	08	*
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Welwyn South Tunnel	22	11	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(408m 446 yards)	22	31	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Welwyn North Tunnel	22	44	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(956m 1046 yards)	23	12	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		23	15	*
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Woolmer Green GSP Crossover	23	56	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Woolmer Green	23	68	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		23	72	*
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	KNEBWORTH	25	03	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Langley Jn FS OHNS	25	73	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Langley Jn Up	26	45	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Langley Jn Down	26	59	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Lafarge Siding	26	59	
+0009	LN101	009	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	STEVENAGE	27	45	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		29	70	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		31	11	*
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		31	18	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		31	27	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Hitchin 'A' GF	31	50	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HITCHIN	31	74	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		31	79	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		32	06	*
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Cambridge Jn	32	11	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		32	12	*
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		32	47	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Hitchin TSC OHNS	32	57	
+0010	LN101	010	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Cadwell	33	42	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	ARLESEY	37	03	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		38	41	*
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Jiggs Lane Public Bridleway LC	38	61	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		39	33	*
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	East Road LC RIG	39	34	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Holme Green LC RIG	40	06	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Biggleswade Crossovers	40	42	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	to Biggleswade TSC OHNS	40	58	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		40	64	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	BIGGLESWADE	41	13	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	No 42 LC RIG	42	10	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		42	12	*
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		42	40	*
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		43	19	*
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Sandy South Jn	43	59	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		43	64	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	SANDY	44	10	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Sandy North Jn	44	63	
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Everton LC	46	31	CCTV
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		48	16	*
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Tempsford LC	47	38	CCTV
+0011	LN101	011	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		48	17	*
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Little Barford F.S. OHNS	49	72	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		50	04	*
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		51	03	*
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		51	23	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	St. Neots South Jn	51	40	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	ST. NEOTS	51	58	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	St. Neots North Jn	52	26	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		53	66	*
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Cardells LC RIG	54	07	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		54	20	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		54	46	*
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		54	52	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	No 66 LC RIG Footpath	54	70	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	No 71LC RIG Footpath	55	63	
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Otford LC	55	76	CCTV
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		56	17	*
+0012	LN101	012	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		56	31	*
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Huntingdon South Jn	58	35	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	HUNTINGDON	58	70	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		59	12	*
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Huntingdon North Jn	59	20	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Abbots Ripton Public Bridleway LC	62	60	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		64	25	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Woodwalton Jn	65	43	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		65	48	*
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		66	60	*
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		67	20	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Connington South	67	30	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Connington North LC	68	28	CCTV
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Holme TSC OHNS	69	00	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Holme LC	69	26	CCTV
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		69	28	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		69	30	*
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Holme Lode LC	70	02	CCTV
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Stilton Fen	70	78	
+0013	LN101	013	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		71	00	*
+0014	LN101	014	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07		72	00	*
+0014	LN101	014	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07		74	75	*
+0014	LN101	014	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07	Fletlon Jn	75	02	
+0014	LN101	014	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07		75	16	
+0014	LN101	014	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07		75	24	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	10	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	Nene Carriage Sidings	76	10	X
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	19	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	Crescent Jn	76	25	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	PETERBOROUGH	76	29	
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	31	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	35	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	37	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	38	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	Spittal Jn	76	45	
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	Peterborough (P)	76	47	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	56	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	57	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	60	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	70	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		76	71	*
+0015	LN101	015	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	Eastfield	77	02	
+0016	LN101	016	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		77	20	*
+0016	LN101	016	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	New England North	78	06	
+0016	LN101	016	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	Bretton F.S.OHNS	78	14	
+0016	LN101	016	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		78	17	
+0016	LN101	016	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		79	09	*
+0016	LN101	016	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08		79	12	*
+0016	LN101	016	Kings Cross to Shaftholme Jn ECM1 London North Eastern	30/08/08	Werrington Jn	79	34	
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		80	63	*
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Woodcraft LC	81	23	MCG
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Helpston Jn	81	56	
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Helpston LC	81	71	M03
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		81	75	*
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Maxey LC	82	38	CCTV
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Lolham LC	83	33	CCTV
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	No 115 LC RIG	84	06	
+0017	LN101	017	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Tallington TSC OHNS	84	56	
+0018	LN101	018	Kings Cross to Shaftholme Jn ECM1 London North Eastern	12/08/08	Tallington LC	84	64	CCTV
+0018	LN101	018	Kings Cross to Shaftholme Jn ECM1 London North Eastern	12/08/08	Tallington Crossovers	84	70	
+0018	LN101	018	Kings Cross to Shaftholme Jn ECM1 London North Eastern	12/08/08		85	02	
+0018	LN101	018	Kings Cross to Shaftholme Jn ECM1 London North Eastern	12/08/08	Greatford LC	87	08	CCTV
+0018	LN101	018	Kings Cross to Shaftholme Jn ECM1 London North Eastern	12/08/08		91	42	*
+0018	LN101	018	Kings Cross to Shaftholme Jn ECM1 London North Eastern	12/08/08		92	12	*
+0018	LN101	018	Kings Cross to Shaftholme Jn ECM1 London North Eastern	12/08/08	Bytham F.S.OHNS	92	29	
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		96	20	*
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		96	40	*
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		97	00	*
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		99	10	*
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		99	48	*
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Stoke	99	60	
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Stoke GSP	99	66	
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Stake TSC OHNS	99	75	
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Stoke TSC OHNS	100	00	
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		100	39	*
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Stoke Tunnel	100	39	
+0019	LN101	019	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(805m 880 yards)	100	79	
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Highdyke	101	46	
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		104	77	*
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Grantham South Jn	105	01	
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		105	10	*
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		105	27	*
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	GRANTHAM	105	38	
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		105	42	*
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		105	52	*
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		105	77	*
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Nottingham Branch Jn	106	08	
+0020	LN101	020	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Grantham North Jn	106	34	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Grantham North F.S. OHNS	107	55	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Peasoliff Tunnel	107	65	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	(875m 957 yards)	103	29	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		108	32	*
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Peascliff Crossovers	109	01	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		109	06	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		109	13	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HABD	109	56	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		110	00	*
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Frinkley Lane Public Bridleway LC	110	67	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Westborough Public Bridleway LG	113	57	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		114	61	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Claypole Up Loop to	115	24	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Hough Lane Public Bridleway LC	115	01	
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Claypole LC	115	27	CCTV
+0021	LN101	021	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Osterfem LC	115	45	CCTV
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Claypole Down Loop	115	46	
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bamby Lane LC	115	73	CCTV
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		116	09	*
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		116	13	
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Balderton LC	116	70	CCTV
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bullpit Lane LC	118	26	CCTV
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bamby LC	119	03	CCTV
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Newark South Jn	119	73	
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	NEWARK NORTH GATE	120	08	
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		120	21	*
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Whitehouse Lane Footpath LC RIG	120	40	
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Newark Crossing South Jn	120	51	
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		120	62	*
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Newark Crossing	120	63	
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		121	00	*
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Church Lane LC	122	07	CCTV
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bathley Lane LC	122	78	CCTV
+0022	LN101	022	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Nome" Lane LC	123	38	CCTV
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	North Muskham TSC OHNS	123	40	
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Cromwell Lane LC	124	55	CCTV
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HABD	124	55	
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		125	42	
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		125	53	
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		125	60	*
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Carlton Loops	125	60	X
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		126	19	*
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		126	26	
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Carlton LC	126	27	CCTV
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Eaves Lane LC RIG Bridleway	127	02	
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Barrel Lane LC RIG Footpath	127	08	
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Grassthorpe Lane LC	128	30	M06
+0023	LN101	023	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Egmanton LC	130	29	CCTV
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Tuxford GSP	131	50	
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		132	48	*
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HABD	134	37	
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Askham Tunnel	134	37	
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		52	57	*
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		134	40	*
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Grove Road GSP	136	27	
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		136	29	*
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Eaton Lane Public Bridleway	136	44	
+0024	LN101	024	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Grove Road LC	137	37	CCTV
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Rat-ford South Jn	138	23	
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		138	26	*
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		138	27	*
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	RETFORD	138	49	
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Retford West Jn	138	56	*
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		138	62	
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		139	07	
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Retford F. S. OHNS	139	41	
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		139	47	
+0025	LN101	025	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Retford North	139	71	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Botany Bay LC	140	53	CCTV
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bamby Moor and Sutton LC	141	56	CCTV
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HABD	143	17	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Torworth LC	143	17	CCTV
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		143	13	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		143	25	*
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Ranskill Loops	143	25	X
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		143	65	*
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	_	143	72	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Ransklll LC	143	79	MCB
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		144	09	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	No 238 LC RIG	144	57	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	School Lane Public Bridleway LG	145	53	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Scrooby UWC	145	68	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		146	71	*
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bawtry TSC OHNS	147	58	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		148	39	*
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bawtry Crossovers GSP	148	55	
+0026	LN101	026	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	HABD	148	55	
+0027	LN101	027	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07	Rossington LC	151	28	CCTV
+0027	LN101	027	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07	Rossington GSP	151	71	
+0027	LN101	027	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07	Loversall Carr Jn	152	00	
+0027	LN101	027	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07	Loversall Jn	152	36	
+0027	LN101	027	Kings Cross to Shaftholme Jn ECM1 London North Eastern	11/08/07	Black Carr Jn	153	18	
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		153	69	
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		153	74	
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Potteric Carr Jn	153	78	
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Decoy North Jn	154	13	
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		154	36	*
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Belmont Yards	154	36	X
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Carr (Up Goods line&Transfer line only.)	154	50	*
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		155	23	*
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		155	25	*
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Sand Bank Jn	155	32	*
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Balby Bridge Tunnel 155 34 to 95m 95 yards)	155	38	
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06	Bridge Jn	155	38	
+0028	LN101	028	Kings Cross to Shaftholme Jn ECM1 London North Eastern	02/12/06		155	39	
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		155	55	*
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	South Yorkshire Jn	155	56	D8
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	South Yorkshire Jn	155	59	US
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Doncaster	155	65	D
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	DONCASTER	155	77	
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Doncaster West Yard	155	77	X
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		156	06	*
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		156	07	*
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Doncaster North Jn	156	09	
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		156	20	*
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Marshgate Jn	156	26	
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07	Donoaster F. S. OHNS	156	50	
+0029	LN101	029	Kings Cross to Shaftholme Jn ECM1 London North Eastern	01/12/07		156	53	*
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08	Moat Hills LC	156	66	CCTV
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08		157	00	*
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08		157	30	
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08		157	76	
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08	Arksey LC	158	02	CCTV
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08		158	43	
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08	HABD	159	10	
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08	Daw Lane LC	159	15	CCTV
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08		159	18	
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08	Masserellas Public Bridleway LG	159	66	
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08		160	00	*
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08	Shaftholme Jn	160	16	
+0030	LN101	030	Kings Cross to Shaftholme Jn. ECM1 London North Eastern	16/08/08		160	30	*

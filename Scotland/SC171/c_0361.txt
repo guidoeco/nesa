@@ -1,0 +1,4 @@
+58 17 9:
+Dundee Central Jn 0 36 CD
+58 69 *-
+

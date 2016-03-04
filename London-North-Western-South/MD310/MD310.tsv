@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	Bamt Green Jn	51	53	
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	BARNT GREEN	51	67	
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	Signal SY.3 (Down direction)	51	72	
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	Junction	52	11	*
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08		53	34	*
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	ALVECHUIICH	53	40	
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	Alvechurch Station LC	53	43	
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08		53	52	*
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08		56	08	*
+0094	MD310	001	Barnt Green Junction to Redditch BEA LNW South	21/12/08	REDDITCH	56	60	

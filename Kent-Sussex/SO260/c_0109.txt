@@ -1,0 +1,11 @@
+(Shepherds Lane Jn) 2 60
+(5 62)
+(BRIXTON) (3 14)
+Canterbury Road Jn ' 3 24 are
+(3 79)
+(Loughborough Jn) (3 39)
+3 45 al-
+3 64 *-
+Cambria Jn 3 62
+(3 68)
+

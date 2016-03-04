@@ -1,0 +1,333 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Shaftholme Jn	160	16	
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		160	30	*
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Joan Croft Jn	160	48	
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Jean Croft LC	160	48	M06
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Dormer Green LC	161	23	M06
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Noblethorpe LC	161	35	MCG
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Barcroft LC	162	14	MCG
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Heywoth LC	162	55	M06
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Moss LC	163	02	MOB
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Fenwick LC	164	14	MCG
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Balne Lew Gate LC	165	22	M66
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Balne LC	165	74	M03
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Heck G. F.	167	19	
+0097	LN600	001	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Temple Hirst Jn	169	16	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06	Hambleton South Jn	174	15	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06	OHNS (Hambleton Jn TSC)	174	58	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06	Hambleton North Jn	174	75	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06	Colton Jn	182	79	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06		183	50	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06	Bolton North Jn	183	65	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06		183	77	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06	HABDs	184	04	
+0098	LN600	002	Shaftholme Jn. to Reston GSP ECM3 ECM4 London North Eastern	02/12/06	Earfit Lane LC	184	05	RIG
+0099	LN600	003	Shaftholme Jn. to Reston GSP ECM4 London North Eastern	02/12/06	Copmanthorpe No.2LC	185	19	RIG
+0099	LN600	003	Shaftholme Jn. to Reston GSP ECM4 London North Eastern	02/12/06		186	20	*
+0099	LN600	003	Shaftholme Jn. to Reston GSP ECM4 London North Eastern	02/12/06		186	43	*
+0099	LN600	003	Shaftholme Jn. to Reston GSP ECM4 London North Eastern	02/12/06		187	25	*
+0099	LN600	003	Shaftholme Jn. to Reston GSP ECM4 London North Eastern	02/12/06		187	43	
+0099	LN600	003	Shaftholme Jn. to Reston GSP ECM4 London North Eastern	02/12/06		187	78	*
+0099	LN600	003	Shaftholme Jn. to Reston GSP ECM4 London North Eastern	02/12/06	Holgate Jn	188	07	*
+0100	LN600	004	Shaftholme Jn. to Reston GSP ECM4 ECM5 London North Eastern	01/12/07		188	28	*
+0100	LN600	004	Shaftholme Jn. to Reston GSP ECM4 ECM5 London North Eastern	01/12/07	York SB	133	33	Y
+0100	LN600	004	Shaftholme Jn. to Reston GSP ECM4 ECM5 London North Eastern	01/12/07	YORK	133	40	
+0100	LN600	004	Shaftholme Jn. to Reston GSP ECM4 ECM5 London North Eastern	01/12/07		00	00	
+0100	LN600	004	Shaftholme Jn. to Reston GSP ECM4 ECM5 London North Eastern	01/12/07		0	26	*
+0100	LN600	004	Shaftholme Jn. to Reston GSP ECM4 ECM5 London North Eastern	01/12/07		0	42	*
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		1	09	*
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		1	23	*
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		1	25	*
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Skelton Jn	1	50	*
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		1	60	*
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	York FS OHNS	2	04	
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		3	02	*
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Skelton Bridge Jn	3	11	
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		3	17	
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		3	23	
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		3	25	*
+0101	LN600	005	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		3	28	*
+0102	LN600	006	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Beningbrough Footpath LC	7	01	RIG
+0102	LN600	006	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Tollerton	9	39	
+0102	LN600	006	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		9	48	
+0102	LN600	006	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		9	55	
+0102	LN600	006	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		9	60	*
+0102	LN600	006	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		10	18	
+0102	LN600	006	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	HABDs	16	65	
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Dalton TSC OHNS	19	09	
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		20	40	*
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		21	03	*
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		21	72	
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		21	79	
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		22	03	*
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	THIRSK	22	16	
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		22	13	*
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		22	30	*
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		22	35	
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		22	60	
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		22	65	
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	N081 LC	22	73	RIG
+0103	LN600	007	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	No 32 LC	23	33	RIG
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	No 89 LC	27	58	RIG
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		28	50	*
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		28	58	
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Longlands Jn	28	68	Down
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		28	71	*
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		28	76	
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		28	77	*
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Longlands Jn	29	01	Up
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		29	56	
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	NORTHALLERTON	29	76	
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		29	78	
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Northallerton High Jn	30	09	
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Castle Hills Jn	30	59	
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		30	63	*
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	End of reversing line	31	09	
+0104	LN600	008	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		33	50	
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	OHNS (Hutton Bonville FS)	35	05	
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	East Cowton Crossovers	37	50	
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	HABD	38	72	
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		40	05	*
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		41	50	*
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		42	72	
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		43	00	*
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		43	42	*
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		43	50	
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		43	52	*
+0105	LN600	009	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Darlington South Jn	43	61	
+0106	LN600	010	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	01/12/07		43	72	*
+0106	LN600	010	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	01/12/07	Darlington down bypass line	43	72	X
+0106	LN600	010	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	01/12/07	DARLINGTON	44	10	
+0106	LN600	010	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	01/12/07		44	14	*
+0106	LN600	010	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	01/12/07		44	24	*
+0106	LN600	010	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	01/12/07	Darlington North Jn	44	36	
+0106	LN600	010	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	01/12/07	Darlington Up Siding	44	36	X
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		48	00	*
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		48	50	*
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		49	30	*
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Aycliffe	49	36	
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Aycliffe HABD	49	36	
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Aycliffe TSC OHNS	49	60	
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		51	70	
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		55	20	*
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		56	15	*
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Ferryhill South Jn	56	17	
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Kelloe Access Line Jn	56	17	X
+0107	LN600	011	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Ferryhill	56	70	
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		58	68	*
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Tursdale Jn	58	71	*
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		58	76	
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Hett Mill LC	60	21	CCTV
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		60	44	*
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		62	20	*
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		63	03	*
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	HABD	63	59	
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		64	49	*
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Durham FS OHNS	64	73	
+0108	LN600	012	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		65	62	*
+0109	LN600	013	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		66	06	
+0109	LN600	013	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	DURHAM	66	13	
+0109	LN600	013	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		66	14	*
+0109	LN600	013	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		66	21	*
+0109	LN600	013	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		66	31	
+0109	LN600	013	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		66	35	*
+0109	LN600	013	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		66	74	*
+0109	LN600	013	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		66	75	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		68	40	*
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	HABD	70	20	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	CHESTER-LE-STREET	71	72	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Chester-le-street TSC OHNS	72	04	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		72	23	*
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		73	23	*
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Ouston Crossovers	73	32	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		75	23	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Birlley Jn	75	26	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		75	29	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		75	66	*
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Lamesley Crossover	76	66	*
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		77	00	*
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	77	35	06	
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06	Low Fell Jn	77	37	*
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		77	40	*
+0110	LN600	014	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	02/12/06		78	08	*
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07		78	62	*
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07		79	01	*
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07		79	26	*
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07	Askew Road Tunnel	79	26	
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07	(53 yards) to	79	29	
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07		79	34	*
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07	King Edward Bridge Soufl1 Jn	79	42	*
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07		79	56	*
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07	King Edward Bridge North Jn	79	57	*
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07	King Edward Bridge	79	57	
+0111	LN600	015	Shaftholme Jn. to Reston GSP ECM5 London North Eastern	07/10/07	to	79	70	
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07		79	70	*
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07	Newcastle South Jn	79	75	
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07		79	76	*
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07	Newcastle West Jn	80	05	
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07	NEWCASTLE	80	16	*
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07		0	00	
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07		0	03	*
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07		0	06	*
+0112	LN600	016	Shaftholme Jn. to Reston GSP ECM5 ECM6 ECMT London North Eastern	01/12/07	Newcastle East Jn	0	14	*
+0113	LN600	017	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		0	24	*
+0113	LN600	017	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Dean Street Crossover	0	28	
+0113	LN600	017	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Pilgrim Street Crossover	0	36	
+0113	LN600	017	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	MANORS	0	46	
+0113	LN600	017	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		0	51	*
+0113	LN600	017	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Argyle Street Jn	0	58	*
+0113	LN600	017	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Red Barns Tunnel	0	65	
+0113	LN600	017	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	(90ml98 yards) to	0	70	
+0114	LN600	018	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		1	03	*
+0114	LN600	018	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		1	07	*
+0114	LN600	018	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		1	18	*
+0114	LN600	018	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		1	59	*
+0114	LN600	018	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Heaton South Jn	1	65	
+0114	LN600	018	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		1	79	
+0115	LN600	019	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Chillingham Road	2	18	
+0115	LN600	019	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Heaton Depot	2	58	
+0115	LN600	019	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		2	58	
+0115	LN600	019	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Heaton North Jn	2	70	
+0115	LN600	019	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Benton Crossovers	4	10	
+0115	LN600	019	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Benton FS OHNS	4	23	
+0115	LN600	019	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Benton North Jn	4	24	
+0115	LN600	019	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		4	30	*
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Killingworth LC	5	76	CCTV
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Killingworth Public Bridleway LC	6	28	
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Dudley Public Bridleway LC	7	73	
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Egrfiolfykes LC (CCTV) g	7	73	X
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	GRAMLINGTON	9	74	
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Plessey Crossovers	11	51	
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Stannington LC	13	74	CCTV
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Stannington TSC OHNS	14	00	
+0116	LN600	020	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Clifton LC	14	56	CCTV
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		16	14	*
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	MORPETH	16	50	
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Morpeth Jn	16	56	*
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		16	59	*
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Morpeth SB	16	63	M
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Morpeth Norlh LC	16	78	CCTV
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		16	79	
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		17	01	*
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Morpeth North Jn	17	26	*
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		17	30	
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		17	32	*
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		17	61	*
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	PEGSWOOD	18	44	
+0117	LN600	021	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		18	71	*
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Longhirst LC	20	17	CCTV
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Ulgham Lane LC	20	52	CCTV
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Butterwell Jn	20	63	
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Ulgham Grange LC	22	24	CCTV
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		22	38	*
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		23	15	*
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	WIDDRINGTON	23	20	
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Widdrington LC	23	23	CCTV
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Widdrington Sidings Crossover	24	60	
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		24	63	
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		24	75	*
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Felton Lane LC	25	16	CCTV
+0118	LN600	022	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	HABD	25	48	
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Chevington LC	25	49	CCTV
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		25	55	
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		26	37	
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Chevington North Crossovers	26	55	
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	AGKLINGTON	28	43	
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	No. 150 Private Bridleway LC	29	51	
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		30	00	*
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		30	40	*
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	No. 152 Private Bridleway LC	31	42	
+0119	LN600	023	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Warlmorth LC	31	67	CCTV
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	OHNS (Shilbottle T30)	33	37	
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	Wooden Gate Crossovers	33	65	
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	Wooden Gate LC	33	71	CCTV
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07		33	72	
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07		34	28	*
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	No.155 Private Bridleway LC	34	38	
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07		34	54	
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07		34	62	*
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	Alnmouth LC	34	63	RIG
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	ALNMOUTH ®	34	69	
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	Almouth SB	34	76	A
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07		35	40	*
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07		35	70	*
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	No.155A Private Bridleway LC	35	74	
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07		38	34	*
+0120	LN600	024	Shaftholme Jn. to Reston GSP ECMT London North Eastern	07/02/07	Little Mill Crossovers	39	30	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	Little Mill LC	39	34	CCTV
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	HABD	40	38	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	Stamford LC	40	39	CCTV
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	No.158A Private Bridleway LC	40	71	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08		42	35	*
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	No.161 Public Footpath LC	42	46	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	Christen Bank LC	43	00	CCTV
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	Fallodon LC (CCTV)	43	45	*
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	No.162 Public Bridleway LC	43	65	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	No.163 Private Bridleway LC	45	10	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	ChathillTSC OHNS	45	56	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	Chathill Crossovers	45	67	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	Chathill LC	45	78	CCTV
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	CHATHILL	46	01	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	HABD	47	08	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	Newham LC	47	09	CCTV
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08		47	35	*
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08		47	40	*
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08		47	50	*
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08		47	52	*
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	No.167 Private Bridleway LC	47	57	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08		47	60	*
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	No.169 Private Bridleway LC	48	18	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08		48	20	*
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	No.170 Private Bridleway LC	48	63	
+0121	LN600	025	Shaftholme Jn. to Reston GSP ECMT London North Eastern	12/04/08	Lucker LC	49	17	CCTV
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	No 174 LC	50	37	RIG
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Belford Crossovers	51	39	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Belford LC	51	45	CCTV
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		51	54	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		51	55	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Belford Burn Public Footpath LC	51	64	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Easington Public Footpath LC	51	72	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		52	41	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		52	43	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Cragmill LC	52	48	CCTV
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	No 179 LC	54	68	RIG
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Smeafield LC	54	79	CCTV
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Henham Low Moor LC	55	17	CCTV
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Fenham TSC OHNS	57	17	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Fenham Hill Public Footpath LC	57	37	
+0122	LN600	026	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		57	76	*
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Beal LC	58	52	CCTV
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		58	73	*
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Baal Crossovers	59	32	
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	No193 LC	59	67	RIG
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	HABD	60	66	
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Goswick LC	60	67	CCTV
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		63	10	*
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Scremerston LC	63	46	CCTV
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		64	53	*
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Spittal LC	65	01	RIG
+0123	LN600	027	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		65	14	*
+0124	LN600	028	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		65	65	*
+0124	LN600	028	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Tweedmouth Crossover	65	71	*
+0124	LN600	028	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Tweedmouth SB	65	78	TW
+0124	LN600	028	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		66	36	*
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		66	70	*
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		66	72	
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	BERWIGK—UPON-TWEED	67	00	
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		67	06	*
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Berwiok North Crossover	67	08	
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		67	11	
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		67	36	
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		67	36	
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		67	69	*
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06		69	00	*
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Marshall Meadows FS OHNS	69	17	
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Network Rail LNEIScotland	69	67	*
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	Territory Boundary	54	50	
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	(Mileage from Edinburgh)	54	50	X
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	E6402 signal	54	26	Up
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	E6403 signal	54	12	Down
+0125	LN600	029	Shaftholme Jn. to Reston GSP ECMT London North Eastern	02/12/06	HABD	54	06	
+0126	LN600	030	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		50	08	*
+0126	LN600	030	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06		49	10	*
+0126	LN600	030	Shaftholme Jn. to Reston GSP ECM2 London North Eastern	02/12/06	Reston GSP	47	14	

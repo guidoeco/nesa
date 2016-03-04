@@ -1,0 +1,141 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Neville Hill East Jn	18	25	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		18	20	*
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		17	66	*
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	CROSS GATES	16	11	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		16	00	*
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Manston LC	14	77	RIG
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Barrowby Lane Public BW LC	14	04	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	HABD	13	74	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	GARFORTH	13	23	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	EAST GARFORTH	12	56	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Peokfield Crossover	11	12	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Peokfield Public BW LC	11	12	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	MIGKLEFIELD	10	69	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		10	64	*
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Micklefield Jn	10	63	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		10	40	*
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		9	65	*
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	SOUTH MILFORD	7	57	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Footpath LC	7	57	RIG
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		7	20	*
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Gascoigne Wood SB	6	27	GW
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		6	24	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06		6	17	
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Newthorpe	9	47	UWC
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Grange Farm	9	40	UWC
+0432	LN898	001	Neville Hill East Jn to Hull HUL4 HUL3 London North Eastern	02/12/06	Norden's Barn Farm	6	43	UWC
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06		5	59	
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06		5	35	*
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Hagg Lane LC	5	34	RIG
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Philip Lane LC	4	47	RIG
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Hambleton West Jn	4	43	
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Hambleton East Jn	3	34	
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06		2	79	*
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Harrymore Lane LC	2	78	RIG
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	HABD	2	78	
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Thorpe Hall LC RC	2	41	M03
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Thorpe Gates LC	2	27	M03
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06		2	04	*
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Campey's Farm LC	1	78	UWC
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Sandhill Lane LC	1	42	M06
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06		0	42	*
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Doncaster Road LC	0	40	MOB
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Selby SB	0	40	S
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Selby West Jn	0	36	
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06		0	05	*
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Selby South Jn	0	00	
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06		31	12	
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Owlett Hall	5	07	UWC
+0433	LN898	002	Neville Hill East Jn to Hull HUL3 HUL2 London North Eastern	02/12/06	Ruddings Farm	4	67	UWC
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007	SELBY	30	79	
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007	Selby Swing Bridge	30	70	
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007		30	61	
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007		30	60	*
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007		30	37	
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007	Barlby BOCM LC	30	34	MOB
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007	Barlby North Jn	30	27	
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007		29	76	
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007		29	66	*
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007		29	21	*
+0434	LN898	003	Neville Hill East Jn to Hull HUL2 HUL1 London North Eastern	06/10/2007	Millfield Farm LC	29	18	UWC
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06		29	07	*
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06		29	00	*
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	Lund Lane LC	28	49	UWC
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06		28	40	*
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06		28	25	*
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	Cliffe LC (CCTV)	28	02	*
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	HABD	28	00	
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	Hoton House Farm LC	27	28	UWC
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	Hagg Lane LC	28	77	AHBC-X
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	Woodhall Lane LC	25	77	AHBC-X
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	Wressle LC	25	03	AHBC-X
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	WRESSLE	25	03	
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	Leakes LC	24	73	UWC
+0435	LN898	004	Neville Hill East Jn to Hull HUL1 London North Eastern	02/12/06	Cross Common LC	24	52	AHBC-X
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Rowland Hall LC	24	06	AHBC—X
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07		22	45	*
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	HOWDEN	22	27	
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Howden LC	22	27	CCTV
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07		21	49	*
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Thorpe Common LC	21	42	UWC
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07		20	52	*
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Filbert Grove LC	20	26	UWC
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Eastrington LC AHBC—X	19	23	
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	EASTRINGTON	19	23	
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07		18	21	*
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Bennetland LC	17	39	UWC
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Bellasize LC	17	23	UWC
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Gilberdyke Jn SB	17	07	
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07		17	04	*
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	GILBERDYKE	16	76	
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Swan Fleet Lane	22	21	UWC
+0436	LN898	005	Neville Hill East Jn to Hull HUL1 London North Eastern	17/11/07	Thorpe Farm	21	56	UWC
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Oxmardyke LC-	16	22	MCB
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07		16	10	*
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Marr House Farm LC	15	32	UWC
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07		15	10	*
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	BROOMFLEET	14	36	
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Broomfleet SB	14	33	
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Broomfleet LC	14	33	MOB
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07		14	29	*
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Church Farm LC	13	69	UWC
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Cave LC	13	60	MOB
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07		13	57	*
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07		12	78	*
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Crabley Creek LC	12	57	M06
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Crabley Creek SB	12	57	
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07		11	56	*
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	BROUGH	10	36	
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07		10	27	*
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Brough East LC	10	24	MOB
+0437	LN898	006	Neville Hill East Jn to Hull HUL1 London North Eastern	08/10/07	Brough East SB	10	24	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	Walton LC	9	35	M06
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		8	60	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		8	53	*
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		8	48	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		8	44	*
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	Melton Lane SB	8	41	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	Melton Lane LG	8	41	MCB
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		8	18	*
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	FERRIBY	7	42	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		7	36	*
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		7	32	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	HESSLE	4	64	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	Hessle East Jn	3	20	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		2	40	*
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		2	20	*
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	Hessle Road South Jn	1	77	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	Hessle Road SB	1	77	HR
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		1	73	
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08		1	54	*
+0438	LN898	007	Neville Hill East Jn to Hull HUL1 London North Eastern	21/09/08	Chalk Lane LC	1	49	CCTV
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07	St. Georges Road LC	1	24	CCTV
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07		1	00	*
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07	Anlaby Road Jn	0	73	
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07		0	55	*
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07		0	30	*
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07		0	25	
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07		0	21	*
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07	Hull Paragon SB	0	18	HP
+0439	LN898	008	Neville Hill East Jn to Hull HUL1 London North Eastern	01/12/07	HULL	0	00	

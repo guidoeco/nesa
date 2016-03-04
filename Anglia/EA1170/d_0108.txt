@@ -1,0 +1,21 @@
+NRN CSR
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+USY - Up Southbury
+DSY - Down Southbury
+Up platform - 188m (203 yd)
+Down platform - 184m (200 yd)
+General instruction applies
+at the following bridges:
+West Green Road (Bridge 1934) at 5m 54ch
+Forster Rd Bridge (1937) at 6m 19oh
+St. Loys Road (Bridge 1939) at 6m 24ch
+Lordship Lane (Bridge 1943) at 6m 59ch
+Ruskin Road (Bridge 1944) at 6m 700h
+Up platform - 190m (206 yd)
+Down platform - 190m (206 yd)
+Up platform - 186m (201 yd)
+Down platform - 189m (205 yd)
+General instruction applies
+at White Hart Lane Bridge (1950) at 7m 160h
+

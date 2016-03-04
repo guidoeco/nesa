@@ -1,0 +1,85 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Continued in			X
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Western			Z
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Sectional Appendix			X
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Territory Boundary	75	00	
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	HEYFORD	75	21	
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06		76	35	*
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06		76	40	*
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Knaptons LC	76	55	UWC
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Somerton LC	77	24	UWC
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06		77	40	*
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Chiswells Farm LC	76	33	UWC
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06		78	50	*
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Abemethys LC	78	52	UWC
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Boulders Farm No.2 LC	79	10	UWC
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Aynho Junction	13	26	
+0124	MD401	001	Heyford to Bordesley Junction DCL LNW South	07/10/06	Change of mileage	61	10	
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06		81	17	*
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	KINGS SUTTON	82	55	
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Brookfield House LC	82	60	UWC
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Studleigh Farm No.2 LC	82	67	UWC
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Cherrys No.4 LG	84	28	UWC
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Manor Farm No.1 LC	85	06	UWC
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06		85	20	*
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06		85	60	*
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Banbury South SB	86	02	BS
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	Down Relief GF	86	11	
+0125	MD401	002	Heyford to Bordesley Junction DCL LNW South	07/10/06	BANBURY			Z
+0126	MD401	003	Heyford to Bordesley Junction DCL LNW South	26/05/07	BANBURY	66	16	
+0126	MD401	003	Heyford to Bordesley Junction DCL LNW South	26/05/07	Banbury North SB	66	26	EN
+0126	MD401	003	Heyford to Bordesley Junction DCL LNW South	26/05/07		66	70	*
+0126	MD401	003	Heyford to Bordesley Junction DCL LNW South	26/05/07	Down Goods Loop GF	67	26	
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Little Bourton LC	88	40	UWC
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Jefferies LC	88	58	UWC
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Whites LC	88	73	UWC
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	NRN Channel change	92	40	
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Wormleighton LC	93	37	UWC
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Fenny Compton Jn	94	20	
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Down Goods Loop	94	23	
+0127	MD401	004	Heyford to Bordesley Junction DCL LNW South	13/01/07	Up Goods Loop	95	27	
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06		96	00	*
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06		97	17	*
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06		97	20	*
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06	Harbury Tunnel	100	49	
+0128	MD401	005	Heyford to Bordesley Junction DCL LNW South	07/10/06	(64 metresflo yards) to 1	00	52	
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08		105	73	*
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	LEAMINGTON SPA	106	07	
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	Leamington Spa PSB (LN, CL)	106	14	
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	Leamington Spa Jn	106	25	
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08		106	32	*
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08		106	38	*
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	WARWIcK	108	02	
+0129	MD401	006	Heyford to Bordesley Junction DCL LNW South	22/03/08	WARWICK PARKWAY	109	26	
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	DHGL	111	02	
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08		111	56	*
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	HATPON	112	14	
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	Hatton Station Jn	112	18	
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	Hatton Nortth.	112	57	
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08		112	61	*
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08		112	62	*
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	LAPWORTH	116	31	
+0130	MD401	007	Heyford to Bordesley Junction DCL LNW South	29/03/08	DORRIDGE	118	75	
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Bentley Heath LC	119	43	CCTV
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	WIDNEY MANOR	120	66	
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		122	00	*
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	SOLIHULL	122	25	
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	0LTON	124	11	
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		125	00	*
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	ACOGKS GREEN	125	08	
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		125	53	*
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		125	60	*
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Tyseley South Jn	125	73	
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08		125	74	*
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Tyseley No.3 GF	126	00	*
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	TYSELEY	126	05	
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	(Birmingham Railway Museum)	126	05	X
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Tyseley North Jn	126	23	
+0131	MD401	008	Heyford to Bordesley Junction DCL LNW South	23/02/08	Tyseley No.1 SB	126	40	TY1
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	Small Heath South Jn	126	59	
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	SMALL HEATH	127	04	
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08		127	53	*
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	Bordesley South Jn .	127	57	
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08		127	60	*
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	Bordesley Jn	128	11	
+0132	MD401	009	Heyford to Bordesley Junction BCV LNW South	14/04/08	Change of mileage	41	44	

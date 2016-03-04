@@ -1,0 +1,11 @@
+BRIDGEND
+Llynfi Jn 190 62
+
+0 07
+
+O 25 i:
+WILDMILL O 63
+SARN 2 1 1
+
+2 25 5E
+

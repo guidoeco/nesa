@@ -1,0 +1,181 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0268	GW730	001	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Severn Bridge Jn	171	39	
+0268	GW730	001	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	(Junction points)	0	11	
+0268	GW730	001	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	English Bridge Jn	0	28	*
+0269	GW730	002	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Sutton Bridge Jn SB	0	65	SB
+0269	GW730	002	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Sutton Bridge Jn	0	68	
+0269	GW730	002	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06		0	70	*
+0269	GW730	002	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06		0	72	
+0270	GW730	003	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Up Goods Loops	1	31	
+0270	GW730	003	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		2	51	*
+0270	GW730	003	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Tarmac Ltd GF @	2	77	
+0270	GW730	003	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		3	10	*
+0270	GW730	003	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		3	44	
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		5	05	*
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		5	06	*
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		5	25	*
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		5	26	*
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		6	20	*
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Dorrington SB	6	25	
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		6	47	*
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Micklewood No.2 LC	7	67	UWC
+0271	GW730	004	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	New House Farm LC	8	45	UWC
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	NRN Channel change	9	31	
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	(Down direction)	9	31	X
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	NRN Channel change	9	39	*
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	(Up direction)	9	39	X
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09		10	14	
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09		10	38	*
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09		11	02	*
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	All Stretton No.1 LC	11	38	UWC
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	Church Stretton SB	12	54	
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	CHURCH STRETTON	12	63	
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	Marsh Farm HABD	14	33	
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	Woodlands LC	14	66	UWG
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09		14	72	*
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	Old Mill LC	15	06	UWC
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	Marsh Brook SB	15	29	
+0272	GW730	005	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	21/02/09	Marsh Brook LC	15	29	MOB
+0273	GW730	006	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	25/08/07		16	42	*
+0273	GW730	006	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	25/08/07		18	10	*
+0273	GW730	006	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	25/08/07		18	60	*
+0273	GW730	006	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	25/08/07		18	82	*
+0273	GW730	006	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	25/08/07	Craven Arms LC	19	48	MCB
+0273	GW730	006	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	25/08/07	Craven Arms SB	19	48	
+0273	GW730	006	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	25/08/07	CRAVEN ARMS	19	77	
+0273	GW730	006	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	25/08/07	TEP (for Central Wales line)	19	77	X
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Craven Arman	20	01	
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Stokesay Farm LC	20	71	UWC
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Stokeswood LC	21	11	UWC
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		21	55	*
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		22	07	*
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Onibury LC	22	66	MOB
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Onibury SB	22	63	
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		23	68	*
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		24	00	*
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Wootton Farm LC	24	07	UWC
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Bromfield WILD	25	00	
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Bromfield SB	25	20	
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Bromfield LC	25	20	MOB
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Feltons LC	26	61	UWO
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Ludlow HABD	26	64	
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		27	10	*
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	LUDLOW	27	42	
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Ludlow Tunnel	27	47	
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	123m (134 yards)	27	53	
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06		26	40	*
+0274	GW730	007	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	09/12/06	Saltmoor LC	29	62	UWC
+0275	GW730	008	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	12/07/08	The Grove LC	30	44	UWC
+0275	GW730	008	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	12/07/08	Ashford Bowdler LC (AH BC-X)	30	49	
+0275	GW730	008	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	12/07/08	Woofferton UGL	31	50	
+0275	GW730	008	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	12/07/08	Woofferton SB	32	02	
+0275	GW730	008	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	12/07/08	Church House Farm LC	33	35	UWC
+0275	GW730	008	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	12/07/08	Inchmore LC	33	72	UWC
+0275	GW730	008	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	12/07/08	Park Lodge LC	34	36	UWC
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Cross Brook Farm LC	34	57	UWC
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Eye Court Farm LC	35	38	UWC
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Blackpole Farm LC	36	12	UWC
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Nordans Farm LC	36	54	UWC
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Lower Burton Farm LC	36	75	UWC
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Broad Farm No.1 LC	37	17	UWC
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Leominster LC	38	01	AHBC
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	LEOMINSTER	38	36	
+0276	GW730	009	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06		38	45	*
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07	Leominster (LE) SB	38	60	
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07		40	15	*
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07	Ford Bridge LC	40	69	UWC
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07		42	55	*
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07		42	65	*
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07		42	67	
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07	Dinmore Tunnels	42	68	
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07	964m (1054 yards)	43	36	
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07		43	60	*
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07	Ox Pasture Farm 1 LC	44	38	UWC
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07		44	39	*
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07	Dolmeadow LC	44	76	UWC
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07	Wellington HABD	45	32	*
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07	Wellington LC	45	33	AHBC
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07		45	78	*
+0277	GW730	010	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	23/06/07		46	00	*
+0278	GW730	011	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Moreton—on-Lugg SB and LC	46	65	MOB
+0278	GW730	011	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06		47	00	*
+0278	GW730	011	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Lyde Court LC	47	77	UWC
+0278	GW730	011	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06		48	36	*
+0278	GW730	011	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06		49	20	*
+0278	GW730	011	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06	Shelwick Jn	49	26	
+0278	GW730	011	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06		49	27	*
+0278	GW730	011	Severn Bridge Jn to Newport, Maindee West Jn SHL Western	05/08/06		50	15	*
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07	Brecon Curve GF	50	44	
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07	Brecon Curve Jn	50	53	
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07	HEREFORD	51	03	
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07	Barrow crossing (WL)	51	10	*
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07	Hereford SB	51	13	H
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07		51	20	*
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07		51	60	*
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07	Former RothenNas Jn	52	19	
+0279	GW730	012	Severn Bridge Jn to Newport, Maindee West Jn SHL HDC Western	15/12/07	(Change of ELR)	0	00	
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06		0	70	*
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	Former Red Hill Jn	1	74	*
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	(Change of ELR)	2	11	
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06		2	25	*
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06		2	32	*
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	Ashley LC	2	33	UWC
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	Red Hill Tunnel	3	15	
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	46m (50 yards)	3	18	
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	Coed Moor LC	4	66	UWC
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	Tram Inn SB	5	37	
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	Tram Inn LC	5	37	MOB
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	Willox Bridge 1 LC	5	55	UWC
+0280	GW730	013	Severn Bridge Jn to Newport, Maindee West Jn HDC HNL Western	05/08/06	Manning Upper House LC	6	30	UWC
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Brewers 1 LC	6	61	UWC
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Wests Bridge Farm LC	7	30	UWC
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		7	31	*
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		7	44	*
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Thomas LC	8	11	UWC
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Benarth Farm LC	9	15	UWC
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Howton Court Farm LC	10	22	UWC
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		10	48	*
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Pen-y-Llan Farm LC	10	56	UWC
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	UGL	10	63	
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Pontrilas SB	11	14	
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		11	20	*
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Pontrilas Tunnel	11	27	
+0281	GW730	014	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	34m (37 yards)	11	29	
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		12	14	*
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Great House Farm LC	12	21	UWC
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		12	31	*
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Price Church Farm LC	12	45	UWC
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Llancillo Hall LC	13	79	UWC
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		14	00	
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Vineyard Farm No1 LC	15	25	UWC
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Vineyard Farm N02 LC	15	45	UWC
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Powell LC	16	16	UWC
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		17	20	*
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		17	60	*
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Blaengavenny Farm LC	19	02	UWC
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		21	16	*
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	ABERGAVENNY Y FENNI	22	63	
+0282	GW730	015	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Abergavenny SB	22	75	
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Abergavenny UGL			X
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		24	14	*
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Penpergwm LC	25	41	UWC
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		28	20	*
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Nantyderry HABD's	28	75	
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Little Mill Jn SB	30	52	LM
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Little Mill Jn	30	55	
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	PONTYPOOL PONT-Y-PWL	32	19	
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	AND NEW INN	32	19	X
+0283	GW730	016	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		32	20	*
+0284	GW730	017	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		32	60	*
+0284	GW730	017	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Panteg UGL + DGL	32	60	X
+0284	GW730	017	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Chapel Lane GF	34	22	
+0284	GW730	017	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	cwmanfin	35	13	
+0284	GW730	017	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		37	00	*
+0284	GW730	017	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06	Ponthir LC	38	03	UWC
+0284	GW730	017	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	05/08/06		33	60	*
+0285	GW730	018	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	13/11/06		40	47	*
+0285	GW730	018	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	13/11/06	Maindee North GF	41	03	
+0285	GW730	018	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	13/11/06	Maindee North Jn	41	33	*
+0285	GW730	018	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	13/11/06		41	54	*
+0285	GW730	018	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	13/11/06	Maindee West Jn	41	66	
+0285	GW730	018	Severn Bridge Jn to Newport, Maindee West Jn HNL Western	13/11/06		158	16	

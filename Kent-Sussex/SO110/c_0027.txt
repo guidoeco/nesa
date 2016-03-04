@@ -1,0 +1,10 @@
+75 41 *-
+75 51
+Broadstairs Substation 76 13
+76 37 *
+BROADSTAIRS 77 09
+77 73 *-
+Dumpton Park TP Hut 77 76
+DUMPTON PARK 78 26
+78 40 *
+

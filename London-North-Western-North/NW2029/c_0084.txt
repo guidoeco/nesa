@@ -1,0 +1,7 @@
+Olive Mount Jn 2 54
+0 10
+Olive Mount Tunnel 0 24
+(133 metres I 146 yards) to 0 31
+O 47 *-
+Edge Lane Jn 0 52
+

@@ -1,0 +1,29 @@
+NRN
+CB Rugby 360 (RC)
+AC: Rugby ECR
+
+Tolfrom 90m 28ch
+
+UN - Up Northampton
+
+DC - Down Coventry
+
+UC - Up Coventry
+
+DTVF - Down Trent Valley Fast
+DTVS - Down Trent Valley Slow
+UTVF - Up Trent Valley Fast
+
+UTVS - Up Trent Valley Slow
+
+TASS ﬁtted
+
+Axle Counter area
+
+GSM—R area
+
+LA
+
+Line name changes at 83m 190h:
+UC to UN
+

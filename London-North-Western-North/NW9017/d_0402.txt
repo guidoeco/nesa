@@ -1,0 +1,11 @@
+NRN
+
+TCB Hazel Grove SB (HG)
+DCL=Down Cheadle Loop 409m
+(134411)
+UHV= Up Hope Valley
+DHV= Down Hope Valley
+'U&D'HV= 'Up 8: Down' Hope Valley
+
+Northenden Jn SB (NN)
+

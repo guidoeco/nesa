@@ -1,0 +1,28 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08	Territory boundary	164	30	
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08	Crannaford LC	165	20	AHBC
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08		165	21	*
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08		166	07	*
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08		168	23	*
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08	Single line Jn	168	24	
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08		168	38	*
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08	Pinhoe LC	168	39	CCTV
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08	PINHOE	168	44	
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08		170	00	*
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08	Exmouth Jn (EJ) SB	170	21	
+0230	GW610	001	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	19/04/08	Exmouth Jn	170	27	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	Blackboy Tunnel	170	44	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	240m (262 yards)	170	56	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	ST. JAMES PARK	170	72	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	Exeter Central Goods Jn	171	07	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07		171	12	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07		171	15	*
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	EXETER CENTRAL	171	30	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	0 Up	171	43	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07		171	52	*
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	St. David's Tunnel	171	53	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	168m (134 yards)	171	61	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07		171	73	*
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	CW Up 8. Down	171	75	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07	Exeter St. Davids Jn	172	04	
+0231	GW610	002	Crannaford LC (Incl) to Exeter St. Davids BAE2 Western	16/12/07		194	00	

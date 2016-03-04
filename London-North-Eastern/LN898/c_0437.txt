@@ -1,0 +1,20 @@
+Oxmardyke LC- (MCB) 16 22
+16 10 *-
+Marr House Farm LC (UWC) 15 32
+15 10 are
+BROOMFLEET 14 36
+Broomfleet SB 14 33
+Broomfleet LC (MOB) 14 33
+14 29 2!:
+Church Farm LC (UWC) 13 69
+Cave LC (MOB) 13 60
+13 57 *-
+12 78 5':
+Crabley Creek LC (M06) 12 57
+Crabley Creek SB 12 57
+11 56 *
+BROUGH 10 36
+10 27 *-
+Brough East LC (MOB) 10 24
+Brough East SB 10 24
+

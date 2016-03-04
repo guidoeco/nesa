@@ -1,0 +1,10 @@
+NRN
+TCB Seamer SB (SR)
+RAB
+Other crossings in this area
+T = East Lea UWC at 45 07
+T = Grange Farm UWC at 45 26
+DIUB = DownlUp Bridlington
+DB = Down Bridlington
+UB = Up Bridlington
+

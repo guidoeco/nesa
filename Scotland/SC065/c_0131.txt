@@ -1,0 +1,12 @@
+OHNS 112 30
+BISHOPTON 112 60
+Royal Ordnance Sdgs GSP 112 72
+
+Bishopton No1 Tunnel 113 49
+to 330 yards 113 64
+
+Bishopton No2 Tunnel 113 68
+to 350 yards 114 90
+Langbank GF
+LANGBANK 116 66
+

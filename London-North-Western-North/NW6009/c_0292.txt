@@ -1,0 +1,10 @@
+Walkden SB (WM) 7 33
+WALKDEN 7 42
+ATHERTON 11 01
+Atherlon Goods Yard SB (AN) 11 18
+HAG FOLD 11 59
+DAISY HILL 12 57
+Crow Nest Jn SB (CN) 14 62
+Crow Nest Jn 14 64 *-
+(Change of ELR)
+

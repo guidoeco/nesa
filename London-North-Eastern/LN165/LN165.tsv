@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0050	LN165	001	Harringay Park Jn to Harringay Jn HPW London North Eastern	02/12/06	Harringay Park Jn	0	25	
+0050	LN165	001	Harringay Park Jn to Harringay Jn HPW London North Eastern	02/12/06	Network Rail Anglia]	0	14	
+0050	LN165	001	Harringay Park Jn to Harringay Jn HPW London North Eastern	02/12/06	LNE Route Boundary	0	14	X
+0050	LN165	001	Harringay Park Jn to Harringay Jn HPW London North Eastern	02/12/06	Harringay Jn	0	03	

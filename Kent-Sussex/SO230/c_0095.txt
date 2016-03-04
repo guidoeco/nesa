@@ -1,0 +1,8 @@
+(Folkestone East SB (Y E)) (70 79)
+(Junction) (71 08)
+Folly Road LC (CCTV) 71 29
+East Cliff UWC 71 46
+Folkestone Harbour SB (EBB) 71 25
+Folkestone Harbour LC 72 02
+FOLKESTONE HARBOUR 72 13
+

@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08	Dalton Jn SB	24	37	DJ
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08	Dalton Jn	24	33	*
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08		0	00	
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08		0	31	*
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08	Goldmire Quan'y L.C.	0	58	UWC
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08	Park South Jn	0	76	*
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08		32	77	
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08		33	00	
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08	Park South LC	33	06	MOB
+0230	NW4041	001	Dalton Jn. to Park South Jn. DAP LNW North	01/03/08	Park South SB	33	06	

@@ -1,0 +1,11 @@
+NRN
+
+TCB Dalston Jn SB (D) '
+RAQ AC:Romford ECR
+NRN Channel change at 3 12 NRN
+TOWS Canonbury West Jn to 3 51
+
+Kings Cross SB (K)
+U+DC = Up + Down Canonbury
+UC = Up Canonbury
+

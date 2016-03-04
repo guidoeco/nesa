@@ -1,0 +1,51 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	(REDHILL)	22	40	
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	Redhill Feeder Hut	22	68	
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08		22	72	*
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	REIGATE	24	27	
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	Reigate SB	24	31	RG
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	Relgate LC	24	31	
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	Buckland LC	26	49	AHBC
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	Betchworth LC	27	14	CCTV
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	BETGHWORTH	27	17	
+0218	SO560	001	Redhillto Guildford RSJ Kent/Sussex	10/05/08	Betchworth Ground Frame	27	21	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Brockham LC	28	08	AHBC
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	DORKING	29	65	DEEPDENE
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	DORKING WEST	30	42	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Dorking West Ground Frame	30	50	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Milton Court Crossing	31	30	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Little Bullsdown Crossing	31	51	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Coombe Lane Crossing	32	24	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Route Boundary	33	10	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Haokhurst Lane BW	34	57	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Gomshall Ground Frame	35	11	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	GOMSHALL	35	21	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Gomshall Station FIP	35	21	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Burrows Lane LC (AHBC)	35	60	*
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08	Share Heath LC	36	51	
+0219	SO560	002	Redhillto Guildford RSJ Kent! Sussex	14/06/08		36	60	*
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06	Brook LC (AHBC)	37	19	*
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06	Ford Crossing	37	70	
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06		38	03	*
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06	CHILWORTH	39	15	
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06	Chilworth LC	39	20	CCTV
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06	Tangley LC (AHBC)	39	48	*
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06	East Shalford Crossing	40	20	
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06	Shalford SB	40	78	WY
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06		41	00	
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06	SHALFORD	41	02	
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06		41	10	*
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06		41	55	*
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06		41	60	
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06		31	42	
+0220	SO560	003	Redhillto Guildford RSJ Kent/Sussex	02/12/06		31	41	*
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08	St Catherine's Tunnel	31	19	
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08	(132 yards)	31	13	
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08		31	12	
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08	Chalk Tunnel	31	01	
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08	(845 yards)	30	43	*
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08	Guildford ASC (GD)	30	43	X
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08	GUILDFORD	30	27	
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08		30	09	*
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08		29	43	*
+0221	SO560	004	Redhill to Guildford WPH1 Kent / Sussex	10/05/08		29	40	*

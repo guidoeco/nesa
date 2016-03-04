@@ -1,0 +1,57 @@
+NRN
+TCB Preston SB (PN) 088
+AC: Crews
+
+(PF) Down and Up goods lines
+TASS fitted:
+
+DF line to 21 m 57ch
+
+UF line throughout
+
+Platform Lengths: Preston
+
+Platform 1 Permissive-PP
+
+Up 8: Down 272m (297yards)
+
+Platform 2 Permissive-PP
+
+Up & Down 272m (297yards)
+
+Platform 3 Permissive-PP
+
+Up 359m (393yards) Down 342m (374yards)
+Platform 3C Pennissive—PP
+
+75m (82yards)
+
+Platform 4 Pennissive—PP
+
+Up 265m (290yards) Down 283m (309yards)
+Platform 4C Permissive-PP
+76m (83yards)
+
+Platform 5 Permissive-PP
+
+Up 244m (267yards) Down 239m (261yards)
+Platform 6 Permissive-PP
+
+Up 245m (268yards) Down 238m (260yards)
+(PF) 'down & up' goods loop (Parcel Platform line)
+[314m (1029fl). PF also applies to Class 1 parcel
+and postal trains
+
+(PF) Up and Down Goods loop! 384m (1260ft)
+'D&U'GL='Down&up' goods loop
+
+UT=Up Through line
+
+DT=Down Through line
+
+(1) - No.1 Siding
+
+(2) - No.2 Siding
+
+SL - Shunting Line
+

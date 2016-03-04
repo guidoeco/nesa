@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0039	SC009	001	Lanark to Lanark Jn LNK Scotland	01/12/07	LANARK	2	45	
+0039	SC009	001	Lanark to Lanark Jn LNK Scotland	01/12/07		1	55	*
+0039	SC009	001	Lanark to Lanark Jn LNK Scotland	01/12/07		0	24	*
+0039	SC009	001	Lanark to Lanark Jn LNK Scotland	01/12/07	Lanark Jn	-0	03	

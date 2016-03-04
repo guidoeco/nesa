@@ -1,0 +1,14 @@
+NRN
+TCB York SB (Y)
+RAQ AC:York ECR
+UL = Up Leeds
+DL = Down Leeds
+Class 373 I 2 trains must not exceed 110 mph on
+the Up Main line between York 186 20 and Colton
+Jn 182 75 (No lineside signs are provided for this
+speed)
+CD - TolFrom Holgate Reception Sidings
+DIUHGL = Down and Up Holgate Goods
+Loop 505m I 1659 feet
+(NOTE:- Table duplicated in LN854 seq 10)
+

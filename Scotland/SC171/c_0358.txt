@@ -1,0 +1,9 @@
+44 40 *-
+44 48 *
+GUPAR 44 50
+Cupar SB 44 53
+44 79 i:
+48 60 *
+Seggiehill LC (UWC) 49 37
+49 62 *
+

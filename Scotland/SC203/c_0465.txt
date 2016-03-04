@@ -1,0 +1,11 @@
+Morvich No4 LC (UWC) 78 71
+Morvich No 6 LC (UWC) 79 03
+Morvich No 7 LC (UWC) 79 22
+Morvich No 8 LC (UWC) 79 62
+80 20 i
+80 65 i
+81 47 i
+82 08 i
+Baddan LC (UWC) 82 30
+32 43 a!
+

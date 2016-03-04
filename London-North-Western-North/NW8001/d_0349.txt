@@ -1,0 +1,11 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+USP = Up Southport
+DSP = Down Southport
+Platform Lengths: Sandhills
+Platform 1
+129m (141 yards)
+Platform 2
+130m (142 yards)
+

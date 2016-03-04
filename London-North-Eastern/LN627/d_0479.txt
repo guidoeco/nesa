@@ -1,0 +1,13 @@
+NRN
+TCB Tyneside SB (T)
+RAB AC:York ECR
+CD TolFrom Siding 1
+
+Q speeds apply to Metro trains only
+
+A =
+
+DS= Down Sunderland
+
+US= Up Sunderland
+

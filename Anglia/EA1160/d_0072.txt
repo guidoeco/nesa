@@ -1,0 +1,17 @@
+NRN CSR
+
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+UF - Up Fast
+DF - Down Fast
+USB - Up Suburban
+DSB - Down Suburban
+Up Platform 1 - 214m (215yd)
+Down Platform 2 - 192m (208yd)
+Up Platform 3 - 192m (208yd)
+Down Platform 4 - 186m (201yd)
+
+UC - Up Cambridge
+
+DC - Down Cambridge
+

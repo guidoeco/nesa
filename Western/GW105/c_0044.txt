@@ -1,0 +1,8 @@
+104 41
+Bathampton Jn (Up) 104 45
+Bathampton Jn (Down) 104 55
+
+105 40 *
+Sydney Gardens East 106 24
+Tunnel 70m (77 yards) to 106 28
+

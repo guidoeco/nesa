@@ -1,0 +1,15 @@
+13 35 *
+Change of Mileage 13 45
+14 66
+Sutton Ground Frame (14 71) 1:
+Sutton Substation 14 67
+SUTTON 14 75
+(12 50)
+15 03 2k
+(12 40) *-
+CHEAM 15 76
+Cheam TP Hut 16 06
+Ewell East Substation 17 23
+EWELL EAST 17 27
+Route Boundary 17 33
+

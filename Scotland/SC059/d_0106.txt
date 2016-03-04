@@ -1,0 +1,7 @@
+NRN GSM-R
+TCB Paisley SC Panel 1 (PE)
+AC: Cathcart ECR
+CSR
+UPL 1285f (390m)
+(61 SLU's)
+

@@ -1,0 +1,17 @@
+Abbey Meade Crossing 37 50
+37 55 *-
+WillowWalk FPW 37 61
+37 71 *-
+NEW HYTHE 38 03
+New Hythe Substation 38 27
+38 53 *-
+Mill Hall Crossing 38 64
+Aylesford Ground Frame 38 69
+AYLESFORD 38 74
+Aylesford SB (AF) 38 75
+Aylesford LC 38 78
+38 79 *
+Aylesford Village LC (CCTV) 39 36
+_ _ 39 48 *-
+thtle Preston Crossmg 39 66
+

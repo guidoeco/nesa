@@ -1,0 +1,10 @@
+Faygate TP Hut 33 40
+Kilnwood Crossing 33 45
+FAYGATE 34 28
+Raffey Road Substation 35 19
+Raffey Road Crossing (AHBC) 35 39 *
+Rusper Road Crossing 36 48
+LI1TLEHAVEN 36 50
+Parsonage Road Crossing (AHBC) 37 14 *-
+37 28 *
+

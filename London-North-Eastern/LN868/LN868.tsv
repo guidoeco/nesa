@@ -1,0 +1,47 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06	Wincobank Jn	161	52	
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06		161	65	*
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06	MEADOWHALL	161	70	
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06		162	02	
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06		162	35	*
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06		162	78	*
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06		163	46	*
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06		163	46	*
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06	Ecclesfield West	164	09	
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06	Butterthwaite Lane LC	164	12	UWC
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06	CHAPELTOWN	165	66	
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06		165	70	*
+0403	LN868	001	Wincobank Jn to Horbury Jn SHB London North Eastern	02/12/06		166	10	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	Tankersley Tunnel	166	28	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	(137cm! 1498 yards)	167	16	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		166	51	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		167	17	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	ELSECAR	169	00	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	Hemingfield Tunnel	169	77	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	(49m I 54 yards)	170	00	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		170	20	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	WOMBWELL	170	45	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		170	48	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		173	45	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		173	48	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		7	50	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		6	65	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	Bamsley SB	6	60	BY
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	Bamsley LC	6	59	MOB
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	BARNSLEY	6	54	
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	Bamslay Station Jn	6	43	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		52	58	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		52	53	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		49	42	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06		49	36	*
+0404	LN868	002	Wincobank Jn to Horbury Jn SHB PED2 BAH2 London North Eastern	02/12/06	BARTON	49	29	
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09	Woolley Coal Siding SB	48	43	W
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09		48	02	
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09	Woolley New Tunnel Down,	47	33	
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09	and Old Tunnel	46	34	
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09	(1596m I 1745 yards)	46	34	X
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09		45	56	
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09		1	53	
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09		0	08	*
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09	Horbury Jn SB	0	00	HJ
+0405	LN868	003	Wincobank Jn to Horbury Jn BAH2 CHS London North Eastern	05/01/09	Horbury Jn	0	00	

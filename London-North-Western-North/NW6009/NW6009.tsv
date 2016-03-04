@@ -1,0 +1,71 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06	Windsor Bridge North Jn	1	66	
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06	Pendleton Tunnel	2	25	
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06	(48ml52yd) to	2	27	
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06		2	30	*
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06		2	78	*
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06		3	02	*
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06	PendlebUIiy Tunnel	4	34	
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06	(184ml20 yd) to	4	43	
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06	SWINTON	5	04	
+0291	NW6009	001	Windsor Bridge North Jn. to Southport WBS LNW North	07/10/06	MOORSIDE	5	61	
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	Walkden SB	7	33	WM
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	WALKDEN	7	42	
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	ATHERTON	11	01	
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	Atherlon Goods Yard SB	11	18	AN
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	HAG FOLD	11	59	
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	DAISY HILL	12	57	
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	Crow Nest Jn SB	14	62	CN
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	Crow Nest Jn	14	64	*
+0292	NW6009	002	Windsor Bridge North Jn. to Southport WBS1 WBSZ LNW North	28/04/07	(Change of ELR)	14	64	X
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07	HINDLEY	15	17	
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07		16	00	*
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07		16	20	*
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07	INGE	16	70	
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07		17	21	*
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07		17	35	
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07	Wigan Station Jn	17	44	
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07		17	58	*
+0293	NW6009	003	Windsor Bridge North Jn. to Southport WBS WBSB LNW North	01/12/07	WIGAN WALLGATE	17	72	
+0294	NW6009	004	Windsor Bridge North Jn. to Southport WBSB LNW North	23/06/07		18	02	
+0294	NW6009	004	Windsor Bridge North Jn. to Southport WBSB LNW North	23/06/07	Wigan Wallgate Jn	18	04	
+0294	NW6009	004	Windsor Bridge North Jn. to Southport WBSB LNW North	23/06/07	Wigan Wallgate SB	18	09	WW
+0294	NW6009	004	Windsor Bridge North Jn. to Southport WBSB LNW North	23/06/07		18	15	*
+0294	NW6009	004	Windsor Bridge North Jn. to Southport WBSB LNW North	23/06/07		18	21	*
+0294	NW6009	004	Windsor Bridge North Jn. to Southport WBSB LNW North	23/06/07	GATHURST	20	46	
+0294	NW6009	004	Windsor Bridge North Jn. to Southport WBSB LNW North	23/06/07		21	40	*
+0294	NW6009	004	Windsor Bridge North Jn. to Southport WBSB LNW North	23/06/07	APPLEY BRIDGE	22	30	
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06		22	37	*
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06		23	27	*
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06		23	47	*
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	Chapel Lane LC	24	06	MCG
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06		24	32	*
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06		24	43	*
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	Parbold SB LC	24	49	MOB
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	PARBOLD	24	53	
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	Ferret Lane LC	25	12	UWC
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	Dean Lane LC	25	57	AHBC-X
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	Frog Lane LC	25	77	UWC
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	HOSGAR (Up Platform)	26	07	
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	Hoscar LC	26	08	AHBC-X
+0295	NW6009	005	Windsor Bridge North Jn. to Southport WBSB LNW North	07/10/06	HOSGAR (Down Pltl'orm)	26	13	
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	Four Lane Ends LC	26	41	RIG
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	Shaws LC	26	71	RIG
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	Burscough Bridge Jn SB	27	50	BB
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	BURSCOUGH BRIDGE	27	58	
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	Crabtree LC	28	19	RIG
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	NEW LANE (Up Platform)	28	87	
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	New Lane LC	28	70	AHBC
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	NEW LANE (Down Platform)	28	73	
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	Martins Lane LC	29	70	RIG
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	BESCAR LANE (Up Platform)	30	74	
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	Bescar Lane LC	30	78	AHBC
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	BESGAR LANE (Down Platform)	30	79	
+0296	NW6009	006	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/08	Wyke Cop LC	32	20	AHBC
+0297	NW6009	007	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/07	Pool Hey LC	32	44	AHBC
+0297	NW6009	007	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/07		32	50	*
+0297	NW6009	007	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/07	MEOLS GDP	34	02	
+0297	NW6009	007	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/07		34	05	*
+0297	NW6009	007	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/07	Goods Yard GF	34	58	
+0297	NW6009	007	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/07		35	05	*
+0297	NW6009	007	Windsor Bridge North Jn. to Southport WBSB LNW North	01/12/07	SOUTHPORT	35	27	

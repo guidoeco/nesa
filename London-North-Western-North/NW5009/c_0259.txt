@@ -1,0 +1,8 @@
+Bramhall Jn 0 39
+0 31 *
+0 28 a:
+CHEADLE HULME 0 08
+0 00
+180 59
+Cheadle Hulme North Jn 180 67
+

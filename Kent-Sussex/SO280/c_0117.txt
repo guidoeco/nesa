@@ -1,0 +1,8 @@
+Loughborough Jn 3 39 at:
+Loughborough Substation 3 41
+(Canterbury Road Jn) (3 79)
+LOUGHBOROUGH J" 3 48
+(Cambria Jn) (3 62)
+(Heme Hill North Jn) (4 32)
+Intersection CATIATL over HHH 3 52
+

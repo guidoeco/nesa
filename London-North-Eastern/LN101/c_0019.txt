@@ -1,0 +1,13 @@
+96 20 1-
+96 40 al-
+97 00 a:
+99 10 al-
+99 48 *-
+Stoke 99 60
+Stoke GSP 99 66
+Stake TSC OHNS 99 75
+Stoke TSC OHNS 100 00
+100 39 *
+Stoke Tunnel 100 39
+(805m 880 yards) 100m 79
+

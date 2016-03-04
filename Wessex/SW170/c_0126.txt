@@ -1,0 +1,10 @@
+Warminster South GF 114 54
+Beeohgrove GF 115 27
+Territory Boundary 115 40
+Corton Steps Crossing 119 41
+Upton Lovell LC (AHBC) 119 70
+Codford LC (AHBC) 120 45
+Sherrington Crossing 121 2
+
+Sherrington FIP Crossing 121 8
+

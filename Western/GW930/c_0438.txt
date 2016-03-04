@@ -1,0 +1,10 @@
+Cannarthen Jn 245 10
+Up Sidings No.1 GF 245 32
+Up Sidings No.2 GF 245 43
+Down Sidings GF 245 44
+CARMARTHEN 245 55
+(CAERFYRDDIN)
+
+Cannarthen Station GF 245 61
+End of line 245 65
+

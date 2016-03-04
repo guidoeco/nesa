@@ -1,0 +1,20 @@
+Craven Arms Jn 20 01
+(Change of mileage) 28 82
+
+0 17 *
+
+0 20 *-
+Lyon Crossing 0 39
+
+0 40 a:
+
+O 48 *-
+Broome Farm 2 LC(UWC) 1 56
+BROOME 2 46
+Brisbane No.1 LC (UWC) 2 69
+HOPTON HEATH 5 09
+Heath Farm LC (UWC) 5 50
+Manor Farm 2 LC (UWC) 6 46
+Manor Farm 3 LC (UWC) 6 61
+CoxallFarm 1 LC(UWC) 6 79
+

@@ -1,0 +1,9 @@
+Balnahinch No 4 LC (UWC) 59 78
+Culrain Smithey LC (UWC) 60 63
+60 74 *-
+CULRAIN 61 00
+61 10 *
+INVERSHIH 61 34
+63 05 a:
+63 23 i:
+

@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0296	LN746	001	Cottam Power Station Branch TYB1 London North Eastern	02/12/06	Cottam Power Station	71	79	
+0296	LN746	001	Cottam Power Station Branch TYB1 London North Eastern	02/12/06		71	70	*
+0296	LN746	001	Cottam Power Station Branch TYB1 London North Eastern	02/12/06	Westbrecks LC (AHBC—X)	71	22	*
+0296	LN746	001	Cottam Power Station Branch TYB1 London North Eastern	02/12/06	Leverton LC	70	16	AHBC-X
+0296	LN746	001	Cottam Power Station Branch TYB1 London North Eastern	02/12/06		70	14	*
+0296	LN746	001	Cottam Power Station Branch TYB1 London North Eastern	02/12/06	Windmill Lane LG	69	05	UWC
+0296	LN746	001	Cottam Power Station Branch TYB1 London North Eastern	02/12/06		68	50	*
+0296	LN746	001	Cottam Power Station Branch TYB1 London North Eastern	02/12/06	Clarborough Jn	68	32	

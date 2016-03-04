@@ -1,0 +1,14 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0062	MD175	001	Brackmills to Northampton South Junction BNN BPH LNW South	02/06/07	Gate Brackmills	69	64	
+0062	MD175	001	Brackmills to Northampton South Junction BNN BPH LNW South	02/06/07	Brackmills LC	69	72	TMO
+0062	MD175	001	Brackmills to Northampton South Junction BNN BPH LNW South	02/06/07	Hardingstone LC	70	76	FP
+0062	MD175	001	Brackmills to Northampton South Junction BNN BPH LNW South	02/06/07	Change in mileage	5	13	
+0063	MD175	002	Brackmills to Northampton South Junction BPH LNW South	02/06/07	Bridge Street SB	4	57	
+0063	MD175	002	Brackmills to Northampton South Junction BPH LNW South	02/06/07	Bridge Street LC	4	56	MOB
+0063	MD175	002	Brackmills to Northampton South Junction BPH LNW South	02/06/07	Bridge Street GF	4	49	
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07	Bridge Street Jn , former site of	4	29	*
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07		0	00	
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07	Duston North Jn , former site of	0	18	
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07		0	29	
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07	Northampton South Jn	0	65	
+0064	MD175	003	Brackmills to Northampton South Junction BPH BDN NMH LNW South	02/06/07		65	65	

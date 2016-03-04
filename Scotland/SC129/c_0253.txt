@@ -1,0 +1,4 @@
+SPRINGBURN o 42
+Sighthill East Jn 0 56
+BARNHILL 0 73
+

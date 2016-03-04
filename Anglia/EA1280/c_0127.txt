@@ -1,0 +1,13 @@
+4 47 *-
+4 52 *-
+Batching Plant Sidings 4 61
+5 03 *
+Ruckholt Rd Jn 5 17
+OrientWaySidings 5 58
+Temple Mills WestJn 5 78
+6 01 *
+OHNS 6 15 *-
+7 D4
+Coppermill Jn. 7 14
+(4 71)
+

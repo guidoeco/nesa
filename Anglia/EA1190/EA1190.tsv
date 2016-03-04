@@ -1,0 +1,14 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	Bury Street Jn	9	20	
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	OHNS	9	30	
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06		9	48	*
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	SOUTHBURY	10	32	
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	TURKEY STREET	12	16	
+0112	EA1190	001	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	Park Lane LC	13	15	MCG
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	THEOBALDS GROVE	13	45	
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06		14	19	*
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	OHNS	14	25	
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	OHNS	14	27	*
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	Cheshunt Jn	14	28	
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06		13	71	
+0113	EA1190	002	Bury Street Jn to Cheshunt Jn HDT Anglia	05/08/06	CHESHUNT			Z

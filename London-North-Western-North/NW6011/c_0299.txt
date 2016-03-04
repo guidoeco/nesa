@@ -1,0 +1,15 @@
+BROMLEY GROSS 13 45
+Bromley Cross LC (FP) 13 47
+(Not block post)
+13 71 *-
+13 75 *
+15 14 2k
+Turton LC (A.0.C.L) 15 19 at-
+15 36 *
+ENTWISTLE 16 47
+17 60
+Sough Tunnel 17 61
+(1841 ml1 mile 255yd) 1:0
+18 73
+18 74
+

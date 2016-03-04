@@ -1,0 +1,21 @@
+31 57 *
+Llandrindod GF 31 60
+LLANDRINDOD (TEP) 31 73
+
+31 78 i:
+Greenfields LC (UWC) 33 32
+Howey LC (UWC) 33 33
+Neuadd Farm 2 LC(UWC) 35 49
+
+37 00 *-
+Speed restriction over A470 bridge 
+
+37 O1 :7:
+
+37 38
+BUILTH ROAD 37 40 i:
+Rhosferig Tunnel 38 15
+(59m, 64yds) to 38 18
+Cilmeri Tunnel 39 15
+(105m.115yds) 39 20
+

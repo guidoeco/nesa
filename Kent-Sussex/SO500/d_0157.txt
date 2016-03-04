@@ -1,0 +1,12 @@
+NRN CSR
+TCB Victoria SB (VC)
+1 Up Fast
+2 Down Fast
+3 Up Slow
+4 Down Slow
+5 Down Slow Spur
+6 Up Slow Spur
+7 Fast Spur
+8 Up Streatham Spur
+9 Down Streatham Spur
+

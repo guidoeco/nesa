@@ -1,0 +1,28 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0237	GW628	001	Laira Jn to Cattewater via Speedway Jn SUT Western	04/08/07	Laira Jn	244	02	
+0237	GW628	001	Laira Jn to Cattewater via Speedway Jn SUT Western	04/08/07	Speedway (goods branch) LC	244	20	AOCL
+0237	GW628	001	Laira Jn to Cattewater via Speedway Jn SUT Western	04/08/07	Speedway Jn	244	30	
+0237	GW628	001	Laira Jn to Cattewater via Speedway Jn SUT Western	04/08/07		0	18	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	Lipson Jn	244	35	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06		0	00	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	Speedway Jn	0	18	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06		244	30	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	Mount Gould Jn	0	34	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	(Change of ELR)	244	45	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	Former Friary Jn	244	60	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	(Change of ELR)	244	60	X
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	STOP BOARD	245	13	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	Turnchapel Branch Jn	245	17	
+0238	GW628	002	Laira Jn to Cattewater via Speedway Jn PLO SUT FRY Western	05/08/06	Plymouth Friary	245	40	
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06		245	17	
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	Turnchapel Branch Jn	0	00	
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	STOP BOARD	0	03	
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	Cattewater Jn	0	43	
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	(Change of ELR)	0	43	X
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	Shapters Way LC	1	16	TMO
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	Cattedown Tunnel	1	24	
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	(44m. 48yds) 11°26	1	24	X
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	Cattewater LC	1	30	OPEN
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	Conoco East LC	1	43	TMO
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	Conoco West LC	1	49	TMO
+0239	GW628	003	Laira Jn to Cattewater Via Speedway Jn TUR CWR Western	05/08/06	Cattewater Harbour	1	59	

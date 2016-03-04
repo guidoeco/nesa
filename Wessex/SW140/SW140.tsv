@@ -1,0 +1,40 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	Adelaide LC	1	69	CCTV
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	Bridge No.2	2	16	*
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		2	22	
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	BITTERNE	2	36	
+0104	SW140	001	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		2	60	*
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		3	20	*
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		3	68	*
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	WOOLSTON	4	11	
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		4	19	*
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		4	40	*
+0105	SW140	002	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	snouue	4	53	
+0106	SW140	003	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		6	40	*
+0106	SW140	003	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	NETLEY	6	45	
+0106	SW140	003	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	HAMBLE	7	19	
+0106	SW140	003	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		7	40	*
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		8	20	*
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	BURSLEDON	8	49	
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	Hamble Viaduct	6	70	
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		8	79	
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06		9	20	*
+0107	SW140	004	St. Denys to Portcreek Junction SDP1 Wessex	02/12/06	SWANWIGK	10	50	
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		13	20	*
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		13	60	*
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		14	00	*
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		14	15	*
+0108	SW140	005	St. Denys to Portcreek Junction SDP1 Wessex	20/10/07		84	10	
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	FAREHAM	84	21	
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007		84	39	*
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	Quay Viaduct	84	77	
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	(155 yards) to	85	04	
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007		85	23	*
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	Wallngton Viaduct	85	32	
+0109	SW140	006	St. Denys to Portcreek Junction SDP1 SDP2 Wessex	29/10/2007	(242 yards) to	85	43	
+0110	SW140	008	St. Denys to Portcreek Junction SDP2 FJJ Wessex	29/10/2007		90	43	
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007	PORTcHESTER	37	35	
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007		39	31	*
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007	Cosham LC	90	06	CCTV
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007	cosnAM	90	06	
+0111	SW140	007	St. Denys to Porkcreek Junction SDP2 Wessex	29/10/2007		90	15	*

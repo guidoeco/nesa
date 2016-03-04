@@ -1,0 +1,9 @@
+13 42 *
+Corriemoillie No1LC(UWC) 14 03
+Lochluichart Station LC (UWC) 17 11
+LOGHLUICHART 17 20
+19 78 a:
+20 16 *
+20 31 i:
+20 61 9e
+

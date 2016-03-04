@@ -1,0 +1,28 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	Apperley Jn	202	03	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06		202	07	*
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	Apperley Lane Tunnel	202	61	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	(69m I 75 yards)	202	64	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06		204	00	*
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	Springs Jn	204	01	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	Springs Tunnel	204	07	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	(70m I 77 yards)	204	11	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	Esholt Jn	204	32	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	Greenbottom Tunnel	204	61	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	GUISELEY	205	22	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06		205	23	*
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	MENSTON	206	53	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06		206	70	*
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	BURLEY IN WHARFEDALE	208	02	
+0463	LN924	001	Apperley Jn. to llkley |LK1 |LK2 London North Eastern	02/12/06	Sun Lane LC	208	50	UWC
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		209	25	*
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		209	40	*
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		210	18	*
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07	BEN RHYDDING	210	21	
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		210	25	*
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		210	65	*
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		210	70	
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		211	05	*
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		211	08	
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07		211	09	*
+0464	LN924	002	lApperIey Jn. to Ilkley |LK2 London North Eastern	01/12/07	ILKLEY	211	20	

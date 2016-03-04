@@ -1,0 +1,17 @@
+NRN CSR
+TCB West of Scotland SC (G)
+Cathcart Workstation
+AC: Cathcart ECR
+Up line is Outer
+Down Line is Inner
+CSR
+Down (Inner) line between
+POLLOKSHIELDS WEST and the end
+of the pagesis controlled by
+Cathcart SB (0)
+Up (Outer) line between the end
+of the page and POLLOKSHIELDS
+WEST is controlled by West of Scotland
+SC (G)
+CSR
+

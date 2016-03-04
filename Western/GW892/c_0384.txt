@@ -1,0 +1,13 @@
+Cwmgwrach
+Network Rail boundary 33 14
+Stop board (Up direction) 33 15 *
+Ynysdwinant LC (UWC) 36 62
+Clyne LC (T MO) 37 34
+CW 41 15 *
+Neath and Brecon Jn 41 17
+Neath and Brecon Jn SB 41 21
+CL 41 25
+
+41 26 9:
+CL 41 67
+

@@ -1,0 +1,18 @@
+Shipley WestJn 206 00
+206 01 *
+Shipley Tunnel 206 06
+(50m I 55 yards) 206 09
+206 25 *
+206 49 al-
+SALTAI RE 206 51
+208 56 *
+Bingley Tunnel 208t 56
+(138m / 151 yards) 208 063
+208 63 1k
+BINGLEY 208 68
+209 11 *
+Bingley FS OHNS 209 21
+GROSSFLATTS 209 45
+211 13 *
+211 52 *-
+

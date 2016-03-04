@@ -1,0 +1,8 @@
+Stourbridge North Jn 142 51
+Kingswinford Jn South SB (KJ) 144 33 :1:
+Kingswinford Jn South
+145 37 *-
+145 40 :1.-
+Round Oak Sidings
+End of line 146 13
+

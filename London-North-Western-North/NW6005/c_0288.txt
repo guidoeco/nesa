@@ -1,0 +1,14 @@
+0 31
+
+0 12
+Manchester Victoria East Jn. O 09
+MANCHESTER VlcTORIA 0 00
+
+O 00
+
+0 07 air
+Manchester Victoria West Jn. 0 16
+
+0 32
+Deal Street Jn. 0 43
+

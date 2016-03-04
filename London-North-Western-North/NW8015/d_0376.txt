@@ -1,0 +1,13 @@
+NRN CSR
+TCB Merseyrail SB (ML)
+DC: Sandhills
+
+UWK=Up West Kirby
+DWK=Down West Kirby
+
+Platform Lengths: Wallasey Village
+
+Up 129m (141 yards)
+
+Down 128m (140 yards)
+

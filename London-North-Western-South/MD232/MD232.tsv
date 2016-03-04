@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Abbey Junction	9	60	
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		9	65	*
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Midland Yard Junction	10	09	
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		10	18	*
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Limit of Electrification	10	39	
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	(OLE in up direction)	10	39	X
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	NUNEATON	10	45	
+0066	MD232	001	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		10	57	*
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Change of mileage	10	61	
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		0	00	
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Nuneaton South Junction	0	05	
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		96	68	
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Limit of Electrification	0	39	
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	(OLE in down direction)	0	39	X
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09		0	50	*
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Padge Hall Farm LC	2	24	UWC
+0067	MD232	002	Abbey Junction to Hinckley (Exclusive) PVS WNS LNW South	31/01/09	Route boundary	2	62	

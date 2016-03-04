@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0066	LN180	001	Sleaford West Jn to Sleaford North Jn SNW London North Eastern	02/12/06	Sleaford West Jn	1	34	
+0066	LN180	001	Sleaford West Jn to Sleaford North Jn SNW London North Eastern	02/12/06		1	33	*
+0066	LN180	001	Sleaford West Jn to Sleaford North Jn SNW London North Eastern	02/12/06	Fen Crossing LC	1	52	UWC
+0066	LN180	001	Sleaford West Jn to Sleaford North Jn SNW London North Eastern	02/12/06		2	25	*
+0066	LN180	001	Sleaford West Jn to Sleaford North Jn SNW London North Eastern	02/12/06		3	10	*
+0066	LN180	001	Sleaford West Jn to Sleaford North Jn SNW London North Eastern	02/12/06		3	38	*
+0066	LN180	001	Sleaford West Jn to Sleaford North Jn SNW London North Eastern	02/12/06	Sleaford North Jn SB	3	42	SN

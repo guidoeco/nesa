@@ -1,0 +1,14 @@
+238 57 *
+Cwmbwry No.1 LO (UWO) 240 02
+Cwmbwry No.2 LC (UWC) 240 22
+Coed Farm No.1 LC (UWC) 240 74
+241 12
+243 30 it
+244 00 i:
+244 07 5:
+244 12 *-
+Pibwrllwyd LC (UWC) 244 42
+Cannarthen Jn (CJ) SB 245 10
+Cannarthen Jn 245 10 i:
+Cannarthen Bridge Jn 245 32
+

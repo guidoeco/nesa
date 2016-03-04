@@ -1,0 +1,14 @@
+HATI'ON 112 14
+Hatton Station Jn 112 18
+Change of mileage 13 12
+18 07 1c
+18 02 *
+Hatton West Jn 17 62 *
+GLAVERDON 16 38
+Bumham Bros LC (UWC) 16 20
+Park Farm No.1 LC (UWC) 16 00
+Park Farm No.2 LC (UWC) 15 48
+Songar Grange Farm LC (UWC) 14 38
+Edstone Hall No.1 LC (UWC) 14 06
+BEARLEY 13 19
+

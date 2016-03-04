@@ -1,0 +1,8 @@
+Castleton South Jn 8 21
+8 24
+8 38
+8 43
+Castleton EastJn SB (CE) 8 52
+Castleton East Jn
+8 64
+

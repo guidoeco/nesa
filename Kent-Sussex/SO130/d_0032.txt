@@ -1,0 +1,17 @@
+NRN CSR
+TCB London Bridge SB (L)
+A.W.S not provided for emergency
+and temporary speed restrictions.
+
+CSR
+
+1 Up Fast
+2 Down Fast
+3 Up Slow
+4 Down Slow
+5 Up Spur
+6 Down Spur 03R
+7 Metropolitan Reversible A
+8 Up Chafing Cross «_
+9 Down Charing Cross
+

@@ -1,0 +1,24 @@
+NRN CSR
+TCB Wimbledon 80 (W) - Main Line
+RAB DC: Raynes Park
+1 Windsor Reversible
+2 Up Windsor
+3 Down Windsor
+4 Up Main Relief
+5 Up Main Fast
+6 Down Main Fast
+7 Up Main Slow
+8 Down Main Slow
+CSR
+
+Wimbledon 30 (W) - Windsor Lines
+
+9 Windsor Reversible
+10 Up Windsor
+11 Down Windsor Fast
+12 Down Windsor Slow
+13 Up Main Fast
+14 Down Main Fast
+15 Up Main Slow
+16 Down Main Slow
+

@@ -1,0 +1,53 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0270	LN200	001	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Wrawby Jn SB	12	55	WJ
+0270	LN200	001	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06		12	87	*
+0270	LN200	001	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06		12	68	*
+0270	LN200	001	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Howsham LC	16	17	AHBC-X
+0270	LN200	001	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Folley Lane LC	17	52	UWC
+0270	LN200	001	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	North Kelsey LC	18	03	AHBC-X
+0270	LN200	001	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Smithfield Road LC	18	25	AHBC-X
+0270	LN200	001	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Moortown LO	19	34	AHBC-X
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Holton Gatehouse LC	20	43	AHBC—X
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Holton-le—Moor SB	21	11	H
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Holton-le-Moor LC	21	11	M03
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Claxby Gatehouse (No 24) LC	22	07	AHBC-X
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Claxby & Usselby LC (AHBC—X)	23	69	*
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Walesby LC	24	46	AHBc-X
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06		25	18	*
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Hamiltons LC	25	34	UWC
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06	Maypole Rasen LC	25	58	UWC
+0271	LN200	002	Wrawby Jn to Pelham Street Jn NOB3 London North Eastern	02/12/06		26	25	*
+0272	LN200	003	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06		26	40	*
+0272	LN200	003	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Market Rasen Footpath LC	26	52	RIG
+0272	LN200	003	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	MARKET BASE"	26	54	
+0272	LN200	003	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06		26	60	*
+0272	LN200	003	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06		27	05	*
+0272	LN200	003	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06		27	40	*
+0272	LN200	003	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Buslingthorpe LC	29	00	AHBC-X
+0272	LN200	003	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Lissingley LC	29	20	AHBC-X
+0273	LN200	004	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06		30	50	*
+0273	LN200	004	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Wickenby LC	30	53	MCG
+0273	LN200	004	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Wickenby SB	30	53	W
+0273	LN200	004	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Thomally (No. 47) LC	31	51	UWC
+0273	LN200	004	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Thomally (No. 48) LC	31	63	UWC
+0273	LN200	004	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Snelland LC	32	15	AHBC—X
+0273	LN200	004	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	02/12/06	Reasby Manor LC	32	79	UWC
+0274	LN200	005	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Stainton LC	33	60	AHBC-X
+0274	LN200	005	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Scothem LC	34	51	AHBC-X
+0274	LN200	005	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Langworth LC	35	25	MOB
+0274	LN200	005	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Langworth SB	35	25	L
+0274	LN200	005	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Walton Crossover	35	74	
+0274	LN200	005	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Walton Oil Sidings	35	74	X
+0274	LN200	005	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Manor Farm LC	36	25	UWC
+0274	LN200	005	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Reepham LC	36	61	CCTV
+0275	LN200	006	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Stonefield Farm (No. 65) LC	37	04	UWC
+0275	LN200	006	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Stonefield Farm (No. 66) LC	37	16	UWC
+0275	LN200	006	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08		37	22	*
+0275	LN200	006	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Chen'y Willingham LC	37	55	AHBC-X
+0275	LN200	006	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	No.68 LC	33	16	UWC
+0276	LN200	007	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08		38	79	*
+0276	LN200	007	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Spa Street LC	40	42	UWC
+0276	LN200	007	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08		41	03	*
+0276	LN200	007	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08		41	07	*
+0276	LN200	007	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08		41	14	
+0276	LN200	007	Wrawby Jn. to Pelham Street Jn. NOB3 London North Eastern	30/08/08	Pelham Street Jn	41	26	

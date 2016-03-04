@@ -1,0 +1,19 @@
+NRN
+TCB Preston SB (PN) 088
+AC: Crewe
+
+CD Applies to passenger trains only
+(2) Applies to all other trains
+
+(PF) authorised on up main
+
+(PF) authorised on down main
+
+between signals PM 46147 and
+
+PM 497 only
+
+UEL=Up East Lancs
+
+DEL=Down East Lancs
+

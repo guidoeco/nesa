@@ -1,0 +1,9 @@
+Madeley Junction 149 41
+(0 00)
+7 32
+Madeley Chord Junction (0 25)
+7 36
+Madeley Chord Reversing Sidings
+7 60
+End of line 8 14
+

@@ -1,0 +1,20 @@
+BARRY DOGKSI 6 78
+DOCIAUR BARRI
+
+7 15 *-
+
+7 75 *-
+
+7 76
+Barry SB (B) 8 O7
+BARRY / BARRI 8 12
+Barry Jn 8 16 *-
+(Change of RA)
+
+8 2O *
+Single Line Jn 8 30
+Barry Island Viaduct 8 49 *
+BARRY ISLAND 8 70
+YNYS-Y-BARRI
+Buffer stops 8 76
+

@@ -1,0 +1,63 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	LIVERPOOL STREET	0	00	
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	Liverpool St (L) IECC	0	22	
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07		0	25	*
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	Bishopsgate Tunnel	0	27	*
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	(573mf627 yards)	0	30	*
+0001	EA1010	001	Liverpool Street to Seven Kings LTN Anglia	01/12/07	(Suburban lines only)	0	30	X
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	Bishopsgate Tunnel	0	40	*
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	(573m I 627yds)	0	40	X
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	(Suburban lines only)	0	40	X
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	Whaler Street Jn .	0	48	
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08		0	59	*
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08		0	57	*
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08		0	61	*
+0002	EA1010	002	Liverpool Street to Seven Kings LTN Anglia	02/01/08	Bethnal Green West Jn .	0	62	
+0003	EA1010	003	Liverpool Street to Seven Kings LTN Anglia	27/10/08		1	05	*
+0003	EA1010	003	Liverpool Street to Seven Kings LTN Anglia	27/10/08	BETHNAL GREEN	1	10	
+0003	EA1010	003	Liverpool Street to Seven Kings LTN Anglia	27/10/08	Bethnal Green East Jn	1	14	
+0003	EA1010	003	Liverpool Street to Seven Kings LTN Anglia	27/10/08		1	18	*
+0004	EA1010	004	Liverpool Street to Seven Kings LTN Anglia	05/08/06		1	67	*
+0004	EA1010	004	Liverpool Street to Seven Kings LTN Anglia	05/08/06		1	68	*
+0004	EA1010	004	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Mile End	2	02	
+0005	EA1010	005	Liverpool Street to Seven Kings LTN Anglia	05/08/06	OHNS	2	68	
+0005	EA1010	005	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Bow Jn	2	74	
+0005	EA1010	005	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Pudding Mill Lane	3	21	DLR
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Thornton Fields sidings	3	32	
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06		3	40	*
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06		3	44	*
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06		3	50	*
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Carpenters Rd. South Jn	3	54	*
+0006	EA1010	006	Liverpool Street to Seven Kings LTN Anglia	05/08/06		3	60	*
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09		3	68	*
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09	Str'atford Central Jn West	3	70	
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09		3	74	*
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09	Stratford Central Jn East	3	75	
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09	STRATFORD	4	03	*
+0007	EA1010	007	Liverpool Street to Seven Kings LTN Anglia	10/01/09		4	06	*
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	10	*
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	12	*
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	15	*
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Stratford Country End Crossovers	4	18	*
+0008	EA1010	008	Liverpool Street to Seven Kings LTN Anglia	05/08/06	MARYLAND	4	39	
+0009	EA1010	009	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	43	*
+0009	EA1010	009	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Maryland East Crossovers	4	56	*
+0009	EA1010	009	Liverpool Street to Seven Kings LTN Anglia	05/08/06		4	62	*
+0010	EA1010	010	Liverpool Street to Seven Kings LTN Anglia	05/08/06	FOREST GATE	5	21	
+0010	EA1010	010	Liverpool Street to Seven Kings LTN Anglia	05/08/06		5	37	*
+0010	EA1010	010	Liverpool Street to Seven Kings LTN Anglia	05/08/06		5	48	*
+0010	EA1010	010	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Forest Gate Jn	5	63	
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06	OHNS	5	71	
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06		6	10	*
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06	MANOR PARK	6	19	
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06		6	40	*
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06		6	67	*
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Aldersbrook sidings	6	67	X
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Ilford Flyover	6	67	X
+0011	EA1010	011	Liverpool Street to Seven Kings LTN Anglia	05/08/06		7	09	*
+0012	EA1010	012	Liverpool Street to Seven Kings LTN Anglia	05/08/06		7	20	*
+0012	EA1010	012	Liverpool Street to Seven Kings LTN Anglia	05/08/06	ILFORD	7	28	
+0012	EA1010	012	Liverpool Street to Seven Kings LTN Anglia	05/08/06		7	52	*
+0012	EA1010	012	Liverpool Street to Seven Kings LTN Anglia	05/08/06	Ilford Depot London End	7	63	
+0013	EA1010	013	Liverpool Street to Seven Kings LTN Anglia	05/08/06		8	35	*
+0013	EA1010	013	Liverpool Street to Seven Kings LTN Anglia	05/08/06	SEVEN KINGS	8	45	

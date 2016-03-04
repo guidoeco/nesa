@@ -1,0 +1,67 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06	(FAVERSHAM) |	51	77	
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06		52	55	*
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06		52	60	*
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06	Brenley TP Hut	53	46	
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06	Clock House LC (AHBC)	53	51	*
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06		54	00	*
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06		54	64	*
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06	Selling Substation	55	11	
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06	SELLING	55	18	
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06		56	00	*
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06	Selling Tunnel	56	33	*
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06	(405 yards) to	56	52	
+0075	SO160	001	Faversham to Dover Priory FDM VIR Kent/Sussex	02/12/06	Ensinge TP Hut	56	54	*
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		57	51	*
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Chartham North Substation	58	09	
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		58	29	*
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Chartham Hatch LC (AHBC)	58	65	*
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Howfield TP Hut	59	53	
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		59	59	*
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		60	00	*
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		61	00	*
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Canterbury East Substation	61	16	
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		61	30	*
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	GANTERBURY EAST	61	65	
+0076	SO160	002	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Canterbury East SB	61	67	CB
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		62	66	*
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Little Barton TP Hut	62	79	
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		64	40	*
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	BEKESBOURNE	64	58	
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Bekesbourne Substation	64	63	
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Brambling TP Hut	66	39	
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	ADISHAM	67	60	
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Adisham Substation	68	16	
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	AYLESHAM	68	66	
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		69	40	*
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	SNOWDOWN	69	60	
+0077	SO160	003	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Snowdown TP Hut	69	67	
+0078	SO160	004	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		70	20	*
+0078	SO160	004	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Soles Farm Crossing	70	56	
+0078	SO160	004	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Shepherds Well Substation	71	47	
+0078	SO160	004	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Shepherds Well SB	71	51	SH
+0078	SO160	004	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	SHEPHERDS WELL	71	60	
+0078	SO160	004	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	Lydden Tunnel	71	66	
+0078	SO160	004	Faversham to Dover Priory FDM Kent / Sussex	02/12/06	(1m 609 yards)	73	08	*
+0078	SO160	004	Faversham to Dover Priory FDM Kent / Sussex	02/12/06		73	14	*
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06	Lydden TP Hut	73	28	
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06	Kearsney Substation	75	03	
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06	KEARSNEY	75	09	
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06	Buckland Jn TP Hut	76	19	
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06		98	76	
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06		76	20	*
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06		98	37	*
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06		99	00	*
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06	Buckland Jn	78	32	
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06		99	05	
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06	Charlton Tunnel	76	65	
+0079	SO160	005	Faversham to Dover Priory FDM BME2 Kent/Sussex	02/12/06	(265 yards) to	76	77	*
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08	Dover Priory Tunnel	77	08	
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08	(158 yards)	77	16	
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08	DOVER PRIORY	77	26	
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08	Dover Harbour Tunnel	77	32	
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08	(684 yards) to	77	63	
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08		77	72	*
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08	(Change of mileage)	77	76	
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08		76	53	
+0080	SO160	006	Faversham to Dover Priory FDM Kent / Sussex	22/03/08	Dover Substation	76	45	

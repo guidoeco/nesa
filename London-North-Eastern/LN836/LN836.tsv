@@ -1,0 +1,109 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07		155	55	*
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07	South Yorkshire Jn	155	56	D3
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07	South Yorkshire Jn	155	59	US
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07	Doncaster SB	155	65	D
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07	DONGASTER	155	77	
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07	Doncaster West Yard	155	77	X
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07		156	06	*
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07		156	07	*
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07	Doncaster North Jn	156	09	
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07		156	20	*
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07	Marshgate Jn	156	28	
+0354	LN836	001	Doncaster, Marshgate Jn to Neville Hill East Jn ECM1 DOL1 London North Eastern	01/12/07	Doncaster F. S. OHNS	156	50	
+0355	LN836	002	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	Dock Hills LC	156	63	CCTV
+0355	LN836	002	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06		156	72	*
+0355	LN836	002	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	BENTLEY	157	47	
+0355	LN836	002	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	Bentley LC	157	52	CCTV
+0355	LN836	002	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	Atkinsons LC	159	10	UWC
+0355	LN836	002	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	ADWICK	159	72	
+0355	LN836	002	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	Carcroft Jn	160	08	
+0355	LN836	002	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	Adwick Jn	160	65	
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	South Elmsall LC	164	01	UWC
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	OHNS			Z
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	SOUTH ELMSALL	164	48	
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	South Kirkby	165	35	TCS
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	South Kirkby Jn	165	74	
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06		166	00	
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06		167	31	
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06		168	09	
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	Hemsworth	168	11	
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06		168	61	
+0356	LN836	003	Doncaster, Marshgate Jn to Neville Hill East Jn DOL1 London North Eastern	02/12/06	FITZWILLIAM	169	15	
+0357	LN836	004	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL1 DOL2 London North Eastern	02/12/06	Wintersett	171	07	
+0357	LN836	004	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL1 DOL2 London North Eastern	02/12/06		171	19	
+0357	LN836	004	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL1 DOL2 London North Eastern	02/12/06	Hare Park Jn	171	70	
+0357	LN836	004	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL1 DOL2 London North Eastern	02/12/06	SANDAL AND AGBRIGG	174	05	
+0357	LN836	004	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL1 DOL2 London North Eastern	02/12/06		174	28	*
+0357	LN836	004	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL1 DOL2 London North Eastern	02/12/06		174	58	*
+0357	LN836	004	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL1 DOL2 London North Eastern	02/12/06		175	34	*
+0357	LN836	004	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL1 DOL2 London North Eastern	02/12/06	Wakefield Westgate South Jn	175	38	
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		175	60	*
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		175	62	*
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	WAKEFIELD WESTGATE	175	65	
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		175	76	*
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		176	02	*
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Balne Lane	176	12	
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		177	03	*
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	OUTWOOD	178	26	
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		180	43	*
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Ardsley Tunnel	130	61	
+0358	LN836	005	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	(272m I 297 yards) to	180	75	
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		184	08	*
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		184	16	*
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		184	50	
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		184	54	
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Leeds TSL OHNS	184	57	
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Copley Hill West Jn	184	65	
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		184	75	*
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		184	77	*
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Holbeck Jn	185	01	
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Copley Hill East Jn	185	02	*
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	03	*
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	06	*
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	09	
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	13	
+0359	LN836	006	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	17	*
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	21	*
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	24	*
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Whitehall West Jn	185	25	
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	26	
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Whitehall East Jn	185	28	
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	29	
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	37	*
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	38	*
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	41	*
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06	Leeds West Jn	185	45	
+0360	LN836	007	Doncaster, Marshgate Jn to Neville Hill East Jn. DOL2 London North Eastern	02/12/06		185	46	
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		185	64	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		185	65	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		185	66	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		185	69	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07	LEEBS	185	70	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		20	50	
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		20	48	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		20	47	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		20	45	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		20	42	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		20	39	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07		20	36	*
+0361	LN836	008	Doncaster, Marshgate Jn. to Neville Hill East Jn. DOL2 HUL4 London North Eastern	01/12/07	Leeds East Jn .	20	26	
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		20	25	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		20	01	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06	Quarry Hill Jn	20	00	
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		19	76	
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		19	51	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06	Marsh Lane Jn	19	48	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		19	48	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06	Richmond Hill Tunnel	19	44	
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06	(108m I 113 yards)	19	39	
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		19	18	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		19	06	
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06	Neville Hill Depot	19	06	X
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06	Neville Hill West Jn	18	74	
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06	Neville Hill Up Sidings	18	74	X
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		18	87	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		18	60	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		18	28	*
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06	Neville Hill East Jn	18	25	
+0362	LN836	009	Doncaster, Marshgate Jn. to Neville Hill East Jn. HUL4 London North Eastern	02/12/06		18	20	*

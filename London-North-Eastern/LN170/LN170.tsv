@@ -1,0 +1,157 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06	Werrington Jn	79	34	
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06		79	56	*
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06		80	10	*
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06	Peakirk LC	81	45	UWC
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06	Folly Bank LC	82	01	AHBC
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06	Welland Bank LC	82	53	UWC
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06	St. James Deeping LC	83	38	M06
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06	St. James Deeping SB	83	38	
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06	Stowgate LC	84	38	AHBG—X
+0051	LN170	001	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	02/12/06	No. 22 LC	34	46	UWC
+0052	LN170	002	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	06/12/08	N0. 24 LC	84	79	UWC
+0052	LN170	002	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	06/12/08	Littleworth SB	87	61	
+0052	LN170	002	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	06/12/08	Littleworth LC	87	61	MOB
+0052	LN170	002	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	06/12/08		88	58	*
+0052	LN170	002	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	06/12/08	Tinsley's (Campains Lane) LC	88	59	RIG
+0052	LN170	002	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	06/12/08		88	60	*
+0052	LN170	002	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	06/12/08	Lucks Road LC	90	02	AHBC—X
+0052	LN170	002	Werrington Jn. to Flyover East Jn. Via Lincoln WEB London North Eastern	06/12/08	South Drove LC	90	63	AHBC-X
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06	London Road LC	91	61	AHBC
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06	Hawthom Bank LC	92	08	CCTV
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06		92	14	*
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06		92	51	*
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06		92	58	
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06		44	07	
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06	Spalding LC	44	13	MCB
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06	Spalding SB	44	13	3
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06		44	14	*
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06	SPALDING	44	26	
+0053	LN170	003	Werrington Jn. to Flyover East Jn. Via Lincoln WEB SPD1 London North Eastern	02/12/06		44	57	*
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06		44	62	*
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Park Road LC	44	65	MCG
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Mill Green LC (MCG)	44	74	*
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Mill Green SB	44	74	MG
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Blue Gowts LC	45	42	MCG
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Cherry Holt LC	46	00	AHBC—X
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	No. 84 LC	46	46	UWC
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	No. 85 LC	46	59	UWC
+0054	LN170	004	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Flax Mill LC	46	66	MCG
+0055	LN170	005	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Bearty Fen LC	47	22	MCG
+0055	LN170	005	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Beach Bank LC	47	68	UWC
+0055	LN170	005	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	No.94 Water Drove LC	48	09	MCG
+0055	LN170	005	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Cheal Road LC	48	31	M06
+0055	LN170	005	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Gosberton SB	49	13	
+0055	LN170	005	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Gosberton LC	49	26	MCG
+0055	LN170	005	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Brewery Lane LC	50	19	M06
+0055	LN170	005	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	ICluadring LC	51	10	AHBC-X
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Church Lane LC	51	47	M66
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Golden High Hedges LC	51	58	M06
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	South Ings LC	52	19	UWC
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Malling Lane LC AHBC-X	52	29	
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Pumphouse (No.122) LC	54	43	UWC
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Blotoft LC	55	25	M06
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Blotofi: SB	55	26	
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06		55	40	*
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	No.135 LC	56	56	UWC
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06	Barnes LC	56	77	UWC
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06		57	20	*
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06		59	65	*
+0056	LN170	006	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 London North Eastern	02/12/06		60	25	*
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06		61	04	*
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06		61	67	*
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06		61	71	*
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06	Beavers LC	61	71	UWC
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06	Sleaford South Jn	62	14	*
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06	Sleaford South SB	62	15	88
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06		62	60	*
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06		62	64	*
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06	Sleaford North Jn SB	63	48	SN
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06	Sleaford North Jn LC	63	49	MCG
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06		63	54	
+0057	LN170	007	Werrington Jn. to Flyover East Jn. Via Lincoln SPD1 SPD2 London North Eastern	02/12/06	Holdingham Lane LC	64	20	UWC
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Leasingham Moor (Whitehouse Farm)	64	68	
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	LC (UWC)	64	68	X
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	RUSKINGTON	65	65	
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Rowston LC	69	33	M06
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	No. 275 LC	69	59	UWC
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Scopwick LC	70	48	M06
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Scopwick SB	70	48	
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Martin Road LC	72	09	UWC
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Blankney Estates LC	72	44	UWC
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Blankney LC	72	79	MCG
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Blankney SB	72	79	
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	METHERINGHAM	73	03	
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Robinsons LC	73	43	UWC
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Ox Pasture Lane Public Bridleway	73	62	
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Howards LC	75	70	UWC
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Branston & Washingborough Cross	79	44	
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	Roads Tunnel to (55m. 60 yards)	79	47	
+0058	LN170	008	Werrington Jn. to Flyover East Jn. Via Lincoln SPD2 SPD3 London North Eastern	30/08/08	ELR change	61	25	
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		82	01	*
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		82	04	*
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		82	07	*
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		82	09	
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		82	18	*
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Sincil Bank LC	82	19	CCTV
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		82	25	
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Pelham Street Jn .	82	31	*
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	LINCOLN CENTRAL	82	41	
+0059	LN170	009	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Lincoln High Street LC	82	49	CCTV
+0060	LN170	010	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Brayford Jn	82	53	
+0060	LN170	010	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Brayford LC	82	57	CCTV
+0060	LN170	010	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	East Holmes Jn	82	60	
+0060	LN170	010	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		82	79	*
+0060	LN170	010	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		83	27	
+0060	LN170	010	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	West Holmes Jn	83	29	*
+0060	LN170	010	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Lincoln SCC	83	30	
+0060	LN170	010	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		83	34	*
+0061	LN170	011	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Pyewipe Jn	84	13	
+0061	LN170	011	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		84	19	*
+0061	LN170	011	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		34	24	*
+0061	LN170	011	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08		84	30	*
+0061	LN170	011	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	River Bank (No. 305) LC	87	04	UWC
+0061	LN170	011	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Kesteven LC	87	41	AHBC—X
+0061	LN170	011	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Saxilby LC	38	40	MCG
+0061	LN170	011	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	30/08/08	Saxilby SB	88	41	3
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06	SAXILBY	88	51	
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06	Hochkings LC	88	57	UWC
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06	No. 316 LC	88	75	UWC
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06	No.318 Sykes Lane LC	89	15	MCG
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06		89	20	*
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06		89	32	*
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06	Stow Park SB	93	13	
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06	Stow Park LC	93	13	MCG
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06	Hansons LC	95	08	UWC
+0062	LN170	012	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 London North Eastern	02/12/06	Foxes LC	95	35	UWC
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06		98	00	*
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Gainsborough Lea Road SB	98	03	
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	GAINSBOROUGH LEA ROAD	98	09	
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Trent East Jn	98	56	
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Gainsborough Trent Jn SB (TJ)	98	56	*
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Trent West Jn	98	68	*
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06		98	75	*
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Beckingham SB	100	78	
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Beckingham LC	100	78	MCB
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	North Carr LC	104	66	MCG
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Haxey LG	105	58	CCTV
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06		106	24	*
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Gainsborough Road	100	06	UWC
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Masons	101	35	UWC
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Tetheringrass Lane	101	54	UWC
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Walkeringham	102	52	UWC
+0063	LN170	013	Werrington Jn. to Flyover East Jn. Via Lincoln SPD3 MACS SPD4 London North Eastern	02/12/06	Tindall Bank Public Bridleway	105	32	LC
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Broomston LC	108	13	UWC
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Park Drain LC	108	52	CCTV
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09		109	72	*
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Beech Hill LC	109	73	AHBC
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Wroot Road LC	111	53	CCTV
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Finningley LC	112	08	MOB
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Auckley LC (AHBC)	112	73	*
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09		113	63	*
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Hayfields LC	114	06	UWC
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Bessacarr Halt LC	115	48	RIG
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09		115	57	*
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Bessacarr Jn	115	72	
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Carr Lane LC	115	72	UWC
+0064	LN170	014	Werrington Jn. to Flyover East Jn. Via Lincoln SPD4 SPD5 London North Eastern	28/02/09	Flyover East Jn	116	20	

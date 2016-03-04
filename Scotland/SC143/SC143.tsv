@@ -1,0 +1,59 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07	Crianlarich	0	00	
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07	Lower Crianlarich TEP	0	36	
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07	(Up Direction Only)	0	36	X
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07	(Change of ELR OBN1 to OBNZ)	0	44	
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07	Lower Crianlarich GF	0	44	
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07		30	23	
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07	Inverhaggernie No.1 LC	31	00	UWC
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07		31	40	*
+0286	SC143	001	Crianlarich to Oban OBN10BN2 Scotland	15/09/07		31	49	*
+0287	SC143	002	Crianlarich to Oban OBN2 Scotland	21/12/06	TYNDRUM LOWER TEP	34	70	
+0287	SC143	002	Crianlarich to Oban OBN2 Scotland	21/12/06	Tyndrum Lower LC	34	71	UWC
+0287	SC143	002	Crianlarich to Oban OBN2 Scotland	21/12/06		40	14	*
+0287	SC143	002	Crianlarich to Oban OBN2 Scotland	21/12/06		43	20	*
+0287	SC143	002	Crianlarich to Oban OBN2 Scotland	21/12/06		44	00	*
+0287	SC143	002	Crianlarich to Oban OBN2 Scotland	21/12/06		44	20	*
+0287	SC143	002	Crianlarich to Oban OBN2 Scotland	21/12/06		45	54	*
+0287	SC143	002	Crianlarich to Oban OBN2 Scotland	21/12/06		45	58	*
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06		46	00	*
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06		46	37	*
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06		46	65	*
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06	Sdg GF	46	65	X
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06	DALMALLY TEP	46	76	
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06	Kilchurn Castle LC	48	35	UWC
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06	LOCH AWE	49	48	
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06		50	00	*
+0288	SC143	003	Crianlarich to Oban OBN2 Scotland	02/12/06		51	30	*
+0289	SC143	004	Crianlarich to Oban 0BN2 Scotland	02/12/06	FALLS OF GRUAGHAN	52	69	
+0289	SC143	004	Crianlarich to Oban 0BN2 Scotland	02/12/06		56	75	*
+0289	SC143	004	Crianlarich to Oban 0BN2 Scotland	02/12/06	TAYNUILT TEP	58	55	
+0289	SC143	004	Crianlarich to Oban 0BN2 Scotland	02/12/06	Sdg GF	58	55	X
+0290	SC143	005	Crianlarich to Oban OBN2 Scotland	02/12/06	Airds LC	53	73	UWC
+0290	SC143	005	Crianlarich to Oban OBN2 Scotland	02/12/06		59	66	*
+0290	SC143	005	Crianlarich to Oban OBN2 Scotland	02/12/06		59	67	*
+0290	SC143	005	Crianlarich to Oban OBN2 Scotland	02/12/06	Parkhill LC	59	75	UWC
+0291	SC143	006	Crianlarich to Oban OBN2 Scotland	02/12/06		60	11	*
+0291	SC143	006	Crianlarich to Oban OBN2 Scotland	02/12/06		60	37	*
+0291	SC143	006	Crianlarich to Oban OBN2 Scotland	02/12/06		61	49	*
+0291	SC143	006	Crianlarich to Oban OBN2 Scotland	02/12/06		62	01	*
+0291	SC143	006	Crianlarich to Oban OBN2 Scotland	02/12/06	Achnacloich No.1 LC	62	71	UWC
+0291	SC143	006	Crianlarich to Oban OBN2 Scotland	02/12/06	Culnadalloch No.2 LC	63	12	UWC
+0292	SC143	007	Crianlarich to Oban OBN2 Scotland	02/12/06	Culnadalloch No.1 LC	63	20	UWC
+0292	SC143	007	Crianlarich to Oban OBN2 Scotland	02/12/06		64	46	*
+0292	SC143	007	Crianlarich to Oban OBN2 Scotland	02/12/06	Achaleven LC	65	00	UWC
+0292	SC143	007	Crianlarich to Oban OBN2 Scotland	02/12/06	(East) Sdg GF	65	10	
+0292	SC143	007	Crianlarich to Oban OBN2 Scotland	02/12/06	Connel Ferry Sdgs	65	10	X
+0292	SC143	007	Crianlarich to Oban OBN2 Scotland	02/12/06	(West) Sdg GF	35	23	
+0293	SC143	008	Crianlarich to Oban OBN2 Scotland	02/12/06	GONNEL FERRY TEP	65	30	
+0293	SC143	008	Crianlarich to Oban OBN2 Scotland	02/12/06		65	49	*
+0293	SC143	008	Crianlarich to Oban OBN2 Scotland	02/12/06		65	71	*
+0293	SC143	008	Crianlarich to Oban OBN2 Scotland	02/12/06		68	44	*
+0293	SC143	008	Crianlarich to Oban OBN2 Scotland	02/12/06		69	38	*
+0293	SC143	008	Crianlarich to Oban OBN2 Scotland	02/12/06		69	42	*
+0294	SC143	009	Crianlarich to Oban OBN2 Scotland	02/12/06		69	43	*
+0294	SC143	009	Crianlarich to Oban OBN2 Scotland	02/12/06		69	48	*
+0294	SC143	009	Crianlarich to Oban OBN2 Scotland	02/12/06	Sdg GF	71	10	
+0294	SC143	009	Crianlarich to Oban OBN2 Scotland	02/12/06	Sdg GF	71	10	X
+0294	SC143	009	Crianlarich to Oban OBN2 Scotland	02/12/06	Station GF	71	10	X
+0294	SC143	009	Crianlarich to Oban OBN2 Scotland	02/12/06	OBAN TEP	71	44	

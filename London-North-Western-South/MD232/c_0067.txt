@@ -1,0 +1,10 @@
+Change of mileage 10 61
+0 00
+Nuneaton South Junction 0 05
+(96 68)
+Limit of Electrification 0 39
+(OLE in down direction)
+0 50 *-
+Padge Hall Farm LC (UWC) 2 24
+Route boundary 2 62
+

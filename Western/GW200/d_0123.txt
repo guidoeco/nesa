@@ -1,0 +1,7 @@
+NRN CSR
+RAB
+UGL - 525m, 1772ft (82 SLU)
+DGL - 468m, 1533ft (73 SLU)
+DGL bi-directional between
+signals OX. 99 and OX. 66
+

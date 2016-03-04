@@ -1,0 +1,10 @@
+Symington GSP 66 02
+69 41 *
+Leggatfoot HABD (Down) 70 20
+71 11 7*
+72 32 *
+72 40 i:
+73 00 a:
+OHNS 73 05
+Carstairs South Jn 73 17
+

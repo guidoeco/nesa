@@ -1,0 +1,16 @@
+26 16 *-
+High Scampston LC (AHBC-X) 26 19
+Low Scampston LC (AHBC-X) 26 54
+26 65 *-
+27 4O *
+Knapton LC (AHBC-X) 27 41
+27 60 *
+Elm Tree Farm LC (UWC) 27 75
+Wilkinsons LC (UWC) 28 17
+29 20 *
+Heslerton Station LC (AHBC-X) 29 32
+Sand Lane LC (UWC) 29 74
+West Heslerton LC (AHBC—X) 30 52
+30 77 :7:
+East Heslerton LC (AHBC-X) 31 00
+

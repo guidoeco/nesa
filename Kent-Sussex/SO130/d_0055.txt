@@ -1,0 +1,31 @@
+NRN CSR
+TCB Ashford IECC (AD)
+RAB DC: Paddock Wood
+AC: Paddock Wood
+
+Note: Speedboards also indicate
+maximum speeds in Kilometres
+per hour. These boards are
+circular with white numerals and
+a black background.
+
+1 Down Slow
+
+2 Up Slow
+
+3 Up Fast
+
+4 Down Fast
+
+5 Up CTRL Chord
+
+6 Down CTRL Chord
+
+7 Up Canterbury
+
+8 Down Canterbury
+
+9 Bypass Road
+10 Down Main
+11 Up Main
+

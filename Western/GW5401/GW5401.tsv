@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0208	GW5401	001	Filton West Jn to Patchway Jn PAC Western	05/08/06	Filton West Jn No.1	112	72	
+0208	GW5401	001	Filton West Jn to Patchway Jn PAC Western	05/08/06		0	40	
+0208	GW5401	001	Filton West Jn to Patchway Jn PAC Western	05/08/06	Filton Tip LC (AOCL)	0	34	*
+0208	GW5401	001	Filton West Jn to Patchway Jn PAC Western	05/08/06	Patchway Jn No.1	0	00	
+0208	GW5401	001	Filton West Jn to Patchway Jn PAC Western	05/08/06		5	53	

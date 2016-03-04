@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07	Trowse Jn	113	68	
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07	Change of mileage	123	00	
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07	Trowse Swing Bridge SB	123	37	TB
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07	Trowse Swing Bridge	123	37	
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07		123	47	*
+0039	EA1013	001	Trowse Jn to Norwich LTN Anglia	29/12/07		123	56	*
+0040	EA1013	002	Trowse Jn to Norwich LTN Anglia	01/12/07	Thorpe Jn .	123	60	
+0040	EA1013	002	Trowse Jn to Norwich LTN Anglia	01/12/07	NORWICH	124	09	

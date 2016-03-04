@@ -1,0 +1,51 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		71	75	*
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Queen Adelaide LC (AHBC—X)	72	18	*
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Sandhill LC	75	35	AHBC-X
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		75	70	*
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		75	71	*
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Littleport (L) SB	75	79	
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Littleport LC	76	00	M06
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	LITTLEPORT	76	00	
+0100	EA1162	001	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Littleport Footpath LC	76	05	RIG
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Littleport Bypass LC	76	27	AHBC-X
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		76	28	*
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		76	30	*
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Single Line	76	36	
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		76	40	*
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	OHNS	77	11	
+0101	EA1162	002	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Black Horse Drove LC	79	19	RIG
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Hilgay LC	81	38	AHBC
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Pleasants LC (RIG)	81	57	UWC
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Concrete Road LC	82	29	UWC
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Martins LC	82	48	
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		82	67	*
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Denver LC	84	38	AHBC
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		85	56	*
+0102	EA1162	003	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	Downham Bypass LC	85	57	AHBC
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		85	73	*
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Downham Market	86	04	DM
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	SB LC and Footpath LC (RIG) (MOB)	86	04	X
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	DOWNHAH MARKET	86	08	
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Downham MarketGF	86	15	
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		86	16	*
+0103	EA1162	004	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Fairfields LC	86	31	
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		87	00	*
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Stow Bardolph LC	88	31	CCTV
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Holme Road LC	89	63	*
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	WATLIIIGTOH	90	70	
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Magdalen Road LC	90	73	MOB
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Magdalen Road (MR) SB	90	73	
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		91	00	*
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07	Watlington Road LC	91	13	CCTV
+0104	EA1162	005	Ely North Jn to Kings Lynn BGK Anglia	01/07/07		91	15	*
+0105	EA1162	006	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		91	20	*
+0105	EA1162	006	Ely North Jn to Kings Lynn BGK Anglia	05/08/06	St Germans LC	92	53	AHBC
+0105	EA1162	006	Ely North Jn to Kings Lynn BGK Anglia	05/08/06		95	15	*
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007		96	02	*
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	Extons Road LC	96	24	CCTV
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007		96	46	*
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	King's Lynn Jn (KL) SB	96	50	*
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	Tennyson Avenue LC	96	54	M03
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	Kings Lynn Yard	96	54	X
+0106	EA1162	007	Ely North Jn to Kings Lynn BGK Anglia	01/12/2007	KING'S LYNN	96	75	

@@ -1,0 +1,9 @@
+NRN CSR
+TCB Victoria SB (VC)
+1 Up Crystal Palace
+2 Down Crystal Palace
+3 Down Leigham Spur
+4 Up Leigham Spur
+5 Up West Nomood Spur
+6 Down West Norwood Spur
+

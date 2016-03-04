@@ -1,0 +1,53 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0364	NW8011	001	Mann Island Jn. to West Kirby (Via Loop) M|R1 LNW North	07/10/06	Mann Island Jn	0	00	
+0364	NW8011	001	Mann Island Jn. to West Kirby (Via Loop) M|R1 LNW North	07/10/06	JAMES STREET	0	16	*
+0364	NW8011	001	Mann Island Jn. to West Kirby (Via Loop) M|R1 LNW North	07/10/06	MOORFIELDS	0	39	
+0364	NW8011	001	Mann Island Jn. to West Kirby (Via Loop) M|R1 LNW North	07/10/06	LIVERPOOL LIME STREET	1	06	
+0365	NW8011	002	Mann Island Jn. to West Kirby (Via Loop) M|R1 MIRZ LNW North	07/10/06	LIVERPOOL CENTRAL	1	48	
+0365	NW8011	002	Mann Island Jn. to West Kirby (Via Loop) M|R1 MIRZ LNW North	07/10/06	JAMES STREET	2	05	
+0365	NW8011	002	Mann Island Jn. to West Kirby (Via Loop) M|R1 MIRZ LNW North	07/10/06		0	53	
+0365	NW8011	002	Mann Island Jn. to West Kirby (Via Loop) M|R1 MIRZ LNW North	07/10/06		2	08	*
+0365	NW8011	002	Mann Island Jn. to West Kirby (Via Loop) M|R1 MIRZ LNW North	07/10/06		2	12	
+0365	NW8011	002	Mann Island Jn. to West Kirby (Via Loop) M|R1 MIRZ LNW North	07/10/06		0	60	
+0365	NW8011	002	Mann Island Jn. to West Kirby (Via Loop) M|R1 MIRZ LNW North	07/10/06	Mann Island Jn	0	69	*
+0366	NW8011	003	Mann Island Jn. to West Kirby (Via Loop) M|R2 CWK1 LNW North	07/10/06	Canning Street Junction	1	60	*
+0366	NW8011	003	Mann Island Jn. to West Kirby (Via Loop) M|R2 CWK1 LNW North	07/10/06	HAMILTON SQUARE	1	67	
+0366	NW8011	003	Mann Island Jn. to West Kirby (Via Loop) M|R2 CWK1 LNW North	07/10/06	Hamilton Square Jn	1	72	*
+0366	NW8011	003	Mann Island Jn. to West Kirby (Via Loop) M|R2 CWK1 LNW North	07/10/06		2	09	*
+0366	NW8011	003	Mann Island Jn. to West Kirby (Via Loop) M|R2 CWK1 LNW North	07/10/06	CONWAY PARK	2	24	
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06		2	64	*
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06	MerseyTunnel	2	69	
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06	BIRKENHEAD PARK	3	05	
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06	Cavendish Street Tunnel	3	15	
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06	(69mi75yd) to	3	19	
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06		3	25	*
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06	Corporation Road Tunnel	3	45	
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06	(56ml64yd) to	3	48	
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06	BIRKENHEAD NORTH	3	75	
+0367	NW8011	004	Mann Island Jn. to West Kirby (Via Loop) CWK1 CWK2 LNW North	07/10/06		4	00	*
+0368	NW8011	005	Mann Island Jn. to West Kirby (Via Loop) CWK2 CWK3 LNW North	07/10/06	Birkenhead North TMD			X
+0368	NW8011	005	Mann Island Jn. to West Kirby (Via Loop) CWK2 CWK3 LNW North	07/10/06		4	22	*
+0368	NW8011	005	Mann Island Jn. to West Kirby (Via Loop) CWK2 CWK3 LNW North	07/10/06	Bidston East Jn	4	40	
+0369	NW8011	006	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	07/10/06		4	45	*
+0369	NW8011	006	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	07/10/06	Bidston West Jn	4	71	
+0369	NW8011	006	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	07/10/06	BIDSTON	4	75	
+0369	NW8011	006	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	07/10/06	Bidston Dee Jn	4	78	*
+0369	NW8011	006	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	07/10/06		5	01	*
+0369	NW8011	006	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	07/10/06	Leasowe LC	5	60	CCTV
+0369	NW8011	006	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	07/10/06	LEASOWE	5	65	
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	MORETON	6	29	
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	Carr Lane L.C.	7	53	UWC
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	MEOLS	6	11	
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	Tolans LC.	6	43	UWC
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	Carlton Lane LC.	6	59	UWC
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	Sandringham Avenue L.C. (UWC)	8	66	*
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09		8	67	*
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	MANOR ROAD	6	71	
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09		6	74	*
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	Elm Grove L.C.	9	00	UWC
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09	Melrose Avenue L.C.	9	05	UWC
+0370	NW8011	007	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	03/01/09		9	07	*
+0371	NW8011	008	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	01/12/07	HOYLAKE	9	27	
+0371	NW8011	008	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	01/12/07	Hoylake LC	9	31	CCTV
+0371	NW8011	008	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	01/12/07		10	14	*
+0371	NW8011	008	Mann Island Jn. to West Kirby (Via Loop) CWK3 LNW North	01/12/07	WEST KIRBY	10	46	

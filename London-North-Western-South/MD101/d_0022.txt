@@ -1,0 +1,35 @@
+NRN CSR
+TCB Rugby SOC (KRINR) 59
+AC: Rugby ECR
+CSR tolfrom CSR change: 03R
+Rugby Station DM 59-61 79m 77ch
+M 1- 21 h
+GSM-R area U 6 59 80m 0
+LA
+TASS fitted
+Axle Counter area
+DN - Down Northampton
+UN - Up Northampton
+DC - Down Coventry
+Line name changes at 81m 29m:
+Down Main to Down Fast
+Up Fast to Up Main
+Line name changes at 81 m 750h (84m 220h-HN R):
+Down Northampton to Down Coventry
+Down Northampton to Down Slow
+ELR change:
+LEC - HNR at 82m 13ch (84m 40ch) on the Up
+Northampton line and 81m 75ch (84m 220h) on the
+Down Northampton line
+ELR HNR line mileages in brackets ()
+Permissive working (PP-A) is authorised on all
+platform lines
+Platform Lengths:
+1 - 270 metres
+2 - 344 metres
+3 - 196 metres
+4 - 336 metres
+5 - 274 metres
+6 - 198 metres
+Q) Middle Stabling siding Out Of Use
+

@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0200	SC113	001	Winchburgh Jn to Dalmeny Jn DMY Scotland	02/12/06	Winchburgh Jn	34	54	
+0200	SC113	001	Winchburgh Jn to Dalmeny Jn DMY Scotland	02/12/06		34	61	*
+0200	SC113	001	Winchburgh Jn to Dalmeny Jn DMY Scotland	02/12/06		34	74	*
+0200	SC113	001	Winchburgh Jn to Dalmeny Jn DMY Scotland	02/12/06		38	60	*
+0200	SC113	001	Winchburgh Jn to Dalmeny Jn DMY Scotland	02/12/06		38	75	*
+0200	SC113	001	Winchburgh Jn to Dalmeny Jn DMY Scotland	02/12/06	Dalmeny Jn	39	03	

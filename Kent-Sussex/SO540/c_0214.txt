@@ -1,0 +1,15 @@
+Blackham Jn 31 14
+31 24 *
+31 30 *
+ASHURST 32 08
+33 33
+Ashurst Jn 33 56
+33 64 *-
+33 66 1k
+34 28
+34 58 *-
+Forge Form Xing (RIG) 34 71
+ERIDGE 35 53
+35 57 *-
+35 78 *-
+

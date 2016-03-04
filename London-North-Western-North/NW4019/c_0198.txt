@@ -1,0 +1,16 @@
+4 10 1k
+Bumeside Lower LO (AOCL) 4 11 *-
+
+4 12 1k
+
+5 32 *
+Staveley LC (AHBC) 5 78 1':
+
+6 46 *-
+STAVELEY 6 52
+
+6 60 *-
+
+10 07 *
+WINDERMERE 10 15
+

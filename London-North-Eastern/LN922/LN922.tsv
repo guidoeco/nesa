@@ -1,0 +1,80 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Whitehall West Jn	195	57	
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		195	63	*
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	ArmleyTSLOHNS	196	13	
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Armlean	196	16	
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		196	18	
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		196	23	
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		196	24	
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		196	25	*
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		196	32	*
+0458	LN922	001	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		196	39	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		196	42	*
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Kirkstall Loops OHNS	197	21	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		197	31	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Kirkstall Loops	197	31	X
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		198	00	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		200	24	*
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	HABD	201	40	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		201	75	*
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	rle Jn	202	00	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Appe y	202	05	*
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Apperley TSL OHNS	202	15	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		203	42	*
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Thaokley Tunnel	203	43	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	(1496 yards)	204	31	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		205	00	*
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Dockfield Jn	205	47	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		205	53	*
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Shipley East Jn	205	54	
+0459	LN922	002	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	SHIPLEY	205	72	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Shipley West Jn	206	00	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		206	01	*
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Shipley Tunnel	206	06	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	(50m I 55 yards)	206	09	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		206	25	*
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		206	49	*
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	SALTAI RE	206	51	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		208	56	*
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Bingley Tunnel	208	56	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	(138m / 151 yards) 208 063	208	56	X
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		208	63	*
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	BINGLEY	208	68	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		209	11	*
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Bingley FS OHNS	209	21	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	GROSSFLATTS	209	45	
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		211	13	*
+0460	LN922	003	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		211	52	*
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	KEIGHLEY	212	06	
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		212	22	
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		212	67	*
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Gotts LC	213	15	UWC
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Thompsons LC	214	31	UWC
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	STEETON AND SILSDEN	215	04	
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Eastbum LC	215	55	UWC
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	HABD	216	50	
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Kildwick LC	216	52	CCTV
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	CONONLEY	218	20	
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Cononley LC	213	22	CCTV
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Shady Lane LC	218	52	UWC
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	PettysNo.1LC	218	60	UWC
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		219	78	*
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		220	02	*
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06		220	69	*
+0461	LN922	004	Whitehall West Jn to Hellifield South Jn TJCS London North Eastern	02/12/06	Up	sides	immediately	&
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Skipton South Jn	221	00	
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07		221	16	*
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	SKIPTON	221	21	
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07		221	30	*
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Skipton Middle Jn	221	33	
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07		221	58	*
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Skipton North Jn	221	60	
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Marshalls LC (UWC)	222	18	*
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Niffany LC	222	50	UWC
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	GARGRAVE	224	79	
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	HABD	226	59	
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Network Rail Boundary LNEILNW	230	00	N
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Hellifield (South Jn)	231	14	
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Hellifield SB	231	14	
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Switches	230	06	UWC
+0462	LN922	005	Whitehall West Jn to Hellifield South Jn TJCS SKW1 London North Eastern	01/12/07	Haw Lane	230	68	UWC

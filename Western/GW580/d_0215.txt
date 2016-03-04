@@ -1,0 +1,8 @@
+NRN
+TCB Westbury SB (W)
+RAB
+® Permissive working in Down
+direction only between signals
+W228 and W230
+OT(S)
+

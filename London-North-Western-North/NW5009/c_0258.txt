@@ -1,0 +1,19 @@
+8 28 at:
+
+6 00 a:
+OHNS 7 24
+PRESTBURY 7 10
+Prastbury Tunnel 7 O1
+(250ml273yd) to 6 69
+
+6 68 :7:
+
+6 64 a:
+ADLINGTON 5 15
+
+3 44 it
+POYNTON 2 79
+
+1 67 i:
+BRAMHALL 1 49
+

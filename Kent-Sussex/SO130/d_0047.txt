@@ -1,0 +1,20 @@
+Signalling & Remarks
+NRN CSR
+TCB Ashford IECC (AD) 090
+RAB DC: Paddock Wood
+Permissive working authorised on UPL
+and Up Slow platform lines in the
+up direction from the Up Slow,
+Up Fast and Up Hastings lines and
+in the down direction from the Down
+and Up Godstone lines.
+UPL 33
+1 Down Slow
+2 Down Fast
+3 Up Fast
+4 Up Slow
+5 Down Hastings
+6 Up Hastings
+7 Up Godstone
+8 Down Godstone
+

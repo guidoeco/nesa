@@ -1,0 +1,14 @@
+Settle Junction SB 234 44
+234 55 i:
+234 56 *-
+Cleatop LC (UWC) 235 20
+236 16 1:
+236 25 *
+GIGGLES'WICK 236 27
+236 30 2k
+236 33 a:
+Tatterthwaite LC (UWC) 237 09
+233 52 i-
+238 56 :7:
+Lawsing LC (UWC) 241 34
+

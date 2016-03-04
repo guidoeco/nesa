@@ -1,0 +1,53 @@
+NRN
+TCB Rugby 300 (RC. RN)
+AC: Rugby ECR
+
+TASS fitted
+
+Axle Counter area
+
+Permissive working (PP-A) is authorised on all
+platform lines
+
+Platform Lengths:
+
+1 - 270 metres
+2 - 344 metres
+4 - 336 metres
+
+5 - 274 metres
+6 - 198 metres
+
+DC - Down Coventry
+
+UC - Up Coventry
+
+DTVF - Down Trent Valley Fast
+
+DTVS - Down Trent Valley Slow
+
+UTVF - Up Trent Valley Fast
+
+UTVS - Up Trent Valley Slow
+
+UN - Up Norlhampton
+
+Up Goods Loop - 756 metres (326 yards)
+ELR - LEG1
+
+E—LR _ LECZ at 83m 17ch
+
+Line name changes at 83m 19ch:
+
+UTVF to UF
+
+UTVS to US
+
+UC to UN
+
+Line name changes at 83m 280h:
+
+DF to DTVF
+
+DS to DTVS
+

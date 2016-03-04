@@ -1,0 +1,12 @@
+282 40 *
+St. Blazey Bridge LC (CCTV) 282 74
+283 10 *
+Pontsmill Siding (OOU) 283 15
+284 00 2k
+284 60
+Luxulyan Tunnel 285 45
+(48m, 52yds) 285 47
+285 75 *
+LUXULYAN 285 78
+Menadue LC (UWC) 286 54
+

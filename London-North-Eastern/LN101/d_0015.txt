@@ -1,0 +1,24 @@
+NRN CSR
+TCB Peterborough SB (P)
+RAQ AC:York ECR
+CD = ToIFrom Nene Carriage Sidings
+U2 = Up Slow N02
+TWG = Two Way Goods Line
+® - Fly Ash sidian
+PP - Permissive Working - full use for class 1, 2,
+3 (E68), 5, 9 & 0 trains in Platform 1.
+PP is uthorised in platforms 2, 3,4, and 5.
+76m 40ch End of CSR
+CSR coverage
+SU = South Up Departure
+SD = South Down Arrival
+US = Up Slow
+UF = Up Fast
+DF = Down Fast
+UST = Up Stamford
+DSIDST = Down Slow/Down Stamford
+SU 8: SD No Block Regulations apply on
+these lines
+- Up Slow (Down direction) Patrolman Lockout
+Protection provided. See Local Instruction
+

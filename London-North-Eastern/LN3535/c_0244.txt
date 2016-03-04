@@ -1,0 +1,6 @@
+Birmingham Curve Jn 126 40
+126 42 *-
+Branston GF (0.0.U.) 127 13
+Branston Jn 127 19
+Change of mileage 12 15
+

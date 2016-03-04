@@ -1,0 +1,9 @@
+Liverpool Central South Jn. 0 09 1c
+0 05 *
+LIVERPOOL CENTRAL 0 02
+37 13
+Liverpool Central North Jn. 37 05
+37 00 *
+Paradise Jn 36 71
+36 49 i:
+

@@ -1,0 +1,12 @@
+Lostwithiel Jn 277 54
+277 56 *-
+Pill Farm LC (UWC) 277 69
+278 20 *
+Golant LC (OPEN) 281 11
+281 45 *
+281 57
+Network Rail Boundary 281 59 :7:
+Fowey Dock ECC Ltd.
+Came Point
+282 17
+

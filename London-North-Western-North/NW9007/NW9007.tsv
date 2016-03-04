@@ -1,0 +1,45 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07		171	68	
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07		172	10	
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07		172	11	*
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07		172	16	*
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07	New Mills South Jn SB	172	17	
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07		172	24	
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07		172	77	*
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07	New Mills Tunnel	172	78	
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07	(112m I 123 yds) to	173	03	
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07		173	10	*
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07	New Mills Central SB	173	11	
+0394	NW9007	001	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	22/01/07	NEW MILLS CENTRAL	173	15	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06		173	19	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06		173	20	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06	STRINES	174	47	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06		176	20	*
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06	Marple South Tunnel	176	22	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06	(205m 7224 yds) to	176	32	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06		176	35	*
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06	MARPLE	176	57	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06	Marple North Tunnel	176	74	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06	(90m I 99 yds) to	176	78	
+0395	NW9007	002	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	07/10/06		177	15	*
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07	Marple Wharf Junction	177	23	
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07		177	27	*
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07	ROMILEY	178	27	
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07	Romiley Junction SB	178	31	RJ
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07	Romiley Junction	178	33	*
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07		178	36	*
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07	Bradbury High Level Tunnel	178	70	
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07	(146 metres I 160 yards) to	178	78	
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07	BREDBURY	179	34	
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07		179	38	
+0396	NW9007	003	New Mills South Jn. to Ashburys East Jn. TTA1 LNW North	08/05/07	Bradbury GF	179	41	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06	BRINNINGTON	180	45	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06		181	00	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06		42	77	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06	REDDISH NORTH	44	09	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06	RYDER BROW	45	00	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06	BELLE VUE	45	30	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06		46	00	*
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06	Ashburys East Jn	46	24	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06		1	56	
+0397	NW9007	004	New Mills South Jn. to Ashburys East Jn. TTA1 'I'I'AZ LNW North	07/10/06	Ashburys SB	1	54	AS

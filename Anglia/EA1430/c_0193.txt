@@ -1,0 +1,12 @@
+100 49 it
+HALESWORTH (TEP) 1 00 53
+
+100 63 *
+
+101 04 *
+Westhall LC (ABCL) 1 03 47
+
+103 65 *
+
+1O4 45 *
+

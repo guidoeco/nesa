@@ -1,0 +1,14 @@
+181 20
+Richard's LC (UWC) 185 23
+Hele 8 Bradninch LC(AHBC) 185 41
+Stoke Canon HABD 188 56
+Sandy Lane LC (UWC) 189 42
+Stoke Canon LC (CCTV) 190 16
+Hosegood's LC (UWC) 191 O7
+Stafford's Bridge LC (UWC) 191 44
+Field LC (UWC) 191 48
+
+192 10 *-
+
+192 50 al-
+

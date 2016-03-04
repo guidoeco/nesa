@@ -1,0 +1,14 @@
+Frampton LC (UWC) 96 32
+98 60 :7:
+St. Mary's LC (MCG) 98 64
+Brimscombe Footpath LC (UWC) 99 22
+100 10 2k
+102 00 *-
+STROUD 102 13
+Ebley LC (UWC) 103 49
+STONEHOUSE 104 74
+106 58 *-
+106 70 a:
+Standish Jn 106 74
+99 69
+

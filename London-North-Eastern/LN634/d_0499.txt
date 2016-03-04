@@ -1,0 +1,19 @@
+NRN
+
+NSTR Nunthorpe SB (N)
+
+RA7
+
+CD - Class 158 units 30 mph passing Castleton Moor
+platform
+
+{2) - Engineers Siding controlled by Ground Frame.
+(Secured out of use)
+
+CL = 134m I 441 feet
+
+© - Class 158 units 30mph passing Egton platform
+
+@ - TolFrom North Yorkshire Moors Railway
+(Controlled by Ground Frame)
+

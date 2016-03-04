@@ -1,0 +1,9 @@
+TRIMLEY 0 OD
+Trimley LC (CCTV) 0 00
+Network Rail Boundary O 18
+Port of Felixstowe
+
+North Terminal Branch
+
+(Network Rail Signal 00634 at 00m 730h)
+

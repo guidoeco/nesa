@@ -1,0 +1,40 @@
+NRN CSR
+TCB Watford Jn PSB (WJ)
+
+AC: Rugby ECR
+DC: Rugby ECR
+
+Platform Lengths:
+
+4 - 207 metres
+
+5 - 245 metres
+
+6 - 245 metres
+
+Down Fast platform Out Of Use (0.0.U.)
+
+TASS fitted:
+
+DF line throughout
+
+UF line throughout
+
+ATWS (Automatic Traok Warning System)
+
+provided on the DF, DS, UF & US lines
+
+from 16m 03m to 17m 300h
+
+WR - Wash Road
+
+SR - Siding Road
+
+RS - Refuge Siding
+
+Down Fast line D.C. electrified
+
+between 17m 20ch and 17m 31ch
+
+See Local Instructions.
+

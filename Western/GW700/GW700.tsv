@@ -1,0 +1,73 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0257	GW700	001	Gloucester Barnwood Jn to Severn Tunnel Jn BAGZ SWM2 Western	05/08/06	Gloucester Barnwood Jn	92	21	
+0257	GW700	001	Gloucester Barnwood Jn to Severn Tunnel Jn BAGZ SWM2 Western	05/08/06	Bamwood No1 GF	92	35	
+0257	GW700	001	Gloucester Barnwood Jn to Severn Tunnel Jn BAGZ SWM2 Western	05/08/06	Foot crossing	92	68	WL
+0257	GW700	001	Gloucester Barnwood Jn to Severn Tunnel Jn BAGZ SWM2 Western	05/08/06	Gloucester SB	92	69	G
+0257	GW700	001	Gloucester Barnwood Jn to Severn Tunnel Jn BAGZ SWM2 Western	05/08/06	Horton Rd LC	92	70	MCB
+0257	GW700	001	Gloucester Barnwood Jn to Severn Tunnel Jn BAGZ SWM2 Western	05/08/06	Horton Rd Jn	92	75	
+0257	GW700	001	Gloucester Barnwood Jn to Severn Tunnel Jn BAGZ SWM2 Western	05/08/06	Change of mileagefELR	113	61	
+0258	GW700	002	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	01/12/07	Foot crossing	113	61	WL
+0258	GW700	002	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	01/12/07		113	68	
+0258	GW700	002	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	01/12/07		114	00	
+0258	GW700	002	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	01/12/07	GLOUCESTER	114	04	
+0258	GW700	002	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	01/12/07	Barrow crossing	114	19	WL
+0258	GW700	002	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	01/12/07		114	38	
+0258	GW700	002	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	01/12/07	Gloucester West	114	40	*
+0258	GW700	002	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	01/12/07		114	55	
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Over Junction	115	43	
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06		115	70	*
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Keens LC	116	03	UWC
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Pooles LC	116	46	UWC
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Lower Barn Farm LC	118	17	UWC
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Ley LC	120	20	MCG
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Broken Cross Farm	120	49	
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	No.1 LC (UWC)	120	49	X
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Broken Cross LC	120	66	RIG
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Broken Cross Farm	120	76	
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	No.2 LC (UWC)	120	76	X
+0259	GW700	003	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Grange Court	120	76	X
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Grange Court GF	121	28	
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06		121	70	*
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	UGL	121	75	
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06		122	06	*
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Westbury LC	122	11	AHBC
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Broadoak LC	123	76	UWC
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06		124	65	*
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Newnham Tunnel	125	08	
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	(215m, 235yds)	125	19	
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Ruddle Bridge LC	125	37	UWC
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Bullo Pill HABD	125	59	
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06		127	65	*
+0260	GW700	004	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Awre LC	128	22	CCTV
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08		129	00	*
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	Aldridge LC	130	65	UWC
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	Naas LC	132	36	AHBC
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	Lydney GF	133	21	
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	LYDNEY	133	37	
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	Lydney LC	133	40	MOB
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08		133	60	*
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	Garlands No1 LC	133	72	UWC
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	Hardacre N02 LC	135	04	UWC
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	Woolaston LC	136	14	RIG
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	High Hall LC	138	14	UWC
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08		139	00	*
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	e s w Tun e	140	59	
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08	83.81% {859 yards} 1401075	140	59	X
+0261	GW700	005	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/07/08		140	79	*
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06		141	14	*
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	GHEPSTOWIcAs-GWENT	141	33	
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06		141	35	*
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06		143	00	*
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Sharpes LC	143	15	UWC
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Three Gates LC	143	35	UWC
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Curb Hut LC	144	06	UWC
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Ifton Hill Farm LC	145	11	UWC
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Caldicot HABD	145	50	
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Caerwent Branch Jn	146	76	
+0262	GW700	006	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	05/08/06	Caldicot LC	147	03	MOB
+0263	GW700	007	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	30/06/08	Caldicot Station LC	148	00	UWC
+0263	GW700	007	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	30/06/08	GALDIGOT	148	02	
+0263	GW700	007	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	30/06/08	Severn Tunnel Jn East GF	148	17	
+0263	GW700	007	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	30/06/08	Severn Tunnel Jn	148	49	
+0263	GW700	007	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	30/06/08	SEVERN TUNNEL Jn !	148	61	
+0263	GW700	007	Gloucester Barnwood Jn to Severn Tunnel Jn SWM2 Western	30/06/08	GYFFORDD TWNNEL HAFREN	148	61	X

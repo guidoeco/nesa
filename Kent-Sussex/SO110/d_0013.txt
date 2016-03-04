@@ -1,0 +1,21 @@
+NRN CSR
+
+TCB Victoria SB (VS)
+CD - Down siding out of use.
+
+1 Up Chatham Fast
+
+2 Down Chatham Fast
+
+3 Up Chatham Slow
+
+4 Down Chatham Slow
+
+5 Up Maidstone
+
+6 Dawn Maidstone
+
+7 Up Chatham Main
+
+8 Down Chatham Main
+

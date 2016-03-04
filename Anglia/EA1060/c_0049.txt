@@ -1,0 +1,8 @@
+Hogwell LC 35 32
+Little Hayes LC 35 66
+Estuary LC 36 07
+Rookery No1LC 36 55
+37 03 1e
+37 20 *-
+NORTH FAMBRIDGE 37 23
+

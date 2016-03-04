@@ -1,0 +1,15 @@
+NRN CSR
+TCB Reading SB (R)
+RAB
+CSR
+ATP - UW to R0105 (46m 570h)
+- DW to R0104 (49m 47oh)
+(Controlled by Colthrop LC)
+Down platform - 97m, 106de
+Up platform - 117m, 128yds
+Down platform - 147m, 16!)de
+Up platform - 155m, 17'0de
+(Controlled by Colthrop LC)
+DW - Down Weslbury
+UW - Up Westbury
+

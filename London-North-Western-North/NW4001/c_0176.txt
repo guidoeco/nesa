@@ -1,0 +1,8 @@
+64 32 'k
+64 41 7k
+67 00 it
+Upperby Bridge Jn 67 58
+67 62
+67 67 *-
+Upperby Yard GF 67 7D
+

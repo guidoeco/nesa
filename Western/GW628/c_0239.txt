@@ -1,0 +1,13 @@
+245 17
+Turnchapel Branch Jn 0 00
+STOP BOARD O 03
+Cattewater Jn 0 43
+(Change of ELR)
+Shapters Way LC (TMO) 1 16
+Cattedown Tunnel 1 24
+(44m. 48yds) 11°26
+Cattewater LC (OPEN) 1 30
+Conoco East LC (TMO) 1 43
+Conoco West LC (TMO) 1 49
+Cattewater Harbour 1 59
+

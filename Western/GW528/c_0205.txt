@@ -1,0 +1,11 @@
+117 46
+North SomersetJn 0 00
+0 14 *
+B.632
+B.326/B.343
+St. Philips Marsh 0 34
+St. Philips Marsh GF 0 40
+0 59 *
+Bristol West Jn 1 08
+118 58
+

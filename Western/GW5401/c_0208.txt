@@ -1,0 +1,8 @@
+Filton West Jn No.1 112 72
+
+O 40
+Filton Tip LC (AOCL) 0 34 *
+Patchway Jn No.1 0 00
+
+5 53
+

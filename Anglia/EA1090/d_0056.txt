@@ -1,0 +1,14 @@
+NRN CSR
+TCB Colchester SB (C0)
+RA7 AC: Romford _ _
+DC - Down Clacton
+DC - Up Clacton
+Up platform - 249m (272 yd)
+Down platform - 248m (271 yd)
+CSR GSR
+Up platform - 176m (192 yd)
+Down platform -176m (192 yd)
+Up Down
+Line Line
+Thorrington Gate Box is not a block post
+

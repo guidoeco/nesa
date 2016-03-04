@@ -1,0 +1,12 @@
+159 22 *-
+FENITON 159 24
+Feniton LG 159 27
+
+161 75 *-
+WHIMPLE 163 02
+Territory Boundary 164 30
+Crannaford LC (AHBC) 165 20
+
+168 23 *
+Single Line Down 168 24
+

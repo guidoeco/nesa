@@ -1,0 +1,9 @@
+200 38 *-
+Margam Yard Jn (D (O 79)
+Margam Middle Jn 201 20
+
+201 49 a:
+
+201 52 -k
+Port Talbot East (Taibach) 202 10 i:
+

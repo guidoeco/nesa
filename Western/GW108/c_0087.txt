@@ -1,0 +1,13 @@
+Lostwithiel Jn 277 54
+Milltown Viaduct 278 48
+278 64
+278 70 *
+Treverrin Tunnel 279 t018
+(516m, 564 yds) 279 44
+HABD 279 59
+281 40 *
+281 54 *
+281 57 *-
+PAR 281 66
+Par (PR) SB 281 69
+

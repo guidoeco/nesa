@@ -1,0 +1,17 @@
+ANNIESLAND 4 50
+(Change of ELR 4 63
+NEM3 to NEM4) O 00
+Knightswood Tunnel 0 22
+270 yards to 0 34
+(Change of ELR
+NEM4 to NEM5) 0 74
+Knightswood North Jn 0 74
+
+5 67
+
+5 68 *
+WESTERTON 6 10
+Westerton Jn 6 19
+
+6 23 *
+

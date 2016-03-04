@@ -1,0 +1,7 @@
+Craigentinny 0 00
+
+0 40 a:
+Notice Board 1 52 7*
+Stop Board 1 78
+(Network Rail Boundary)
+

@@ -1,0 +1,16 @@
+NRN GSM-R
+
+TCB Paisley SC Panel 1 (P)
+
+AC:Cathcart ECR
+
+CSR
+
+DGL (PF) 3300f (1005m)
+(157 SLU's)
+UGL (PF) 2710f (825m)
+(129 SLU's)
+Additional AWS equipment at Paisley Gilmour St
+(Up Ayr) See General Instructions headed
+"Automatic Warning System"
+

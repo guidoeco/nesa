@@ -1,0 +1,20 @@
+NRN
+TCB South Tottenham St Jn SB (8)
+RAB
+Axle Counter limits
+Down line
+6m 58ch to 8m 48cm
+Up line
+9m 10ch to 6m 71ch
+Up platform - 84m (91yds)
+Down platform - 84m (91yds)
+Up platform - 181m (197yds)
+Down platform - 154m (166yds)
+Up platform - 156m (169yds)
+Down platform - 156m (169yds)
+Up platform - 163m (1 '16de)
+Down platform - 163m (176yds)
+Liverpool St IECC (L)
+Up platform - 147m (159yds)
+Down platform - 147m (159yds)
+

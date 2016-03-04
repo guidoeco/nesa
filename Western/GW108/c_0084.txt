@@ -1,0 +1,13 @@
+265 37 *
+265 60 1:
+268 11
+266 20 *-
+269 00 sh
+269 15 it
+St. Pinnock Viaduct East 269 23 a:
+269 40 *
+St. Pinnock Viaduct
+East Largin Viaduct
+270 00 *
+Largin 270 07
+

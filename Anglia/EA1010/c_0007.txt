@@ -1,0 +1,9 @@
+3 68 *-
+Str'atford Central Jn West 3 70
+
+3 74 *
+Stratford Central Jn East 3 75
+STRATFORD 4 03 *
+
+4 06 i:
+

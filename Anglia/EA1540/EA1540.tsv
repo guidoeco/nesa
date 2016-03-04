@@ -1,0 +1,39 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Chippenham Jn	16	04	
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		00	63	
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		00	54	*
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		00	31	*
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Change of mileage	00	00	*
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Site of former Snailwell Jn	01	54	
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Kings Sidings GF	2	64	
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Munceys LC	4	16	
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Fordham LC	4	64	AHBC-X
+0228	EA1540	001	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Cockspin Road LC	5	05	AHBC-X
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Hitch's No.12 LC	6	58	
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Hitch's No.13 LC	6	61	
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Horse Fen LC	6	74	
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Mill Drove LC	7	28	Al-lBC—X
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		7	30	*
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Soham Common LC	7	42	
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Clark & Butchers LC	7	53	*
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Single Line	7	61	
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Soham Station LC	7	78	
+0229	EA1540	002	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		8	00	*
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Straws LC	8	02	
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Middlemere LC	8	25	AHBC
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Tiled House Farm LC (AH BC)	8	66	
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Short Drove LC	9	07	
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Poplar Drove No.30 LC	9	35	
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06		9	40	*
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Leonards No.31 LC	9	47	
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Barway Sidings LC	9	76	AHBC
+0230	EA1540	003	Chippenham Jn to Ely Dock Jn SOB Anglia	05/08/06	Blockmore LC	10	36	
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Ambrose's LC	11	11	
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Roundabc-ut Drove LC	11	36	
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07		11	36	
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07		12	02	*
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Wells Engine LC	12	03	
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Hawks LC	12	17	
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Single Line	12	27	
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07	Ely Dock Jn	12	33	
+0231	EA1540	004	Chippenham Jn to Ely Dock Jn SOB Anglia	20/12/07		69	79	

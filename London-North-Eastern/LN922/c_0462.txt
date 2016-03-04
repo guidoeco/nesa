@@ -1,0 +1,15 @@
+Skipton South Jn 221 00
+221 16 *-
+SKIPTON 221 21
+221 30 it
+Skipton Middle Jn 221 33
+221 58 *-
+Skipton North Jn 221 60
+Marshalls LC (UWC) 222 18 *
+Niffany LC (UWC) 222 50
+GARGRAVE 224 79
+HABD 226 59
+Network Rail Boundary LNEILNW(N) 230 00
+Hellifield (South Jn) 231 14
+Hellifield SB 231 14
+

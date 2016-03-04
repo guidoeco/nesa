@@ -1,0 +1,121 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09	Colwich Jn	127	07	
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09	Change of mileage	38	61	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		127	08	
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		38	58	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		38	49	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09	OHNS	38	45	
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		38	36	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		37	27	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		36	33	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		36	16	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		33	61	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09	Highfields LC	33	42	UWC
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		29	11	*
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09	Aston-by—Stone LC	28	63	CCTV
+0248	NW5009	001	Colwich Jn to Cheadle Hulme CMD LNW North	17/01/09		27	66	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06	Church Lane LC	27	63	CCTV
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06		27	55	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06		27	27	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06	Meaford Crossing LC	27	18	CCTV
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06	OHNS	27	12	
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06		27	10	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06		27	09	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06	Stone Jn	27	00	
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06		26	78	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06		26	75	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06		24	56	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06		24	55	*
+0249	NW5009	002	Colwich Jn to Cheadle Hulme CMD LNW North	07/10/06	Barlaston LC	24	50	CCTV
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07	BARLASTON	24	44	
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07	Barlaston HABD	24	39	
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07	WEDGWOOD	23	79	
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07	Wedgwood LC	23	76	CCTV
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07		21	53	*
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07		21	38	*
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07	Sideway Jn	21	04	
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07		20	79	*
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07		20	78	*
+0250	NW5009	003	Colwich Jn to Cheadle Hulme CMD LNW North	18/08/07	Stoke Jn	20	36	
+0251	NW5009	004	Colwich Jn to Cheadle Hulme CMD LNW North	30/06/07		20	12	*
+0251	NW5009	004	Colwich Jn to Cheadle Hulme CMD LNW North	30/06/07	Glebe Street Jn .	20	10	
+0251	NW5009	004	Colwich Jn to Cheadle Hulme CMD LNW North	30/06/07	STOKE-ON-TRENT	19	78	
+0252	NW5009	005	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		19	64	*
+0252	NW5009	005	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08	Stoke North Jn .	19	63	*
+0252	NW5009	005	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08	Stoke-on—Trent S.C.	19	60	SOT
+0252	NW5009	005	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		19	45	*
+0252	NW5009	005	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08	Newcastle Jn	19	35	
+0252	NW5009	005	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		19	31	*
+0253	NW5009	006	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08	Cliffe Vale Jn	19	12	
+0253	NW5009	006	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		18	58	*
+0253	NW5009	006	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		18	52	*
+0253	NW5009	006	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		18	42	*
+0253	NW5009	006	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		18	30	*
+0253	NW5009	006	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		18	20	
+0253	NW5009	006	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08	Grange Jn .	18	17	
+0254	NW5009	007	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		18	06	*
+0254	NW5009	007	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08	LONGPORT	17	03	
+0254	NW5009	007	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		16	62	*
+0254	NW5009	007	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		16	56	*
+0254	NW5009	007	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08	Longport Jn .	16	48	*
+0254	NW5009	007	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08		16	27	*
+0254	NW5009	007	Colwich Jn to Cheadle Hulme CMD2 LNW North	12/10/08	Bradwell Jn	16	16	
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08	Change of mileage	15	65	
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08		16	00	
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08		15	55	*
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08		14	29	*
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08	Harecastle Tunnel	14	27	*
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08	(283W310yd)	14	13	
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08	Kidsgrove Jn .	13	68	
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08		0	00	
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08	KIDSGROVE	13	60	
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08		13	54	*
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08		13	53	*
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08	OHNS	13	45	
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08		13	15	*
+0255	NW5009	008	Colwich Jn to Cheadle Hulme CMD2 CMD1 LNW North	12/10/08		13	02	*
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08		11	52	*
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08	Mow Cop L.c.	11	30	CCTV
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08	Ackers HABD	10	53	
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08		8	32	*
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08		3	26	*
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08	coucLETou a 12	3	26	X
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08		8	08	*
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08		7	70	*
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08		7	54	*
+0256	NW5009	009	Colwich Jn to Cheadle Hulme CMD2 LNW North	14/12/08		6	50	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		2	68	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		2	53	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		2	31	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		2	06	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		1	07	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		1	04	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08	MACCLESFIELD	0	25	
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08	Macclesfield SB	0	20	MD
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		0	06	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		0	00	
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		9	37	
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08	Macclesfield Tunnel	9	27	
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08	(314ml343yd) to	9	12	
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		9	10	*
+0257	NW5009	010	Colwich Jn to Cheadle Hulme CMD2 MCH LNW North	14/12/08		9	08	*
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06		8	28	*
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06		6	00	*
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06	OHNS	7	24	
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06	PRESTBURY	7	10	
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06	Prastbury Tunnel	7	01	
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06	(250ml273yd) to	6	69	
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06		6	68	*
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06		6	64	*
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06	ADLINGTON	5	15	
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06		3	44	*
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06	POYNTON	2	79	
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06		1	67	*
+0258	NW5009	011	Colwich Jn to Cheadle Hulme MCH LNW North	07/10/06	BRAMHALL	1	49	
+0259	NW5009	012	Colwich Jn to Cheadle Hulme MCH LNW North	23/09/07	Bramhall Jn	0	39	
+0259	NW5009	012	Colwich Jn to Cheadle Hulme MCH LNW North	23/09/07		0	31	*
+0259	NW5009	012	Colwich Jn to Cheadle Hulme MCH LNW North	23/09/07		0	28	*
+0259	NW5009	012	Colwich Jn to Cheadle Hulme MCH LNW North	23/09/07	CHEADLE HULME	0	08	
+0259	NW5009	012	Colwich Jn to Cheadle Hulme MCH LNW North	23/09/07		0	00	
+0259	NW5009	012	Colwich Jn to Cheadle Hulme MCH LNW North	23/09/07		180	59	
+0259	NW5009	012	Colwich Jn to Cheadle Hulme MCH LNW North	23/09/07	Cheadle Hulme North Jn	180	67	

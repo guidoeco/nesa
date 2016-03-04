@@ -1,0 +1,8 @@
+Swindon Jn 77 36
+77 40 *
+SwindonBSB (SB) 77 60 *-
+Signal SN.61 77 64
+Rushey Flatt 78 36
+78 43 *
+Studley HABD 81 40
+

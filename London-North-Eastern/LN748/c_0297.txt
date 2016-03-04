@@ -1,0 +1,9 @@
+Retford Western Jn 64 29
+64 20
+64 12 *-
+63 67 *-
+
+Thrumpton West Jn (Down) 63 46
+
+Thrumpton West Jn (Up) 63 28
+

@@ -1,0 +1,17 @@
+NRN
+TCB Ferrybridge SB (FE)
+RAQ
+DPT = Down Pontefract
+UPT = Up Pontefract
+- Lockout Protection provided. See General
+Instruction
+- Separate Down and Up line Lockout
+Protection provided at Brotherton Tunnel. See
+General Instruction
+Milford SB (M)
+CD = MGR loaded and empty coal trains
+consisting of HAA type wagons are
+restricted to a 30 mph maximum speed
+on both the Down and Up Pontefract
+lines between 0 19 and 16 68
+

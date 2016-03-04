@@ -1,0 +1,12 @@
+St. Dennis GF (Out of use) 294 21
+294 30 a:
+Griggs LC (UWC) 294 65
+295 00 *-
+296 09 :1:
+ST COLUMB ROAD 296 11
+Halloon LC (AOCL) 296 22
+Tresithney 2 LC (UWC) 296 64
+Cosworth 1 8; 2 LC(UWC) 297 71
+Coswarth 3 8. 4 LC(UWC) 298 20
+298 30 i:
+

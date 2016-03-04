@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0387	GW894	001	Jersey Marine Jn Nth to Jersey Marine Jn Sth JER Western	05/08/06	Jersey Marine Jn North	208	33	
+0387	GW894	001	Jersey Marine Jn Nth to Jersey Marine Jn Sth JER Western	05/08/06		1	24	
+0387	GW894	001	Jersey Marine Jn Nth to Jersey Marine Jn Sth JER Western	05/08/06		1	45	*
+0387	GW894	001	Jersey Marine Jn Nth to Jersey Marine Jn Sth JER Western	05/08/06		1	72	
+0387	GW894	001	Jersey Marine Jn Nth to Jersey Marine Jn Sth JER Western	05/08/06		2	13	*
+0387	GW894	001	Jersey Marine Jn Nth to Jersey Marine Jn Sth JER Western	05/08/06	Jersey Marine Jn South	2	26	
+0387	GW894	001	Jersey Marine Jn Nth to Jersey Marine Jn Sth JER Western	05/08/06		44	17	

@@ -1,0 +1,25 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Bedlington North SB	0	00	BN
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Bedlington North LC	0	00	MCB
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		0	06	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		0	76	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	West Sleekbum Jn	0	78	
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		1	02	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		1	32	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Marchey's House Jn	1	35	
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Manchey's House LC (MOB)	1	41	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Marchey's House SB	1	41	
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	North Seaton LC	1	76	MOB
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		2	13	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		2	39	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Green Lane LC (AHBC)	2	43	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		2	49	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		2	70	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Ashington SB	3	02	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Ashington Jn	3	03	
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Hirst Lane LC	3	21	MCG
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		3	65	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Network RailIAlcan Boundary	4	10	*
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06		5	34	
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Woodhorn Jn	5	37	
+0535	LN702	001	Bedlington North to Lynemouth Alcan BWC London North Eastern	02/12/06	Lynemouth Alcan	5	37	X

@@ -1,0 +1,42 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09	Thorpes Bridge Jn	2	17	*
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09	2 mm	2	17	X
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09		2	26	
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09	Newton Heath TMD	2	26	X
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09		2	30	*
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09	DEAN LANE	2	54	
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09		2	58	
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09		2	62	
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09		2	78	
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09	FAILSWORTH	3	54	
+0332	NW7019	001	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 LNW North	24/01/09	HOLLINWOOD	4	49	
+0333	NW7019	002	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 MPR3 LNW North	07/10/06		5	69	*
+0333	NW7019	002	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 MPR3 LNW North	07/10/06		5	71	*
+0333	NW7019	002	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 MPR3 LNW North	07/10/06		6	05	*
+0333	NW7019	002	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 MPR3 LNW North	07/10/06		6	15	*
+0333	NW7019	002	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 MPR3 LNW North	07/10/06		6	18	*
+0333	NW7019	002	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 MPR3 LNW North	07/10/06	OLDHAM WERNETH	6	28	
+0333	NW7019	002	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 MPR3 LNW North	07/10/06	Wemeth Tunnel	6	31	
+0333	NW7019	002	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR2 MPR3 LNW North	07/10/06	(430m I 471 yds) to	6	53	
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06	Central Tunnel	6	60	
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06	(410ml449yd) to	7	00	
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06		7	16	*
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06	Oldham SB	7	21	OM
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06		7	30	*
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06	OLDI-IAM MUMPS	7	40	
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06		7	52	*
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06	DERKER	8	09	
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06		9	72	*
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06		9	75	*
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06	Shaw Station SB (SW)	9	75	X
+0334	NW7019	003	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	07/10/06	Shaw Station LC (MB)	10	04	*
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08	SHAWB: GROMPTON	10	10	
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08		10	14	
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08		10	23	*
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08		10	60	*
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08	HEWHEY	11	64	
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08	MILNROW	12	69	
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08		13	35	*
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08		13	78	*
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08	Rochdale East Jn	14	27	
+0335	NW7019	004	Thorpes Bridge Jn. to Rochdale (Via Oldham) MPR3 LNW North	08/03/08		10	63	

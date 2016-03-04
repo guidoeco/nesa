@@ -1,0 +1,40 @@
+NRN CSR
+TCB Wembley Mainline SOC (W3)
+DC: Rugby ECR
+
+CD=EMU's fitted with trip cock
+
+apparatus and LUL trains
+
+NOTE: Class 1, 2 and 5 trains (other than EMU's
+fitted with trip cock apparatus and LUL trains) and
+light locomotives are subject to a maximum
+permissible speed of 25mph between Camden Jn
+and Harrow & Wealdstone and 45mph between
+Harrow & Wealdstone and Watford except where a
+lower speed is indicated.
+
+Class '3, 4, 6, 7 and 8 trains are subject to a
+maxumum speed of 15mph between Camden Jn
+and Harrow & Wealdstone and 40mph between
+Harrow 8. Wealdstone and Watford except where a
+lower speed is indicated.
+
+Platform Lengths: Queens Park
+
+Down (4) - 132 metres
+
+Up (1) - 141 metres
+
+Platform Lengths: Kensal Green
+
+Down (N) - 123 metres
+
+Up (8) - 123 metres
+
+SD=Sand drag
+
+Instructions for DC lines are given
+
+in the General Instructions of this Appendix
+

@@ -1,0 +1,12 @@
+NRN
+TCB Trowse Swing Bridge SB (TB)
+RAB
+Axle Counter limits
+Down line
+2m 220h to 8m Sch
+Up line
+8m 46ch to 2m 12ch
+Nomich Road LC is not provided with treadles.
+Great Plumstead LC is not provided with treadles.
+Rackheath Road LC is not provided with treadles.
+

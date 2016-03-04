@@ -1,0 +1,15 @@
+NRN
+TCB Colchester SB (CO)
+RAB
+U&DL - Up and Down Lowestoft
+General instruction applies at
+Bramford Lane (Bridge 406) at 70m 35ch
+Up Platform - 100m (109yds)
+Up Stop Board positioned 82m (88yds)
+Down Platform - 100m (1 Odes)
+Up Stop Board positioned 81 m (87yds)
+RETB 111 Saxmundham SB (SM)
+(Test 109)
+CD Nuclear Flask trains not to exceod 40 mph
+Other freight trains not to exceed 20 mph
+

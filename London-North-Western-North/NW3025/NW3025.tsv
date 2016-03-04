@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0151	NW3025	001	Skelton Jn. to Partington WJP LNW North	20/09/08	Skelton Jn	30	12	
+0151	NW3025	001	Skelton Jn. to Partington WJP LNW North	20/09/08		29	71	*
+0151	NW3025	001	Skelton Jn. to Partington WJP LNW North	20/09/08		29	70	*
+0151	NW3025	001	Skelton Jn. to Partington WJP LNW North	20/09/08	Partington Jn .	27	20	
+0151	NW3025	001	Skelton Jn. to Partington WJP LNW North	20/09/08	Network Rail Boundary	27	20	X

@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06	Dore Station Jn	0	60	
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06	DORE	0	27	
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06		0	08	
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06		0	02	*
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06	Dore West Jn	0	00	
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06		154	16	
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06	Network Rail LNEI North West	154	20	
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06	Territory Boundary	154	20	X
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06		154	41	*
+0339	LN808	001	Dore Station Jn to Totley Tunnel East DWS London North Eastern	02/12/06	Totley Tunnel East SB	154	62	TE

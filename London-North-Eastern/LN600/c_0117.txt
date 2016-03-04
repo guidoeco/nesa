@@ -1,0 +1,15 @@
+16 14 *-
+MORPETH 16 50
+Morpeth Jn 16 56 *
+16 59 *
+Morpeth SB (M) 16 63
+Morpeth Norlh LC (CCTV) 16 78
+16 79
+17 O1 *
+Morpeth North Jn 17 26 *-
+17 30
+17 32 *-
+17 61 *-
+PEGSWOOD 18 44
+18 71 1k
+

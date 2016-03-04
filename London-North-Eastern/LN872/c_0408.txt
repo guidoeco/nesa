@@ -1,0 +1,19 @@
+192 40
+Stourton Jn 192 42
+Stourton
+193 26 9c
+Hunslet South Jn 193 40
+193 68 *-
+Hunslet Station Jn 194 10
+194 35 *-
+194 65 *
+Holbeck DepotJn 194 79
+Holbeck Depot
+195 14 *
+Engine Shed Jn 195 20
+195 33 *-
+195 42 1-
+195 45
+195 49 ul-
+Leeds West Jn 195 53
+

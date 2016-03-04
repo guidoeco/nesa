@@ -1,0 +1,8 @@
+PENYCHAIN (TEP) 129 29
+ABERERGH 130 76
+Abererch LC (ABCL) 130 76
+Pwllheli Goods LC (ABCL) 132 31
+Pwllheli Crossing GF 132 38
+Pwllheli West GF 132 57
+PWLLHELI (TEP) 132 70
+

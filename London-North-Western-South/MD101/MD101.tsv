@@ -1,0 +1,260 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0001	MD101	001	Euston to Armitage Junction (Exclusive) LEC1 LNW South	26/07/08	EUSTON	0	00	
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		0	43	*
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		0	60	*
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		0	61	*
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Park Street Tunnels	0	62	
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	(116 metres/127 yards. X & E) to	0	68	
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	(148 metres/162 yards, A, B. C & D)	0	69	*
+0002	MD101	002	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	CSR change	0	70	
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Camden Junction South	1	10	
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08		1	27	*
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Camden Jn (Down DC line)	1	36	
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Camden Jn (Up DC line)	1	40	
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08		1	51	*
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Camden Jn	1	51	X
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08		1	52	*
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Primrose Hill Tunnels	1	54	*
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Fast Lines	1	54	X
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	(1081 metres 182 yards)	1	54	X
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	Slow lines	2	27	*
+0003	MD101	003	Euston to Armitage Junction (Exclusive) LEC1 LNW South	11/10/08	(1070 metres 1170 yards)	2	30	*
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		3	00	*
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		3	40	*
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		3	43	*
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	QUEEN'S PARK	3	55	
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	222 *	3	55	X
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Kensal Green Tunnels to (293 metres 320 yards)	4	59	
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		4	60	*
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	CSR change	4	70	
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Willesden TMD	4	70	X
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		5	01	*
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	West London Jn	5	23	
+0004	MD101	004	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(Willesden Euro Terminal)	5	23	X
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	Willesden North Jn	5	52	
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		5	53	*
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	Willesden Jn	0	71	
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	Harlesden Jn	6	01	
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		6	02	*
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		6	03	*
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		6	10	*
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	Brent Sidings	6	10	X
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08	CSR change	6	16	
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		1	22	*
+0005	MD101	005	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/09/08		6	50	*
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		1	46	*
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Wembley Yard South Junction	1	57	
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		1	62	*
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		2	00	*
+0006	MD101	006	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Sudbury Junction	7	12	
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		2	57	*
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Willesden Carriage Shed North SB	7	50	CN
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		7	60	*
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		2	78	*
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		8	00	*
+0007	MD101	007	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	WEMBLEY CENTRAL	8	04	
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09	North Wembley Jn	9	06	
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09	OHNS	9	15	
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09		9	20	*
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09	HARROW & WEALDSTONE	11	30	
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09		11	41	*
+0008	MD101	008	Euston to Armitage Junction (Exclusive) LEC1 LNW South	15/02/09	CSR change	13	30	
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		13	71	*
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		14	60	*
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		15	20	*
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		15	68	*
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08	BUSHEY	15	79	
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		16	00	*
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		16	20	*
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		16	71	*
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08	Watford South Junction	17	06	
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08		17	20	*
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08	Watfcrd Yard GF	17	21	
+0009	MD101	009	Euston to Armitage Junction (Exclusive) LEC1 LNW South	25/03/08	Watford Jn PSB	17	25	WJ
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07	WATFORD JUNCTION	17	34	
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07		17	49	*
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07		17	60	*
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07	Watford North Jn	17	74	
+0010	MD101	010	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/07		18	20	*
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		18	31	*
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Watford Tunnels	18	32	*
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Slow lines	18	33	
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(1 km 820 metres! 1mile 230 yards)	18	33	
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Fast lines	18	33	X
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(1 km 660 metres / 1 mile 55 yards)	18	33	X
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		19	40	
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		19	43	*
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		19	46	*
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		19	73	*
+0011	MD101	011	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		20	00	*
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		20	60	*
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07	KING'S LANGLEY	20	74	
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		21	04	*
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		21	12	*
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07	CSR change	21	74	
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		23	00	*
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07	APSLEY	23	06	
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		23	15	*
+0012	MD101	012	Euston to Armitage Junction (Exclusive) LEC1 LNW South	22/04/07		23	19	*
+0013	MD101	013	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	HEMEL HEMPSTEAD	24	39	
+0013	MD101	013	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Boume End Junction	25	40	
+0013	MD101	013	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	OHNS	26	30	
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		27	40	*
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	BERKHAMSTED	27	75	
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		28	05	*
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		28	20	*
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		28	23	*
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Northchurch Tunnels	28	76	
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	(319 metres 349 yards)	29	11	*
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	to	29	12	*
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Northchurch HABD	29	47	
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		31	25	*
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	Tring South Junction	31	30	
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06	TRING	81	50	
+0014	MD101	014	Euston to Armitage Junction (Exclusive) LEC1 LNW South	07/10/06		31	72	*
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08	Tring North Junction	32	00	
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08		34	20	*
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08	Cheddington WheelChex	34	60	
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08	CHEDDINGTON	36	08	
+0015	MD101	015	Euston to Armitage Junction (Exclusive) LEC1 LNW South	18/10/08	Ledburn Junctian	37	35	
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	OHNS	39	20	
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		40	01	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	LEIGHTON BUZZARD	40	14	
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		40	25	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		40	28	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		40	32	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Linslade Tunnels	40	60	
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(262 metres 287 yards) to	40	73	
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		42	04	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		42	16	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		42	22	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Stoke Hammond HABD	42	68	
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	(Leighton Buzzard)	43	55	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08	Bletchley South Junction	45	46	
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		46	00	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		46	18	*
+0016	MD101	016	Euston to Armitage Junction (Exclusive) LEC1 LNW South	21/09/08		46	21	*
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		46	37	*
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	Bletchley Jn	46	43	
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	Bletchley PSB	46	46	BY
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	BLETCHLEY	46	54	
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		46	62	*
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		46	68	*
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		48	34	*
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	Denbigh Hall South Jn	47	52	*
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	CSR change (Up direction)	47	65	
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08		48	14	*
+0017	MD101	017	Euston to Armitage Junction (Exclusive) LEC1 LNW South	29/12/08	CSR change (Down direction)	48	28	
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		48	30	*
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Denbigh Hall North Jn	48	48	
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Knowlhill Jn	48	75	
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		49	39	*
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Milton Keynes South Jn	49	43	
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	MILTON KEYNES CENTRAL	49	65	
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		49	75	*
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Milton Keynes North Jn	50	10	
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		50	16	*
+0018	MD101	018	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	OHNS	51	16	
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Wolverton HABD	51	72	
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Wolverton Sidings	52	05	
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Church Street LC (TMO)	52	05	X
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	(Wolverton Works Siding)	52	05	X
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		52	20	*
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	WOLVERTON	52	33	
+0019	MD101	019	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		52	42	*
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	CSR change	53	15	
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		54	53	*
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Castlethorpe Station, former site of	54	60	
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09		55	00	*
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Castlethorpo North (Wolverton) HABD	55	63	
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Hanslope South Junction	56	29	
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	Hanslope North Junction	56	66	
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	OHNS	58	46	
+0020	MD101	020	Euston to Armitage Junction (Exclusive) LEC1 LNW South	14/02/09	NRN Channel Change	59	00	
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Blisworth	62	71	
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Stowe Hill Tunnel	68	09	
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	(449 metres/491 yards) to	68	32	
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		68	50	*
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		68	65	*
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Weedon	69	56	
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		70	36	*
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		70	53	*
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	OHNS	73	40	
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		76	58	*
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		76	63	*
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Kilsby Tunnel	76	64	
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	(1 mile 656 yards) to (2 km 209 metres)	73	13	
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		78	14	*
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08		78	19	*
+0021	MD101	021	Euston to Armitage Junction (Exclusive) LEC1 LNW South	09/02/08	Kilsby North HABD	78	66	
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	OHNS	80	08	
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		83	43	*
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	Hillmorton Junction	81	28	
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		81	60	*
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		84	09	*
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		81	72	*
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		82	16	*
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		82	18	*
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	Rugby South Junction	82	26	
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	Rugby PSB	82	26	RY
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08		82	30	*
+0022	MD101	022	Euston to Armitage Junction (Exclusive) LEC1 LNW South	01/12/08	RUGBY	82	40	
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	RUGBY	82	40	
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	Rugby 3.6.6.	82	60	
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	Rugby North Junction	82	70	
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	08	*
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	13	*
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	Trent Valley Junction	83	18	
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	33	*
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	42	*
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08		83	48	*
+0023	MD101	023	Euston to Armitage Junction (Exclusive) LEC1 LECZ LNW South	01/12/08	OHNS	83	58	
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		83	68	*
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		84	01	*
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		34	14	*
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	Newbold Junction	84	26	
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	High Oaks Junction	85	18	
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		87	32	*
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		87	57	*
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	Brinklow Junction	87	72	
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		88	78	*
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		90	09	*
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08		90	56	*
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	Shilton HABD US&UF)	91	26	
+0024	MD101	024	Euston to Armitage Junction (Exclusive) LEC2 LNW South	01/12/08	Shilton HABD M)	91	30	
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Attleborough South Junction	95	09	
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Attleborough North Junction	95	70	
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	OHNS	96	30	
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Nuneaton South Junction	96	68	
+0025	MD101	025	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	NUNEATON	97	10	
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	NUNEATON			Z
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Nuneaton Nortth	97	36	*
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09		97	40	*
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09		10	14	
+0026	MD101	026	Euston to Armitage Junction (Exclusive) LEC2 LNW South	24/01/09	Ashby Jn	97	72	
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	01	42	*
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	01	56	*
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08		102	01	*
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	02	03	*
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	ATHERSTO N E	102	23	
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	02	42	*
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08		102	71	*
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	03	20	*
+0027	MD101	027	Euston to Armitage Junction (Exclusive) LEC2 LNW South	29/11/08	1	03	63	*
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	POLESWORTH	106	39	
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		108	74	*
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Amington Junction	109	10	
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		109	27	*
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		109	49	*
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		109	54	*
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	OHNS	109	60	
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	TAMWORTH (LOW LEVEL)	110	01	
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		110	24	*
+0028	MD101	028	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		111	10	*
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	LICHFIELD TRENT VALLEY	116	19	
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Lichfield North Junction	116	70	
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08		117	55	*
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Curborough Junction	118	63	
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Continued in LNW	119	20	N
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	Sectional Appendix	119	20	X
+0029	MD101	029	Euston to Armitage Junction (Exclusive) LEC2 LNW South	13/12/08	NW1001 seq 1	119	20	X

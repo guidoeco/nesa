@@ -1,0 +1,14 @@
+NRN CSR
+TCB Rugby SCC (KR)
+AC: Rugby ECR
+TASS fitted:
+DF/DM line and UMIUF line throughout
+Axle Counter area
+CSR
+GSM-R area 59
+L .1
+Traffic Lockout Devices (LOD(T)) provided:
+DF and DS to 53m 43ch
+UF and US from 53m 10m
+NRN
+

@@ -1,0 +1,13 @@
+129 70 *
+Malvern Wells Down Goods Loop
+
+130 10 1k
+Malvem Wells SB 130 13
+Single line 130 18
+
+130 19 it
+Colwall Tunnel 130 48 *
+(1450m,1586yds)
+
+ to 131 40 i:
+

@@ -1,0 +1,15 @@
+Grove Farm No. 1 (UWC) 127 34
+Grove Farm No. 2 (UWC) 127 34
+GREWKERNE 131 33
+131 74 *-
+Crewkeme LC (AHBC) 132 O3
+Crewkeme Tunnel 132 39
+(205 yards) 132 48
+133 20 *-
+Hewish LC (AHBC) 134 04
+Hay Crossing 136 35
+Marshwood Farm No.2 Crossing 133 73
+Chard Jn L0 139 32
+Chard Jn Down Sidings GF 139 48
+Westford (UWC) 139 65
+

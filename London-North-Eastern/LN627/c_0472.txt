@@ -1,0 +1,23 @@
+Longlands Jn(Down) 28 58
+28 76
+28 77 *
+Longlands Jn (Up) 0 69 
+Longlands Tunnel 0 11
+(50 metres / 55 yards) 0 08
+Boroughbridge Road LC (CCTV) DN 29 72
+42 21 6
+UP 0 00 
+42 21
+Romanby Road LC (CCTV) 42 38
+Springwell Lane LC (AHBC) 42 65
+Northallerton EastJn 42 79
+43 00 *-
+Low Gates LC (M08) 43 24
+Low Gates SB 43 24
+43 25 *
+Vaseys LC (UWC) 43 68
+Clarke LC(UWC) 44 10 *
+44 12 *-
+Walkers LC (UWC) 44 30 *
+44 53 *k
+

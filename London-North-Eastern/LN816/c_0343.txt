@@ -1,0 +1,8 @@
+Beighton Jn 46 06
+48 DO *
+Beighton Station Jn LC (MOB) 47 42
+Beighton Station Jn SB (BX) 47 42
+46 65 *
+46 61 *
+Woodhouse Jn 46 56
+

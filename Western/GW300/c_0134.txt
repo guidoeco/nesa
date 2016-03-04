@@ -1,0 +1,13 @@
+68 60
+Abbotswood Junction 0 00
+Singla Line Jn 0 05
+O 08 are
+Cooksholme LC (UWC) 0 25
+O 58 :7:
+0 62 *
+Norton Junction SB (NJ) 117 26 *-
+Change of ELR
+117 33 al-
+120 04 *
+Wylds Lane Jn 120 14
+

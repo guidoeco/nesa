@@ -1,0 +1,10 @@
+67 60 2k
+FRINTON-ON-SEA 68 66
+Frinton gate box 66 76
+Frinton LC 68 76
+
+69 60 *-
+
+70 05 *
+WALTON-ON-THE-NAZE 70 15
+

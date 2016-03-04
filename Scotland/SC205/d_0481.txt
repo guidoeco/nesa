@@ -1,0 +1,19 @@
+RETB 105 lnvemess SC (I)
+
+G) = 15 mph through loop
+points, in both directions,
+andiover loop lines
+
+CL 800f (240m)
+
+(39 SLU's)
+
+A plunger is provided at the
+
+Up direction board worded
+"Shunting Press Plunger Obtain
+White Light and Whistle Before
+Proceeding" which, when
+operated, activates the LC lights
+sequence
+

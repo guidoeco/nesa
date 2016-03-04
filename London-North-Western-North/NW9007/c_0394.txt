@@ -1,0 +1,13 @@
+171 68
+172 10
+172 11 :7:
+172 16 *
+New Mills South Jn SB 172 17
+172 24
+172 77 *
+New Mills Tunnel 172 78
+(112m I 123 yds) to 173 03
+173 10 it
+New Mills Central SB 173 11
+NEW MILLS CENTRAL 173 15
+

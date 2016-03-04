@@ -1,0 +1,22 @@
+RETB 111 Invemess SC (I)
+@= 15 mph through loop
+points, in both directions,
+and over loop lines
+(2) Permissive arrangements in
+RETB territory.
+PP(C) Up I Down platform -
+detaching only.
+See Local Instructions for
+conditions under which trains may
+detach
+CL 800f (240m)
+(39 SLU's)
+URS 655i (195m)
+Plungers are provided on the
+Up/Down line platform for
+operating the branch junction
+points under the instructions
+of the signaller at lnverness
+(RETB) SC
+@ = 9f controlled loop points
+

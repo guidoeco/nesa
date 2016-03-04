@@ -1,0 +1,14 @@
+Balcombe Tunnel Jn 31 28
+
+31 35 5%
+
+31 40 1:
+Balcombe Tunnel Substation 31 55
+Balcombe Tunnel 32 02 *-
+(1141 yards) to 32 54
+Redbridge TP Hut 33 28
+BALCOMBE 33 64
+Ouse Valley Substation 34 67
+Ouse Valley Viaduct 35 37
+(482 yards) 35 59
+

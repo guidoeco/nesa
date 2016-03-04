@@ -1,0 +1,12 @@
+Patchway Jn No.2 112 66
+(Change of ELR) 5 61
+5 64 *
+PATCHWAY 5 77
+Patchway Tunnels 6 56
+New (UT) 6 68
+1609m (1760 yards)
+Old (DT) to 7 53
+ to Short (DT) 7 56
+57m (62 yards)
+Pilning HABD 9 08
+

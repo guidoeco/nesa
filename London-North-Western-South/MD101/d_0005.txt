@@ -1,0 +1,31 @@
+NRN CSR
+AC: Rugby ECR
+
+TASS fitted:
+
+DF line throughout
+
+UF line throughout
+
+Willesden Relief line
+
+mileage in [] brackets
+
+Line Lockouts:
+
+UWR: [1m 43oh] to [1 m 220h].
+
+UWR: [1m 226h] to [0m 33oh]. CSR
+DWR: [0m 336h] to [1 m 220h].
+
+DWR: [1m ZZCI'I] to [1 m 43oh].
+U+DG1 - Up and Down Goods No.1
+U+DG2 - Up and Down Goods No.2
+UWR - Up Willesden Relief
+DWR - Down Willeeden Relief
+BR+D1 - Brent Reception and Departure No.1
+BR+DZ - Brent Reception and Departure No.2
+RR - Railnet Reversible
+UHLG - Up High Level Goods
+DHLG - Down High Level Goods
+

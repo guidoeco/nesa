@@ -1,0 +1,15 @@
+NRN
+TCB Stoke-on-Trent SB (SOT)
+AC: Crewe
+TASS fitted
+GSM-R area
+LA
+Up 8; Dn Branch line out of use
+Platform Lengths: Stoke-on-Trent
+Platform 1
+Up & Down 260m (284yards)
+Platform 2
+Up a. Down 260m (284yards)
+Platform 3 (Permissive (PP))
+Bay 88m (96yards)
+

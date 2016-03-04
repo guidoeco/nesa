@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0291	LN741	001	Habrough Jn to Ulceby South Jn HAU London North Eastern	02/12/06	Habrough Jn	0	32	
+0291	LN741	001	Habrough Jn to Ulceby South Jn HAU London North Eastern	02/12/06		0	38	*
+0291	LN741	001	Habrough Jn to Ulceby South Jn HAU London North Eastern	02/12/06	Rye Hill Farm LC	1	12	UWC
+0291	LN741	001	Habrough Jn to Ulceby South Jn HAU London North Eastern	02/12/06		1	41	*
+0291	LN741	001	Habrough Jn to Ulceby South Jn HAU London North Eastern	02/12/06	Ulceby South Jn	1	45	

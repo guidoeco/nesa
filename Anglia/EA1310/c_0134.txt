@@ -1,0 +1,6 @@
+Former Old Oak Jn 0 34
+Change of Mileage 0 43
+Acton Wells Jn (AW) SB 0 64
+Acton Wells Jn 0 66 i:
+Acton Wells Jn O 72
+

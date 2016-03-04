@@ -1,0 +1,63 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Llandudno Jn	223	12	
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		0	30	
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Glen Conwy LC	0	55	AHBC
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		1	00	*
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	ELAN com	1	39	
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Meddiant No.3 LC	2	61	UWC
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Hendre Waelod No.1 LC	2	68	UWC
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Meddiant No.4 LC	2	75	UWC
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Meddiant No.5 LC	3	03	UWC
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Hendre Waelod No.2 LC	3	22	UWC
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	TAL-Y-GAFN	5	05	
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Tal-y-Cafn LC	5	08	MCG
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Meddiant lsaf LC	5	23	UWC
+0130	NW3015	001	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Brickfield LC	5	62	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Tan-yr-Allt LC	6	15	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Tan-y-Tallt LC	6	32	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Ynys LC	6	65	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Dytto Farm LC	6	74	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Morfa-Rhydd-y—Pwll LC	7	04	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Troed-yr-Rhin LO (UWC) (Morfa No.2)	7	18	
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Bryn LC	7	42	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Bod Hyfryd LC	7	48	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	DOLGAIIROG	8	12	
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		8	55	*
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		8	70	*
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Dolfadog LC	9	38	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Tyn-Ddol LC	9	73	UWC
+0131	NW3015	002	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Tan Lan LC	10	31	UWC
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		11	03	*
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		11	05	*
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Llanmst SB	11	08	
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	NORTH LLANRWST	11	17	
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		11	20	*
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		11	22	*
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Llanlwst Tunnel	11	50	
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	(78m I 85 yds) to	11	54	
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	LLANRWST	11	57	
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		14	48	*
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		14	54	*
+0132	NW3015	003	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	BETWS-Y-COED	15	02	*
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Beaverpool Tunnel	16	14	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	(101m 110yd) to	16	19	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		19	00	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Pont-y—Pant Lower Tunnel	19	10	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	(132m / 144 yd)	19	17	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	FONT-Y-PANT	19	29	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Pont-y-Pant Upper Tunnel	19	56	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	(60m I 66yd)	19	59	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		20	50	*
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	DOLWYDDELAN	20	62	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08		20	70	*
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Bertheos Tunnel	22	19	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	(42m I 46yd) to	22	22	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	ROMAN BRIDGE	22	48	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Roman Bridge Tunnel	22	55	
+0133	NW3015	004	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	(39m I 43yd) to	22	57	
+0134	NW3015	005	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Ffestiniog Tunnel	24	33	
+0134	NW3015	005	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	(3522m I 3853 yd) to	26	48	*
+0134	NW3015	005	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Blaenau Ffestiniog GF No.2	27	33	
+0134	NW3015	005	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	BLAENAU FFESTINIOG	27	41	
+0134	NW3015	005	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	Blaenau Ffestiniog GF No.3	27	51	
+0134	NW3015	005	Llandudno Jn. to Blaenau Ffestiniog LJT1 LNW North	14/07/08	End of line	27	53	

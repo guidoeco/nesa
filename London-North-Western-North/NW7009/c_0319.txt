@@ -1,0 +1,14 @@
+Hoghton LC (AHBC) 5 27
+Hoghton West EGF 5 32
+Hoghton East EGF 5 33
+Pleasington Golf Club No.1 LC (UWC) 6 77
+PLEASINGTON 7 43
+Cherry Tree GF 8 40
+CHERRY TREE 8 50
+
+9 05 *
+MILL HILL 9 24
+
+9 31 *-
+Taylor Street 9 60
+

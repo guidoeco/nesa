@@ -1,0 +1,9 @@
+Preston South Jn 21 39
+21 47
+
+O 00
+Fishergate Tunnel 0 22
+(128 metres! 140 yards) to O 28
+Network Rail I Ribble Steam Railway 0 4D *-
+Boundary
+

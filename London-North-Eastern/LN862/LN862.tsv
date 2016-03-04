@@ -1,0 +1,57 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07	Barnsley Station Jn	6	43	
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07		6	40	*
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07		6	25	*
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07		5	75	*
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07	Summer Lane Jn	5	70	*
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07		4	62	*
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07		4	56	*
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07		4	10	*
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07		4	07	*
+0397	LN862	001	Barnsley Station Jn. to Huddersfield PED2 London North Eastern	12/05/07		3	75	*
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06	Dodworth LC	3	67	CCTV
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06	DODWORTH	3	63	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		3	54	*
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		3	05	*
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06	SILKSTONE COMMON	2	21	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06	Oxspring Tunnel	0	63	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06	(510m f 553 yards)	0	33	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		0	00	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		29	13	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		28	54	*
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		28	44	*
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		28	37	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		13	42	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06	PENISTONE	13	36	
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		13	29	*
+0398	LN862	002	Bansley Station Jn. to Huddersfield PED2 PED1 PEH London North Eastern	02/12/06		13	13	*
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	Wellhouse Tunnel	12	48	
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	(380m 1 415 yards) to	12	29	
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06		9	72	*
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	DENBY DALE	9	31	
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	Cumberworth Tunnel s.51t 05 *	9	31	X
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	(828ml906 yards)	3	44	
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	Clayton West Jn	7	62	*
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06		7	58	*
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	SHEPLEY	7	14	
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	srocxsmoon	6	26	
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06		6	05	*
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	Stocksmoor Jn	6	01	*
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	Carr Head Farm	11	72	UWC
+0399	LN862	003	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	lngbirohworth Public Bridleway	11	59	LC
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	Thurstonland Tunnel	5	58	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	(1491 m I 1631 yards) to	4	63	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	BROCKHOLES	4	25	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	HONLEY	3	28	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	Robin Hood Tunnel	2	70	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	to (208m I 228 yards)	2	60	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	BERRY BROW	2	26	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	LOGKWOOD	1	18	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	Lockwood Tunnel	1	16	
+0400	LN862	004	Barnsley Station Jn. to Huddersfield PEH London North Eastern	02/12/06	(188m I 205 yards) to	1	07	
+0401	LN862	005	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06		0	48	*
+0401	LN862	005	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	Springwood Jn	0	40	
+0401	LN862	005	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	Huddersfield South Tunnel	0	40	X
+0401	LN862	005	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	(636m! 695 yards)	0	11	*
+0401	LN862	005	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06		0	08	*
+0401	LN862	005	Barnsley Station Jn to Huddersfield PEH London North Eastern	02/12/06	HUDDERSFIELD	0	00	

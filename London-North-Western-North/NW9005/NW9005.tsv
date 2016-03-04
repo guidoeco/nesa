@@ -1,0 +1,36 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0389	NW9005	001	Chinley North Jn. to Buxton CNB1 LNW North	02/06/07	Chinley North Jn	166	39	*
+0389	NW9005	001	Chinley North Jn. to Buxton CNB1 LNW North	02/06/07	Chinley SB (CY)	166	39	X
+0389	NW9005	001	Chinley North Jn. to Buxton CNB1 LNW North	02/06/07	Chinley South Jn	167	56	*
+0389	NW9005	001	Chinley North Jn. to Buxton CNB1 LNW North	02/06/07	Chapel L.N.W. Tunnel	166	49	
+0389	NW9005	001	Chinley North Jn. to Buxton CNB1 LNW North	02/06/07	(95 metres 1' 104 yards) to	166	40	
+0389	NW9005	001	Chinley North Jn. to Buxton CNB1 LNW North	02/06/07	Doves Holes Tunnel	166	19	
+0389	NW9005	001	Chinley North Jn. to Buxton CNB1 LNW North	02/06/07	(2728 metres [2984 yards) to	164	43	
+0390	NW9005	002	Chinley North Jn. to Buxton CNB1 LNW North	14/07/07	Peakstone Private Sidings GF	163	72	
+0390	NW9005	002	Chinley North Jn. to Buxton CNB1 LNW North	14/07/07	Peak Farest Sidings	163	72	X
+0390	NW9005	002	Chinley North Jn. to Buxton CNB1 LNW North	14/07/07	Peak Forest South SB	163	58	
+0390	NW9005	002	Chinley North Jn. to Buxton CNB1 LNW North	14/07/07	Down Sidings GF	163	27	
+0390	NW9005	002	Chinley North Jn. to Buxton CNB1 LNW North	14/07/07		163	24	
+0390	NW9005	002	Chinley North Jn. to Buxton CNB1 LNW North	14/07/07		163	10	*
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07	Great Rocks Junction SB	163	02	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07		162	74	*
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07	Great Rocks Tunnel	162	32	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07	(147 metres! 161 yards) to	162	25	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07	Tunstead Sidings GF	162	09	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07		161	20	*
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07	Peak Forest Tunnel	161	09	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07	(27 metres I 29 yards) to	161	08	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07	Change of mileage	161	05	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07		0	00	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07	Change of mileage	0	28	
+0391	NW9005	003	Chinley North Jn. to Buxton CNB1 CNBZ LNW North	14/07/07		161	15	
+0392	NW9005	004	Chinley North Jn. to Buxton CNBZ CNB3 LNW North	02/06/07		161	20	*
+0392	NW9005	004	Chinley North Jn. to Buxton CNBZ CNB3 LNW North	02/06/07	Topley Pike GF	161	54	
+0392	NW9005	004	Chinley North Jn. to Buxton CNBZ CNB3 LNW North	02/06/07	Pic Tor Tunnel	162	32	
+0392	NW9005	004	Chinley North Jn. to Buxton CNBZ CNB3 LNW North	02/06/07	(175 metres I 191 yards) to	162	41	
+0392	NW9005	004	Chinley North Jn. to Buxton CNBZ CNB3 LNW North	02/06/07	Ashwood Dale Tunnel	163	69	
+0392	NW9005	004	Chinley North Jn. to Buxton CNBZ CNB3 LNW North	02/06/07	(91 metres] 100 yards) to	163	73	
+0393	NW9005	005	Chinley North Jn. to Buxton CNBB CNB4 LNW North	02/06/07		164	40	*
+0393	NW9005	005	Chinley North Jn. to Buxton CNBB CNB4 LNW North	02/06/07	Buxton SB	164	52	
+0393	NW9005	005	Chinley North Jn. to Buxton CNBB CNB4 LNW North	02/06/07		18	70	
+0393	NW9005	005	Chinley North Jn. to Buxton CNBB CNB4 LNW North	02/06/07		164	73	

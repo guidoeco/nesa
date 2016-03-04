@@ -1,0 +1,7 @@
+NRN
+TCB York SB
+RAQ AC: York ECR
+@ToIFrom Wintersett Sidings
+DD=Down Doncaster
+UD=Up Donoaster
+

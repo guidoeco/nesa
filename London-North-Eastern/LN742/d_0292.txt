@@ -1,0 +1,25 @@
+NRN
+OT(S) Immingham West Jn SB (IW)
+RAB
+AWS not provided between Killingholme
+and Ulceby North Jn
+CD See Local Instruction
+(2) Ground Frame controlled connections
+@ ToIFrom Admiralty Sidings
+ED Approaching level crossing
+C5) ToIFrom Coal Pad 2 line
+ToIFrom Coal Pad 1 line
+C7) TolFrom Ore Terminal line
+TolFrom Humber International Terminal Arrival!
+Departure line No. 1
+DK = Down Killingholme
+UK = Up Killingholme
+TolFrom Humber International Terminal Arrival!
+Departure line No. 2, Western Jetty Arrival!
+Departure IineslHenderson No. 8 Quay
+and Mineral Quay Sidings
+Immingham Reception Sidings SB (IR)
+ToiFrom NCB Terminal
+® TolFrom Lindsey Refinery
+TolFrom Humber Refinery
+

@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0262	NW5011	001	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07	Heaton Norris Jn 183 JP 56			X
+0262	NW5011	001	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		0	00	
+0262	NW5011	001	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		0	03	*
+0262	NW5011	001	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		0	60	
+0262	NW5011	001	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		0	62	
+0262	NW5011	001	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		1	43	*
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07	REDDISH SOUTH	1	50	
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		1	58	*
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		3	10	
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		3	12	*
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		3	27	*
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		3	38	*
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07	BENTON	3	39	
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		3	50	*
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07	Benton Jn SB	4	13	DJ
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		4	45	*
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07		4	49	
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07	Guide Bridge Station Jn	4	73	
+0263	NW5011	002	Heaton Norris Jn. to Guide Bridge Station Jn. HNS LNW North	14/10/07	GUIDE BRIDGE	4	76	

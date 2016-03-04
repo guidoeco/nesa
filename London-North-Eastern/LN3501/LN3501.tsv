@@ -1,0 +1,51 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0219	LN3501	001	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	London Road Jn	127	54	
+0219	LN3501	001	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		0	00	
+0219	LN3501	001	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		0	05	*
+0219	LN3501	001	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		0	07	*
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	RAMSLINE HALT			X
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	(Non Operational)			X
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		0	66	*
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		0	73	
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	L & NW Jn	0	75	
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		0	76	
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	PEARTREE	1	16	
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Melbourne Jn	1	27	
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	UGL	1	31	
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	DGL	1	44	
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		1	45	*
+0220	LN3501	002	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		1	50	*
+0221	LN3501	003	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Stenson Raynors LC	4	16	UWC
+0221	LN3501	003	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Stenson Jn	4	56	
+0221	LN3501	003	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	North Stafford Jn	5	14	*
+0221	LN3501	003	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Willington HABD	6	01	
+0221	LN3501	003	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	WILLINGTON	6	03	
+0221	LN3501	003	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Bromleys LC	3	13	UWC
+0221	LN3501	003	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Wiltshires LC	8	17	UWC
+0222	LN3501	004	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Clay Mills LC	8	54	CCTV
+0222	LN3501	004	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Clay Mills Jn	8	54	X
+0222	LN3501	004	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Hominglow Bridge Jn	10	33	
+0222	LN3501	004	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		10	48	*
+0222	LN3501	004	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	BURTON-ON-TRENT	10	67	
+0222	LN3501	004	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Mosley St GF	11	00	
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		11	02	*
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		11	02	
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Leicester Jn	11	17	
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Branston Jn	12	15	
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		12	40	*
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		12	60	*
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Boultons LC	12	74	UWC
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Dunstalls LC	13	31	UWC
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Branston HABD	13	44	
+0223	LN3501	005	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Arblasters LG	14	01	UWC
+0224	LN3501	006	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Barton Nortth	14	55	
+0224	LN3501	006	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		14	78	*
+0224	LN3501	006	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Central Rivers Depot	15	20	
+0224	LN3501	006	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		15	47	*
+0224	LN3501	006	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Barton South Jn	15	65	
+0225	LN3501	007	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Wichnor Jn	16	22	
+0225	LN3501	007	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Elford GF	19	40	
+0225	LN3501	007	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06		20	17	
+0225	LN3501	007	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Tamworth HABD	22	40	
+0225	LN3501	007	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	Territory boundary	23	30	
+0225	LN3501	007	Derby London Road Jn to Tamworth (Exclusive) DBP London North Eastern	02/12/06	TAMWORTH {HIGH LEVEL)	23	58	

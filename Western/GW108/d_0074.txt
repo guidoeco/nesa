@@ -1,0 +1,11 @@
+NRN
+TCB Exeter SB (E) .
+Platform 1 - 193m, 211yds
+Platform 2 - 178m, 195yds
+DPL 352m, 1155ft
+UPL 384m, 1260ft
+UPL bi-directional
+to E298
+Lines from Totnes (excl) controlled
+by Plymouth (P) signal box
+

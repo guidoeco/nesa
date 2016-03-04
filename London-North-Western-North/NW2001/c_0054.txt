@@ -1,0 +1,14 @@
+183 46 a:
+184 06 *-
+184 57
+Halewood East Jn 184 64
+Halewood West Jn 185 15
+185 20
+185 56 *-
+186 00 *
+OHNS 186 09
+OHNS 186 19
+186 22 *-
+186 57
+Speke Jn GF 186 72
+

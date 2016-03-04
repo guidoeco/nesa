@@ -1,0 +1,14 @@
+NRN
+RAB
+(D - Engineers Siding
+Other crossings in this area
+T = Meadow Gates UWC at 20 00
+T = Black Carr UWC at 22 09
+T = Outgates Farm UWC at 22 76
+T = Mingledale UWC at 23 34
+T = Mill Farm UWC at 23 48
+T = Harpham UWC at 25 10
+T = Manor Farm UWC at 26 40
+T = Thomholme UWC at 26 61
+T = Haisthorpe UWC at 27 25
+

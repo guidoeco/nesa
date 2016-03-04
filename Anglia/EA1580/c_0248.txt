@@ -1,0 +1,14 @@
+94 20 *
+Gooderham's No.41 LC 94 7O
+Gooderham's No.42 LC 95 28
+
+meton LC (AHBC-X) 96 44 *
+Shadwell LC 98 50
+Drove Road LC 99 51
+Hockham Road LC 99 67
+Roudham Hall Road LG 100 17
+
+100 27 i:
+
+100 47 *
+

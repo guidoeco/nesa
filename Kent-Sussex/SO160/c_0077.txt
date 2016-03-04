@@ -1,0 +1,15 @@
+62 66 are
+Little Barton TP Hut 62 79
+
+64 40 *-
+BEKESBOURNE 64 58
+Bekesbourne Substation 64 63
+Brambling TP Hut 66 39
+ADISHAM 67 60
+Adisham Substation 68 16
+AYLESHAM 6B 66
+
+69 40 *
+SNOWDOWN 69 60
+Snowdown TP Hut 69 67
+

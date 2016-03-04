@@ -1,0 +1,20 @@
+NRN CSR
+TCB Wimbledon SC (W)-Main Line
+RAB DC:Raynes Park
+Platforms 1 -19 PP
+® Platforms 20 -24 Out of Use
+unless specially authorised
+A.W.S. not provided for temporary
+speed restrictions between Waterloo
+and Clapham Jn
+CSR
+Wimbledon sc (W)-Windsor Lines
+1 Windsor Reversible
+2 Up Windsor
+3 Down Windsor
+4 Up Main Relief
+5 Up Main Fast
+6 Down Main Fast
+7 Up Main Slow
+8 Down Main Slow
+

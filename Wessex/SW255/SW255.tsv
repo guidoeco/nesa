@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0184	SW255	001	Virginia Water to Weybridge VWW Wessex	02/12/06		24	51	*
+0184	SW255	001	Virginia Water to Weybridge VWW Wessex	02/12/06	GHERTSEY	22	25	
+0184	SW255	001	Virginia Water to Weybridge VWW Wessex	02/12/06	Chertsey LC	22	25	CCTV
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06	ADDLESTONE	20	71	
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06	Addlestone LC	20	71	CCTV
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06	Addlestone Jn	19	74	*
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06		00	00	
+0185	SW255	002	Virginia Water to Weybridge VWW Wessex	02/12/06		00	48	*

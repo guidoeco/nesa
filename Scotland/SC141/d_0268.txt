@@ -1,0 +1,6 @@
+RETB 125 Banavie SC
+G) = Applies to Class 1 to 6
+trains
+C2) = Applies to Class 7, 8 & 0
+trains
+

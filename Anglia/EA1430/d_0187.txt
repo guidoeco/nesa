@@ -1,0 +1,6 @@
+NRN
+RETB 111 Saxmundham SB (SM)
+RA?r
+Up platform - 142m (130m (141 yd) stop)
+Down platform - 129m (53m (57 yd) stop)
+

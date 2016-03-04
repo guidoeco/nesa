@@ -1,0 +1,12 @@
+Barnsley Station Jn 6 43
+6 40 *-
+6 25 2k
+5 75 1:
+
+Summer Lane Jn 5 70 *-
+4 62 9:
+4 56 i:
+4 10 1e
+4 07 *-
+3 75 *-
+

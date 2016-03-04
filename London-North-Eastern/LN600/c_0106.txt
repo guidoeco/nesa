@@ -1,0 +1,8 @@
+43 72 *-
+Darlington down bypass line
+DARLINGTON 44 1O
+44 14 *
+44 24 are
+Darlington North Jn 44 36
+Darlington Up Siding
+

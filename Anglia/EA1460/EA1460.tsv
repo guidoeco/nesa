@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Felixstowe Beach Jn	83	57	
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07		84	10	*
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Felixstowe Beach LC	84	69	CCTV
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Felixstowe Dock Jn	85	22	
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Network Rail Boundary Rail Yard	85	29	
+0201	EA1460	001	Felixstowe Beach Jn to Felixstowe Beach FED Anglia	21/04/07	Network Rail Boundary South Teminal	85	34	

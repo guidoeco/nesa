@@ -1,0 +1,12 @@
+Down main signal P29 150 50 *
+(Change of SCM4 to SCM5)
+Down Fast signal P61 and up Fast 151 00 7:
+signal P64 and Down Dundee loop
+signal P65
+
+151 03
+
+21 01 x
+
+Perth 83 151 05
+

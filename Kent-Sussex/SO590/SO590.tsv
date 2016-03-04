@@ -1,0 +1,84 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0222	SO590	001	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	(Keymer Jn)	40	69	
+0222	SO590	001	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Keymer LC	41	00	CCTV
+0222	SO590	001	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06		41	20	*
+0222	SO590	001	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06		42	14	*
+0222	SO590	001	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Ditchling TP Hut	42	57	
+0222	SO590	001	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Spatham Lane LC (AHBC)	42	76	*
+0222	SO590	001	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06		43	55	*
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Ridden's Lane Crossing	44	06	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Plumpton Substation	44	39	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	PLUMPTON	44	42	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Plumpton LC	44	46	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Plumpton Gate Box Ground Frame	44	46	X
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	East Chiltington Crossing	45	52	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Chiltington TP Hut	45	70	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Kemps Farm Crossing	46	08	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Cooksbridge Substation	47	23	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	COOKSBRIDGE	47	31	
+0223	SO590	002	Keymer Jn to Eastbourne KJE1 Kent/Sussex	02/12/06	Cooksbridge LC	47	35	CCTV
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08		47	40	*
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08	Hamsey LC	48	12	AHBC
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08	Offham TP Hut	48	50	
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08	Lewes Tunnel	49	49	
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08	(395 yards)	49	60	*
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08		49	67	
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08	LEWEs	49	74	
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08	Lewes Substation	50	01	
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08	Lewes Ground Frame	50	03	
+0224	SO590	003	Keymer Jn to Eastbourne KJE1 BTL Kent! Sussex	22/03/08	Lewes SB	50	03	LW
+0225	SO590	004	Keymer Jn to Eastbourne KJE2 Kent/Sussex	02/12/06		50	47	*
+0225	SO590	004	Keymer Jn to Eastbourne KJE2 Kent/Sussex	02/12/06	Southerham Crossing	50	69	
+0225	SO590	004	Keymer Jn to Eastbourne KJE2 Kent/Sussex	02/12/06		51	00	*
+0225	SO590	004	Keymer Jn to Eastbourne KJE2 Kent/Sussex	02/12/06	Southerham Jn	51	11	
+0225	SO590	004	Keymer Jn to Eastbourne KJE2 Kent/Sussex	02/12/06		9	14	
+0225	SO590	004	Keymer Jn to Eastbourne KJE2 Kent/Sussex	02/12/06	Southerham T.P. Hut	9	20	
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		9	35	*
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Cow Crossing	9	79	
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		10	02	*
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		10	06	*
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Beddingham LC	10	08	AHBC
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		10	09	*
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Glynde Substation	11	06	
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	GLYNDE	11	14	
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		11	30	*
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Loover Barn Crossing	11	62	
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		12	18	*
+0226	SO590	005	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Lower Barn No1 Crossing	12	42	
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Firle TP Hut	12	74	
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Ripe LC (AHBC)	13	25	*
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Firle Crossing	13	56	
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Selmeston LC (AHBC)	14	58	*
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Selmeston Substation	14	62	
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	BERWIGK	15	50	
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Berwick LC	15	55	
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Berwick SB	15	55	BK
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		15	64	*
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		16	16	*
+0227	SO590	006	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Berwick TP Hut	16	37	
+0228	SO590	007	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Wilmington Green FIP	17	03	
+0228	SO590	007	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Wilmington LC (AHBC)	17	29	*
+0228	SO590	007	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Folkington Substation	18	23	
+0228	SO590	007	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		18	30	*
+0228	SO590	007	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Dukes Crossing	18	72	
+0228	SO590	007	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Polegate SB	19	34	PG
+0228	SO590	007	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Polegate Crassing LC	19	35	
+0228	SO590	007	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	POLEGATE	19	42	
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		19	65	*
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Polegate East TP Hut	19	71	
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		20	00	*
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		20	03	
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		20	45	*
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Willingdon Jn	21	39	
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		20	36	
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06		21	40	*
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Willingdon Jn Substation	21	42	
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Hampden Park LC	21	71	
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	Hampden ParkSB	21	71	CDB
+0229	SO590	008	Keymer Jn to Eastbourne KJE3 Kent/Sussex	02/12/06	HAMPDEN PARK	21	75	
+0230	SO590	009	Keymer Jn to Eastbourne KJE3 Kent! Sussex	22/03/08		23	03	*
+0230	SO590	009	Keymer Jn to Eastbourne KJE3 Kent! Sussex	22/03/08	Eastboume Substation	23	12	
+0230	SO590	009	Keymer Jn to Eastbourne KJE3 Kent! Sussex	22/03/08		23	45	*
+0230	SO590	009	Keymer Jn to Eastbourne KJE3 Kent! Sussex	22/03/08	Eastboume SB	23	63	EB
+0230	SO590	009	Keymer Jn to Eastbourne KJE3 Kent! Sussex	22/03/08	EASTBOURNE	23	73	
+0230	SO590	009	Keymer Jn to Eastbourne KJE3 Kent! Sussex	22/03/08	Eastboume Ground Frame	23	73	X

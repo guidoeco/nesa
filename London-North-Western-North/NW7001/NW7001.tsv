@@ -1,0 +1,84 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0304	NW7001	001	Manchester Victoria West Jn. to Hebden Bridge MVE1 LNW North	01/12/07	Manchester Victoria West Jn	0	16	
+0304	NW7001	001	Manchester Victoria West Jn. to Hebden Bridge MVE1 LNW North	01/12/07		0	07	*
+0304	NW7001	001	Manchester Victoria West Jn. to Hebden Bridge MVE1 LNW North	01/12/07	MANCHESTER VICTORIA	0	00	
+0304	NW7001	001	Manchester Victoria West Jn. to Hebden Bridge MVE1 LNW North	01/12/07		0	00	
+0304	NW7001	001	Manchester Victoria West Jn. to Hebden Bridge MVE1 LNW North	01/12/07		0	08	
+0304	NW7001	001	Manchester Victoria West Jn. to Hebden Bridge MVE1 LNW North	01/12/07	Manchester Victoria East Junction	0	09	
+0304	NW7001	001	Manchester Victoria West Jn. to Hebden Bridge MVE1 LNW North	01/12/07		0	12	
+0304	NW7001	001	Manchester Victoria West Jn. to Hebden Bridge MVE1 LNW North	01/12/07		0	31	*
+0305	NW7001	002	Manchester Victoria West Jn. to Hebden Bridge MVM LNW North	30/07/07		0	59	*
+0305	NW7001	002	Manchester Victoria West Jn. to Hebden Bridge MVM LNW North	30/07/07		1	17	*
+0305	NW7001	002	Manchester Victoria West Jn. to Hebden Bridge MVM LNW North	30/07/07		1	20	
+0305	NW7001	002	Manchester Victoria West Jn. to Hebden Bridge MVM LNW North	30/07/07		1	22	*
+0305	NW7001	002	Manchester Victoria West Jn. to Hebden Bridge MVM LNW North	30/07/07		1	23	*
+0305	NW7001	002	Manchester Victoria West Jn. to Hebden Bridge MVM LNW North	30/07/07	Miles Platting Jn	1	30	
+0306	NW7001	003	Manchester Victoria West Jn. to Hebden Bridge MPR1 LNW North	07/10/06		1	48	*
+0306	NW7001	003	Manchester Victoria West Jn. to Hebden Bridge MPR1 LNW North	07/10/06	Brewery Jn	0	18	
+0306	NW7001	003	Manchester Victoria West Jn. to Hebden Bridge MPR1 LNW North	07/10/06		1	52	
+0306	NW7001	003	Manchester Victoria West Jn. to Hebden Bridge MPR1 LNW North	07/10/06		1	67	
+0306	NW7001	003	Manchester Victoria West Jn. to Hebden Bridge MPR1 LNW North	07/10/06		2	05	*
+0306	NW7001	003	Manchester Victoria West Jn. to Hebden Bridge MPR1 LNW North	07/10/06	Thorpes Bridge Jn	2	17	
+0306	NW7001	003	Manchester Victoria West Jn. to Hebden Bridge MPR1 LNW North	07/10/06		2	22	
+0307	NW7001	004	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	24/01/09		2	23	
+0307	NW7001	004	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	24/01/09	Newton Heath TMD	2	23	X
+0307	NW7001	004	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	24/01/09		2	48	
+0307	NW7001	004	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	24/01/09		2	53	
+0307	NW7001	004	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	24/01/09	MOSTON	4	00	
+0307	NW7001	004	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	24/01/09	Vitriol Works SB	4	64	
+0307	NW7001	004	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	24/01/09		5	09	
+0307	NW7001	004	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	24/01/09	MILLS HILL	5	74	
+0308	NW7001	005	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	08/03/08	Castleton South Jn	8	21	
+0308	NW7001	005	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	08/03/08		8	24	
+0308	NW7001	005	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	08/03/08		8	38	
+0308	NW7001	005	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	08/03/08		8	43	
+0308	NW7001	005	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	08/03/08	Castleton East Jn SB	8	52	CE
+0308	NW7001	005	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	08/03/08	Castleton East Jn	8	52	X
+0308	NW7001	005	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	08/03/08		8	64	
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08	CASTLETON	8	69	
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08		8	75	*
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08		10	20	*
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08	ROGHDALE	10	36	
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08	Rochdale SB	10	53	RE
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08		10	58	*
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08		10	62	*
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08	Rochdale East Jn	10	63	
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08	SMITHY BRIDGE	12	60	
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08	Smithy Bridge LC EMCB)	12	65	
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08	Smithy Bridge SB SB)	12	65	
+0309	NW7001	006	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	01/11/08	LITTLEBOROUGH	13	65	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Littleborough GF	14	40	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Summit West Tunnel	15	06	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(50m 1 55yds) to	15	08	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	SummitTunnel	15	13	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(2637m! 2885 yds)	16	40	*
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06		16	64	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Summit East Tunnel	16	65	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(37m 141 yds) to	16	67	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Dean Royd Tunnel	16	74	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(64m l 70 yds) to	16	77	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06		17	00	*
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Winterbutlee Tunnel	17	46	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(280m I 306 yds) to	17	60	
+0310	NW7001	007	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	WALSDEN	17	70	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06		18	60	*
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	TODMORDEN	19	13	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06		19	40	*
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06		19	49	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06		19	55	*
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Hall Royd DCE Siding GF	19	56	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Hall Royd Jn	19	61	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Millwood Tunnel	19	63	*
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(206 m [225 yds) to	19	73	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Castle Hill Tunnel	20	07	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(177 m I 194 yds) to	20	16	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Horsfall Tunnel	20	44	
+0311	NW7001	008	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(250 m I 274 yds) to	20	56	
+0312	NW7001	009	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06		22	20	*
+0312	NW7001	009	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06		22	40	*
+0312	NW7001	009	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Network Rail	22	62	*
+0312	NW7001	009	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	London North Western	22	62	X
+0312	NW7001	009	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(Appendix Boundary)	22	62	X
+0312	NW7001	009	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	Weasel Hall Tunnel	23	12	
+0312	NW7001	009	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	(100m I 109 yds) to	23	17	
+0312	NW7001	009	Manchester Victoria West Jn. to Hebden Bridge MVN2 LNW North	07/10/06	HEBDEN BRIDGE	23	54	

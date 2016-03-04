@@ -1,0 +1,21 @@
+NRN
+
+TCB Milford SB (M)
+RAQ
+G) = MGR loaded and empty coal trains consisting
+of HAA type wagons are restricted to a 30 mph
+maximum speed on both the Down and Up
+Pontefraot lines between 0 19 and 16 68
+DPT = Down Pontefract
+UPT = Up Pontefract
+DN = Down Normanton
+UN = Up Normanton
+DMD = Down Milford
+UMD = Up Milford
+DUMD = DownIUp Milford
+WA = West Arrival
+WD = West Departure
+
+Gasooigne Wood SB (GW)
+® ToIFrom Gascoine Wood Sidinge
+

@@ -1,0 +1,16 @@
+96 71
+Kings Dyke LC (M03) 96 73
+Kings Dyke SB (K) 96 75
+Funthams Lane LC (CCTV) 97 16
+Network Rail Anglia] 98 40
+LNE Route Boundary
+
+99 15 1:
+
+99 7O *-
+
+100 18 *
+
+100 37
+Crescent Jn 100 66
+

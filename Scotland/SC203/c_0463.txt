@@ -1,0 +1,15 @@
+64 19 *
+Sdg GF
+LAIRG TEP 66 78
+Lairg LC (AOCL) 67 11
+
+68 00 *
+Tomich No1 LC (UWC) 68 54
+Tomich No 2 LC (UWC) 68 64
+
+7O 00 *
+Acheilidh LC (ABCL) 72 63
+Acheilidh No 3 LC (UWC) 72 68
+Acheilidh No 4 LC (UWC) 72 78
+Ardachu No 3 LC (UWC) 73 53
+

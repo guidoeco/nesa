@@ -1,0 +1,7 @@
+89 25 *
+MOTHERWELL 89 33
+Jn with Hamilton Lines 89 50
+Jn with Coatbridge Lines 89 51
+
+89 61 *
+

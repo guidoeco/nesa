@@ -1,0 +1,79 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0156	SW210	001	Clapham Junction to Southcote Junction (via Reading) RDG1 PPW Wessex	02/12/06	GLAPHAM JUNCTION	3	74	
+0156	SW210	001	Clapham Junction to Southcote Junction (via Reading) RDG1 PPW Wessex	02/12/06	WANDSWORTH TOWN	4	60	
+0156	SW210	001	Clapham Junction to Southcote Junction (via Reading) RDG1 PPW Wessex	02/12/06	Point Pleasant Jn	5	09	
+0157	SW210	002	Clapham Junction to Southcote Junction (via Reading) RDG1 HOU Wessex	02/12/06	PUTNEY	5	72	
+0157	SW210	002	Clapham Junction to Southcote Junction (via Reading) RDG1 HOU Wessex	02/12/06	BARNES	7	07	
+0157	SW210	002	Clapham Junction to Southcote Junction (via Reading) RDG1 HOU Wessex	02/12/06	Vine Road Barnes (Richmond Line)	7	26	
+0157	SW210	002	Clapham Junction to Southcote Junction (via Reading) RDG1 HOU Wessex	02/12/06	LC (CCTV)	7	26	X
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	White Hart LC	7	52	CCTV
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Mortlake LC	8	21	CCTV
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	MORTLAKE	8	21	
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	NORTH SHEEN	9	03	
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	North Sheen LC	9	12	CCTV
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06		9	50	*
+0158	SW210	003	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	RIGHMOND	9	57	
+0159	SW210	004	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	22/03/08		10	20	*
+0159	SW210	004	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	22/03/08	ST MARGARETS	10	66	
+0159	SW210	004	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	22/03/08	TWICKENHAM	11	22	
+0160	SW210	005	Clapham Junction to Southcote Junction (via Reading) RDG1 TSJ HJW Wessex	02/12/06	WHITTON	12	43	
+0160	SW210	005	Clapham Junction to Southcote Junction (via Reading) RDG1 TSJ HJW Wessex	02/12/06	Whitton Jn	13	03	
+0160	SW210	005	Clapham Junction to Southcote Junction (via Reading) RDG1 TSJ HJW Wessex	02/12/06		14	39	
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	Feltham Jn	13	35	*
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	Feltham SB	14	68	F
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	FELTHAM	14	68	
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	Feltham West LC	14	74	CCTV
+0161	SW210	006	Clapham Junction to Southcote Junction (via Reading) HOU RDG1 Wessex	02/12/06	ASHFORD	17	40	
+0162	SW210	007	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	02/12/06	Oakmead Crossing	18	30	
+0162	SW210	007	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	02/12/06		18	60	*
+0162	SW210	007	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	02/12/06	STAINES	19	02	*
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06		19	50	*
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06		19	58	*
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Thorpe Lane LC	19	67	CCTV
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Pooley Green LC	20	51	CCTV
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	EGHAM	21	02	
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Egham LC	21	02	CCTV
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Rusham LC (AHBC)	21	61	*
+0163	SW210	008	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	02/12/06	Stroude Crossing	22	51	
+0164	SW210	009	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	22/11/08	VIRGINIA WATER	23	15	
+0164	SW210	009	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	22/11/08	LONGGROSS	25	11	
+0164	SW210	009	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	22/11/08	Sunningdale LC	26	71	CCTV
+0164	SW210	009	Clapham Junction to Southcote Junction (via Reading) RDG1 VWW Wessex	22/11/08	SUNNINGDALE	26	71	
+0165	SW210	010	Clapham Junction to Southcote Junction (via Reading) RDG1 AAV Wessex	02/12/06	ASCOT	23	79	
+0165	SW210	010	Clapham Junction to Southcote Junction (via Reading) RDG1 AAV Wessex	02/12/06	Englemere Crossing	29	36	
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	MARTINS HERON	31	09	
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	BRACKNELL	32	24	
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07		32	34	*
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	Watefloo LC	34	76	AHBG
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	Star Lane LG (CCTV)	35	30	*
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07	Smiths Crossing	35	73	
+0166	SW210	011	Clapham Junction to Southcote Junction (via Reading) RDG1 Wessex	03/03/07		36	17	*
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07		36	26	*
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07		61	65	*
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	Wokingham Jn	36	35	
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07		61	72	
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	Wokingham SB (WM)	61	72	X
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	Wokingham LC	62	08	
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	WOKINGHAM			Z
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07		62	14	*
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	WINNERSH	64	10	
+0167	SW210	012	Clapham Junction to Southcote Junction (via Reading) RDG1 RDGZ GTW2 Wessex	03/03/07	WINNERSH TRIANGLE	64	72	
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06	EARLEY	66	01	
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06	Reading Spur Jn	67	76	
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06	(Territory Boundary)	67	76	X
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06		68	20	*
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06	Reading New Jn	68	35	
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06		35	40	
+0168	SW210	013	Clapham Junction to Southcote Junction (via Reading) RDG1 RNJ Wessex	02/12/06		68	51	*
+0169	SW210	014	Clapham Junction to Southcote Junction (via Reading) RDG2 MLN1 Wessex	22/03/08		35	60	*
+0169	SW210	014	Clapham Junction to Southcote Junction (via Reading) RDG2 MLN1 Wessex	22/03/08	Reading SB	68	68	R
+0169	SW210	014	Clapham Junction to Southcote Junction (via Reading) RDG2 MLN1 Wessex	22/03/08		35	78	
+0169	SW210	014	Clapham Junction to Southcote Junction (via Reading) RDG2 MLN1 Wessex	22/03/08	READING	68	68	
+0170	SW210	015	Clapham Junction to Southcote Junction (via Reading) MLN1 Wessex	02/12/06	Westbury Line Jn	36	17	*
+0170	SW210	015	Clapham Junction to Southcote Junction (via Reading) MLN1 Wessex	02/12/06		36	27	*
+0170	SW210	015	Clapham Junction to Southcote Junction (via Reading) MLN1 Wessex	02/12/06		36	29	*
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06	Oxford Road Jn	36	67	
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06		36	67	*
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06	READING WEST	36	75	
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06		37	02	*
+0171	SW210	016	Clapham Junction to Southcote Junction (via Reading) MLN1 BKE Wessex	02/12/06	Southcote Jn	37	62	

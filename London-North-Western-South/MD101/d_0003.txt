@@ -1,0 +1,25 @@
+NRN CSR
+TCB Wembley Mainline SCC (WM)
+AC: Rugby ECR
+DC: Rugby ECR
+D.C. lines (Lines B & 0) supply
+controlled by Rugby E.C. R.
+Line Lockouts
+Line A 1m Ofich to 0m 390h
+Line B 1m 060h to 0m 39ch
+Line D 1m 51ch to 1m 250h
+Line E 1m 25ch to 1m 51ch
+Down Fast 1m 51ch to 2m 280h
+Down Slow 1m 51ch to 2m 280h
+Up Fast 2m 280h to 1m 51ch
+Up Slow 2m 280h to 1m 51ch
+1m finch. Change of line designation
+C to DS. US to B.
+1m 51ch. Change of line designation
+E to DF. UF to D orA.
+TASS fitted:
+DF line from 2m 28m
+UF line to 2m SOC-h
+DE - Down DC Electric
+UE - Up DC Electric
+

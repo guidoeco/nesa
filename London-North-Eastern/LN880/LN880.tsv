@@ -1,0 +1,142 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	YORK	0	00	
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07		0	18	
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07		0	22	*
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07		0	25	*
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	Bootham LC	1	51	AHBC-X
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07		1	52	*
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	Bootham Stray LC	1	70	UWC
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	Kettlestring Farm LC	2	54	UWC
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07		2	60	*
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	New Earswick LC	3	00	UWC
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	Hall Farm LC	3	19	UWC
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	Haxby Road LC	3	27	CCTV
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07		3	37	*
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	Farmstead Rise LC	3	45	UWC
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07	Haxby Station LC	4	18	CCTV
+0413	LN880	001	York to Scarborough YMS London North Eastern	25/08/07		4	28	*
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Strensall No1 LC	6	00	CCTV
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Strensall N02 LC	6	11	CCTV
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07		6	20	*
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Strensall LC	6	48	MOB
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Strensall SB	8	48	8
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07		8	84	*
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07		6	78	*
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Common Road LC	7	52	MCG
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07		8	81	*
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Flaxton LC	9	21	AHBC—X
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07		9	22	*
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07		10	05	*
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07		11	00	*
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Barton HiIILC	11	48	MCB
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Barton Hill SB	11	48	
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Barkers	4	59	UWC
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Manor Farm	5	03	UWC
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Oakbutts	5	26	UWC
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Riversdals Farm	7	03	UWC
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Strensall Walbutts	7	19	UWC
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Flaxton Moor	8	28	UWC
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Gennel Farm	8	65	UWC
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Thornton Gates Public Bridleway	10	20	
+0414	LN880	002	York to Scarborough YMS London North Eastern	25/08/07	Foston Gates	10	74	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		12	17	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		12	40	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Howsham Lc	13	28	MCG
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		13	30	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		13	53	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		13	65	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		14	08	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		14	55	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		14	75	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Kirkham Abbey LC	15	01	MCG
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Kirkham Abbey SB	15	01	
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		15	47	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		16	14	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		15	20	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		13	22	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		13	40	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		15	75	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06		20	35	*
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Green Farm	11	72	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Manor Farm (Barton)	11	77	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Brisby's	12	17	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Plain Moor	12	32	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Manor Farm Crambe	13	58	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Newcombe's	13	65	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Oakcliffe	14	05	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Brotherton's	14	13	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Crambeck	16	15	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Low Hutton	17	75	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	Portobella Farm	19	12	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	High Farm	19	53	UWC
+0415	LN880	003	York to Scarborough YMS London North Eastern	02/12/06	New Cut	20	07	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		20	50	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		20	73	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		21	03	
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	MALTON	21	12	
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		21	20	
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		21	21	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		21	25	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		21	31	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Malton SB	21	32	M
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Malton LC	21	32	MCB
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		22	03	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		22	55	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06		23	02	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Rillington LC (AHBC-X)	25	42	*
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Wallgate	21	50	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Mill Garth	21	70	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Villa Farm	22	46	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Norton Parks	22	78	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Marr House Farm	23	43	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Birdsall Estates	23	63	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Scagglethorpe Grange	24	14	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Manor Farm	24	35	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Kilby's	24	53	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Lilac Farm	24	72	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Sleights Farm	25	57	UWC
+0416	LN880	004	York to Scarborough YMS London North Eastern	02/12/06	Ivy Lea Farm	25	72	UWC
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06		26	16	*
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	High Scampston LC	26	19	AHBC-X
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	Low Scampston LC	26	54	AHBC-X
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06		26	65	*
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06		27	40	*
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	Knapton LC	27	41	AHBC-X
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06		27	60	*
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	Elm Tree Farm LC	27	75	UWC
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	Wilkinsons LC	28	17	UWC
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06		29	20	*
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	Heslerton Station LC	29	32	AHBC-X
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	Sand Lane LC	29	74	UWC
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	West Heslerton LC	30	52	AHBC—X
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06		30	77	*
+0417	LN880	005	York to Scarborough YMS London North Eastern	02/12/06	East Heslerton LC	31	00	AHBC-X
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Cousins LC	31	56	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06		32	06	*
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Grange Farm LC	32	09	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06		32	20	*
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06		32	65	*
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Weaverthorpe LC	32	68	MCG
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Weaverthorpe SB	32	68	
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Jacksons LC	33	03	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Ganton Hall LC	33	62	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Long Plantation LC	34	08	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Ganton LC	34	34	AHBC-X
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Binnington LC	35	22	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Willerby Carr LC	35	69	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Robin's Bottom Plantation LC	36	40	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Seamer Carr Farm	37	14	
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Pasture Lane Public BW	38	20	
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06		38	32	*
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06	Meads Lane LC	38	47	UWC
+0418	LN880	006	York to Scarborough YMS London North Eastern	02/12/06		38	60	*
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07	Seamer West Jn	38	66	*
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07		39	05	*
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07	SEAMER	39	14	
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07	Seamer SB	39	17	SR
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07		40	00	*
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07		41	20	*
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07		41	58	
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07	Falsgrave SB (F)	41	63	*
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07		41	68	*
+0419	LN880	007	York to Scarborough YMS London North Eastern	01/12/07	SCARBOROUGH	42	06	

@@ -1,0 +1,19 @@
+Onllwyn
+Old Station 10 26
+Onllwyn GF 10 11
+Network Rail Boundary 1O 10 *
+
+8 20 i:
+Brynteg LC (UWC) 7 55
+Nant—y—Cefn LC (UWC) 7 46
+Llwynllanc Farm 1 LC(UWC) 5 03
+Cefn Coed LC (UWC) 4 19
+Tir Isaf 1 LC (UWC) 2 74
+Glyn-y-Mul LC (UWC) 2 52
+CW 0 72
+
+0 06 *
+Neath and Brecon Jn 0 01
+
+41 17
+

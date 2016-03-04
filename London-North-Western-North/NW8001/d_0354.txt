@@ -1,0 +1,15 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+Platform Lengths: Hillside
+Up: 137m (150 yards)
+Down: 137m (150 yards)
+USP = Up Southport
+DSP = Down Southport
+Platform Lengths: Birkdale
+Up 141m (154 yards)
+Down 130m (142 yards)
+Exceptional rail head conditions down
+and up main lines between
+4m Och and 17m 600h.
+

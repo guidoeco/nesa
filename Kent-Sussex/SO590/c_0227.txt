@@ -1,0 +1,12 @@
+Firle TP Hut 12 74
+Ripe LC (AHBC) 13 25 1k
+Firle Crossing 13 56
+Selmeston LC (AHBC) 14 58 *-
+Selmeston Substation 14 62
+BERWIGK 15 50
+Berwick LC 15 55
+Berwick SB (BK) 15 55
+15 64 *-
+16 16 *
+Berwick TP Hut 16 37
+

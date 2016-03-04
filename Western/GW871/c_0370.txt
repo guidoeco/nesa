@@ -1,0 +1,6 @@
+17 78
+Ford Siding GF 0 00
+Waterton LC (AOCL) 1 13
+Boundary 1 18
+(Network Rail/Ford)
+

@@ -1,0 +1,16 @@
+NRN
+TCB Stoke-on-Trent SB (SOT)
+AC: Crewe
+Platform Lengths: Kidsgrove
+Platform 3: Up 119m (130yards)
+Platform 4: Down 97m (106yards)
+GSM-R area
+Entry: 1m 18ch Up
+Exit: 1m O4ch Down
+LA
+NRN
+TCB Crewe SB (CE)
+AC: Crewe
+'U&D'GL= 'Upadown' Goods loop
+(PF) 531m (1743ft)
+

@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0303	LN754	001	Scunthorpe Foreign Ore Branch SAN London North Eastern	02/12/06	Foreign Ore Branch Jn	0	00	
+0303	LN754	001	Scunthorpe Foreign Ore Branch SAN London North Eastern	02/12/06	British Steel Corporation Foreign	1	16	
+0303	LN754	001	Scunthorpe Foreign Ore Branch SAN London North Eastern	02/12/06	Ore Terminal.	1	16	X
+0303	LN754	001	Scunthorpe Foreign Ore Branch SAN London North Eastern	02/12/06	End of line	1	16	X

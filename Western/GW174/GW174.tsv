@@ -1,0 +1,21 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0101	GW174	001	West Ealing to Greenford West Jn WEL Western	05/08/06	West Ealing Jn	6	56	
+0101	GW174	001	West Ealing to Greenford West Jn WEL Western	05/08/06	Plassers LC (AOCL)	6	71	*
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	Drayten Green Jn	7	03	*
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	DRAYTOH GREEN	7	07	
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	CSRChannel Change	7	14	
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	(Down direction)	7	14	X
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	Drayton Green Tunnel	7	15	
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	(463m, 506yds)	7	36	
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	CASTLE BAR PARK	7	44	
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06		7	46	*
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	CSR Channel Change	8	00	
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	(Up direction)	8	00	X
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06	SOUTH GREENFORD	8	24	
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06		8	37	*
+0102	GW174	002	West Ealing to Greenford West Jn WEL Western	05/08/06		8	40	*
+0103	GW174	003	West Ealing to Greenford West Jn WEL Western	05/08/06	Greenford South Jn	8	45	
+0103	GW174	003	West Ealing to Greenford West Jn WEL Western	05/08/06	Greenford (LUL) Bay Jn	8	65	
+0103	GW174	003	West Ealing to Greenford West Jn WEL Western	05/08/06	Greenford East (GE) SB	8	74	
+0103	GW174	003	West Ealing to Greenford West Jn WEL Western	05/08/06	Greenford West Jn	8	76	
+0103	GW174	003	West Ealing to Greenford West Jn WEL Western	05/08/06		7	48	

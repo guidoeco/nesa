@@ -1,0 +1,14 @@
+NRN
+TCB Peterborough SB (P)
+RAQ AC:York ECR
+NU = North Up Arrival
+ND = North Down Departure
+No Block Regulations apply on these lines
+US = Up Slow
+UF = Up Fast
+DF = Down Fast
+UST = Up Stamford
+DS/DST = Down Slow/Down Stamford
+- Up Slow (Down direction) Patrolman Lockout
+Protection provided. See Local Instruction
+

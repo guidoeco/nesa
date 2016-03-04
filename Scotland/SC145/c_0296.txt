@@ -1,0 +1,10 @@
+O 29 i:
+
+0 41 9:
+
+O 45 *
+Stepps Cottage LC (UWC) 0 46
+CORPACH 1 30
+Corpach LC (AOCL) 1 33
+Orival LC (UWC) 1 67
+

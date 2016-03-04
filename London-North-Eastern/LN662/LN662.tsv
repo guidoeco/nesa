@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0512	LN662	001	Ryhope Grange to Hendon HNB London North Eastern	02/12/06	Ryhope Grange SB	0	00	RG
+0512	LN662	001	Ryhope Grange to Hendon HNB London North Eastern	02/12/06		0	03	*
+0512	LN662	001	Ryhope Grange to Hendon HNB London North Eastern	02/12/06	Grangetown LC	0	30	OPEN
+0512	LN662	001	Ryhope Grange to Hendon HNB London North Eastern	02/12/06		1	00	*
+0512	LN662	001	Ryhope Grange to Hendon HNB London North Eastern	02/12/06	Londonderry Sidings	1	07	
+0512	LN662	001	Ryhope Grange to Hendon HNB London North Eastern	02/12/06	Hendon	1	53	
+0512	LN662	001	Ryhope Grange to Hendon HNB London North Eastern	02/12/06	Network Rail Boundary	1	53	
+0512	LN662	001	Ryhope Grange to Hendon HNB London North Eastern	02/12/06	Sunderland Docks	1	53	X

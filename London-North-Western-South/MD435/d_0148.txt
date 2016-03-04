@@ -1,0 +1,24 @@
+NRN
+TCB West Midlands s.c. (LJ)
+GSM-R area
+Exit: Down Snow Hill: 128m 24ch
+Entry: Up Snow Hill: 128m 27¢h
+ Entry: U&DSHG Up direction: 128m 24ch
+LA Exit: U&DSHG Down direction: 128m 24ch
+Axle Counter area
+TCB West Midlands 3.0. (WM)
+DSH - Down Snow Hill
+USH - Up Snow Hill
+U&DSHG - Up & Down Small Heath Goods
+BDY - Bordesley Down Yard
+Platform lengflts: Bordesley
+Down-148 metres
+Up—148 metres
+Platform lengths: Moor Street
+Down-212 metres
+Up-212 metres
+Platform lengths: Snow Hill
+Platform 1-273 metres
+Platform 2-273 metres
+Platform 3-273 metres
+

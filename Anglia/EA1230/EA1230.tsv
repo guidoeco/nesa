@@ -1,0 +1,31 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	ROYSTON	44	72	
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		45	20	*
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		45	26	*
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		45	60	*
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	ME LDRETH	47	75	
+0122	EA1230	001	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		49	22	*
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Meldreth Road LC	49	37	AHBC
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		49	40	*
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Shepreth LC	49	63	AHBC
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	SHEPRETH	49	67	
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		50	00	*
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Angle Lane LC	50	05	RIG
+0123	EA1230	002	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		50	15	*
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Foxten Gate Box	50	74	
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Foxton LC	50	74	M05
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	FOXTON	50	77	
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		51	60	*
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Hayes LC	52	02	UWC
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		52	40	*
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Harston LC	52	46	AHBC
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		53	78	*
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Hauxton LC	54	01	AHBC
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Rectory Farm LC	54	45	UWC
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		54	72	*
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		55	18	*
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	OHNS	55	20	
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Websters LC	55	23	
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		53	03	
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06	Shepreth Branch Jn .	55	26	
+0124	EA1230	003	Royston to Shepreth Branch Jn SBR Anglia	05/08/06		53	06	

@@ -1,0 +1,14 @@
+170 60 *
+Leckwith Road Bridge GF 171 26
+
+171 49
+Lockw'rth Loop North Jn 171 55
+St Fagans LC (M03) 174 33
+St George's Church LC (UWC) 175 40
+St George's LC (CCTV) 175 61
+St George's HABD 175 79
+Morlanga LC (UWC) 176 07
+
+177 18
+Gywn-y—Gaer LC (UWC) 177 75
+

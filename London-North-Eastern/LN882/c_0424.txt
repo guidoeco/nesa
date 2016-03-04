@@ -1,0 +1,24 @@
+Kealey's LC (UWC) 66 30
+66 4O *
+Gowdall Lane LC (AOCL) 66 51
+Field Lane LC (AOCL) 66 66
+67 30 *-
+67 37 *-
+Dorr Lane LC (UWC) 67 38
+67 39 *
+67 47 *-
+Snaith LC (AOCL) 68 06
+SNAITH 68 06
+Snaith East LC (UWC) 68 30
+West Cowick LC (RIG) 68 61
+East Cowick LC (RIG) 69 48
+Snaith Road LC (AHBC) 70 17
+70 73 *-
+RAWOLIFFE 70 75
+Rawcliffe LC (AHBC) 70 75
+71 20 *-
+Rawcliffe Branch LC (UWC) 72 26
+Engine Shed Jn 73 52 *
+0 64 are
+Potters Grange Jn 0 00
+

@@ -1,0 +1,10 @@
+Nantwich SB 4 19
+Nantwich LC(MCB) 4 19
+NANTWICH 4 14
+Nantwich Emergency GF 4 07
+Newcastle Rd L.C. (AHBC-X) 3 46
+3 38 *-
+Route Boundary 2 60
+Willaston L.C. (CCTV) 2 41
+Limit of Electrification 1 41
+

@@ -1,0 +1,17 @@
+NEW SOUTHGATE 6 35
+
+7 40 *
+Bamet Tunnel 7 42
+(553m 605 yards) 7 70
+
+7 73 *
+OAKLEIGH PARK 8 30
+Bamet South Crossovers 8 to 9 00
+NEW BARNET 9 12
+Bamet North Crossover 9 18
+Hadley Wood South Tunnel 10 21
+(351 m 384 yards) 10 39
+HADLEY WOOD 10 46
+Hadley Wood North Tunnel 10 60
+(212m 232 yards) 10 70
+

@@ -1,0 +1,122 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0038	GW105	001	Uffington to Fordgate via Box MLN1 Western	05/08/06	Uffington	66	39	
+0038	GW105	001	Uffington to Fordgate via Box MLN1 Western	05/08/06		66	40	
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07	Bourton HABD	72	20	
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07	Bourton	72	30	
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07	South Marston	74	51	
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07	Stratton Green	75	63	
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07		76	20	*
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07	Rover Sidings	76	20	X
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07		76	26	
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07	Highworth GF	76	30	
+0039	GW105	002	Uffington to Fordgate via Box MLN1 Western	24/03/07	Highworth Jn	76	32	
+0040	GW105	003	Uffington to Fordgate via Box MLN1 Western	22/03/08	Down Yard GF	76	64	
+0040	GW105	003	Uffington to Fordgate via Box MLN1 Western	22/03/08		76	77	
+0040	GW105	003	Uffington to Fordgate via Box MLN1 Western	22/03/08		76	78	
+0040	GW105	003	Uffington to Fordgate via Box MLN1 Western	22/03/08		77	08	
+0040	GW105	003	Uffington to Fordgate via Box MLN1 Western	22/03/08	Down Sidings GF	77	10	
+0040	GW105	003	Uffington to Fordgate via Box MLN1 Western	22/03/08	Swindon SB	77	19	SN
+0040	GW105	003	Uffington to Fordgate via Box MLN1 Western	22/03/08	SWINDON	77	23	
+0040	GW105	003	Uffington to Fordgate via Box MLN1 Western	22/03/08	Hawkesworth Steel Terminal	77	23	X
+0041	GW105	004	Uffington to Fordgate via Box MLN1 Western	04/09/06	Swindon Jn	77	36	
+0041	GW105	004	Uffington to Fordgate via Box MLN1 Western	04/09/06		77	40	*
+0041	GW105	004	Uffington to Fordgate via Box MLN1 Western	04/09/06	SwindonBSB (SB)	77	60	*
+0041	GW105	004	Uffington to Fordgate via Box MLN1 Western	04/09/06	Signal SN.61	77	64	
+0041	GW105	004	Uffington to Fordgate via Box MLN1 Western	04/09/06	Rushey Flatt	78	36	
+0041	GW105	004	Uffington to Fordgate via Box MLN1 Western	04/09/06		78	43	*
+0041	GW105	004	Uffington to Fordgate via Box MLN1 Western	04/09/06	Studley HABD	81	40	
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06	Wootton Bassett Jn	83	07	
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06	Wooton Bassett GF	83	28	
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06	NRN Channel change	87	00	
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06		87	54	
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06		93	70	
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06	CHIPPENHAM	93	76	
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06	Barrow crossing	94	01	WL
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06		95	25	
+0042	GW105	005	Uffington to Fordgate via Box MLN1 Western	05/08/06		95	35	
+0043	GW105	006	Uffington to Fordgate via Box MLN1 Western	04/04/09	Thingley Jn	96	10	*
+0043	GW105	006	Uffington to Fordgate via Box MLN1 Western	04/04/09	Up siding GF	96	10	
+0043	GW105	006	Uffington to Fordgate via Box MLN1 Western	04/04/09	Box Tunnel	99	12	
+0043	GW105	006	Uffington to Fordgate via Box MLN1 Western	04/04/09	2937m (1 m 1452 yards) to	100	78	
+0043	GW105	006	Uffington to Fordgate via Box MLN1 Western	04/04/09	Middle Hill Tunnel	101	39	*
+0043	GW105	006	Uffington to Fordgate via Box MLN1 Western	04/04/09	181m (198 yards) to	101	48	
+0043	GW105	006	Uffington to Fordgate via Box MLN1 Western	04/04/09		103	20	*
+0044	GW105	007	Uffington to Fordgate via Box MLN1 Western	08/11/08		104	41	
+0044	GW105	007	Uffington to Fordgate via Box MLN1 Western	08/11/08	Bathampton Jn	104	45	Up
+0044	GW105	007	Uffington to Fordgate via Box MLN1 Western	08/11/08	Bathampton Jn	104	55	Down
+0044	GW105	007	Uffington to Fordgate via Box MLN1 Western	08/11/08		105	40	*
+0044	GW105	007	Uffington to Fordgate via Box MLN1 Western	08/11/08	Sydney Gardens East	106	24	
+0044	GW105	007	Uffington to Fordgate via Box MLN1 Western	08/11/08	Tunnel 70m (77 yards) to	106	28	
+0045	GW105	008	Uffington to Fordgate via Box MLN1 Western	05/08/06	Sydney Gardens West	106	29	
+0045	GW105	008	Uffington to Fordgate via Box MLN1 Western	05/08/06	Tunnel 91m (99 yards) 106 03:3	106	29	X
+0045	GW105	008	Uffington to Fordgate via Box MLN1 Western	05/08/06		106	62	*
+0045	GW105	008	Uffington to Fordgate via Box MLN1 Western	05/08/06		106	70	
+0045	GW105	008	Uffington to Fordgate via Box MLN1 Western	05/08/06	BATH SPA	106	71	
+0045	GW105	008	Uffington to Fordgate via Box MLN1 Western	05/08/06		107	02	*
+0045	GW105	008	Uffington to Fordgate via Box MLN1 Western	05/08/06		107	22	
+0045	GW105	008	Uffington to Fordgate via Box MLN1 Western	05/08/06		107	28	
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06	Bath Goods	107	47	
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06	Bath West GF	108	55	
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06	OLDFIELD PARK	107	72	
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06		103	20	*
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06	Twerton HABD	108	60	
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06	Twerton Short Tunnel	103	70	
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06	41 m (45 yards)	108	72	
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06	Twerton Long Tunnel	109	03	
+0046	GW105	009	Uffington to Fordgate via Box MLN1 Western	05/08/06	241 m (264 yards) to	109	15	
+0047	GW105	010	Uffington to Fordgate via Box MLN1 Western	05/08/06	Saltford Tunnel	111	57	
+0047	GW105	010	Uffington to Fordgate via Box MLN1 Western	05/08/06	161 m (176 yards) to	111	65	
+0047	GW105	010	Uffington to Fordgate via Box MLN1 Western	05/08/06	KEYNSHAM	113	63	
+0047	GW105	010	Uffington to Fordgate via Box MLN1 Western	05/08/06		115	55	*
+0047	GW105	010	Uffington to Fordgate via Box MLN1 Western	05/08/06	St. Annes Park No.3	115	58	
+0047	GW105	010	Uffington to Fordgate via Box MLN1 Western	05/08/06	(or Foxes Wood) Tunnel to 930m (1017 yards)	116	25	
+0047	GW105	010	Uffington to Fordgate via Box MLN1 Western	05/08/06	St. Annes Park No.2	116	41	
+0047	GW105	010	Uffington to Fordgate via Box MLN1 Western	05/08/06	Tunnel to 141m (154 yards)	116	43	
+0049	GW105	012	Uffington To Fordgate via Box MLN1 Western	05/08/06	Kingsland Rd Sidings GF	118	57	
+0049	GW105	012	Uffington To Fordgate via Box MLN1 Western	05/08/06		117	74	*
+0049	GW105	012	Uffington To Fordgate via Box MLN1 Western	05/08/06		118	00	
+0049	GW105	012	Uffington To Fordgate via Box MLN1 Western	05/08/06	Bristol East Jn	113	02	
+0050	GW105	013	Uffington to Fordgate Via Box MLN1 Western	05/08/06		118	15	
+0051	GW105	014	Uffington To Fordgate Via Box MLN1 Western	24/05/08	Spur GF	118	20	
+0051	GW105	014	Uffington To Fordgate Via Box MLN1 Western	24/05/08	Bristol Middle Siding East GF	118	23	
+0051	GW105	014	Uffington To Fordgate Via Box MLN1 Western	24/05/08	Bristol SB	118	26	B
+0051	GW105	014	Uffington To Fordgate Via Box MLN1 Western	24/05/08	BRISTOL TEMPLE HEADS	118	31	
+0051	GW105	014	Uffington To Fordgate Via Box MLN1 Western	24/05/08	Bristol Middle Siding West GF	118	35	
+0052	GW105	015	Uffington to Fordgate Via Box MLN1 Western	05/08/06	Bristol West Jn	118	58	
+0052	GW105	015	Uffington to Fordgate Via Box MLN1 Western	05/08/06		118	74	*
+0052	GW105	015	Uffington to Fordgate Via Box MLN1 Western	05/08/06	Pylle Hill GF	119	09	
+0053	GW105	016	Uffington to Fordgate Via Box MLN1 Western	13/12/08	BEDMINSTER 1	19	22	
+0053	GW105	016	Uffington to Fordgate Via Box MLN1 Western	13/12/08	1	19	40	*
+0053	GW105	016	Uffington to Fordgate Via Box MLN1 Western	13/12/08	1	20	09	*
+0054	GW105	017	Uffington to Fordgate Via Box MLN1 Western	13/12/08	PARSOH STREET	120	15	
+0054	GW105	017	Uffington to Fordgate Via Box MLN1 Western	13/12/08		120	23	
+0054	GW105	017	Uffington to Fordgate Via Box MLN1 Western	13/12/08	Parson Sireet Jn	120	28	
+0054	GW105	017	Uffington to Fordgate Via Box MLN1 Western	13/12/08		122	00	*
+0055	GW105	018	Uffington to Fordgate Via Box MLN1 Western	05/08/06	Flax Bourton Tunnel	123	61	
+0055	GW105	018	Uffington to Fordgate Via Box MLN1 Western	05/08/06	(101m,110yds)	123	66	
+0055	GW105	018	Uffington to Fordgate Via Box MLN1 Western	05/08/06	NAILSEA & BAGKWELL	126	33	
+0055	GW105	018	Uffington to Fordgate Via Box MLN1 Western	05/08/06	Nailsea HABD	127	41	
+0055	GW105	018	Uffington to Fordgate Via Box MLN1 Western	05/08/06	Mud Lane LC	129	23	UWC
+0055	GW105	018	Uffington to Fordgate Via Box MLN1 Western	05/08/06	YATTON	130	28	
+0055	GW105	018	Uffington to Fordgate Via Box MLN1 Western	05/08/06	Yatton GF	130	41	
+0056	GW105	019	Uffington to Fordgate Via Box MLN1 Western	12/04/08		130	45	
+0056	GW105	019	Uffington to Fordgate Via Box MLN1 Western	12/04/08	Yatton East	130	45	X
+0056	GW105	019	Uffington to Fordgate Via Box MLN1 Western	12/04/08	Gas House Lane LC	130	49	UWC
+0056	GW105	019	Uffington to Fordgate Via Box MLN1 Western	12/04/08	Yatton West	130	49	X
+0056	GW105	019	Uffington to Fordgate Via Box MLN1 Western	12/04/08	Yatton HABD	131	20	
+0056	GW105	019	Uffington to Fordgate Via Box MLN1 Western	12/04/08	Huish LC	132	11	CCTV
+0056	GW105	019	Uffington to Fordgate Via Box MLN1 Western	12/04/08	Puxton & Worle LC	133	79	MCB
+0056	GW105	019	Uffington to Fordgate Via Box MLN1 Western	12/04/08	WORLE	134	42	
+0057	GW105	020	Uffington to Fordgate Via Box MLN1 Western	05/08/06	Worle Jn	135	11	
+0057	GW105	020	Uffington to Fordgate Via Box MLN1 Western	05/08/06	Uphill Jn	138	04	
+0057	GW105	020	Uffington to Fordgate Via Box MLN1 Western	05/08/06		138	40	*
+0058	GW105	021	Uffington to Fordgate Via Box MLN1 Western	16/02/08		145	19	
+0058	GW105	021	Uffington to Fordgate Via Box MLN1 Western	16/02/08	HIGHBRIDGE&BURNHAM	145	25	
+0058	GW105	021	Uffington to Fordgate Via Box MLN1 Western	16/02/08	Highbridge West	145	64	
+0058	GW105	021	Uffington to Fordgate Via Box MLN1 Western	16/02/08		147	00	*
+0058	GW105	021	Uffington to Fordgate Via Box MLN1 Western	16/02/08	HuntspillLC	147	01	UWC
+0058	GW105	021	Uffington to Fordgate Via Box MLN1 Western	16/02/08	Pawlett Meads LC	147	44	UWC
+0059	GW105	022	Uffington to Fordgate Via Box MLN1 Western	04/12/06	Bridgwater Station GF	151	44	
+0059	GW105	022	Uffington to Fordgate Via Box MLN1 Western	04/12/06	BRIDGWATER	151	47	
+0059	GW105	022	Uffington to Fordgate Via Box MLN1 Western	04/12/06	Meads LC	152	68	RIG-X
+0059	GW105	022	Uffington to Fordgate Via Box MLN1 Western	04/12/06	Fordgate	154	12	

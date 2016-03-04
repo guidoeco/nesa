@@ -1,0 +1,25 @@
+18 25 *
+Keadby Canal Bridge 18 18
+
+18 15 *-
+
+18 14 9:
+Keadby Canal LC (MOB) 18 13
+
+17 66 *
+HABD 17 06
+GROWLE 15 43
+Godnow Bridfle LC(MCG) 14 08
+Windsor LC( WC) 13 41
+Madge Hall LC (MCG) 13 02
+Theme No2 LC (AHBC) 10 35
+Theme No1 LC (AHBC) 10 12
+THORNE SOUTH 9 41
+HABD 9 41
+Kirton Lane LC (CCTV) 8 47
+
+8 46
+
+8 42 *-
+Ashfield Road LC (UWC) 8 35
+

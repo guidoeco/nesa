@@ -1,0 +1,14 @@
+Coswarth LC (AOCL) 298 48
+Coswarth Tunnel 299m 23
+(40m. £14de) 299 25
+Bejowan LC (UWC) 299 71
+Quintrel Downs LC (ABCL) 300 14
+QUINTREL DOWNS 300 16
+Chapel Farm 1 LC (UWC) 300 36
+Chapel Farm 3 LC (UWC) 300 50
+Chapel LC (AOCL) 300 56
+Manuells Farm 2 LC (UWC) 300 76
+Trencreek LC (AOCL) 301 35
+302 32 *
+NEWQUAY 302 49
+

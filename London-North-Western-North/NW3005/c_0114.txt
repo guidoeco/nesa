@@ -1,0 +1,13 @@
+Croes Newydd North Fork SB LG 201 43
+(M03) (CN)
+201 55
+(main line)
+0 43
+(Bidston line)
+WREXHAM GENERAL 201 66
+Wrexham Exchange Jn 0 68
+(Bidston line)
+Wrexham North Jn 202 40 i-
+203 00 2k
+203 60
+

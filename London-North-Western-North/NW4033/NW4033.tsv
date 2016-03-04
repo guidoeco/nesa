@@ -1,0 +1,263 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0206	NW4033	001	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Carnforth North Jn	6	08	
+0206	NW4033	001	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		0	19	
+0206	NW4033	001	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		0	25	*
+0206	NW4033	001	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	CARNFORTH	0	31	
+0206	NW4033	001	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Carnforth Station Jn	0	38	
+0206	NW4033	001	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Carnforth Station Jn SB (CS)	0	43	*
+0206	NW4033	001	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		0	44	*
+0207	NW4033	002	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Limit of Elech'ification	0	60	
+0207	NW4033	002	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		0	69	*
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Silverdale LC	3	11	AHBC
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		3	40	*
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	SILVERDALE	3	55	
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		4	20	*
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Leaming LC	4	22	UWC
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Waterslack Quarry LC	4	74	UWC
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Black Dyke LC	5	57	AHBC
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		6	10	*
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	ARNSIDE	6	21	
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Amside SB	6	29	AE
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		6	31	
+0208	NW4033	003	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		6	49	*
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		6	72	*
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Grange-over—Sands SB	9	31	GS
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		9	40	*
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	GRANGE-OVER-SANDS	9	43	
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		10	00	*
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Bathing Pool LC	10	20	UWC
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Carl Lane LC	10	59	UWC
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	KENTS BANK	11	27	
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Kents Bank LC	11	30	UWC
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		11	40	*
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		11	44	*
+0209	NW4033	004	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		12	15	*
+0210	NW4033	m	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	29/03/09	Wraysholme LC (AOCL) 12	42	02	
+0210	NW4033	m	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	29/03/09	12	69	02	
+0210	NW4033	m	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	29/03/09	CARK & cARTMEL	13	59	
+0210	NW4033	m	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	29/03/09	Crook Wheel Lc	14	24	UWC
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		19	20	*
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		19	25	*
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	ULVERSTON	19	28	
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Ulverston SB	19	47	UN
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		19	77	*
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		20	00	*
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		21	75	
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Lindal Tunnel	22	53	
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	(401 metres I439 yards)	22	73	
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		23	33	*
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	DALTON	23	67	
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Dalton Tunnel to 01	23	67	X
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	(206 metres! 225 yards)	24	11	
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		24	34	
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Dalton Jn SB	24	37	DJ
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Dalton Jn	24	38	
+0211	NW4033	006	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		25	12	*
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Fumess Abbey LC	25	31	UWC
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Fumess Abbey Tunnel	25	41	
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	(69 metres I 76 yards)	25	44	
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Park House Farm LC	26	08	RIG
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		26	20	*
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	ROOSE	27	13	
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Salthouse Junction GF	27	57	*
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Salthouse Junction	27	59	
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		27	61	*
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		28	10	*
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		28	13	*
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		28	60	*
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		28	65	*
+0212	NW4033	007	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	BARROW-IN-FURNESS	28	76	
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Barrow-ln—Fumess SB	29	05	BF
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		29	13	*
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		29	20	
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		29	26	*
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		29	28	
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		29	60	*
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		30	00	*
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		30	59	*
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Sandscale LC (AOCL)	31	44	*
+0213	NW4033	008	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	(a.k.a. British Cellophane)	31	51	*
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		32	50	*
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Park South Jn	32	77	*
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		33	00	
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Park South LC	33	06	MOB
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Park Soulh SB	33	06	
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Park North LC	33	46	UWC
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08		34	12	*
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Askam SB LC	35	03	MCB
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	ASKAM	35	06	
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Johnsons N02 LC	35	31	UWC
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Dunnerholme LC	36	21	UWC
+0214	NW4033	009	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	01/03/08	Lidgate LC	37	34	UWC
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	KIRKBY-IN-FURNESS	38	19	
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		38	20	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		38	26	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Angerlon Hall LC	38	59	UWC
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		38	60	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Angerlon Hall N02 LC	39	75	UWC
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Angerton Hall N03 LC	40	14	UWC
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Skelly Crag LC	40	24	M66
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		40	32	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	FOXFIELD	40	37	
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Foxfield SB	40	40	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Foxfielcl LC	40	41	UWC
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		40	60	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Ladyhall LC	41	28	UWC
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		41	78	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Dodd's L.C.	42	19	UWC
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Green Road LC (AOCL)	42	34	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	GREEN ROAD	42	37	
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		42	46	*
+0215	NW4033	010	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		42	60	*
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Waltham Nurseries L.C.	42	62	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Stone Cabin LC.	42	75	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	King L.C.	43	06	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	UnderhillL.C.	43	12	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Long Marsh L.C.	43	56	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Castle Farm No.1 L.C.	44	05	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Salthouse No.3 L.C.	44	22	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Salthouse No.1L.C.	44	46	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	MILLOIllI	45	01	
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Millom SB	45	07	
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		45	20	*
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Moor Farm No.1L.C.	45	27	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		45	60	*
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Haverigg L.C.	46	05	AHBC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Langthwaite L.C.	46	16	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		46	27	*
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Hestham Hall LC.	46	32	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Kirksanton L.C.	47	08	MCG
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Millers L.C.	47	17	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Mill Darn L.C.	47	27	UWC
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Limestone Hall L.C.	47	43	MCG
+0216	NW4033	011	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		47	46	*
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Silecroft SB L.C.	48	12	MCB
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	SILEcROFT	48	16	
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		48	28	*
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		49	25	*
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		49	54	*
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Whitbeck L.C. (AOCL)	49	55	*
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06		50	05	*
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Moss (Tip) L.C.	50	13	UWC
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Stangrah Farm L.C.	50	27	UWC
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Gutterby LC.	50	79	UWC
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	BOOTLE	53	34	
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Bootle SB L.C.	53	37	MCG
+0217	NW4033	012	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	07/10/06	Middleton Place LC.	55	15	UWC
+0218	NW4033	013	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	30/06/07	RAVENGLASS	57	79	
+0218	NW4033	013	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	30/06/07	Saltcoats L.C.	58	49	MCG
+0218	NW4033	013	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	30/06/07	Hall Carleton LC.	59	25	UWC
+0218	NW4033	013	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	30/06/07	Drigg SB L.C.	59	79	MCG
+0218	NW4033	013	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	30/06/07	DRIGG	60	02	
+0218	NW4033	013	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	30/06/07		60	42	
+0218	NW4033	013	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	30/06/07	SEASGALE	62	12	
+0218	NW4033	013	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	30/06/07		63	34	
+0219	NW4033	014	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	09/02/08		63	56	
+0219	NW4033	014	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	09/02/08		63	65	*
+0219	NW4033	014	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	09/02/08	SELLAFIELD	63	72	
+0219	NW4033	014	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	09/02/08	Sellafield SB	63	76	*
+0219	NW4033	014	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	09/02/08		64	02	*
+0219	NW4033	014	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	09/02/08		64	08	*
+0219	NW4033	014	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	09/02/08	Braystones LC	65	73	UWC
+0219	NW4033	014	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	09/02/08	BRAYSTONES	65	76	
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07		66	00	*
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07	NETHERTOWN	67	35	
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07		69	20	*
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07		69	47	*
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07		70	11	
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07	ST BEES	70	13	
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07	St Bees SB L.C.	70	22	MCB
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07		70	28	*
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07		70	34	*
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07		71	09	*
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07	Bell House LC.	71	35	UWC
+0220	NW4033	015	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	21/04/07	Pump House L.C.	71	76	UWC
+0221	NW4033	016	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	22/03/08	GORKIGKLE	73	78	
+0221	NW4033	016	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	22/03/08	Whitehaven Tunnel	74	03	*
+0221	NW4033	016	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 LNW North	22/03/08	(1173 metres I 1283 yards) to	74	61	
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08		74	62	*
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08		74	63	*
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08	WHITEHAVEN	74	66	
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08	Bransty SB	74	73	BY
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08		0	16	
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08	Bransty Junction	0	22	
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08		0	26	*
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08		1	20	*
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08	PARTON	1	33	
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08		1	40	*
+0222	NW4033	017	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBC1 CBCZ LNW North	22/03/08	Parton SB	1	41	PS
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		1	64	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		1	68	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08	Parton North Junction	2	55	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		2	57	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		4	00	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		4	39	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		4	40	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		4	48	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08	HARRINGTON	4	50	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		4	70	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		4	76	*
+0223	NW4033	018	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		5	30	*
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		6	31	
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		6	52	
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08	Workington Main No.2 SB	6	53	
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		6	65	*
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08	WORKINGTON	6	69	
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08	Workington Main No.3 SB	6	74	
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		6	77	
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08		7	00	*
+0224	NW4033	019	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	22/03/08	Merchants Quay LC	7	01	UWC
+0225	NW4033	020	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	07/10/06	Dock Branch GF	7	30	
+0225	NW4033	020	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	07/10/06	Derwent Junction	7	31	
+0225	NW4033	020	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	07/10/06	FLIMBY	10	42	
+0225	NW4033	020	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ LNW North	07/10/06		11	52	
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06	Maryport LC	12	04	CCTV
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06		12	05	
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06		0	00	
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06		0	15	*
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06	Maryport Station SB	0	21	MS
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06	MARYPORT	0	27	
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06		0	36	*
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06		2	40	*
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06		3	20	*
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06		4	16	*
+0226	NW4033	021	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCZ CBC3 LNW North	07/10/06		4	29	*
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		7	58	*
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	ASPATRIA	7	64	
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		7	68	*
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Aspatria Tunnel	8	37	
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	(51m I 56 yds) to	3	40	*
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Heathfield LC	9	76	UWC
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		14	77	*
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Wigton GF	15	67	
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		15	79	*
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Wigton SB	16	05	
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	WIGTON	16	20	
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		18	20	*
+0227	NW4033	022	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Rosewain LC	18	47	RIG
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		19	00	*
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Balfour LC	19	10	UWC
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Parkhouse LC	19	22	UWC
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Bainbridge No.2 LC	19	40	UWC
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Carrs LC	19	69	UWC
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Dalrymple LC	20	08	UWC
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Rothery LC	20	21	UWC
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		21	40	*
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		22	00	*
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		22	40	*
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Dalston Oil Depot GF	23	28	
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		23	30	*
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Dalston Station No.1 GF	23	39	*
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	DALSTON	23	43	
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Dalston Station No.2 GF	23	43	
+0228	NW4033	023	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		23	50	*
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Low Mill LC	24	25	RIG
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Low Mill HABD	24	27	
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Currock GF	26	66	
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Currock Jn	26	74	*
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		27	20	*
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		27	45	*
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		27	49	
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Carlisle South Jn	27	49	
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06		68	67	
+0229	NW4033	024	Camforth North Jn. to Carlisle South Jn. (Via Barrow) CBCB LNW North	07/10/06	Carlisle SB	68	69	CE

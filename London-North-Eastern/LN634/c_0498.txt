@@ -1,0 +1,16 @@
+End of Line 11 61
+BATI'ERSBY 12 03
+Battersby Jn 12 10
+12 14 *
+12 26 'k
+Battersby Road LC (AOCL) 12 46
+13 55 *-
+13 62 *-
+KILDALE 13 64
+Guisborough Road LC (AOCL) 14 56
+17 27 *-
+GOMMONDALE 17 71
+18 28 *
+19 13 *-
+19 28 *-
+

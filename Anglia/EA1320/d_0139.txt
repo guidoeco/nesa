@@ -1,0 +1,19 @@
+TCB Camden Road Jn SB (CR) NR"
+RA8 AC: Rugby
+DC(3): Romford
+General instruction applies at
+Camley Street (Bridge 97) at 4m 53oh
+DNL - Down North London Line (AC 8: DC)
+UNL - Up North London Line (AC 8: DC)
+UN2 - Up North London No.2 line (DC only)
+DN2 - Down North London No.2 line (DC only)
+UN1 - Up North London No.1 line (AC only)
+DN1 - Down North London No.1 line (AC only)
+Dalston Jn SB (D)
+AC: Rugby (No1 lines)
+AC: Romford (No1 lines)
+6) Class 3.4, and 0 trains must observe lower speed
+NL1 - North London No.1 line (bi-directional)
+(AC only)
+FWS No.1 Up and Down lines 3m 75oh and 2m 65ch
+

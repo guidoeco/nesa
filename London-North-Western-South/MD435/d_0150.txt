@@ -1,0 +1,15 @@
+NRN
+TCB Stourbridge Jn SB (SJ)
+Platform lengths: Smethwick Galton Bridge
+Down - 150 metres
+Up - 152 metres
+FWS in station area
+DSH - Down Snow Hill
+USH - Up Snow Hill
+DST - Down Stourblidge
+UST - Up Stourbridge
+UGL 64 SLUI410 metresf448 yards.
+Platform lengths: Langley Green
+Down - 123 metres
+Up - 123 metres
+

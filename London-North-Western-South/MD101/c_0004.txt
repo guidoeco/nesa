@@ -1,0 +1,18 @@
+3 00 *
+
+3 40 a:
+
+3 43 1k
+QUEEN'S PARK 3 55
+
+222 *
+Kensal Green Tunnels to (293 metres 320 yards) 4 59
+
+4 60 1:
+CSR change 4 70
+Willesden TMD
+
+5 O1 *-
+West London Jn 5 23
+(Willesden Euro Terminal)
+

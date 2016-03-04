@@ -1,0 +1,81 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0420	LN882	001	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	27/12/07	Wakefield Kirkgate West Jn	47	43	*
+0420	LN882	001	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	27/12/07		47	52	*
+0420	LN882	001	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	27/12/07	WAFIELD KIRKGATE	47	62	
+0420	LN882	001	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	27/12/07		48	05	*
+0420	LN882	001	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	27/12/07	Calder Bridge Jn	48	28	
+0420	LN882	001	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	27/12/07		48	56	*
+0420	LN882	001	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	27/12/07		48	60	*
+0420	LN882	001	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	27/12/07	Oakenshaw Jn	48	76	
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		49	00	*
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Crofton West Jn	49	40	
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Grafton East . Jn	50	23	
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Crofton Old Station No1 LC	50	25	MCG
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		50	28	
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Streethouse West LC	52	11	CCTV
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	STREETHOUSE	52	15	
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Red Lane LC	52	27	M66
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	FEATHERSTONE	53	71	
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Featherstone LC	53	71	CCTV
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Sportsfield LC	54	12	UWC
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	PONTEFRAOT TANSHELF	55	64	
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		56	26	*
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Pontefract West Jn	56	35	*
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		56	38	*
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	PONTEFRACT MONKHILL	56	40	
+0421	LN882	002	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		56	60	
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		56	66	*
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Pontefract East Jn	57	43	
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		58	16	*
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Knottingley West Jn	58	20	
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		58	21	
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		58	27	*
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	KNOTTINGLEY	58	37	
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		58	51	
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Knottingley East Jn	58	69	
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08		59	04	*
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	England Lane LC	59	05	MCG
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Knottingley LC	59	25	CCTV
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Rampart Lane LC	60	40	UWC
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Sudforth Lane LC	61	08	MCB
+0422	LN882	003	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	30/08/08	Sudforth Lane SB	61	08	8
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Platts LC	61	45	UWC
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Thomfield House LClSUWC) 73	61	45	X
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Southfield Lane LC (WC) g8	61	45	X
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	WHITLEY BRIDGE	62	55	
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Whitley Bridge LC	62	55	CCTV
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Whitley Bridge Jn	63	02	
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Low Eggborough LC	63	20	UWC
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	High Eggborough LC	63	33	MCG
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Snaith and Pontefract Highway	64	14	
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	LC (AHBC—X)	64	14	X
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Hensall LC	64	39	MCB
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Hensall SB	64	39	H
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	HENSALL	64	39	
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Heck Lane LC	64	74	MCG
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Heck lngs LC	65	40	MCG
+0423	LN882	004	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 London North Eastern	02/12/06	Drax Branch Jn	65	66	
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Kealey's LC	66	30	UWC
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06		66	40	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Gowdall Lane LC	66	51	AOCL
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Field Lane LC	66	66	AOCL
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06		67	30	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06		67	37	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Dorr Lane LC	67	38	UWC
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06		67	39	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06		67	47	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Snaith LC	68	06	AOCL
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	SNAITH	68	06	
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Snaith East LC	68	30	UWC
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	West Cowick LC	68	61	RIG
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	East Cowick LC	69	48	RIG
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Snaith Road LC	70	17	AHBC
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06		70	73	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	RAWOLIFFE	70	75	
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Rawcliffe LC	70	75	AHBC
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06		71	20	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Rawcliffe Branch LC	72	26	UWC
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Engine Shed Jn	73	52	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06		0	64	*
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Potters Grange Jn	0	00	
+0424	LN882	005	Wakefield Kirkgate West Jn to Goole Potters Grange Jn WAG1 WAGZ London North Eastern	02/12/06	Gowdall Bank	67	17	UWC

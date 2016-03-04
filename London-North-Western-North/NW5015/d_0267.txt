@@ -1,0 +1,36 @@
+NRN
+AB Dinting SB (DG)
+AC: Crewe
+
+Platform Lengths: Broadbottom
+
+Up 107m (117yards)
+
+Down 107m (117yards)
+
+Platform Lengths: Hattersley
+
+Up 169m (185yards)
+
+Down 169m (185yards)
+
+Platform Lengths: Godley
+
+Up 74m (81yards)
+
+Down 74m (81yards)
+
+Platform Lengths: Newton
+
+Up 115m (126yards)
+
+Down 114m (125yards)
+
+Platform Lengths: Flowery Field
+
+Up 74m (81yards)
+
+Down 74m (81yards)
+TCB Guide Bridge SB (GB)
+D&UPL=Down 8: Up Passenger Loop
+

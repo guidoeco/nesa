@@ -1,0 +1,13 @@
+61 04 i:
+61 67 2k
+61 71 *
+Beavers LC (UWC) 61 71
+Sleaford South Jn 62 14 2k
+Sleaford South SB (88) 62 15
+62 60 is
+62 64 *
+Sleaford North Jn SB (SN) 63 48
+Sleaford North Jn LC(MCG) 63 49
+63 54
+Holdingham Lane LC(UWC) 64 20
+

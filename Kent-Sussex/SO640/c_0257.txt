@@ -1,0 +1,8 @@
+(BARNHANI) ( 22 29)
+Sack Lane Crossing 23 69
+Cow Lane Crossing 24 35
+LEC (Cox's) Crossing 24 68
+Bognor Substation 25 06 *
+Bognor Regis SB (BR) 25 51 *-
+BOGNOR REGIS 25 75
+

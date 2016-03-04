@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08	Trent Valley Junction	83	18	
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08		83	19	
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08		0	00	
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08		00	47	*
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08	New Bilton	0	79	
+0065	MD180	001	Rugby, Trent Valley Junction to New Bilton RTS LNW South	19/01/08	(End of Line)	0	79	X

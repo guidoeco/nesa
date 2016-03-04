@@ -1,0 +1,16 @@
+212 03 *
+LLANSAMLET 212 08
+
+212 15 *
+
+213 45 *-
+Landore Viaduct 214 39 a:
+(356m. 389yds)
+
+214 57 *-
+Landore Jn 214 62 *
+(Change of RA)
+
+214 68 *
+Swansea Loop West Jn 215 14
+

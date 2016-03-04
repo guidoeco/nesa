@@ -1,0 +1,8 @@
+NRN
+TCB Port Talbot SB (PT)
+RA5
+Down platform - 53m (58 yards)
+Up platform - 53m (58 yards)
+Down platform - 91m (100 yards)
+Up platform - 106m (116 yards)
+

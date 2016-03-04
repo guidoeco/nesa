@@ -1,0 +1,14 @@
+28 26 *
+LUTON AIRPORT PARKWAY 29 19
+29 57 i:
+29 59 *
+Luton Up Sidings GF 29 69
+30 09 *
+Luton South Jn 30 12
+30 15 i:
+30 17 *
+LUTON 30 19
+30 27 i:
+30 31 *-
+30 39 1-
+

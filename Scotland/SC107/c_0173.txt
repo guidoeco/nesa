@@ -1,0 +1,15 @@
+Waverley O 21
+(East End)
+
+0 19 *
+
+O 11 'k
+
+0 10 *
+Edinburgh SC 0 07
+EDINBURGH WAVERLEY 0 00
+
+0 00
+Waverley O 15
+(West End)
+

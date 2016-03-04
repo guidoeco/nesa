@@ -1,0 +1,8 @@
+Gravesend TP Hut 23 51
+23 53 *
+GRAVESEIID 23 75
+24 09 *-
+24 60 are
+Denton Substation 25 O5
+Uralite TP Hut 26 49
+

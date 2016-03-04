@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	End of Line	16	67	
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Gwaun-cae—Gumen Colliery LC	16	39	OPEN
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Gwaun—cae—Gurwen Siding GF	16	13	
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Gwaun—cae—Gurwen LC (T MO)	16	15	
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Raven LC	14	71	AOCL
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Former Jn	14	60	*
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	(Change of ELR)	14	60	X
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Ty-Uchaf LC	14	10	AOCL
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Glenamman Footpath LC	14	01	RIG
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Cawdor LC	13	53	AOCL
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06		12	70	*
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	Pontamman Tunnel	11	57	
+0436	GW915	001	Gwaun-Cae-Guwven to Pantyffynnon GWA GNT Western	05/08/06	(27m, 30yds)	11	55	*
+0437	GW915	002	Gwaun-Cae-Guwven to Pantyffynnon GNT Western	05/08/06		11	08	*
+0437	GW915	002	Gwaun-Cae-Guwven to Pantyffynnon GNT Western	05/08/06	Ammanford Park Street	11	07	
+0437	GW915	002	Gwaun-Cae-Guwven to Pantyffynnon GNT Western	05/08/06	Footpath LC (RIG)	11	07	X
+0437	GW915	002	Gwaun-Cae-Guwven to Pantyffynnon GNT Western	05/08/06	Ammanford Relief Road LC	11	00	TMO
+0437	GW915	002	Gwaun-Cae-Guwven to Pantyffynnon GNT Western	05/08/06	Garnant Branch LC	10	17	TMO
+0437	GW915	002	Gwaun-Cae-Guwven to Pantyffynnon GNT Western	05/08/06	Pantyffynnon Jn	10	04	

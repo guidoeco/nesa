@@ -1,0 +1,14 @@
+NRN
+TCB Carlisle SB (CE) 083
+AC:Cathcart
+(PF) DTG and UTG, between
+Upperby Bridge Jn and Upperby Jn.
+DTG=Down Through Goods
+UTG=Up Through Goods
+TASS fitted:
+DM 8: UM lines
+NESN=North Eastern Shunt Neck
+DN M&C=Down Maryport & Carlisle
+UP M&C=Up Maryport & Carlisle
+'U&D' NEW='Up & down' Newcastle
+

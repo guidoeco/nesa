@@ -1,0 +1,8 @@
+Speke Jn SB (SE) 187 15
+187 20 i:
+Allerton East Jn 187 60 it
+Allerton Jn 88 (AN) 187 66
+Allerton Jn 187 74
+LIVERPOOL SOUTH PARKWAY 187 77
+Allerton West Jn 188 18
+

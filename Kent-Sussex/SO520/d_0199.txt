@@ -1,0 +1,17 @@
+NRN CSR
+TCB Barnham SB (BH)
+RAB DC: Brighton
+
+CSR
+
+DPL 35
+Platform 1 (Up direction) PP
+Platform 1 (Down direction) PP—A (Detaching only)
+Platform 2 (Up direction) PP
+Platform 2 (Down direction) PP—A (Detaching only)
+Platform 3 (Up direction) PP
+1 Up Main
+2 Down Main
+3 Up Branch
+4 Down Branch
+

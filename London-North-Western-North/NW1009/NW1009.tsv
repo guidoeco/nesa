@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0037	NW1009	001	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06	Basford Hall Jn 156JP1 6			X
+0037	NW1009	001	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06		156	20	
+0037	NW1009	001	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06		156	23	
+0037	NW1009	001	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06		156	25	
+0037	NW1009	001	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06		156	33	
+0038	NW1009	002	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06		157	12	*
+0038	NW1009	002	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06	Crewe Sorting Sidings	157	23	
+0038	NW1009	002	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06	North SB (NH)	157	23	X
+0038	NW1009	002	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI LNW North	07/10/06	Salop Goods Loop Jn	157	25	
+0039	NW1009	003	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI CMP1 LNW North	09/02/08	Salop Goods Jn SB	157	71	SG
+0039	NW1009	003	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI CMP1 LNW North	09/02/08	Tunnel	158	14	
+0039	NW1009	003	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI CMP1 LNW North	09/02/08	(380 metres I 416 yards) to	158	32	
+0039	NW1009	003	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI CMP1 LNW North	09/02/08		158	66	*
+0039	NW1009	003	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI CMP1 LNW North	09/02/08	(ELR change)	158	77	*
+0039	NW1009	003	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI CMP1 LNW North	09/02/08	OHNS	158	79	
+0039	NW1009	003	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI CMP1 LNW North	09/02/08		162	17	*
+0039	NW1009	003	Basford Hall Jn. to Sandbach South Jn. (Independent Lines) BHI CMP1 LNW North	09/02/08	Sandbach South Jn	162	28	

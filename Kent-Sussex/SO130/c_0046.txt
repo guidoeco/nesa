@@ -1,0 +1,12 @@
+Oakhill Substation 22 43
+Sevenoaks Tunnel 22 52 *-
+1 m 1693 yards 23 00 a:
+Riverhill TP Hut 24 50 *
+25 00 *-
+Weald Substation 25 02
+Hildenborough Substation 27 00
+HILDENBOROUGH 27 02
+Hawden Substation 28 28
+28 30 at
+28 75 *-
+

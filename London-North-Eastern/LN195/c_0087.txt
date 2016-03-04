@@ -1,0 +1,12 @@
+111 01 *
+Cox's Walk LC (UWC) 111 10
+
+111 60 *-
+Taylors LC (UWC) 111 72
+BOTI'ESFORD 112 68
+Bottesford LC (UWC) 112 75
+Normanton LC (AHBC-X) 113 10
+
+113 75 *-
+Bottesford West Jn SB (BW) 113 78
+

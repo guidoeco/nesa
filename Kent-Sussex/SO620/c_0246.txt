@@ -1,0 +1,16 @@
+Stoor Crossing 54 16
+Durham Farm Crossing 54 30
+Tarring Neville 1 Crossing 54 56
+Tarring Neville 2 Crossing 54 71
+Piddinghoe TP Hut 54 74
+Newhaven Town SB (CCO) 56 20
+Newhaven Town Level Crossing 56 20
+NEWHAVEN TOWN 56 25
+Newhaven Substation 56 33
+NEWHAVEN HARBOUR 56 51
+Newhaven Harbour LC (RC) 56 55
+Newhaven Habour SB (NH) 56 58 *
+Beach Road LC (RC) 56 61 *-
+NEWHAVEN MARINE 56 67
+Wharf Road Ground Frame (OUU) 57 78
+

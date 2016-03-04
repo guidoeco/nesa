@@ -1,0 +1,89 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08	LONDON BRIDGE	0	00	
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08		1	69	
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08		0	14	
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08		2	02	
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08	London Bridge SB (L)	2	02	X
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08	London Bridge TP Hut	0	19	
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08		2	03	
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08		0	21	*
+0178	SO510	001	London Bridge to Epsom Downs LBW LBC Kent/Sussex	22/03/08		0	32	*
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06	Spa Road	1	03	
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06		2	71	
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06		1	43	*
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06	South Bermondsey Substation	1	44	
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06		3	31	
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06	Blue Anchor Jn	1	45	
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06		3	32	
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06	South Bermondsey Jn	1	49	*
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06		1	55	*
+0179	SO510	002	London Bridge to Epsom Downs LBW LBC Kent/Sussex	02/12/06		1	74	*
+0180	SO510	003	London Bridge to Epsom Downs LBW Kent/Sussex	15/09/08	Bricklayers Arms Jn	2	12	
+0180	SO510	003	London Bridge to Epsom Downs LBW Kent/Sussex	15/09/08		2	23	*
+0180	SO510	003	London Bridge to Epsom Downs LBW Kent/Sussex	15/09/08	New Cross Gate TP Hut	2	56	
+0181	SO510	004	London Bridge to Epsom Downs LBW Kent/Sussex	05/05/08	NEW GROSS GATE	2	70	
+0181	SO510	004	London Bridge to Epsom Downs LBW Kent/Sussex	05/05/08		3	05	*
+0181	SO510	004	London Bridge to Epsom Downs LBW Kent/Sussex	05/05/08	BROOKLEY	3	56	
+0181	SO510	004	London Bridge to Epsom Downs LBW Kent/Sussex	05/05/08	Brockley Substation	4	09	
+0181	SO510	004	London Bridge to Epsom Downs LBW Kent/Sussex	05/05/08	HONOR OAK PARK	4	59	
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06	Forest Hill TP Hut	5	40	
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06	FOREST HILL	5	50	
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06	SYDENHAM	6	32	
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06	Sydanham Down Jn	6	41	
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06		6	44	*
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06	Sydenham Up Jn	6	51	
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06		6	54	*
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06		6	65	*
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06	Penge Substation	6	56	
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06		6	75	*
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06		6	78	*
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06		7	06	*
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06	Route Boundary	7	38	
+0182	SO510	005	London Bridge to Epsom Downs LBW SCP Kent/Sussex	02/12/06	(Crystal Palace)	7	52	
+0183	SO510	006	London Bridge to Epsom Downs LBW Kent/Sussex	02/12/06	PENGE WEST	7	15	
+0183	SO510	006	London Bridge to Epsom Downs LBW Kent/Sussex	02/12/06	Route Boundary	7	28	
+0183	SO510	006	London Bridge to Epsom Downs LBW Kent/Sussex	02/12/06	ANERLEY	7	47	
+0183	SO510	006	London Bridge to Epsom Downs LBW Kent/Sussex	02/12/06	Nonmod Jn Substation	8	07	
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06	(Bromley Up Jn)	9	36	
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06	(Bromley Down Jn)	9	48	
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06	(CM&EE Cable Depot Crossing)	9	65	
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06		9	72	*
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06		9	75	
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06		8	35	
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06		8	43	*
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06		8	54	*
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06	NORWOOD J"	8	55	
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06		8	65	*
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06		8	68	*
+0184	SO510	007	London Bridge to Epsom Downs LBW BJN1 BJN2 Kent/Sussex	02/12/06		8	71	*
+0185	SO510	008	London Bridge to Epsom Downs LBW NFE Kent/Sussex	02/12/06	Selhurst Depot			X
+0185	SO510	008	London Bridge to Epsom Downs LBW NFE Kent/Sussex	02/12/06	Nomood Down Yard			X
+0185	SO510	008	London Bridge to Epsom Downs LBW NFE Kent/Sussex	02/12/06	Norwood Fork Jn	9	33	
+0185	SO510	008	London Bridge to Epsom Downs LBW NFE Kent/Sussex	02/12/06		9	34	*
+0185	SO510	008	London Bridge to Epsom Downs LBW NFE Kent/Sussex	02/12/06	Selhurst Substation	9	37	
+0185	SO510	008	London Bridge to Epsom Downs LBW NFE Kent/Sussex	02/12/06	(Selhurst Jn)	9	46	
+0185	SO510	008	London Bridge to Epsom Downs LBW NFE Kent/Sussex	02/12/06	Gloucester Road Jn	9	45	
+0185	SO510	008	London Bridge to Epsom Downs LBW NFE Kent/Sussex	02/12/06		9	46	*
+0186	SO510	009	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06		10	13	*
+0186	SO510	009	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	WEST OROYDON	10	35	
+0186	SO510	009	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06		10	50	*
+0186	SO510	009	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	West Croydon TP Hut	10	68	
+0187	SO510	010	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	WADDON	11	40	
+0187	SO510	010	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	Waddon Substation	12	00	
+0187	SO510	010	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	WALLINGTON	13	05	
+0187	SO510	010	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	Wallington TP Hut	13	45	
+0187	SO510	010	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	GARSHALTON BEECHES	13	72	
+0188	SO510	011	London Bridge to Epsom Downs NFE BTH2 Kent/Sussex	02/12/06	Sutton Substation	14	67	
+0188	SO510	011	London Bridge to Epsom Downs NFE BTH2 Kent/Sussex	02/12/06	Sutton Ground Frame	14	71	*
+0188	SO510	011	London Bridge to Epsom Downs NFE BTH2 Kent/Sussex	02/12/06	SUTPON	14	75	
+0188	SO510	011	London Bridge to Epsom Downs NFE BTH2 Kent/Sussex	02/12/06		12	50	
+0188	SO510	011	London Bridge to Epsom Downs NFE BTH2 Kent/Sussex	02/12/06		15	15	*
+0188	SO510	011	London Bridge to Epsom Downs NFE BTH2 Kent/Sussex	02/12/06		15	45	*
+0189	SO510	012	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	BELMONT	16	01	
+0189	SO510	012	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	Belmont TP Hut	16	17	
+0189	SO510	012	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06		16	57	*
+0189	SO510	012	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06		17	39	*
+0189	SO510	012	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	BANSTEAD	17	40	
+0189	SO510	012	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	Banstead Substation	17	56	
+0189	SO510	012	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06		18	46	*
+0189	SO510	012	London Bridge to Epsom Downs NFE Kent/Sussex	02/12/06	EPSOM DOWNS	18	60	

@@ -1,0 +1,15 @@
+NRN
+TCB Exeter SB (E) .
+All llgfis bi-directional
+In 3 on area
+Platforms 1, 3-6 PPIPF
+Platform 2 (PP)
+Platforms 1 & 3 non-permissive
+for trains from Exeter Central
+Platform 1 - 283m (309 yards)
+Platform 2 - 102m (112 yards)
+Platform 3 - 276m (302 yards)
+Platform 4 - 277m (303 yards)
+Platform 5 - 322m (352 yards)
+Platform 6 - 323m (353 yards)
+

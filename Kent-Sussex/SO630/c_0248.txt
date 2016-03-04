@@ -1,0 +1,12 @@
+(Brighton) ( O 00)
+0 22 *
+Hove Tunnel 0 30
+(220 yards) 0 40
+(Preston Park Jn) (49 43)
+Hove Jn 1 28 *
+50 48
+Hove Substation 1 35
+HOVE 1 35
+(50 56)
+1 47 i:
+

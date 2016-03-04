@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0035	SC005	001	Carstairs Station Jn to Carstairs East Jn CSP Scotland	02/12/06	Carstairs Station Jn	73	37	
+0035	SC005	001	Carstairs Station Jn to Carstairs East Jn CSP Scotland	02/12/06		73	60	
+0035	SC005	001	Carstairs Station Jn to Carstairs East Jn CSP Scotland	02/12/06		73	64	*
+0035	SC005	001	Carstairs Station Jn to Carstairs East Jn CSP Scotland	02/12/06	Carstairs East Jn	74	10	

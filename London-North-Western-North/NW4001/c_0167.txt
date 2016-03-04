@@ -1,0 +1,15 @@
+0 74 1|:
+Morecambe South Jn 1 72
+
+2 00 *
+
+2 12 *-
+OHNS 2 38
+H.A.B.D. Hest Bank 2 51
+Hest Bank Jn 3 10
+Hest Bank L.C. (M03) 3 11
+(not block post)
+Bolton-Ie-Sands LC (CCTV) 4 30
+H.A.B.D. Bolton-Ie-Sands 5 08
+Camforth South Jn 5 56
+

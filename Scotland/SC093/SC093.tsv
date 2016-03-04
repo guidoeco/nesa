@@ -1,0 +1,39 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	Mothenwell	39	51	
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	DGL entry points	89	63	
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	Findlay's GF	89	63	X
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	(Up side)	89	63	X
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	OHNs	89	77	
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	Braidhurst Loops	89	77	X
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	OHNS	90	06	
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	Braidhurst No.1 GF	90	06	X
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	(Down side)	90	06	X
+0155	SC093	001	Motherwell to Greenhill Lower Junction SCM1 Scotland	02/12/06	UGL entry points	90	17	
+0156	SC093	002	Motherwell to Greenhill Lower Junction SCM1 SCM2 Scotland	02/12/06	(Change of ELR SCM1 to SCMZ)	91	08	
+0156	SC093	002	Motherwell to Greenhill Lower Junction SCM1 SCM2 Scotland	02/12/06	Mossend South Jn	91	08	X
+0156	SC093	002	Motherwell to Greenhill Lower Junction SCM1 SCM2 Scotland	02/12/06		91	12	
+0157	SC093	003	Motherwell to Greenhill Lower Junction SCM1 SCM2 Scotland	02/12/06	Mossend North Jn	91	42	
+0157	SC093	003	Motherwell to Greenhill Lower Junction SCM1 SCM2 Scotland	02/12/06	Mossend Yard	91	42	X
+0158	SC093	004	Motherwell to Greenhill Lower Junction SCM2 Scotland	02/12/06	Bumhouse	92	12	
+0158	SC093	004	Motherwell to Greenhill Lower Junction SCM2 Scotland	02/12/06		93	20	*
+0158	SC093	004	Motherwell to Greenhill Lower Junction SCM2 Scotland	02/12/06		93	40	*
+0158	SC093	004	Motherwell to Greenhill Lower Junction SCM2 Scotland	02/12/06		93	48	*
+0158	SC093	004	Motherwell to Greenhill Lower Junction SCM2 Scotland	02/12/06	Whifﬂet South Jn	93	65	
+0159	SC093	005	Motherwell to Greenhill Lower Junction SCM2 SCM3 Scotland	02/12/06	WHIFFLET	94	02	
+0159	SC093	005	Motherwell to Greenhill Lower Junction SCM2 SCM3 Scotland	02/12/06	Whifﬂet North Jn	94	05	
+0159	SC093	005	Motherwell to Greenhill Lower Junction SCM2 SCM3 Scotland	02/12/06	(Change of ELR SCMZ to SCM3)	94	05	
+0159	SC093	005	Motherwell to Greenhill Lower Junction SCM2 SCM3 Scotland	02/12/06	Coatbridge Jn	94	49	*
+0159	SC093	005	Motherwell to Greenhill Lower Junction SCM2 SCM3 Scotland	02/12/06	GOATBRIDGE CENTRAL	94	63	
+0159	SC093	005	Motherwell to Greenhill Lower Junction SCM2 SCM3 Scotland	02/12/06		94	70	*
+0160	SC093	006	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06	Gartsherrie South Jn	95	64	*
+0160	SC093	006	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06		96	05	*
+0160	SC093	006	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06	Heatherbell LC	96	17	CCTV
+0161	SC093	007	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06	Garnqueen North Jn	97	05	
+0161	SC093	007	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06	Greenfoot LC	97	60	CCTV
+0162	SC093	008	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06	GREENFAULDS	100	43	
+0162	SC093	008	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06	CUMBERNAULD	101	18	
+0162	SC093	008	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06		102	34	*
+0162	SC093	008	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06		103	00	*
+0162	SC093	008	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06		106	20	*
+0162	SC093	008	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06		106	47	*
+0162	SC093	008	Motherwell to Greenhill Lower Junction SCM3 Scotland	02/12/06	GreenhillLower Jn	106	63	

@@ -1,0 +1,39 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06		68	60	
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06	Abbotswood Junction	0	00	
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06	Singla Line Jn	0	05	
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06		0	08	*
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06	Cooksholme LC	0	25	UWC
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06		0	58	*
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06		0	62	*
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06	Norton Junction SB (NJ)	117	26	*
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06	Change of ELR	117	26	X
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06		117	33	*
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06		120	04	*
+0134	GW300	001	Abbotswood Jn to Stoke Works Jn Via Worcester Shrub Hill ABW OWW Western	05/08/06	Wylds Lane Jn	120	14	
+0135	GW300	002	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	North Sidings GF	120	17	
+0135	GW300	002	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Worcester Shrub Hi|| Through Sidings	120	17	X
+0135	GW300	002	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Worcester Shrub Hi|| SB	120	31	
+0135	GW300	002	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	WORCESTER SHRUB HILL	120	42	
+0135	GW300	002	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Shrub Hill Jn	120	46	*
+0135	GW300	002	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Barrow crossing	120	47	WL
+0135	GW300	002	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Worcester Light Maintenance Depot	120	47	X
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Worcester Tunnel Jn SB	120	72	
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Up through siding	120	75	
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Worcester Tunnel Jn	120	78	*
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Rainbow Hill Tunnel	120	79	
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	(194m, 212yds)	121	09	
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06		123	13	
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	Chawson Footpath Crossing	125	24	
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06	DROITWIOH SPA	126	10	
+0136	GW300	003	Abbotswood Jn to Stoke works Jn Via Worcester Shrub Hi|| OWW Western	05/08/06		126	19	*
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06	Droitwich Spa Jn	126	21	*
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06	(Change of ELR)	126	21	X
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06	Droitwich Spa (DS) SB	126	26	
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06		126	30	*
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06		126	51	*
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06	Single line	126	67	*
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06		127	50	*
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06		130	20	*
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06	Stoke Works Jn	130	25	
+0137	GW300	004	Abbotswood Jn to Stoke Works Jn via Worcester Shrub Hill OWW STO Western	05/08/06		57	43	

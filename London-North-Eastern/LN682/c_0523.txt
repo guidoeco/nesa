@@ -1,0 +1,30 @@
+4 00 *
+Skiff Inn LC (UWC) 4 13
+Chain Bridge LC(MCB) 5 19
+Blaydon SB (B) 5 22
+
+5 28
+
+3 78
+BLAYDON 4 03
+
+4 20 *
+
+4 73 *-
+Addison LC (AHBC) 5 03
+Boat House LC (UWC) 6 34
+Golf Course Bridleway 7 08
+Clara Vale LC (AHBC-X) 7 40
+WYLAM 8 35
+Wylam LC (MCB,03) 8 35
+Wylam SB ) 8 35
+
+8 48 *-
+
+8 78 *-
+
+10 45
+PRUDHOE 10 47
+Prudhoe LC EMCB) 10 49
+Prudhoe SB PE) 10 49
+

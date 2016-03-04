@@ -1,0 +1,16 @@
+Sutton Bridge Jn SB (T EP) 0 65
+Sutton Bridge Jn 0 63
+
+0 00
+
+0 02 5%
+
+0 10 *
+
+2 10 *
+Hanwood Yard LC (UWC) 3 73
+Hanwood LC (UWC) 4 09
+Hanselmans1LC(UWC) 7 17
+Stretlon Heath LC (AH BC) 8 76
+Westbury LC (AHBC) 10 25
+

@@ -1,0 +1,15 @@
+22 37 *-
+23 27 *
+23 47 3':
+Chapel Lane LC (MCG) 24 06
+24 32 i:
+24 43 *
+Parbold SB LC (MOB) 24 49
+PARBOLD 24 53
+Ferret Lane LC (UWC) 25 12
+Dean Lane LC (AHBC-X) 25 57
+Frog Lane LC (UWC) 25 77
+HOSGAR (Up Platform) 26 07
+Hoscar LC (AHBC-X) 26 08
+HOSGAR (Down Pltl'orm) 26 13
+

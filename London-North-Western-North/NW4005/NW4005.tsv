@@ -1,0 +1,36 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0185	NW4005	001	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	Preston Fylde Jn	0	33	
+0185	NW4005	001	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	Preston SB	0	41	PM
+0185	NW4005	001	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06		0	66	
+0185	NW4005	001	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06		0	76	*
+0185	NW4005	001	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06		4	41	
+0185	NW4005	001	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	Down Siding GF	4	78	
+0185	NW4005	001	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06		5	02	
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	Salwick SB	5	03	SK
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	SALWICK	5	17	
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	Kirkham South Junction	7	35	
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06		7	40	
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06		7	45	*
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06		7	60	*
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	KIRKHAM & WESHAM	7	67	
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06		8	20	*
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	Kirkham North Jn	8	28	
+0186	NW4005	002	Preston Fylde Jn. to Blackpool North PBN LNW North	07/10/06	Kirkham SB (KM)	8	29	*
+0187	NW4005	003	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08		8	36	
+0187	NW4005	003	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08		8	42	
+0187	NW4005	003	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08		8	44	
+0187	NW4005	003	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08		13	73	*
+0187	NW4005	003	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08	POULTON-LE-FYLDE	14	31	
+0187	NW4005	003	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08		14	33	*
+0187	NW4005	003	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08	Poulton Jn	14	40	*
+0187	NW4005	003	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08	Poulton SB	14	44	PT
+0188	NW4005	004	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08		14	48	*
+0188	NW4005	004	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08		15	05	*
+0188	NW4005	004	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08	Carleton Crossing LC	15	44	MOB
+0188	NW4005	004	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08	Carleton Crossing SB (CN)	15	44	X
+0188	NW4005	004	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08	LAYTON	16	32	
+0188	NW4005	004	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08		16	69	
+0188	NW4005	004	Preston Fylde Jn. to Blackpool North PBN LNW North	11/10/08	Blackpool North No.1 SB	18	00	BN
+0189	NW4005	005	Preston Fylde Jn. to Blackpool North PBN LNW North	05/05/07	Blackpool North No.2 SB (BN2)	17	30	*
+0189	NW4005	005	Preston Fylde Jn. to Blackpool North PBN LNW North	05/05/07		17	31	*
+0189	NW4005	005	Preston Fylde Jn. to Blackpool North PBN LNW North	05/05/07	BLACKPOOL NORTH	17	49	

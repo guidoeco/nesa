@@ -1,0 +1,14 @@
+Oerffrwyd LC (UWC) 57 15
+57 40 'k
+57 52 *
+Plas Newydd LC (UWC) 57 76
+58 48 it
+Post Office No.1 LC (UWC) 58 72
+Post Office No.2 LC (UWC) 58 73
+Game LC (AHBC) 59 17 *
+59 36 *
+Sam LC (UWC) 59 42
+59 53 are
+59 59 *
+Pikins LC (UWC) 60 35
+

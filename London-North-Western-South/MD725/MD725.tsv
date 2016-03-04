@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08	AYLESBURY	38	13	
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08		38	18	*
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08		38	38	
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08		38	47	*
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08		39	01	
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08	Aylesbury Vale Junction	40	26	*
+0195	MD725	001	Aylesbury to Claydon L&NE Junction MCJ2 LNW South	29/11/08	AYLESBURY VALE PARKWAY	40	38	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	QUAINTON ROAD	44	22	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Change of mileage	44	28	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08		161	50	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Ditchburns Crossing LC	159	33	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Calvert Souflw GF	157	63	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Waste Recycling Group Private Siding	157	63	X
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Calvert North GF	157	05	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08		157	00	*
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Calvert Jn	156	72	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Change of mileage	0	00	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Claydon L&NE Jn	0	41	
+0196	MD725	002	Aylesbury to Claydon L&NE Junction MCJ2 MCJ3 LNW South	29/11/08	Change of mileage	12	57	

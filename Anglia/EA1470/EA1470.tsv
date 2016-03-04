@@ -1,0 +1,63 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Thorpe Jn	123	56	
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08		0	29	
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08		0	44	*
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Crown Paint Control Tower	0	58	
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Wensum Jn -	0	60	
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Girlings LC	1	52	RlG-X
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Whitlingham Lane LC	1	63	
+0202	EA1470	001	Norwich Thorpe Jn to Lowestoft NOL Anglia	12/04/08	Whitlingham Jn	1	69	
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Bungalow Lane LC	2	18	RIG-X
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		3	41	*
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		3	43	*
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	BRUNDALL GARDENS	4	66	
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Church Lane LC	5	20	
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Bells LC	5	45	
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	BRUNDALL	5	60	
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Brundall LC	5	62	
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Brundall Jn . SB	5	70	BL
+0203	EA1470	002	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Brundall Jn	5	73	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No. 13 LC	6	30	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Strumpshaw Fen LC	6	74	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Strumpshaw LC	7	11	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	BUCKENHAM	7	62	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Buckenham LC	7	62	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.26 LC	8	60	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No. 30 LC	9	38	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Burnt House LC	9	62	
+0204	EA1470	003	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Church Road LC	9	74	
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	OANTLEY	10	00	
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Cantley LC	10	03	MWG
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Cantley SB	10	04	O
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	REEDHAII	12	13	
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	18	*
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	26	*
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	27	*
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Reedham Jn SB	12	28	RJ
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Reedham Jn	12	34	
+0205	EA1470	004	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	35	*
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		12	54	*
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Reedham Swing Bridge SB	13	06	RB
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		13	45	*
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	River Board LC	16	01	
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	HADDISGOE	16	11	
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.53 LC	16	57	
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.54 LC	16	72	
+0206	EA1470	005	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.56 LC	17	15	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		17	51	*
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Somerleyton Swing Bridge SB	17	60	SB
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06		17	63	*
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.58 LC	17	76	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	SOMERLEYTON	18	00	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Somerleyton GF	18	07	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.59 LC	18	23	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.67 LC	19	57	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No. 72 LC	20	43	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	No.74 LC	20	77	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Oulton Broad North SB	22	00	OB
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	Oulton Broad North LC	22	01	
+0207	EA1470	006	Norwich Thorpe Jn to Lowestoft NOL Anglia	05/08/06	OULTON BROAD NORTH	22	04	
+0208	EA1470	007	Norwich Thorpe Jn to Lowestoft NOL Anglia	14/02/09	Oulton Broad North Jn	22	14	
+0208	EA1470	007	Norwich Thorpe Jn to Lowestoft NOL Anglia	14/02/09	Ground Frame	22	77	
+0208	EA1470	007	Norwich Thorpe Jn to Lowestoft NOL Anglia	14/02/09	Lowestoft SB	23	22	L
+0208	EA1470	007	Norwich Thorpe Jn to Lowestoft NOL Anglia	14/02/09	LOWESTOFT	23	41	

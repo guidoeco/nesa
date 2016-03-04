@@ -1,0 +1,9 @@
+Truro SB (T) 300 57
+Truro LC (M03) 300 57
+TRURO 300 63
+
+300 70
+Higher Town Tunnel 301 10
+64m (70 yards) 301 13
+Penwithers Jn 301 25
+

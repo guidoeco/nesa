@@ -1,0 +1,16 @@
+(Paddock Wood) ( 34 67 )
+
+35 28 *
+Swatlands LC (AHBC) 35 29
+Wagon Lane LC (AHBC) 35 60
+
+35 75 *-
+BELTRING 36 50
+Beltring LC (AHBC) 36 52 *
+Beltring TP Hut 36 58
+Stoneham Crossing 37 27
+East Peckham Engineers Tip Siding 37 34
+Ground Frame
+Ballast Hole Crossing 37 45
+Wards Crossing 37 73
+

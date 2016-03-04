@@ -1,0 +1,15 @@
+Goonbarrow Jn (G) SB 287 40
+Garbis Branch Jn 287 43
+Molinnis LC (AOCL) 287 76
+BUGLE 288 03
+288 15 *-
+ROCHE 290 40
+Holywell LC (UWC) 290 67
+291 40 1k
+Fancy (UWC) 291 77
+Tregoss Moor LC (AOCL) 292 32
+Solomans No1(UWC) 293 35
+Solomans N02(UWC) 293 41
+Solomans No 3 (UWC) 293 52
+294 00 1k
+

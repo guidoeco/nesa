@@ -1,0 +1,18 @@
+5 31 i:
+
+5 11 at-
+
+5 1O *
+Luffenham LC (CCTV) 4 11
+
+3 20 i:
+NRN Channel change board 1 10
+Wing LC (UWC) 1 O3
+
+0 20 *-
+Manton Jn GF 0 14
+Manton Jn SB (MJ) 0 O7
+Manton Jn 0 00
+
+90 25
+

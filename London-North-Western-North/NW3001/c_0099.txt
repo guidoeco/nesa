@@ -1,0 +1,17 @@
+223 61
+
+223 69 *
+
+224 00 *-
+Signal LJ 71 (Down) 224 05
+Conwy Tubular Bridge 224 11
+(136m I 149 yd) to 224 18
+CONWY 224 40
+Conwy Tunnel 224 44
+(68m I74 yd) to 224 47
+
+224 60 a:
+
+224 62 *
+Signal LJ 76 (Up) 226 30
+

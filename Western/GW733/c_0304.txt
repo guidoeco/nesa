@@ -1,0 +1,18 @@
+Ty Pella LC (UWC) 65 57
+Mywars No.2 LC (UWC) 66 10
+Burn LC (UWC) 66 49
+67 4O *
+68 05 1e
+68 60 *
+69 20 5:
+RETB Channel Change 70 00
+Cemmes Road LC (RIG) 70 05
+Llanglan Fechan No.2 LC (UWC) 74 05
+Llanglan Fechan No.4 LC (UWC) 74 54
+74 74 9:
+RETB Channel Change 75 00
+Machynlleth SB (MH) 75 04
+MACHYNLLETH (TEP) 75 04
+75 21 *
+Rhosfach LC (UWC) 75 70
+

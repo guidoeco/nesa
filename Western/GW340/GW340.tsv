@@ -1,0 +1,44 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0146	GW340	001	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Shrub Hill Jn	120	46	
+0146	GW340	001	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		120	66	*
+0146	GW340	001	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	WORCESTER FOREGATE	121	12	
+0146	GW340	001	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	STREET			Z
+0146	GW340	001	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Henwick LC	121	65	MCB
+0146	GW340	001	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Henwick SB	121	65	HK
+0146	GW340	001	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		121	74	*
+0147	GW340	002	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		122	20	*
+0147	GW340	002	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Newland East LC	126	22	M03
+0147	GW340	002	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Newland East SB	126	22	
+0147	GW340	002	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		127	15	*
+0147	GW340	002	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	MALVERN LINK	127	75	
+0147	GW340	002	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	GREAT MALVERN	129	06	
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		129	70	*
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Malvern Wells Down Goods Loop	129	70	X
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		130	10	*
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Malvem Wells SB	130	13	
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Single line	130	18	
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		130	19	*
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Colwall Tunnel	130	48	*
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	(1450m,1586yds)			Z
+0148	GW340	003	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	to	131	40	*
+0149	GW340	004	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		131	64	*
+0149	GW340	004	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	COLWALL	131	72	
+0149	GW340	004	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		132	58	
+0149	GW340	004	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		133	76	
+0149	GW340	004	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		134	30	*
+0149	GW340	004	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		135	12	*
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Ledbury Tunnel	135	15	
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	(1203m,1316yds)	135	75	
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Single line	135	76	
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Ledbury SB	136	06	
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	LEDBURY	136	09	
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Single line	136	30	*
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		139	18	
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Rimmell's LC	140	34	UWC
+0150	GW340	005	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Stoke Edith LC	142	22	AHBC
+0151	GW340	006	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		145	13	
+0151	GW340	006	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	NRN Channel change	146	00	
+0151	GW340	006	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Shelwick Green LC	147	48	UWC
+0151	GW340	006	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		147	70	*
+0151	GW340	006	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06	Shelwick Jn	148	11	
+0151	GW340	006	Worcester Shrub Hill to Shelwick Jn WAH Western	05/08/06		49	26	

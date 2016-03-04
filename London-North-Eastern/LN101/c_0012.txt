@@ -1,0 +1,18 @@
+Little Barford F.S. OHNS 49 72
+50 04 a:
+51 03 9:
+51 23
+St. Neots South Jn 51 40
+ST. NEOTS 51 58
+St. Neots North Jn 52 26
+53 66 *
+Cardells LC RIG 54 O7
+54 20
+54 46 *
+54 52
+No 66 LC RIG Footpath 54 70
+No 71LC RIG Footpath 55 63
+Otford LC (CCTV) 55 76
+56 17 *-
+56 31 *
+

@@ -1,0 +1,16 @@
+Brook LC(AHBC) 37 19 1k
+Ford Crossing 37 70
+38 03 ul-
+CHILWORTH 39 15
+Chilworth LC (CCTV) 39 20
+Tangley LC (AHBC) 39 48 *-
+East Shalford Crossing 40 20
+Shalford SB (WY) 40 78
+41 00
+SHALFORD 41 02
+41 10 i-
+41 55 *
+41 60
+31 42
+31 41 *
+

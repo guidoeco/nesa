@@ -1,0 +1,21 @@
+(Longhedge Jn) ( 1 63)
+Route Boundary 1 67
+Pouparts Jn 2 O4
+
+2 20
+
+2 08 *
+(Latchmere No.1 Jn) (0 63)
+Clapham Jn Substation 2 47
+Victoria SB (VC&VS) 0 21
+
+2 51 *-
+GLAPHAM JUNCTION 2 57
+
+0 10 *-
+Falcon Jn 2 66
+
+0 00
+
+2 70 1k
+

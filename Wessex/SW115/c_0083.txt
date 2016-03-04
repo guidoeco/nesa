@@ -1,0 +1,10 @@
+Ashford LC (R/G) 109 41
+TEMPLECOMBE 112 02
+Templecombe SB 112 02
+112 76 *
+113 36 *-
+115 35 *-
+115 76 *-
+Castleton Farm Crossing 117 31
+Sherbome LC 118 00
+

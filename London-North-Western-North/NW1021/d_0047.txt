@@ -1,0 +1,16 @@
+NRN
+TCB Warrington SB (WN)
+AC: Crews
+Between Earlestown East Jn and
+Newton-le-Willows Jn line direction
+is up towards Newton-le-Willows Jn
+(see NW1021 seq 001)
+DCM=Down Chat Moss
+UCM=Up Chat Moss
+DWC=Down West Curve
+UWC=Up West Curve
+DEC=Down East Curve
+UEC=Up East Curve
+DL=Down Lawton
+UL=Up Lowton
+

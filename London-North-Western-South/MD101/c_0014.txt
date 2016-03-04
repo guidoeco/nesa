@@ -1,0 +1,14 @@
+27 40 *
+BERKHAMSTED 27 75
+28 05 1c
+28 20 i:
+28 23 *
+Northchurch Tunnels 28 76
+(319 metres 349 yards) 29 11 *
+to 29 12 i:
+Northchurch HABD 29 47
+31 25 *
+Tring South Junction 31 30
+TRING 81 50
+31 72 *-
+

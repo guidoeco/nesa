@@ -1,0 +1,14 @@
+TUNBRIDGE WELLS 34 32
+Grove Hill Tunnel 34 38
+(287 yards) to 34 51
+
+34 52 2!:
+Grave Hill Substation 34 58
+Grove Jn 34 65
+Strawberry Hill Tunnel 35 12
+(286 yards) to 35 25
+
+35 30 *
+FRANT 36 53
+Frant TP Hut 36 60
+

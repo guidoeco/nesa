@@ -1,0 +1,10 @@
+190 72 *
+Windsor Bridge South Jn 191 01
+1 46
+1 55 i:
+191 10
+SALFORD CRESCENT 1 59
+Manchester North SB (MN) 1 61
+Windsor Bridge North Jn 1 66 *
+1 7O *
+

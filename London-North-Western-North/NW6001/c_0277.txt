@@ -1,0 +1,20 @@
+1 77 i:
+
+2 10 *-
+Agecroft South Jn 2 7D
+Brindle Heath Sidings
+
+3 08
+
+3 28
+Agecroft North Jn 3 33
+CLIFTON 4 57
+KEARSLEY 7 57
+
+8 05 *
+Farnworth Tunnels 8 1O
+(270ml295yd) to 8 24
+
+8 26 *
+FARN'WORTH 8 31
+

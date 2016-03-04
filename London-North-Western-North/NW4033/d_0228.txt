@@ -1,0 +1,14 @@
+NRN
+
+TCB Carllsle SB (CE)
+@Applies to class 60 locomotives
+
+only
+@Applies to all other trains
+
+Platform Lengths : Dalston
+
+Platform Up 0m (87 ads)
+
+Platform Down 75m ( 2 yds)
+

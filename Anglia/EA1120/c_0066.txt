@@ -1,0 +1,9 @@
+Parkeston Goods Jn 68 02
+Parkeston Yard 68 51 *
+Parkeston West (MOB) LC 68 61
+Parkeston SB (P) 68 62
+HARWICH INTERNATIONAL 68 72
+PORT
+
+Parkeston East LC (CCTV) 68 79
+

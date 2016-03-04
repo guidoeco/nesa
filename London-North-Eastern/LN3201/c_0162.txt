@@ -1,0 +1,18 @@
+108 29 a:
+BARRON-U PON-SOAR 108 52
+
+108 62 *
+Barrow-upon—Soar HABD 108 72
+Shuttlewoods Top LC (UWC) 110 31
+Moor Lane LC (UWC) 110 60
+
+111 00 i:
+Loughborough HABD 111 O5
+Allsopps LC (UWC) 111 19
+Loughborough South Jn 111 22
+
+111 40 *
+LOUGHBOROUGH 111 46
+
+111 56 i-
+

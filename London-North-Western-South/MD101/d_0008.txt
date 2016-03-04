@@ -1,0 +1,15 @@
+NRN CSR
+TCB Wembley Mainline SCC (WM)
+AC: Rugby ECR
+TASS fitted:
+DF line throughout
+UF line throughout
+Line Lookout Devices (LOD(P)):
+Up Slow: 9m OOCh to 8m 23Gb.
+Platform Lengths:
+3 - 245 metres
+4 - 245 metres
+5 - 245 metres
+6 - 245 metres
+CSR
+

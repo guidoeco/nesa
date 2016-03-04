@@ -1,0 +1,18 @@
+Cogan Jn 2 29
+COGAN 2 41
+
+2 60 i:
+Cogan Tunnel 2 75
+(201m, 220yds) 3 O5
+
+3 20 'k
+EASTBROOK 3 40
+DINAS POWYS 4 13
+
+5 40 are
+Barry Docks Line Jn 5 74
+CADOXTON / TREGATWG 6 10
+Down Reception Line GF 6 19
+
+6 7D *
+

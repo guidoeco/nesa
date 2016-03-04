@@ -1,0 +1,11 @@
+Avonmouth Station LC (CCTV) 9 08
+AVONMOUTH 9 02
+
+8 35 *
+Avonmouth Dock LC (CCTV) 8 29
+
+7 52 *-
+SHIREHAMPTON 7 50
+
+7 42 *-
+

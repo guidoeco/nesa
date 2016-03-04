@@ -1,0 +1,13 @@
+NRN CSR
+RAB DC: Selhurst
+UPL 42
+DPL 37
+1 Up Portsmouth
+2 Down Portsmouth
+3 Down Holborn
+4 Up Holborn
+5 Down Leigham Spur
+6 Up Leigham Spur
+7 Up West Nomood Spur
+8 Down West Nomood Spur
+

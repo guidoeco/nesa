@@ -1,0 +1,9 @@
+3 72 *-
+Hull River Swing Bridge 3 76
+
+3 79 *-
+Bridgean 5 15
+Network RaillABP Boundary 5 62
+
+5 62 it
+

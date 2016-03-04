@@ -1,0 +1,10 @@
+Rosyth Dockyard 1 21
+Notice Board 1 16 *
+Ferry Toll Tunnel 1 06
+130 yards to 1 00
+(Change of ELR RHD2 to RHD1) 1 00
+
+0 12 are
+Inverkeithing Car Park Footpath LC (RIG) 0 05
+Inverkeithing South Jn 0 02
+

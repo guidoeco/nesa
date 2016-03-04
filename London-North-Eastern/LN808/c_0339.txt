@@ -1,0 +1,11 @@
+Dore Station Jn O 60
+DORE 0 27
+0 08
+0 02 *
+Dore West Jn 0 00
+154 16
+Network Rail LNEI North West 154 20
+Territory Boundary
+154 41 *
+Totley Tunnel East SB (TE) 154 62
+

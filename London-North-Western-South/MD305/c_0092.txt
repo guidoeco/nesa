@@ -1,0 +1,4 @@
+NORTHFIELD 48 12
+LONGBRIDGE 49 12 *
+Halesowen Jn 49 21
+

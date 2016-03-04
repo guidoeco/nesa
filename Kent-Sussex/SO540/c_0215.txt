@@ -1,0 +1,19 @@
+37 15
+Crowborough Jn 38 73
+
+39 00 it
+GROWBOROUGH 39 11
+Crowborough Ground Frame
+Crowborough Tunnel 39 61
+(1022 yards) to 40 27
+
+41 20
+
+42 50 *
+GreenhurstJn 42 53
+BUXTED 43 68
+
+45 01 *
+Hempstead Crossing 45 13 *-
+UGKFIELD 46 08
+

@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0164	SC099	001	Whif?et North Junction to Rutherglen East Junction RSL2 RSL1 RCB Scotland	02/12/06	Whifﬂet North Jn	0	00	
+0164	SC099	001	Whif?et North Junction to Rutherglen East Junction RSL2 RSL1 RCB Scotland	02/12/06		0	25	*
+0164	SC099	001	Whif?et North Junction to Rutherglen East Junction RSL2 RSL1 RCB Scotland	02/12/06	(Change of ELR	0	34	*
+0164	SC099	001	Whif?et North Junction to Rutherglen East Junction RSL2 RSL1 RCB Scotland	02/12/06	RSLZ to RSL1)	6	59	
+0164	SC099	001	Whif?et North Junction to Rutherglen East Junction RSL2 RSL1 RCB Scotland	02/12/06	Langloan Jn	6	34	*
+0164	SC099	001	Whif?et North Junction to Rutherglen East Junction RSL2 RSL1 RCB Scotland	02/12/06	(Change of ELR RSL1 to RCB)	6	34	
+0165	SC099	002	Whif?et North Junction to Rutherglen East Junction RCB Scotland	02/12/06	KIRKWOOD	6	04	
+0165	SC099	002	Whif?et North Junction to Rutherglen East Junction RCB Scotland	02/12/06		6	00	*
+0165	SC099	002	Whif?et North Junction to Rutherglen East Junction RCB Scotland	02/12/06		5	40	*
+0165	SC099	002	Whif?et North Junction to Rutherglen East Junction RCB Scotland	02/12/06		5	20	*
+0165	SC099	002	Whif?et North Junction to Rutherglen East Junction RCB Scotland	02/12/06	BARGEDDIE	5	02	
+0165	SC099	002	Whif?et North Junction to Rutherglen East Junction RCB Scotland	02/12/06		4	20	*
+0165	SC099	002	Whif?et North Junction to Rutherglen East Junction RCB Scotland	02/12/06	BAILLIESTON	3	29	
+0166	SC099	003	Whif?et North Junction to Rutherglen East Junction RCB Scotland	27/12/08	MOUNT VERNON	2	48	
+0166	SC099	003	Whif?et North Junction to Rutherglen East Junction RCB Scotland	27/12/08	CARMYLE	1	42	
+0166	SC099	003	Whif?et North Junction to Rutherglen East Junction RCB Scotland	27/12/08		1	09	*
+0166	SC099	003	Whif?et North Junction to Rutherglen East Junction RCB Scotland	27/12/08	Rutherglen East Jn -	0	04	

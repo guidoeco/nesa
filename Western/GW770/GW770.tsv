@@ -1,0 +1,39 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07	Buffer stops 18 45112			X
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07	Ebbw Vale Parkway	18	35	
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07		18	20	*
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07		14	65	*
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07		14	36	*
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07	Former Aberbeeg Jn	14	23	*
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07	(Change of ELR)	14	23	X
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07	Llanhilleth	13	29	
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07		11	72	*
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07		10	62	*
+0327	GW770	001	Ebbw Vale Parkway to Gaer Junction (Western Valley Line) EBW WVL Western	30/11/07	Newbridge	10	45	
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		7	32	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		7	19	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07	Crosskeys Junction	7	16	
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		7	15	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07	Crosskeys	7	06	
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		7	02	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		6	75	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07	Lime Kiln LC	6	15	CCTV
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		6	13	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07	Risoa	5	12	
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		4	24	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07	Risca South Junction	4	11	
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07	Rogerstone	3	61	
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		3	21	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		2	39	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		1	46	*
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07	Park North Junction	1	45	
+0328	GW770	002	Ebbw Vale Parkway to Gaer Junction WVL Western	30/11/07		1	42	*
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08		1	14	*
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08	Junction	1	10	
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08		1	06	*
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08	Park Jn	1	02	*
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08	(Change of mileage. ELR and RA)	160	24	
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08		160	22	*
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08	Gaer Tunnel	159	65	
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08	369m (403 yards) to	159	47	
+0329	GW770	003	Ebbw Vale Parkway to Gaer Jn WVL GAE Western	16/02/08	Gaer Jn	159	33	

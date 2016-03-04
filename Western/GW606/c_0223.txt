@@ -1,0 +1,12 @@
+Cowley Bridge Jn 173 50
+173 54 2k
+173 74 *
+175 07 7k
+Norton Farm 1 LC (UWC) 175 64
+Norton Farm 2 LC (UWC) 176 21
+NEWTON ST. GYRES 176 51
+Newton St. Cyres HABD 176 60
+178 69 *9
+Single line Jn 178 70
+CREDITOR 179 20
+

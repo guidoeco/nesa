@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09	Kings Lynn Jn .	96	50	
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09		0	22	*
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09	Middleton Towers LC No.6	3	11	TMO
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09	(Network Rail boundary)	3	11	X
+0125	EA1270	001	Kings Lynn Jn to Middleton Towers MIT Anglia	16/01/09	Middleton Towers	3	44	

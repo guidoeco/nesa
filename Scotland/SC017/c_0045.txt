@@ -1,0 +1,4 @@
+Mossend East Jn 0 31
+O 06 *
+Mossend South Jn O 00
+

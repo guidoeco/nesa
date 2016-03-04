@@ -1,0 +1,10 @@
+NRN GSM-R
+TCB Cowlairs SC (CC)
+AC: Cathcart ECR
+CSR
+Platforms 3 & 4 - PP
+@ = 35 mph through BARNHILL
+Applies to Freight trains only
+
+Yoker SC (Y8)
+

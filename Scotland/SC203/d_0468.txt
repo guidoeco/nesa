@@ -1,0 +1,24 @@
+RETB 112 Invemess SC (I)
+
+A plunger is provided under
+
+the stop board at the Rogart
+
+end of the platform for
+
+shunting movements to the
+
+single line which, when
+
+operated, inhibits the LC
+
+lights sequence
+
+CL 1220f (330m)
+
+(59 SLU's)
+
+G) = 15 mph through loop
+points, in both directions,
+and over loop lines
+

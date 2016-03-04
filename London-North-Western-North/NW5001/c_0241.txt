@@ -1,0 +1,9 @@
+188 39 9:
+
+188 41 *-
+Manchester Piccadilly East Jn 188 48 *-
+GF 188 67
+MANCHESTER PICCADILLY 188 70
+Manchester Piccadilly SB (MP) 188 70
+(located in station building)
+

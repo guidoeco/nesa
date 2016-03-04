@@ -1,0 +1,17 @@
+PURFLEET 16 02
+
+16 O3 *-
+Purfleet LC (CCTV) 16 07
+Thames Board Mills LC 16 38
+
+16 42 *-
+Esso LC (UWC) 16 49
+Deep Wharf Siding 16 65
+Deep Wharf LC 16 68
+Foster Yeoman Sidings 17 06
+Jurgens LC(MCB) 17 25
+LaFarge Marine Terminal Sidings 17 53
+Thames Matex Sidings 17 55
+
+17 73
+

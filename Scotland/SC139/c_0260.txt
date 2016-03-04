@@ -1,0 +1,5 @@
+Clydebank Jn 0 00
+(Change of ELR 0 04
+RVS1 to RVSZ) 109 05
+Dalmuir Riverside 109 49
+

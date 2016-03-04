@@ -1,0 +1,12 @@
+Carstairs South Jn 73 17
+OHNS 73 24
+73 39 *
+Carstairs East Jn, 73 48
+74 10
+(Change of ELR ECA1 to ECA2) 74 10
+74 40 i:
+77 25
+Auchengray LC (AH BCX) 79 34
+Auchengray HABD (Up) 79 35
+OHNS 79 4O
+

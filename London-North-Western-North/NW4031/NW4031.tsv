@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0205	NW4031	001	Gretna Jn. to Gretna Green (Excl.) GSW LNW North	04/08/08	Gretna Jn	8	57	
+0205	NW4031	001	Gretna Jn. to Gretna Green (Excl.) GSW LNW North	04/08/08		116	13	*
+0205	NW4031	001	Gretna Jn. to Gretna Green (Excl.) GSW LNW North	04/08/08		116	09	*
+0205	NW4031	001	Gretna Jn. to Gretna Green (Excl.) GSW LNW North	04/08/08		115	43	*
+0205	NW4031	001	Gretna Jn. to Gretna Green (Excl.) GSW LNW North	04/08/08	Network Rail, London North Western	115	40	
+0205	NW4031	001	Gretna Jn. to Gretna Green (Excl.) GSW LNW North	04/08/08	Territory Boundary.	115	37	*
+0205	NW4031	001	Gretna Jn. to Gretna Green (Excl.) GSW LNW North	04/08/08	GRETNA GREEN	115	12	
+0205	NW4031	001	Gretna Jn. to Gretna Green (Excl.) GSW LNW North	04/08/08	Rigg LC	113	10	UWC

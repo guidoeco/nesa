@@ -1,0 +1,16 @@
+Over Junction 115 43
+115 70 *
+
+Keens LC (UWC) 116 03
+Pooles LC (UWC) 116 46
+Lower Barn Farm LC (UWC) 118 17
+Ley LC (MCG) 120 20
+Broken Cross Farm 120 49
+No.1 LC (UWC)
+
+Broken Cross LC (RIG) 120 66
+Broken Cross Farm 120 76
+No.2 LC (UWC)
+
+Grange Court
+

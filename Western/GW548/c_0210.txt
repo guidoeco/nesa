@@ -1,0 +1,18 @@
+Clifton Bridge No.2 Tunnel 122 53
+212m (232 yards) to 122 63
+Sandstone Tunnel 123 77
+80m (88 yards) to 124 01
+
+125 30 2k
+
+
+Pill Tunnel 125 33 *
+to 608m (665 yards) 125 63 *
+
+Change of ELR 126 32
+Network RaillBPC 126 34
+boundary
+Down STOP board 126 53.5
+Gate
+Up STOP board 126 59
+

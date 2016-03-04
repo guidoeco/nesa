@@ -1,0 +1,15 @@
+NRN
+TCB Manchester North SB (MN)
+DR = Down Rochdale
+UR = Up Rochdale
+See Local Instructions for the Method of Working
+Platform Lengths: Dean Lane
+Platform Up 39m (97 yds)
+Platform Down 90m (98 yds)
+Platform Lengths: Failsworth
+Platform Up 78m (85 yds)
+Platform Down 83m (91 yds)
+Platform Lengths: Hollinwood
+Platform Up 106m (116 yds)
+Platform Down 117m (128 yds)
+

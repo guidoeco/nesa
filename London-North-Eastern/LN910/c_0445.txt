@@ -1,0 +1,14 @@
+Temple HirstJn 169 16
+169 46 *-
+169 55 3':
+Burn Lane LC(MCG) 170 70
+Henwick Hall LC(MCB) 172 20
+172 75
+Brayton LC (CCTV) 173 02
+173 26 are
+173 27 :1:
+Canal Jn 173 59
+174 06 *
+174 09 *-
+Selby South Jn 174 11
+

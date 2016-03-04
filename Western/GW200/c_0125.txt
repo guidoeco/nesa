@@ -1,0 +1,9 @@
+64 00 :1:
+Up Carriage Sidings GF 64 02
+Down Carriage Sdgs GF 64 03
+Oxford North Jn 64 45
+
+64 48
+
+65 03 3k
+

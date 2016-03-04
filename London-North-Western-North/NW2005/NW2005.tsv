@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0060	NW2005	001	Speke Jn. to Garston Jn. SCR LNW North	02/06/07	Speke Jn GF 186 JP72			X
+0060	NW2005	001	Speke Jn. to Garston Jn. SCR LNW North	02/06/07		22	59	
+0060	NW2005	001	Speke Jn. to Garston Jn. SCR LNW North	02/06/07		22	64	*
+0060	NW2005	001	Speke Jn. to Garston Jn. SCR LNW North	02/06/07	Speke Jn SB	23	02	SE
+0060	NW2005	001	Speke Jn. to Garston Jn. SCR LNW North	02/06/07		23	03	*
+0060	NW2005	001	Speke Jn. to Garston Jn. SCR LNW North	02/06/07		23	48	*
+0060	NW2005	001	Speke Jn. to Garston Jn. SCR LNW North	02/06/07	Garston Jn	23	52	

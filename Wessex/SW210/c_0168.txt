@@ -1,0 +1,11 @@
+EARLEY 66 01
+Reading SpurJn 67 76
+(Territory Boundary)
+
+68 20 *
+Reading New Jn 68 35
+
+(35 4o) 
+
+68 51 *
+

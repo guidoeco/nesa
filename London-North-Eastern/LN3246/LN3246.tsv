@@ -1,0 +1,31 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0200	LN3246	001	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	Ambergate Jn	137	61	
+0200	LN3246	001	Ambergate Jn to Matlock AJM London North Eastern	02/12/06		138	00	*
+0200	LN3246	001	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	ANIBERGATE	138	18	
+0200	LN3246	001	Ambergate Jn to Matlock AJM London North Eastern	02/12/06		138	40	*
+0200	LN3246	001	Ambergate Jn to Matlock AJM London North Eastern	02/12/06		140	00	*
+0200	LN3246	001	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	Whatstandwell LC	140	06	UWC
+0201	LN3246	002	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	WHATSTAN DSWELL	140	13	
+0201	LN3246	002	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	Whatstandswell Tunnel	140	19	
+0201	LN3246	002	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	(136m I 149 yards) to	140	26	
+0201	LN3246	002	Ambergate Jn to Matlock AJM London North Eastern	02/12/06		140	40	*
+0201	LN3246	002	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	Lea Wood Tunnel	141	42	
+0201	LN3246	002	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	(288m I 315 yards) to	141	56	
+0201	LN3246	002	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	GROMFORD	143	10	
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	Willersley Tunnel	143	13	
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	(698m I 764 yards) 143t°48	143	13	X
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06		143	67	*
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06		143	69	*
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	IIATLOGK BATH	143	73	
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	High Tor No 1 Tunnel	144	06	
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	(293m I 321 yards) 144mm	144	06	X
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	High Tor No 1A Tunnel	144	21	
+0202	LN3246	003	Ambergate Jn to Matlock AJM London North Eastern	02/12/06	(53m I 58 yards)	144	24	
+0203	LN3246	004	Ambergate Jn to Matlock AJM London North Eastern	23/02/08	High Tor No 2 Tunnel	144	24	
+0203	LN3246	004	Ambergate Jn to Matlock AJM London North Eastern	23/02/08	(364m I 378 yards) to	144	41	
+0203	LN3246	004	Ambergate Jn to Matlock AJM London North Eastern	23/02/08	Hall Lane Tunnel	144	65	
+0203	LN3246	004	Ambergate Jn to Matlock AJM London North Eastern	23/02/08	(115m I 126 yards) to	144	70	
+0203	LN3246	004	Ambergate Jn to Matlock AJM London North Eastern	23/02/08		144	76	*
+0203	LN3246	004	Ambergate Jn to Matlock AJM London North Eastern	23/02/08	MATLOOK	145	00	
+0203	LN3246	004	Ambergate Jn to Matlock AJM London North Eastern	23/02/08	Matlock GF	145	03	
+0203	LN3246	004	Ambergate Jn to Matlock AJM London North Eastern	23/02/08	End of Line	145	27	

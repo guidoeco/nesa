@@ -1,0 +1,9 @@
+Bexhill Substation 29 61
+Bexhill SB (COW) 29 61
+BEXHILL 29 69
+Bexhill Ground Frame 29 77
+Galley Hill Ground Frame (OOU) 30 60
+
+31 14
+Bexhill East TP Hut 31 23
+

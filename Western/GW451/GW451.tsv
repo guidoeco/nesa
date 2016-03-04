@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0176	GW451	001	Filton Jn to Filton West Jn (Filton Chord) FWC Western	05/08/06	Filton Jn No.2	4	66	
+0176	GW451	001	Filton Jn to Filton West Jn (Filton Chord) FWC Western	05/08/06		4	66	*
+0176	GW451	001	Filton Jn to Filton West Jn (Filton Chord) FWC Western	05/08/06		5	34	*
+0176	GW451	001	Filton Jn to Filton West Jn (Filton Chord) FWC Western	05/08/06		5	36	
+0176	GW451	001	Filton Jn to Filton West Jn (Filton Chord) FWC Western	05/08/06	Filton West Jn No.2	5	41	
+0176	GW451	001	Filton Jn to Filton West Jn (Filton Chord) FWC Western	05/08/06		112	76	

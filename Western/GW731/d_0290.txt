@@ -1,0 +1,15 @@
+NRN
+TCB Crewe Jn SB
+RAB
+Lines to Shell-Mex & B.P. G.F.
+controlled by Crewe Jn. SB
+@Applies to all other trains
+@Applies to multiple unit trains only
+®Movements within the sidings must
+not exceed 5m.p.h.
+Location of known
+low rail adhesion
+Down 188mp. to 189mp.
+Down platform -126m, 138yds
+Up platform - 166m, 182yds
+

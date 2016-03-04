@@ -1,0 +1,11 @@
+192 11 a:
+193 31 i:
+194 07 a:
+Loop points 194 39
+Stormy Down and Up Passenger Loops 194 51
+Loop points 194 65
+194 68 9:
+194 70 9e
+PYLEIPIL 196 40
+198 40 *
+

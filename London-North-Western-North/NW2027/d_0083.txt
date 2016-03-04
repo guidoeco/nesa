@@ -1,0 +1,13 @@
+NRN
+TCB Merseyrail IECC (ML)
+Merseyrail (ML) box area to Regent Road AOCL
+(exclusive).
+Between Stop Board and Network Rail boundary,
+line is under the control of Person-in-charge at
+Strand Road (see Local Instructions).
+AWS not provided.
+Mersey Docks and Harbour Company Ltd.
+(M.D.H.C.) regulations apply between Network Rail
+boundary and Liverpool Bulk Handling Terminal I
+Seaforth Container Terminal (see Local Instructions).
+

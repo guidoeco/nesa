@@ -1,0 +1,28 @@
+NRN CSR
+TCB Marylebone IECC (ME)
+Platform lengths: Haddenham and Thame Parkway
+Down-144 metres
+Up-139 metres
+Change of line reference NAJ2 to NAJ3.
+CI) Maximum permissible speed
+for trains composed entirely
+of Class 150-166 and 168 units
+® Maximum permissible speed
+for all other trains
+Platform lengths:Bicester North
+Down-154 metres
+Up-154 metres
+Patrolmans directional line lockouts (PDL):
+Down Main line: Y
+Starts: 9m 01ch (Bicester North) 
+Ends: 0m 02ch (Princes Risborough)
+Up Main line:
+Starts: Om 02ch (Princes Risborough)
+Ends: 9m Olch (Bicester North)
+Down Bicester line:
+Starts: 18m 23ch (Aynho Junction)
+Ends: 9m 660h (Bicester North)
+Up Bicester line:
+Starts: 9m 66ch (Bicester North)
+Ends: 18m 190h (Aynho Junction)
+

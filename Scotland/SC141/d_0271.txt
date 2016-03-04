@@ -1,0 +1,12 @@
+RETB 125 Banavie SC
+6) = 15 mph through loop
+points, in both directions,
+and over loop lines
+RETB 101
+CL 625i (190m)
+(29"SLU's)
+Q) = Applies to Class 1 to 6
+trains
+= Applies to Class 7, 8 & 0
+trains
+

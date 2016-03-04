@@ -1,0 +1,60 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06	Diggle Jn SB	14	59	DE
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		15	00	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06	Network Rail LNW LNE Boundary	15	11	
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06	Standed?e Tunnel	15	11	
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06	(4888m 3m 66 yards)	18	14	
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		15	16	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		18	07	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		18	17	
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		18	19	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		18	37	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06	IIARSDEN	18	59	
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		18	63	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		18	66	
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		18	76	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		19	20	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06	SLAITHWAITE	21	19	
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		24	28	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		24	48	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06		24	62	*
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06	Gledholt North and South Tunnel	25	04	
+0393	LN860	001	Diggle Jn. to Copley Hill East Jn. MVL3 London North Eastern	02/12/06	(222m / 243 yards) to	25	15	
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	Springwood Jn	25	20	
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	Huddersfield North Tunnel 25to20	25	20	X
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	Huddersfield South Tunnel	25	51	
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	(636m I 696 yards)	25	49	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06		25	52	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06		25	56	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	Huddersfield SB	25	60	HU
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	HUDDERSFIELD	25	60	
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06		25	64	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06		25	71	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06		26	03	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	DEIGHTON	27	60	
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	Bradley Jn	28	39	
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	Heaton Lodge Jn	29	54	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	(Up lines only)	29	54	X
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06		29	61	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	Heaton Lodge East Jn	29	72	*
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	(Down lines only)	29	72	X
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06	lllllRFlELD	30	54	
+0394	LN860	002	Diggle Jn. to Copley Hill East Jn. MVL3 MVL4 London North Eastern	02/12/06		30	61	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009		31	44	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	Mirfield East Jn	31	50	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	ThomhillLNW Jn	32	16	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	RAVENSTHORPE	32	28	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	DEWSBURY	33	62	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	BATLEY	35	09	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	Batley LC	35	57	MCG
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	Batley SB	35	57	B
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	Morley Tunnel	36	25	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	(3080m I 1m 1609 yards) 33'019	36	25	X
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009		38	22	*
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	MORLEY	38	24	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009		38	30	*
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009		38	55	*
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	COWINGLEY	40	02	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009		41	70	*
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	Copley Hill East Jn	42	03	
+0395	LN860	003	Diggle Jn. to Copley Hill EastJn. MVN2 MDL1 London North Eastern	22/03/2009	Howley Park	36	04	UWC

@@ -1,0 +1,20 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07	Newton Abbot West Jn	214	43	
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07		214	60	*
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07	Former Aller Jn	215	09	
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07		215	20	*
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07		216	17	*
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07		217	68	*
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07		217	70	*
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07		219	00	*
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07		219	05	*
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07	TORRE	219	12	
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07		219	20	*
+0235	GW620	001	Newton Abbot West Jn to Paignton TOR Western	15/07/07	TORQUAY	219	79	
+0236	GW620	002	Newton Abbot West Jn to Paignton TOR Western	05/08/06		222	00	*
+0236	GW620	002	Newton Abbot West Jn to Paignton TOR Western	05/08/06	Paignton North LG	222	04	
+0236	GW620	002	Newton Abbot West Jn to Paignton TOR Western	05/08/06	(CCTV)			Z
+0236	GW620	002	Newton Abbot West Jn to Paignton TOR Western	05/08/06	PAIGNTOH	222	12	
+0236	GW620	002	Newton Abbot West Jn to Paignton TOR Western	05/08/06	Paignton SB	222	12	PM
+0236	GW620	002	Newton Abbot West Jn to Paignton TOR Western	05/08/06	Paignton South LC (T M0)	222	23	
+0236	GW620	002	Newton Abbot West Jn to Paignton TOR Western	05/08/06	Paignton Crossover GF	222	25	

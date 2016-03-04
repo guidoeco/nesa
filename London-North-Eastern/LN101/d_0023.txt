@@ -1,0 +1,11 @@
+NRN
+TCB Doncaster SB (D)
+RAB AC:York ECR
+Crossovers worked from Carlton Gate box
+DPL (755m [2478 feet)
+UPL (755m [2478 feet)
+TOWS Egmanton Curve both lines south of
+Egmanton LC to Tuxford Emergency Crossover.
+Must not be used when Emergency Crossover is to
+be used.
+

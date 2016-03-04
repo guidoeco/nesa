@@ -1,0 +1,13 @@
+NRN
+TCB Sounthorpe SB (3)
+RAB
+DSG = Down Scunthorpe Goods
+USG = Up Scunthorpe Goods
+USGL = Up Scunthorpe Goods Loop
+TRL = Trent Yard Reception Line
+TL = Transfer Line
+CD - Down Arrival and Up Departure Line
+OL = Outwards Line
+IL = Inwards Line
+UGL = 674 metres I 738 yards
+

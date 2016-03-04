@@ -1,0 +1,8 @@
+125 08 'i:
+NETHERFIELD 125 13
+Netherfield Jn SB (NJ) 125 17 al-
+125 23
+Change of mileage 125 25
+2 54
+Netherfield Jn 2 35
+

@@ -1,0 +1,20 @@
+18 54
+Oxenholme Junction 18 79
+OXENHOLME 19 11
+
+19 12
+
+0 DO
+
+0 01 i:
+
+0 22 5k
+
+2 00 i:
+KENDAL 2 05
+
+2 10 *-
+Bumeside Higher LC (MCG) 3 62
+Bumeside Station LC (UWC) 4 O1
+BURNESIDE 4 02
+

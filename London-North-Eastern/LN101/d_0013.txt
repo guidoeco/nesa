@@ -1,0 +1,14 @@
+NRN CSR
+TCB Peterborough SB (P)
+RA9 AC:York ECR
+PP - Permissive Working - full use for class 1, 2,
+3 (ECS), 5, 9 8: 0 trains in Up Bay Platform.
+Class 373l2 trains must not exceed 110 mph
+on the Down Fast line between 59 10 and 59 30
+CW. Down Slow at 59 27 (844 yards before
+reaching signal P.351)
+Hot Axle Box Detector on the Up Main line at 64 25
+Hot Axle Box Detector on the Down Main line
+at 69 28
+Crossovers worked from Stilton Fen GSP
+

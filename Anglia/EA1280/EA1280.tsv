@@ -1,0 +1,18 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08	Stratford Central Jn East	3	76	
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08	STRATFORD	4	00	
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08		4	02	*
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08	OHNS	4	14	
+0126	EA1280	001	Stratford Central Jn to Coppermill Jn SDC Anglia	25/10/08	Temple Mills East Jn	4	45	
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		4	47	*
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		4	52	*
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	Batching Plant Sidings	4	61	
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		5	03	*
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	Ruckholt Rd Jn	5	17	
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	OrientWaySidings	5	58	
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	Temple Mills West Jn	5	78	
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		6	01	*
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	OHNS	6	15	*
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		7	04	
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008	Coppermill Jn .	7	14	
+0127	EA1280	002	Stratford Central Jn to Coppermill Jn SDC Anglia	17/11/2008		4	71	

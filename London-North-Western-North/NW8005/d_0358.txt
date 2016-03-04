@@ -1,0 +1,30 @@
+NRN CSR
+TCB Merseyrail SB (ML) 39
+DC: Sandhills
+
+U0=Up On'nskirk
+
+DO=Down Ormskirk
+
+UK=Up Kirkby
+
+DK=Down Kirkby
+
+Exceptional rail head conditions down
+
+and up main lines between
+
+3m 200h and 10m 200h.
+
+Platform Lengths: Walton
+
+Up 169m (185gards)
+
+Down 140m (1 3 yards)
+
+Platform lengths: Orrell Park
+
+Up: 147m (161 yards)
+
+Down: 147m (161 yards)
+

@@ -1,0 +1,17 @@
+NRN
+TCB Preston SB (PN)
+UEL=Up East Lancs
+DEL= Down East Lancs
+CW. at 11m 11ch
+AB Daisyfield SB
+AB applies between Daisyfield box
+8: Horrooksford Jn box
+®Applies to Class 1,2,3 and 5 trains
+composed entirely of bogie
+coaching stock vehicles.
+@Applies to all other trains
+C. Down at 12m 08cm
+Platform Lengths: Ramsgreave 8: Wilpshire
+Platform Up 59m (65 yds)
+Platform Down 59m (65 yds)
+

@@ -1,0 +1,12 @@
+175 60 *
+175 62 it
+WAKEFIELD WESTGATE 175 65
+175 76 i:
+176 02 *
+Balne Lane 176 12
+177 O3 *
+OUTWOOD 178 26
+180 43 *
+Ardsley Tunnel 130 61
+(272m I 297 yards) to 180 75
+

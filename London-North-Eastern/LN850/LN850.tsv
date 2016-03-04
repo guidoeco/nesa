@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0374	LN850	001	Wakefield Westgate South Jn. to Wakefield Kirkgate West Jn. WWK London North Eastern	02/12/06	Wakefield Westgate South Jn	0	00	
+0374	LN850	001	Wakefield Westgate South Jn. to Wakefield Kirkgate West Jn. WWK London North Eastern	02/12/06		0	01	*
+0374	LN850	001	Wakefield Westgate South Jn. to Wakefield Kirkgate West Jn. WWK London North Eastern	02/12/06		0	24	*
+0374	LN850	001	Wakefield Westgate South Jn. to Wakefield Kirkgate West Jn. WWK London North Eastern	02/12/06	Wakefield Kirkgate West Jn	0	26	

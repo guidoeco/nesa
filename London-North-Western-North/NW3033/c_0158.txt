@@ -1,0 +1,4 @@
+Hartford East Jn 21 67
+Hartford North Jn 22 10
+0 29
+

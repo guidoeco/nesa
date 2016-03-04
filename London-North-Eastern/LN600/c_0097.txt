@@ -1,0 +1,15 @@
+Shaftholme Jn 160 16
+160 30 :7:
+Joan Croft Jn 160 48
+Jean Croft LC (M06) 160 48
+Dormer Green LC (M06) 161 23
+Noblethorpe LC (MCG) 161 35
+Barcroft LC (MCG) 162 14
+Heywoth LC (M06) 162 55
+Moss LC (MOB) 163 02
+Fenwick LC (MCG) 164 14
+Balne Lew Gate LC (M66) 165 22
+Balne LC (M03) 165 74
+Heck G. F. 167 19
+Temple Hirst Jn 169 16
+

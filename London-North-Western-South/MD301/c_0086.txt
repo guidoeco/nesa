@@ -1,0 +1,12 @@
+17 00 5%
+17 09 *-
+Up Goods Loop 19 71
+Four Ashes
+Up Goods Loop 20 20
+NRN Channel change board 21 32
+23 30
+To Penkridge
+continued in
+LNW(N) Sectional
+Appendix
+

@@ -1,0 +1,301 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06	Fordgate	154	12	
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06	Cogload Jn	158	23	Up
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06	Cogload Jn	158	50	Down
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06	NRN Channel change	158	65	
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06	Cogload HABD	158	70	
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06	Hyde Farm LC	160	75	UWC
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06	Broomhay LC	161	32	UWC
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06	Taunton East Jn	162	35	
+0061	GW108	001	Fordgate to Penzance MLN1 Western	05/08/06		162	38	
+0062	GW108	002	Fordgate to Penzance MLN1 Western	15/12/08	Barrow crossing	163	02	WL
+0062	GW108	002	Fordgate to Penzance MLN1 Western	15/12/08	TAUNTON	163	12	
+0062	GW108	002	Fordgate to Penzance MLN1 Western	15/12/08		163	23	*
+0062	GW108	002	Fordgate to Penzance MLN1 Western	15/12/08		163	31	*
+0062	GW108	002	Fordgate to Penzance MLN1 Western	15/12/08	Taunton West Jn	163	34	*
+0062	GW108	002	Fordgate to Penzance MLN1 Western	15/12/08		164	24	
+0062	GW108	002	Fordgate to Penzance MLN1 Western	15/12/08		164	27	
+0062	GW108	002	Fordgate to Penzance MLN1 Western	15/12/08		164	33	*
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08		164	55	*
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	Norton Filzwarren Jn	164	60	
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	Network Rail! West Somerset Railway	165	20	
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	(WSR) Boundary	165	20	X
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	Victory LC	166	04	AHBC
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	Bradford-on-Tone LG	167	55	
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	(AHBC)			Z
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	Nynehead HABD	168	59	
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	Wellington	170	19	
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	Westford (cutless) Footpath	170	58	
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08	LC (RIG)	170	58	X
+0063	GW108	003	Fordgate to Penzance MLN1 Western	15/12/08		172	33	
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06	Whitehall Tunnel	173	13	
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06	(999m, 1092 yards)	173	63	
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06	Badcock's Middle LC	175	44	UWC
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06		176	20	
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06	TIVERTOH PARKWAY	177	28	
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06		178	52	
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06		178	78	*
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06	Tiverton Loops	179	10	
+0064	GW108	004	Fordgate to Penzance MLN1 Western	05/08/06		179	31	
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06		181	20	
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06	Richard's LC	185	23	UWC
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06	Hele 8 Bradninch LC	185	41	AHBC
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06	Stoke Canon HABD	188	56	
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06	Sandy Lane LC	189	42	UWC
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06	Stoke Canon LC	190	16	CCTV
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06	Hosegood's LC	191	07	UWC
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06	Stafford's Bridge LC	191	44	UWC
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06	Field LC	191	48	UWC
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06		192	10	*
+0065	GW108	005	Fordgate to Penzance MLN1 Western	05/08/06		192	50	*
+0066	GW108	006	Fordgate to Penzance MLN1 Western	05/08/06	Cowley Bridge Jn	192	52	
+0066	GW108	006	Fordgate to Penzance MLN1 Western	05/08/06	Exeter Riverside Yard	192	52	X
+0066	GW108	006	Fordgate to Penzance MLN1 Western	05/08/06		193	50	*
+0067	GW108	007	Fordgate to Penzance MLN1 Western	19/04/08		193	51	
+0067	GW108	007	Fordgate to Penzance MLN1 Western	19/04/08		193	59	
+0067	GW108	007	Fordgate to Penzance MLN1 Western	19/04/08	Red Cow LC	193	62	CCTV
+0067	GW108	007	Fordgate to Penzance MLN1 Western	19/04/08	ETER ST. DAVIDS	193	72	
+0067	GW108	007	Fordgate to Penzance MLN1 Western	19/04/08	Barrow crossing	193	79	WL
+0067	GW108	007	Fordgate to Penzance MLN1 Western	19/04/08	Exeter (E) SB	194	00	
+0067	GW108	007	Fordgate to Penzance MLN1 Western	19/04/08	Exeter St. Davids Jn	194	00	X
+0068	GW108	008	Fordgate to Penzance MLN1 Western	05/08/06		194	18	*
+0068	GW108	008	Fordgate to Penzance MLN1 Western	05/08/06	TER ST THOMAS	194	66	
+0068	GW108	008	Fordgate to Penzance MLN1 Western	05/08/06	City Basin Jn	195	11	
+0068	GW108	008	Fordgate to Penzance MLN1 Western	05/08/06		195	40	*
+0068	GW108	008	Fordgate to Penzance MLN1 Western	05/08/06	Exminster WILD	198	68	
+0068	GW108	008	Fordgate to Penzance MLN1 Western	05/08/06	Exminster HABD	198	70	
+0068	GW108	008	Fordgate to Penzance MLN1 Western	05/08/06	Turf Lock LC	199	53	UWC
+0068	GW108	008	Fordgate to Penzance MLN1 Western	05/08/06	Powderham LC	200	50	UWC
+0069	GW108	009	Fordgate to Penzance MLN1 Western	05/08/06		200	60	*
+0069	GW108	009	Fordgate to Penzance MLN1 Western	05/08/06	STARGROSS	202	36	
+0069	GW108	009	Fordgate to Penzance MLN1 Western	05/08/06		203	00	*
+0069	GW108	009	Fordgate to Penzance MLN1 Western	05/08/06	UPL	204	12	
+0069	GW108	009	Fordgate to Penzance MLN1 Western	05/08/06	DPL	204	13	
+0069	GW108	009	Fordgate to Penzance MLN1 Western	05/08/06	DAWLISH WARREN	204	34	
+0069	GW108	009	Fordgate to Penzance MLN1 Western	05/08/06		204	55	
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06		204	60	*
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06		205	10	*
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06		206	00	*
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06	DAWLISH	206	07	
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06	Barrow crossing	206	13	WL
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06	Kennaway Tunnel	206	34	
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06	191m (209 yards)	206	43	
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06	Coryton Tunnel	206	53	
+0070	GW108	010	Fordgate to Penzance MLN1 Western	05/08/06	205m (224 yards)	206	63	
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06	Phillot Tunnel	206	66	
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06	50m (55 yards)	206	59	
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06	Clerks Tunnel	206	72	
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06	60m (66 yards) 206 075	206	72	X
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06	Parsons Tunnel	207	19	
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06	468m (512 yards)	207	19	X
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06		207	42	
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06		207	55	*
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06		208	45	*
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06	TEIGNMOUTH	203	70	
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06	Barrow crossing	208	78	WL
+0071	GW108	011	Fordgate to Penzance MLN1 Western	05/08/06		209	10	
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06		209	65	*
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06		210	20	*
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06		210	21	*
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06		212	60	*
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06		213	42	
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06	Newton Abbot East Jn	213	50	
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06		213	70	
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06		213	75	
+0072	GW108	012	Fordgate to Penzance MLN1 Western	05/08/06	NEWTON ABBOT	214	05	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06	Newton Abbot West Jn	214	43	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06		216	60	*
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06		217	40	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06		217	55	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06	HABD	217	57	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06	Dainton Tunnel	217	63	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06	(266m. 291 yds)	217	76	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06	HABD	217	76	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06		217	79	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06		218	05	
+0073	GW108	013	Fordgate to Penzance MLN1 Western	05/08/06		218	30	
+0074	GW108	014	Fordgate to Penzance MLN1 Western	12/01/08		221	55	*
+0074	GW108	014	Fordgate to Penzance MLN1 Western	12/01/08	Totnes East	222	39	
+0074	GW108	014	Fordgate to Penzance MLN1 Western	12/01/08	TOTNES	222	66	
+0074	GW108	014	Fordgate to Penzance MLN1 Western	12/01/08		225	13	
+0074	GW108	014	Fordgate to Penzance MLN1 Western	12/01/08	Marley Tunnels	227	62	
+0074	GW108	014	Fordgate to Penzance MLN1 Western	12/01/08	(793m, 867yds)	228	22	
+0075	GW108	015	Fordgate to Penzance MLN1 Western	05/08/06	Aish Emergency Xover	230	37	
+0075	GW108	015	Fordgate to Penzance MLN1 Western	05/08/06	Wrangaton Tunnel	231	58	
+0075	GW108	015	Fordgate to Penzance MLN1 Western	05/08/06	63m (69 yards)	231	61	
+0075	GW108	015	Fordgate to Penzance MLN1 Western	05/08/06		232	02	
+0075	GW108	015	Fordgate to Penzance MLN1 Western	05/08/06		232	76	
+0075	GW108	015	Fordgate to Penzance MLN1 Western	05/08/06	IVYBRIDGE	234	27	
+0075	GW108	015	Fordgate to Penzance MLN1 Western	05/08/06		234	78	
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06	Hemerdon GF	239	13	
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06		239	20	*
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06		240	30	
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06		242	55	
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06	Tavistock Jn Yard	242	55	X
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06		242	60	
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06	Marsh Mills	242	60	X
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06	Tavistock Jn GF	242	69	
+0076	GW108	016	Fordgate to Penzance MLN1 Western	05/08/06		242	70	*
+0077	GW108	017	Fordgate to Penzance MLN1 Western	05/08/06		243	15	*
+0077	GW108	017	Fordgate to Penzance MLN1 Western	05/08/06	Laira Jn	243	67	
+0077	GW108	017	Fordgate to Penzance MLN1 Western	05/08/06	Laira Diesel Depot	243	67	X
+0077	GW108	017	Fordgate to Penzance MLN1 Western	05/08/06	Lipson Jn	244	35	
+0078	GW108	018	Fordgate to Penzance MLN1 Western	21/02/09		244	50	*
+0078	GW108	018	Fordgate to Penzance MLN1 Western	21/02/09		245	10	*
+0078	GW108	018	Fordgate to Penzance MLN1 Western	21/02/09	Mutley Tunnel	245	32	
+0078	GW108	018	Fordgate to Penzance MLN1 Western	21/02/09	(290m, 317 yds including to 123m, 134yds of	245	46	
+0078	GW108	018	Fordgate to Penzance MLN1 Western	21/02/09	elevated car park)	245	46	X
+0078	GW108	018	Fordgate to Penzance MLN1 Western	21/02/09		245	47	*
+0078	GW108	018	Fordgate to Penzance MLN1 Western	21/02/09	Plymouth East GF	245	56	
+0079	GW108	019	Fordgate to Penzance MLN1 Western	01/12/07	PLYMOUTH	245	75	
+0079	GW108	019	Fordgate to Penzance MLN1 Western	01/12/07	Plymouth SB	246	04	P
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06	Former Davenport Jn lComwall Loop	246	15	
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06	(Change of mileage and ELR)	247	23	
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06		247	42	*
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06	DEVONPORT	248	28	
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06	Devonport Tunnel 248m37	248	28	X
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06	(107m,117yds)	248	42	
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06		248	43	*
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06	DOCKYARD	248	60	
+0080	GW108	020	Fordgate to Penzance MLN1MLN2 Western	05/08/06	Keyham HABD	248	77	
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06	Keyham East GF	249	17	
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06	KEYHAM	249	25	
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06	Keyham West GF	249	38	
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06	Dockyard Jn	249	41	
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06		249	70	
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06	St. Budeaux Jn	250	00	
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06	ST. BUDEAUX	250	15	
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06	FERRY ROAD	250	15	X
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06		250	20	*
+0081	GW108	021	Fordgate to Penzance MLN2 Western	05/08/06	Single Line Jn	250	25	
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06		250	69	*
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06	Royal Albert Bridge	250	69	X
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06	(668m, 730yds)	251	23	*
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06	SALTASH	251	26	
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06		252	00	*
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06		254	00	
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06	Wivelscombe Tunnel	254	07	
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06	(412m, 451yds)	254	27	
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06		255	69	*
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06		256	20	*
+0082	GW108	022	Fordgate to Penzance MLN2 Western	05/08/06	ST. GERMANS	256	28	
+0083	GW108	023	Fordgate to Penzance MLN2 MLN3 Western	05/08/06	Change of Mileage	256	38	
+0083	GW108	023	Fordgate to Penzance MLN2 MLN3 Western	05/08/06	(and change of ELR)	256	40	*
+0083	GW108	023	Fordgate to Penzance MLN2 MLN3 Western	05/08/06		258	26	
+0083	GW108	023	Fordgate to Penzance MLN2 MLN3 Western	05/08/06		261	00	*
+0083	GW108	023	Fordgate to Penzance MLN2 MLN3 Western	05/08/06	MENHENIOT	261	61	
+0083	GW108	023	Fordgate to Penzance MLN2 MLN3 Western	05/08/06		261	63	
+0083	GW108	023	Fordgate to Penzance MLN2 MLN3 Western	05/08/06	Liskeard (LD) 33	264	66	
+0083	GW108	023	Fordgate to Penzance MLN2 MLN3 Western	05/08/06	LISKEARB	264	71	
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08		265	37	*
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08		265	60	*
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08		268	11	
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08		266	20	*
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08		269	00	*
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08		269	15	*
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08	St. Pinnock Viaduct East	269	23	*
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08		269	40	*
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08	St. Pinnock Viaduct	269	40	X
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08	East Largin Viaduct	269	40	X
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08		270	00	*
+0084	GW108	024	Fordgate to Penzance MLN3 Western	18/02/08	Largin	270	07	
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08		271	00	*
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08		271	10	*
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08		272	00	
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08		273	68	*
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08	BODMIN PARKWAY	274	03	
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08	Bedmin Parkway GF	274	06	
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08		274	10	*
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08	Brown Queen Tunnel	275	16	
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08	(80m. 88yds)	275	20	
+0085	GW108	025	Fordgate to Penzance MLN3 Western	18/02/08		276	15	*
+0086	GW108	026	Fordgate to Penzance MLN3 Western	13/11/06		276	30	*
+0086	GW108	026	Fordgate to Penzance MLN3 Western	13/11/06		277	20	*
+0086	GW108	026	Fordgate to Penzance MLN3 Western	13/11/06	China Clay Sidings	277	20	X
+0086	GW108	026	Fordgate to Penzance MLN3 Western	13/11/06	Lostwithiel LC	277	34	MOB
+0086	GW108	026	Fordgate to Penzance MLN3 Western	13/11/06	Lostwithiel (LL) SB	277	34	
+0086	GW108	026	Fordgate to Penzance MLN3 Western	13/11/06	LOSTWITHIEL	277	36	
+0086	GW108	026	Fordgate to Penzance MLN3 Western	13/11/06		277	40	*
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08	Lostwithiel Jn	277	54	
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08	Milltown Viaduct	278	48	
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08		278	64	
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08		278	70	*
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08	Treverrin Tunnel	279	18	
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08	(516m, 564 yds)	279	44	
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08	HABD	279	59	
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08		281	40	*
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08		281	54	*
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08		281	57	*
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08	PAR	281	66	
+0087	GW108	027	Fordgate to Penzance MLN3 Western	01/01/08	Par (PR) SB	281	69	
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06		282	53	*
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06		284	30	*
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06		284	54	
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06	St. Austell GF	286	23	
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06	ST. AUSTELL	286	26	
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06	Bumgullow Jn	288	26	
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06	(change of RA)	288	26	X
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06		288	50	
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06		291	21	
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06		291	63	
+0088	GW108	028	Fordgate to Penzance MLN3 Western	05/08/06		293	17	
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07		294	38	
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07	Probus	295	29	
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07		296	30	*
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07		296	44	
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07	Polperro Tunnel	297	50	
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07	531m (581 yards)	298	76	
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07	Buckshead Tunnel	299	10	
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07	293m (320 yards)	299	25	
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07		299	40	*
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07		300	50	*
+0089	GW108	029	Fordgate to Penzance MLN3 Western	03/11/07		300	51	*
+0090	GW108	030	Fordgate to Penzance MLN3 Western	24/05/08	Truro SB	300	57	T
+0090	GW108	030	Fordgate to Penzance MLN3 Western	24/05/08	Truro LC	300	57	M03
+0090	GW108	030	Fordgate to Penzance MLN3 Western	24/05/08	TRURO	300	63	
+0090	GW108	030	Fordgate to Penzance MLN3 Western	24/05/08		300	70	
+0090	GW108	030	Fordgate to Penzance MLN3 Western	24/05/08	Higher Town Tunnel	301	10	
+0090	GW108	030	Fordgate to Penzance MLN3 Western	24/05/08	64m (70 yards)	301	13	
+0090	GW108	030	Fordgate to Penzance MLN3 Western	24/05/08	Penwithers Jn	301	25	
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06	Paradise LO	302	16	UWC
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06		304	30	
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06		304	49	
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06	Tallicks LC	305	33	UWC
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06		305	60	*
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06	Change of mileage	305	65	
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06	(and change of ELR)	305	67	
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06		306	03	
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06		306	20	*
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06		306	50	*
+0091	GW108	031	Fordgate to Penzance MLN3 MLN4 Western	05/08/06		309	60	*
+0092	GW108	032	Fordgate to Penzance MLN4 Western	24/05/08	Redruth Tunnel	309	62	
+0092	GW108	032	Fordgate to Penzance MLN4 Western	24/05/08	43m (47 yards)	309	64	
+0092	GW108	032	Fordgate to Penzance MLN4 Western	24/05/08	REDRUTH	309	68	
+0092	GW108	032	Fordgate to Penzance MLN4 Western	24/05/08		310	10	*
+0092	GW108	032	Fordgate to Penzance MLN4 Western	24/05/08	Dolcoath LC (AHBC)	312	62	*
+0092	GW108	032	Fordgate to Penzance MLN4 Western	24/05/08	Roskear Jn LC	313	19	MOB
+0092	GW108	032	Fordgate to Penzance MLN4 Western	24/05/08	Roskear Jn SB	313	20	R
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06	Camborne LC	313	35	CCTV
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06	CAMBORNE	313	40	
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06		314	60	*
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06		315	60	*
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06	Gwinear Road LC	315	73	AHBC
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06		316	00	*
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06	Upper Trenowin LO	316	35	UWG
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06	Lower Trenowin LC	316	52	UWC
+0093	GW108	033	Fordgate to Penzance MLN4 Western	05/08/06		317	75	*
+0094	GW108	034	Fordgate to Penzance MLN4 Western	01/12/07	HAYLE	319	31	
+0094	GW108	034	Fordgate to Penzance MLN4 Western	01/12/07	Hayle Footpath LC	319	34	RIG
+0094	GW108	034	Fordgate to Penzance MLN4 Western	01/12/07		319	36	*
+0094	GW108	034	Fordgate to Penzance MLN4 Western	01/12/07		319	50	*
+0094	GW108	034	Fordgate to Penzance MLN4 Western	01/12/07	St. Elth SB	320	67	SE
+0094	GW108	034	Fordgate to Penzance MLN4 Western	01/12/07	Jn	320	73	
+0094	GW108	034	Fordgate to Penzance MLN4 Western	01/12/07	ST. ERTH	320	78	
+0095	GW108	035	Fordgate to Penzance MLN4 Western	01/12/07		324	75	*
+0095	GW108	035	Fordgate to Penzance MLN4 Western	01/12/07	Single line Jn	325	00	
+0095	GW108	035	Fordgate to Penzance MLN4 Western	01/12/07		325	02	*
+0095	GW108	035	Fordgate to Penzance MLN4 Western	01/12/07	Long Rock LC	325	12	CCTV
+0095	GW108	035	Fordgate to Penzance MLN4 Western	01/12/07	Ponsandane LC	325	75	UWC
+0095	GW108	035	Fordgate to Penzance MLN4 Western	01/12/07		326	24	*
+0095	GW108	035	Fordgate to Penzance MLN4 Western	01/12/07	Penzanoe SB	326	32	PZ
+0095	GW108	035	Fordgate to Penzance MLN4 Western	01/12/07	PENZANGE	326	50	

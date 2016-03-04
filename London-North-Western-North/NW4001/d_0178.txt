@@ -1,0 +1,38 @@
+NRN
+TCB Carlisle SB (CE) 083
+AC: Cathcart
+
+'U&D' NEW='Up & down' Newcastle
+UP M&C=Up Maryport & Carlisle
+DN M&C=Down Maryport & Carlisle
+NESN=North Eastern Shunt Neck
+AWS inductors not provided at
+Carlisle station signals.
+Platform Lengths: Carlisle
+Platform 1 Permissive Up PP-A CD
+Platform 1 Permissive Down PP-A
+Platform 1 Up 331 m (362 yds)
+Platform 1 Down 237m (259 yds)
+Platform 2 Permissive PP
+Platform 2 104m (114 yds)
+Platform 3 Permissive PP-A
+Platform 3 Up 268m (2933de)
+Platform 3 Down 312m ( 1 yds)
+Platform 4 Permissive PP-A
+Platform 4 Up 346m (378 Eds)
+Platform 4 Down 390m (4 7 yds)
+Platform 5 Permissive PP
+Platform 5 165m (130 yds)
+Platform 6 Permissive PP
+Platform 6 159m (174 yds)
+Platform 7 Permissive PP
+Platform 7 140m (153 yds)
+Platform 8 Permissive PP
+Platform 8 148m (162 yds)
+CD except between signals CE_.314 and CE.301
+
+on No.1 platform (up direction)
+(PF) '3' and '0' 'up 8: down' goods.
+TASS fitted:
+DM & UM lines
+

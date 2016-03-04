@@ -1,0 +1,20 @@
+NRN
+
+AB Buxton SB
+Buxton
+Platform 1 Permissive PP
+165m (180 yds)
+Platform 2 Permissive PP
+143m (156 yds)
+
+Applies to Class 1. 2 and 5 trains
+
+Applies to light locomotives
+
+Applies to Class 3. 4, 6, 7 and
+
+8 trains
+Dove Holes
+Platform Up 81m (89 yds)
+Platform Down 87m (95 yds)
+

@@ -1,0 +1,16 @@
+239 O5 5':
+Belmont Tunnel 239 06
+(592m l648yd) to 239 36
+
+239 70 *
+
+240 01 *-
+
+240 62 a:
+Menai Bridge South Jn 240 67
+Britannia Bridge 241 11
+(514m I 562yd) to 241 35
+Menai Bridge North Jn 241 57
+
+241 64 3k
+

@@ -1,0 +1,16 @@
+Hubberts Bridge LC (M06) 133 46
+Hubberts Bridge SB 133 46
+HUBBERTS BRIDGE 133 48
+133 52 *-
+133 53 *-
+Wyberton LC (CCTV) 135 58
+136 40 *
+137 06
+106 70
+106 73 *
+Sleaford Sidings Ground Frame 106 75 a:
+Broadfield Lane LC (CCTV) 107 00
+107 12 1:
+Boston West Street Jn SB (WS) 107 13
+Boston West Street Jn LC (M03) 107 13
+

@@ -1,0 +1,28 @@
+NRN CSR
+TCB Wembley Mainline SCC (WM)
+AC: Rugby ECR
+DC: Rugby ECR
+Platform Lengths:
+1- 398 metres 10- 194 metres
+2- 376 metres 11- 258 metres
+3— 325 metres 12- 293 metres
+4- 321 metres 13- 304 metres
+5- 270 metres 14- 306 metres
+6- 268 metres 15- 402 metres
+7- 292 metres 16- 334 metres
+8- 254 metres 17A- 209 metres
+9- 197 metres 173- 284 metres
+18- 245 metres
+All platforms permissive (PP)
+Platform lookouts on all platforms
+D.C. lines (Lines B 3: C, and
+Platforms 9 & 10) supply controlled
+by Rugby E.C.R.
+25 mph over all lines including
+connections between 0m 430h and
+Euston.
+CW on BOR1 and BOR2 - 0m 38m
+BOR1 = Backing Out Road 1
+BORZ = Backing Out Road 2
+PF is authorised on BOR1 and BOR2
+

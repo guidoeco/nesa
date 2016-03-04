@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0026	NW1002	001	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Network Rail			X
+0026	NW1002	001	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	London North Western			X
+0026	NW1002	001	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	(Appendix Boundary)	23	30	
+0026	NW1002	001	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	PENKRIDGE	23	32	
+0026	NW1002	001	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Penkridge H.A.B.D.	24	01	
+0026	NW1002	001	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Drayton Manor Farm	24	72	UWC
+0026	NW1002	001	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Penkridge H.A.B.D.	25	20	
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Parrott's No.1 LC	25	27	UWC
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Parrotf's No.2 LC	25	45	UWC
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07		28	00	*
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Rickerscote	27	55	
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	NRN Channel Change Board	27	60	
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	OHNS	28	16	
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07		28	20	
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07		28	30	*
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07		28	39	*
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Trent Valley Jn No.1	28	50	
+0027	NW1002	002	Penkridge Station (inc|.) To Trent Valley Jn No. 1 (Stafford) RBS LNW North	18/11/07	Change of mileage	133	04	

@@ -1,0 +1,12 @@
+Newton Abbot West Jn 214 43
+216 60 :1:
+217 40
+217 55
+HABD 217 57
+Dainton Tunnel 217t063
+(266m. 291 yds) 217 76
+HABD 217 76
+217 79
+218 05
+218 3D
+

@@ -1,0 +1,18 @@
+Dockfield Jn 3 41
+
+3 34 *
+BAILDON 2 29
+
+2 16 *
+Baildon No.1 Tunnel 2 14
+(142m 156 yards) 2 07
+Baildon No.2 Tunnel 2 03
+(250ml274 yards) 1 71
+
+1 70 *
+Esholt Tunnel O 52
+(501m I 543 yards) 0 27
+
+0 11 it
+Esholt Jn 0 00
+

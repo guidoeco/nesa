@@ -1,0 +1,13 @@
+Bolton East Jn 10 31
+10 42 *-
+BOLTON 10 50
+Bolton West Jn 1O 55 *-
+Bradshawgate Tunnel 10 68
+(80ml87yd) to 10 72
+1O 76 *
+11 12 a:
+Astley Bridge Jn 11 66 i:
+11 70 al-
+HALL I' TH' WOOD 12 35
+The Oaks LC (UWC) 12 72
+

@@ -1,0 +1,11 @@
+NRN
+TB Reedham Line } Yarmouth SB (Y)
+RAT
+TCB Acle Line } Yarmouth SB (Y)
+RA?
+CD Freight trains not to exceed 30 mph
+Plaflonn 1 - 228m (247 yds) PP
+Platform 2 - 297m (322 yds) PP
+Platform 3 - 270m (293 yds) PP
+Platform 4 - 282m (306 yds) PP
+

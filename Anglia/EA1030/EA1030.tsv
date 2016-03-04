@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06	Forest Gate Jn	0	00	
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06		0	03	*
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06	OHNS	0	12	
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06	OHNS	0	14	
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06		0	28	*
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06	Woodgrange Park Jn	0	31	
+0042	EA1030	001	Forest Gate Jn to Woodgrange Park Jn FGW Anglia	05/08/06		11	79	

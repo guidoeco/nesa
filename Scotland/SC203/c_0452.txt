@@ -1,0 +1,13 @@
+16 53 i:
+
+17 02 *
+Maryburgh LC(UWC) 17 15
+Kildun No1 LC(UWC) 17 51
+Pitglassie South LC (UWC) 18 10
+Pitglassie Field LC (UWC) 18 23
+Pitglassie North LC (UWC) 18 29
+Sdg GF
+DINGWALL TEP 18 58
+
+18 76 9e
+

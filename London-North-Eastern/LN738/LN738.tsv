@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0288	LN738	001	Great Coates No. 1 to Union Dock MWN London North Eastern	02/12/06	Great Coates No. 1 SB	108	34	
+0288	LN738	001	Great Coates No. 1 to Union Dock MWN London North Eastern	02/12/06	Network Rail IABP Boundary	108	44	
+0288	LN738	001	Great Coates No. 1 to Union Dock MWN London North Eastern	02/12/06	Moody Lane LC	108	69	AOCL
+0288	LN738	001	Great Coates No. 1 to Union Dock MWN London North Eastern	02/12/06	ABP LC	108	74	AOCL
+0288	LN738	001	Great Coates No. 1 to Union Dock MWN London North Eastern	02/12/06	Union Dock	108	74	X

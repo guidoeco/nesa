@@ -1,0 +1,15 @@
+RETB 108 Machynlleth SB
+RA5
+
+RETB Emergency Telephone
+Platform - 108m (118 yards)
+Platform - 31 m (34 yards)
+Headshunt 39m, 12611
+
+Run Round line 333m, 1092ft
+Headshunt 77m, 252fl
+
+Down Siding 148m, 483ft
+RETB Emergency Telephone
+Platform - 172m (183 yards)
+

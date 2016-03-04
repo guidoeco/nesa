@@ -1,0 +1,20 @@
+Huntingdon South Jn 58 35
+HUNTINGDON 58 70
+59 12 *
+Huntingdon North Jn 59 20
+Abbots Ripton Public Bridleway LC 62 60
+64 25
+Woodwalton Jn 65 43
+65 48 ale
+66 60 i:
+67 20
+Connington South 67 30
+Connington North LC (CCTV) 68 28
+Holme TSC OHNS 69 00
+Holme LC (CCTV) 69 26
+69 28
+69 30 at
+Holme Lode LC (CCTV) 70 02
+Stilton Fen 70 78
+71 00 *-
+

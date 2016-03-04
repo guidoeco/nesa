@@ -1,0 +1,8 @@
+Canning Street Junction 1 60 *
+HAMILTON SQUARE 1 67
+Hamilton Square Jn 1 72 *
+2 10 *
+MerseyTunnel 2 24 *
+BIRKENHEAD CENTRAL 2 30
+2 34 is
+

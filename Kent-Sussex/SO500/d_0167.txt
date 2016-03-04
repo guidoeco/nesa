@@ -1,0 +1,7 @@
+NRN CSR
+RAB DC: Brighton
+1 Up Fast
+2 Down Fast
+3 Up Slow
+4 Down Slow
+

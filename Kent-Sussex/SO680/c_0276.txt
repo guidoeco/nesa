@@ -1,0 +1,11 @@
+Ashtead Substation 15 42
+Ashtead LC (CCTV) 16 14
+ASHTEAD 16 19
+16 72
+Barnett Wood TP Hut 16 77
+LEATHERHEAD 18 02
+18 05
+Leatherhead Substation 18 18
+Mickleham Tunnel 19 55 to 19 78
+18 20 *
+

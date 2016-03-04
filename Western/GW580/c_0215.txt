@@ -1,0 +1,11 @@
+East Somerset Jn (Witham) 120 73
+0 11
+Cross Cottage LC (UWC) 2 57
+Merehead Quarry Jn 3 50
+Foresh'y LC (UWC) 4 15
+Whites LC (UWC) 4 52
+Merehead West 4 57
+Cranmore East GF 5 48
+(Network Rail Boundary)
+GRANMORE (ESR) 5 57
+

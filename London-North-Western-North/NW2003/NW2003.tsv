@@ -1,0 +1,4 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0059	NW2003	001	Runcorn to |.C.|. Salt Works (Runcorn Dock Branch) RDB LNW North	08/12/08	Runcom SB	180	33	RN
+0059	NW2003	001	Runcorn to |.C.|. Salt Works (Runcorn Dock Branch) RDB LNW North	08/12/08	(nunconu) ° 02	180	33	X
+0059	NW2003	001	Runcorn to |.C.|. Salt Works (Runcorn Dock Branch) RDB LNW North	08/12/08	Network Rail/ICI Boundary	0	69	*

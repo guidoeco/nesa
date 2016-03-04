@@ -1,0 +1,7 @@
+NRN CSR
+TCB Mothenwell SC (M,MB)
+AC: Cathcart ECR
+DD = Down Departure
+DA=Down Arrival
+CSR
+

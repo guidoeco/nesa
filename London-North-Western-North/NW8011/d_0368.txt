@@ -1,0 +1,8 @@
+NRN CSR
+TCB Merseyrail SB (ML)
+DC: Sandhills
+A&D=Arrival and Departure line
+U&D TS=Up & down through siding
+DNB=Down New Brighton
+UNB=Up New Brighton
+

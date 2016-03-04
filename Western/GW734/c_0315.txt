@@ -1,0 +1,21 @@
+TALSARNAU 114 42
+Talsarnau Station LC (UWC) 114 42
+LLANDECWYN 115 63
+115 68 9:
+Bridge 79 115t076
+116 05
+Hafod-y-Wem LC (UWC) 116 36
+PENRHYNDEUDRAETH 116 47
+Penrhyndeudraeth LC (UWC) 116 54 1k
+117 20 a:
+MINFFDRDD 117 58
+117 70 *-
+Minffordd Quarry LC (UWC) (Manned) 118 14
+Bridge 83 118t037
+118 43
+119 40 *
+Traeth Mawr LC (ABCL) 119 41
+119 49 *-
+Welsh Highland Railway 119 50
+(Flat crossing)
+

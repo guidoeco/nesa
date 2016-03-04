@@ -1,0 +1,12 @@
+58 68 *-
+Tursdale Jn 58 71 *
+58 76
+Hett Mill LC (CCTV) 60 21
+60 44 'k
+62 20 *
+63 03 *-
+HABD 63 59
+64 49 *
+Durham FS OHNS 64 73
+65 62 *
+

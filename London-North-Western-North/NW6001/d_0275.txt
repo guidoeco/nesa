@@ -1,0 +1,14 @@
+NRN
+
+TCB Manchester Piccadilly SB (MP)
+
+AC: Crewe
+AC to Castlefield Jn only.
+DOX=Down Oxford Road
+UOX=Up Oxford Road
+Platform Lengths: Deansgate
+Up 150m (164 yards)
+Down 155m (170 yards)
+DB=Down Bolton
+UB=Up Bolton
+

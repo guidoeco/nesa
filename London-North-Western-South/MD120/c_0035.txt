@@ -1,0 +1,15 @@
+Camden Jn (Down DC line) 1 36
+Camden Jn (Up DC line) 1 40
+South Hampstead Tunnels 1 49
+Down line:
+1km 328 metres" 452 yards
+Up line:
+1km 156 metres" 264 yards
+Camden Jn 1 50
+(North London lines)
+
+2 27 *
+SOUTH HAMPSTEAD 2 33
+CSR change 2 4O
+KILBURN HIGH ROAD 3 01
+

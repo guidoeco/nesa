@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	ROMFORD	0	00	
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06		0	13	*
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06		0	18	*
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06		0	35	*
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	OHNS	0	42	
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	OHNS	0	70	
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	EMERSON PARK	1	64	
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06		3	25	*
+0043	EA1040	001	Romford to Upminster ROU Anglia	05/08/06	UPMINSTER	3	30	

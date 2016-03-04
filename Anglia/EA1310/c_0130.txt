@@ -1,0 +1,15 @@
+Camden Road Jn. (CR) SB 5 09
+Camden Road West Jn (5 10)
+
+0 00
+
+OHNS 0 19
+
+0 20 9e
+KENTISH TOWN WEST 0 34
+
+1 00 *
+GOSPEL OAK 1 01
+Gospel Oak (GO) SB 1 10
+Gospel Oak Jn 1 10
+

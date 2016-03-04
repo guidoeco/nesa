@@ -1,0 +1,9 @@
+Ashington SB 3 02
+Network Rail! RJB Boundary 3 05
+
+3 29 *-
+New Moor LC (AOCL) 4 17
+Potland LC (AOCL) 4 76 *-
+Signal BB 5 38
+(End of Section)
+

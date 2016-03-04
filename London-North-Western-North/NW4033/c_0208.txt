@@ -1,0 +1,18 @@
+Silverdale LC (AHBC) 3 11
+
+3 40 *-
+SILVERDALE 3 55
+
+4 20 *-
+Leaming LC (UWC) 4 22
+Waterslack Quarry LC (UWC) 4 74
+Black Dyke LC (AHBC) 5 57
+
+6 10 *
+ARNSIDE 6 21
+Amside SB (AE) 6 29
+
+6 31
+
+6 49 i.-
+

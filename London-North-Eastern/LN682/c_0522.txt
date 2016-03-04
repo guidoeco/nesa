@@ -1,0 +1,22 @@
+King Edward Bridge South Jn 0 48 are
+
+0 53 *
+Askew Road Tunnel 0 62
+(48 ml53 yards) to 0 64
+Bensham Tunnel 1 01
+(114 ml125 yards) to 1 06
+
+1 68 *-
+Nonrvood Jn 1 T1
+
+2 07 *
+DUNSTON 2 17
+
+3 20 9e
+
+3 30 *
+METRO CENTRE 3 33
+
+3 72 *
+Swalwell Jn 3 78
+

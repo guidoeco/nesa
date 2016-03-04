@@ -1,0 +1,11 @@
+Aston South Jn 2 61
+Change of mileage 1 60
+
+1 67 2k
+ASTON 1 68
+Aston North Jn 1 73
+
+1 78 *
+WITTON 2 45
+Down Goods Loop 2 65
+

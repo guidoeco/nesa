@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0201	NW4023	001	Upperby Jn. to London Road Jn. ULR LNW North	02/06/07	Upperby Jn I Al			X
+0201	NW4023	001	Upperby Jn. to London Road Jn. ULR LNW North	02/06/07		0	00	
+0201	NW4023	001	Upperby Jn. to London Road Jn. ULR LNW North	02/06/07	Cement Depot No.1 LC	0	14	00
+0201	NW4023	001	Upperby Jn. to London Road Jn. ULR LNW North	02/06/07	Wagon Repairs GF	0	16	
+0201	NW4023	001	Upperby Jn. to London Road Jn. ULR LNW North	02/06/07	London Road Jn	0	34	*
+0201	NW4023	001	Upperby Jn. to London Road Jn. ULR LNW North	02/06/07		59	45	

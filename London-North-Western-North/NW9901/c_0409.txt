@@ -1,0 +1,11 @@
+234 42 *
+Settle Junction 33 234 44
+SETrLE 236 40
+237 63
+238 26
+Stainforth Tunnel 238 54
+(110m I 120 yds) to 238 59
+Crag Hill Farm LC (UWC) 241 31
+HORTON-IN-RIBBLESDALE 242 43
+245 00
+

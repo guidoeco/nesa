@@ -1,0 +1,19 @@
+NRN
+TCB Trent SB ('I'l')
+RAB
+Derby EMCC (TC)
+
+Erewash Workstation
+Tel. adjacent to Motorway Bridge
+GSM-R area
+
+Entry: Down Main and Goods: 124m 58ch
+
+L A Exit: Up Main and Goods: 124m 57ch
+AWS not provided on goods lines
+UES - Up Erewash Slow
+DES - Down Erewash Slow
+UEF - Up Erewash Fast
+DEF - Down Erewash Fast
+UDES - Up and Down Erewash Slow
+

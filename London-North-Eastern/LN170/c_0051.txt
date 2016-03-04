@@ -1,0 +1,11 @@
+Werrington Jn 79 34
+79 56 *
+80 10 *-
+Peakirk LC (UWC) 81 45
+Folly Bank LC (AHBC) 82 O1
+Welland Bank LC (UWC) 82 53
+St. James Deeping LC (M06) 83 38
+St. James Deeping SB 83 38
+Stowgate LC (AHBG—X) 84 38
+No. 22 LC (UWC) 34 46
+

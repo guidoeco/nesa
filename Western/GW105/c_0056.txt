@@ -1,0 +1,9 @@
+130 45
+Yatton East
+Gas House Lane LC (UWC) 130 49
+Yatton West
+Yatton HABD 131 20
+Huish LC (CCTV) 132 11
+Puxton 8: Worle LC (MCB) 133 79
+WORLE 134 42
+

@@ -1,0 +1,21 @@
+Coxall Farm 2 LC (UWC) 7 32
+Bucknell LC (AOCL) 8 01
+BUCKNELL 8 04
+The Hall Farm 3 LC (UWC) 8 26
+Lower Stannage Farm LC (UWC) 9 60
+Stud Farm 2 LC (UWC) 11 46
+
+12 00 :1:
+
+12 15 *-
+KNIGHTON TREFYGLAWDD 12 23
+(TEP)
+
+12 34 *
+Panpunton Farm 1 LC (UWC) 12 71
+Whitterleys Farm LC (UWC) 13 60
+Lower House Farm LC (UWC) 14 53
+
+14 68
+KNUCKLAS CNUGLAS 14 69
+

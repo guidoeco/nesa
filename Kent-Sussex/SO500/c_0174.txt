@@ -1,0 +1,14 @@
+HASSOGKS 43 42
+Ground Frame 43 55
+Hassocks Substation 43 65
+44 40
+Clayton Tunnel 44 44
+(1 mile 499 yards) to 45 66
+45 67
+Pangdean Substation 46 31
+47 51
+Patcham Tunnel 47 65
+(492 yards) 48 00 *
+48 07
+Preston Park Substation 48 72
+

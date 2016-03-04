@@ -1,0 +1,12 @@
+NRN CSR
+TCB Reading SB (R)
+RAB
+AWS not provided at UPL exit
+signal R349
+UPL 679m, 2226ft
+Down platform - 150m, 164yds
+Up platform - 153m. 167yds
+(Controlled by Kintbury LC)
+Down platform - 121 m, 1'32de
+Up platform - 123m. 1135de
+

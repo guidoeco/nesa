@@ -1,0 +1,11 @@
+Little Eaton Jn 131 06
+Little Eaton Station LC (TMO) 131 35
+Little Eaton Village LC (TMO) 131 51
+Coxbench LC (TMO) 133 03
+Holbrook LC (TMO) 133 23
+Kilburn LC (TMO) 134 75
+134 76 it
+Denby North LC (TMO) 135 46
+Network Rail Boundary 135 58
+End of Line 135 73
+

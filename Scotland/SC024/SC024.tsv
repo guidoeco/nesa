@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07	LARKHALL	3	00	
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07		2	67	*
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07	MERRYTON	2	19	
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07	Loop points	1	05	
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07	Allanton			Z
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07	Loop points	0	65	
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07		0	59	*
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07	CHATELHERAULT	0	52	
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07		0	24	*
+0051	SC024	001	Larkhall to Haughhead Jn LRK Scotland	01/12/07	Haughhead Jn	0	00	

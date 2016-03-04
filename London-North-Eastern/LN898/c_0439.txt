@@ -1,0 +1,15 @@
+St. Georges Road LC (CCTV) 1 24
+
+1 00 *
+Anlaby Road Jn 0 73
+
+0 55 *-
+
+0 30 al-
+
+0 25
+
+0 21 :7:
+Hull Paragon SB (HP) 0 18
+HULL 0 00
+

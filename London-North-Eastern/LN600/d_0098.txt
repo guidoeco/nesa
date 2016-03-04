@@ -1,0 +1,17 @@
+NRN
+TCB York SB (Y)
+RA10 AC:York ECR
+
+NRN
+NRN Channel Change at 178 39
+Class 373l2 trains must not exceed
+110 mph on the Down Main line between
+Colton Jn 132 75 and York 136 20
+(No lineside signs are provided for this
+speed restriction.)
+UN = Up Nermanton
+DN = Down Norrnanton
+UL = Up Leeds
+DL = Down Leeds
+(NOTE:- Part of Table duplicated in LN854 seq 9)
+

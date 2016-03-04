@@ -1,0 +1,16 @@
+KENTISH TOWN 1 42
+
+1 48 1e
+Kentish Town Jn 1 65 *
+Hampstead Tunnel 1 74
+(40m I 44 YdS) 1 76
+
+2 00 *-
+Carlton Road Jn 2 13
+Lismore Circus Tunnel 2 17
+(101m 110Yds) 2 22
+
+2 2O *-
+
+2 23 *
+

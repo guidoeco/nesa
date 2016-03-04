@@ -1,0 +1,19 @@
+Cilmeri LC (UWC) 39 36
+CILMERI 39 39
+Raikes LC (UWC) 41 18
+Llwynpiod No.1 LC (UWC) 42 20
+Llwynpiod No.2 LC (UWC) 42 31
+
+42 62 *
+Bridge 
+42 62 i:
+
+42 67
+GARTH 42 69
+Lewis LC (UWC) 42 74
+Aberdulais Farm LC (UWC) 43 30
+Llangammarch Tunnel 43 79
+(51m, 56yds) 44 01
+LLANGAMMARGH 44 47
+Penfedw Farm No.2 LC (UWC) 46 15
+

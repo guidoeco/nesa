@@ -1,0 +1,9 @@
+RETB 101 Machynlleth SB (MH)
+
+RA5
+
+(D 10 mph over bridge for other
+than Class 15x trains
+
+Platform - 109m (119 yards)
+

@@ -1,0 +1,16 @@
+NRN
+
+TCB Carlisle PSB (CE) 038
+AC: Cathcart
+
+AWS and TPWS not provided on Down Goods, Up
+Arrival and Down Departure lines.
+Goods line mileages are given in ( ) brackets.
+Goods lines have ELR: KMG1 and KMG2.
+RR: Run Round Road.
+6) Timber Loading Siding.
+(2) 'B' Group Siding.
+TASS fitted:
+DM line throughout
+UM line throughout
+

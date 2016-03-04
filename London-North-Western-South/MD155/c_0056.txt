@@ -1,0 +1,11 @@
+Kensal Green Jn 5 10
+Continued in Network 0 00
+Rail Anglia Route
+Sectional Appendix
+Territory Boundary O 21
+0 47 i:
+0 52 :1:
+0 76 *-
+Harlesden Jn 1 00
+6 01
+

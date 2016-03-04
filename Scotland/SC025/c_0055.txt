@@ -1,0 +1,14 @@
+3 43 *
+Stobcross Street Tunnel 3 45 i:
+to 3 56 9:
+640 Yards to 3 74
+EXHIBITION CENTRE 4 03
+Kelvinhaugh Tunnel 4 07
+950 Yards
+OHNS 4 23
+Finnieston East Jn (On Down Line) 4 41
+
+4 50
+OHNS 4 57
+Finnieston West Jn (On Up Line) 4 74
+

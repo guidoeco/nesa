@@ -1,0 +1,16 @@
+173 19
+
+173 20
+STRINES 174 47
+
+176 20 *
+Marple South Tunnel 176 22
+(205m 7224 yds) to 176 32
+
+176 35 *
+MARPLE 176 57
+Marple North Tunnel 176 74
+(90m I 99 yds) to 176 78
+
+177 15 a:
+

@@ -1,0 +1,11 @@
+Signalling & Remarks
+NRN CSR
+
+TCB Ashfprd IECC (AD)
+1 Down Slow
+2 Up Slow
+3 Down Fast
+4 Up Fast
+5 Up Chatham Loop
+6 Reversible Chatham Loop
+

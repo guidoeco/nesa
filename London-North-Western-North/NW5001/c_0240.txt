@@ -1,0 +1,7 @@
+LongsightDepotJn 187 54
+188 02 *
+Ardwick Jn 188 08 5:
+(Ardwick TPE Train Care Depot)
+188 16 *-
+188 30 :7:
+

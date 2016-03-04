@@ -1,0 +1,48 @@
+NRN
+TCB Manchester South 300 (MS)
+
+Patrolman's Directional Lockout. Up Wilmslow
+
+and Down Wilmslow lines between Chelford North
+
+Junction and Alderley Edge South Junction.
+
+Platform Lengths: Alderley Edge
+
+Platform 1: 128 metres (140 yards)
+
+Platform 2: 172 metres (188 yards)
+
+Line Blocked Lockouts.
+
+- Down Wilmslow line between Alderley Edge
+South Junction and Alderley Edge Norm Junction.
+
+- Up Wilmslow line between Alderley Edge
+North Junction and Alderley Edge South Junction.
+
+- Down Wilmslow line between Alderley Edge
+North Junction and Wilmslow South Junction.
+
+- Up Wilmslow line between Wilmslow North
+Junction and Alderley Edge North Junction.
+
+- Reversing Siding and Down Styal line.
+
+- Down Wilmslow line between Wilmslow South
+Junction and Wilmslow North Junction.
+
+Platform Lengths: Wilmslow
+
+Platform 3: 320 metres (350 yards)
+
+Platform 4: 222 metres (243 yards)
+
+Patrolman's Directional Lockout. Up Wilmslow
+
+and Down Wilmslow lines between Wilmslow North
+
+Junction (exclusive) and Cheadle Hulme South
+
+Junction (exclusive).
+

@@ -1,0 +1,9 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0198	LN3237	001	Loughborough South Jn to Hotchley Hi|| RUD MCJ London North Eastern	02/12/06	Loughborough South Jn	111	22	
+0198	LN3237	001	Loughborough South Jn to Hotchley Hi|| RUD MCJ London North Eastern	02/12/06		92	49	
+0198	LN3237	001	Loughborough South Jn to Hotchley Hi|| RUD MCJ London North Eastern	02/12/06	Network Rail Boundary	92	45	*
+0198	LN3237	001	Loughborough South Jn to Hotchley Hi|| RUD MCJ London North Eastern	02/12/06	Bamstone Tunnel Bat 49	92	45	X
+0198	LN3237	001	Loughborough South Jn to Hotchley Hi|| RUD MCJ London North Eastern	02/12/06	(98 yards)	89	45	
+0198	LN3237	001	Loughborough South Jn to Hotchley Hi|| RUD MCJ London North Eastern	02/12/06		37	44	*
+0198	LN3237	001	Loughborough South Jn to Hotchley Hi|| RUD MCJ London North Eastern	02/12/06	Hotchley Hill	87	38	
+0198	LN3237	001	Loughborough South Jn to Hotchley Hi|| RUD MCJ London North Eastern	02/12/06	(Wheel Stop)	87	06	

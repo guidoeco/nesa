@@ -1,0 +1,8 @@
+NRN
+AB Maryport Station SB
+Platform Lengths: Maryport
+Platform Down & Up 89m (97 yds)
+DN & UP Platform 160m (525ft)
+% Applies to class 60 locomotives only
+Applies to all other trains
+

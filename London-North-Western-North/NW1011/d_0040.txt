@@ -1,0 +1,19 @@
+NRN
+AB Gresty Lane SB (GL)
+AC: Crewe
+
+AWS not provided on Down Salop line
+T(2)-T Prohibited
+(PF) Down and Up Salop between
+Gresty Lane and Salop Goods
+Junction
+
+Salop Goods Jn SB (88)
+DFI=Down Fast Independent
+UFI=Up Fast Independent
+USI=Up Slow Independent
+UMI=Up Manchester Independent
+DMI=Down Manchester Independent
+ULI=Up Liverpool Independent
+DLI=Down Liverpool Independent
+

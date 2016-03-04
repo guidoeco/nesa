@@ -1,0 +1,36 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	Thome Jn	7	69	
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06		8	00	
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06		8	05	*
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06		9	09	
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06		14	06	
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	THORNE NORTH	14	02	
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	Theme Moorends LC	12	32	AHBC
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	Moorends Farm LC	11	52	UWC
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	Creykes LC	10	19	RIG
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	Hook Moor Farm LC	9	35	UWC
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	Potters Grange Jn	7	05	
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06		6	72	*
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	Goole SB	6	51	G
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	Boothferry Road LC	6	51	MOB
+0446	LN912	001	Thorne Jn to Gilberdyke Jn TJG1 TJG2 London North Eastern	02/12/06	GOOLE	6	46	
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	X5 25 *			X
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07		5	17	*
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Goole Bridge SB	5	06	GB
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Goole Bridge	5	06	
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	X5 00 *-	5	06	X
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07		4	79	*
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Saltmarshe LC	3	49	MOB
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Saltmarshe SB	3	49	SA
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	SALTMARSHE	3	47	
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Manor Farm LC	3	36	UWC
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Baulkholme LC	2	75	UWC
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07		2	72	*
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07		1	78	*
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Green Oak Gait LC	1	42	M06
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Mill Lane LC	0	75	UWC
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07		0	40	*
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07		0	17	*
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Gilberdyke LC	0	15	UWC
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07		0	10	*
+0447	LN912	002	Thorne Jn to Gilberdyke Jn TJGZ London North Eastern	28/03/07	Gilberdyke Jn SB	0	00	

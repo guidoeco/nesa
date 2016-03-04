@@ -1,0 +1,14 @@
+NRN
+TCB Bristol SB (B)
+RAB
+Down platfon'n - 114m, 125de
+Up platform - 116m. 127yds
+UF Up Filton
+DF Down Filton
+UFR Up Filton Relief
+DFR Down Filton Relief
+UFM Up Filton Main
+DFM Down Filton Main
+UB Up Bristol Loop
+DB Down Bristol Loop
+

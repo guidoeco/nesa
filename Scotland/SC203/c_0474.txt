@@ -1,0 +1,11 @@
+Altnabreac LC (UWC) 133 46
+Altnabreac GF 133 73
+ALTNABREAC 133 76
+142 67 *
+142 71 9:
+SCOTSCALDER 143 02
+Tongside No1 LC (UWC) 143 30
+Tongside N02 LC (UWC) 143 71
+144 72 *
+145 37 *
+

@@ -1,0 +1,11 @@
+47 30 *-
+47 40 a:
+(51 10) 4-
+Basingstoke SB (YW) 47 42
+47 50 *-
+Basingstoke SB (BE) 47 55
+47 56 4-
+BASINGSTOKE 47 61
+47 74 1k
+48 12 it
+

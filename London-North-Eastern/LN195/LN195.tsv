@@ -1,0 +1,27 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0085	LN195	001	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	02/12/06	Nottingham Branch Jn	106	08	
+0085	LN195	001	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	02/12/06		106	13	
+0085	LN195	001	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	02/12/06		106	16	*
+0085	LN195	001	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	02/12/06		106	60	*
+0085	LN195	001	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	02/12/06		107	26	*
+0085	LN195	001	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	02/12/06	Gonerby Tunnel	107	26	
+0085	LN195	001	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	02/12/06	(502m 550 yards)	107	52	
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08	Allington East . Jn	108	34	
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08		108	64	
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08		108	65	*
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08	Allington West Jn	108	69	
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08	Allington LC	108	71	MOB
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08	Allington SB	108	72	AL
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08		108	74	*
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08		109	46	
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08		109	70	*
+0086	LN195	002	Grantham, Nottingham Branch Jn to Bottesford West Jn NOG1 London North Eastern	30/08/08	Sewstem Lane LC	110	69	RIG
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06		111	01	*
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06	Cox's Walk LC	111	10	UWC
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06		111	60	*
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06	Taylors LC	111	72	UWC
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06	BOTPESFORD	112	68	
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06	Bottesford LC	112	75	UWC
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06	Normanton LC	113	10	AHBC-X
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06		113	75	*
+0087	LN195	003	Grantham, Nottingham Branch Jn to Bottlesford West Jn NOG1 London North Eastern	02/12/06	Bottesford West Jn SB	113	78	BW

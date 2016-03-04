@@ -1,0 +1,14 @@
+175 78
+Monk Bretton Loop
+
+176 24 *-
+Royston Jn (Former) 178 17
+
+181 70 *-
+Oakenshaw South Jn 181 75 *-
+
+182 33 are
+
+182 36 *-
+Crofton East Jn 183 O4 *
+

@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0192	LN3222	001	Brent Curve Jn to Dudding Hi|| Jn BDH London North Eastern	02/12/06		6	04	
+0192	LN3222	001	Brent Curve Jn to Dudding Hi|| Jn BDH London North Eastern	02/12/06	Brent Curve Jn	0	00	
+0192	LN3222	001	Brent Curve Jn to Dudding Hi|| Jn BDH London North Eastern	02/12/06		0	08	*
+0192	LN3222	001	Brent Curve Jn to Dudding Hi|| Jn BDH London North Eastern	02/12/06	Route Boundary	0	54	
+0192	LN3222	001	Brent Curve Jn to Dudding Hi|| Jn BDH London North Eastern	02/12/06	Continued in Network Rail	0	54	X
+0192	LN3222	001	Brent Curve Jn to Dudding Hi|| Jn BDH London North Eastern	02/12/06	Anglia Route Sectional Appendix	0	54	X
+0192	LN3222	001	Brent Curve Jn to Dudding Hi|| Jn BDH London North Eastern	02/12/06	Dudding Hill Jn	1	03	

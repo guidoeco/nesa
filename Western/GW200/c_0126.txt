@@ -1,0 +1,14 @@
+Wolveroot Jn 66 32
+66 36 1|:
+DrinkwaterLC(UWC) 66 56
+66 63 *
+Stonehouse Farm LC (UWC) 67 12
+Yamton Lane LC (AHBC-X) 67 40
+Sandy Lane LC (AHBC—X) 67 78
+67 79
+68 00 :7:
+Roundham LC (RIG-X) 66 43
+68 53
+69 11 *
+Bletchington LC (UWC) 70 37
+

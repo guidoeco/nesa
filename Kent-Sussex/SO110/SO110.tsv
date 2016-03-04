@@ -1,0 +1,249 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0001	SO110	001	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	VIGTORIA	00	00	
+0001	SO110	001	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		00	20	*
+0001	SO110	001	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		00	40	*
+0001	SO110	001	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Victoria Substation	00	56	
+0001	SO110	001	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		00	57	*
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Battersea Pier Jn	0	71	*
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		0	73	*
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		0	16	*
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Route Boundary	1	41	
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	(Nine Elms Jn)	2	00	
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Linford Street TP Hut	1	44	
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Linford Street Jn	1	45	
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		2	50	
+0002	SO110	002	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Route Boundary	2	44	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	(BATTERSEA PARK)	7	27	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	(Stewarts Lane Jn)	1	27	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	(Longhedge Jn)	0	39	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		0	03	*
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Route Boundary	1	16	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Factory Jn .	1	61	*
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		6	58	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		0	00	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		6	61	*
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Wandsworth Road Jn	6	53	*
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	WANDSWORTH ROAD	1	75	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		6	52	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Voltaire Road Jn	2	15	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		6	39	
+0003	SO110	003	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Voltaire Road TP Hut	2	10	
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	GLAPHAM HIGH STREET	2	25	
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		6	21	
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Shepherds Lane Jn	2	70	
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		5	68	
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		5	57	*
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Brixton Jn	3	08	*
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	(Canterbury Road Jn)	3	24	
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	BRIXTON	3	14	
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		3	20	*
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		5	09	*
+0004	SO110	004	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	(DENMARK HILL)	4	23	
+0005	SO110	005	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HHH HHT Kent/Sussex	18/10/08		4	24	*
+0005	SO110	005	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HHH HHT Kent/Sussex	18/10/08	Heme Hill Nortth	3	70	*
+0005	SO110	005	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HHH HHT Kent/Sussex	18/10/08		4	30	
+0005	SO110	005	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HHH HHT Kent/Sussex	18/10/08	Heme Hill TP Hut	3	74	
+0005	SO110	005	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HHH HHT Kent/Sussex	18/10/08	HERNE HILL	3	76	
+0005	SO110	005	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HHH HHT Kent/Sussex	18/10/08		4	15	*
+0005	SO110	005	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HHH HHT Kent/Sussex	18/10/08	(TULSE HILL)	5	02	
+0006	SO110	006	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	01/11/08	West Dulwich Substation	4	40	
+0006	SO110	006	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	01/11/08	WEST DULWIGH	5	02	
+0006	SO110	006	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	01/11/08	Sydenham Substation	5	47	
+0006	SO110	006	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	01/11/08	SYDENHAII HILL	5	57	
+0006	SO110	006	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	01/11/08	Penge Tunnel	5	62	
+0006	SO110	006	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	01/11/08	(1m 381 yards)	7	00	
+0006	SO110	006	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	01/11/08	PENGE EAST	7	15	
+0006	SO110	006	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	01/11/08	Penge East Ground Frame "3"	7	25	
+0007	SO110	007	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	KENT HOUSE	7	66	
+0008	SO110	008	Victoria to Ramsgate (via Herne Hill and Chatham) VIR NBB Kent / Sussex	22/03/08	(Birkbeck)	10	26	
+0008	SO110	008	Victoria to Ramsgate (via Herne Hill and Chatham) VIR NBB Kent / Sussex	22/03/08	New Beckenham Substation	8	21	
+0008	SO110	008	Victoria to Ramsgate (via Herne Hill and Chatham) VIR NBB Kent / Sussex	22/03/08		11	43	*
+0008	SO110	008	Victoria to Ramsgate (via Herne Hill and Chatham) VIR NBB Kent / Sussex	22/03/08	Beckenham Spur Jn	8	43	
+0008	SO110	008	Victoria to Ramsgate (via Herne Hill and Chatham) VIR NBB Kent / Sussex	22/03/08	BECKENHAM J"	8	53	
+0008	SO110	008	Victoria to Ramsgate (via Herne Hill and Chatham) VIR NBB Kent / Sussex	22/03/08		11	62	
+0008	SO110	008	Victoria to Ramsgate (via Herne Hill and Chatham) VIR NBB Kent / Sussex	22/03/08	Albemarle Road TP Hut	9	14	
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06	Shortlands Substation	9	54	
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06		10	62	
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06		10	67	*
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06	Shortlands Jn	9	57	
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06		10	73	
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06		9	78	
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06		0	48	
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06	SHORTLANDS	10	03	
+0009	SO110	009	Victoria to Ramsgate (via Herne Hill and Chatham) VIR RVC CAT Kent/Sussex	02/12/06		10	60	
+0010	SO110	010	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	BROMLEY SOUTH	10	71	
+0010	SO110	010	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Bromley South TP Hut	11	21	
+0010	SO110	010	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	BIGKLEY	11	76	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06	Bickley Jn	12	38	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06		12	40	*
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06	(Potts Wood Jn Fast Loop)	13	29	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06	Chislehurst Substation	12	59	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06		12	61	*
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06	(Chislehurst Jn)	11	31	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06	(Hawkwood Jn)	12	74	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06		11	68	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06	St Mary Cray Down Jn	12	79	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06		11	71	
+0011	SO110	011	Victoria to Ramsgate (via Herne Hill and Chatham) VIR TLP1 TLP2 CMS1 CMSZ Kent/Sussex	02/12/06	(Petts Wood Jn Slow Loop)	13	35	
+0012	SO110	012	Victoria to Ramsgate (via Herne Hill and Chatham) VIR CMS3 Kent / Sussex	02/12/06	St Mary Cray Up Jn	13	17	
+0012	SO110	012	Victoria to Ramsgate (via Herne Hill and Chatham) VIR CMS3 Kent / Sussex	02/12/06		13	46	*
+0012	SO110	012	Victoria to Ramsgate (via Herne Hill and Chatham) VIR CMS3 Kent / Sussex	02/12/06	St Mary Cray Substation	14	40	
+0012	SO110	012	Victoria to Ramsgate (via Herne Hill and Chatham) VIR CMS3 Kent / Sussex	02/12/06	ST MARY CRAY	14	57	
+0013	SO110	013	Victoria to Ramsgate (via Herne Hill and Chatham) VIR SBJ Kent / Sussex	07/03/09	Wheelchex on UF and US line	16	08	
+0013	SO110	013	Victoria to Ramsgate (via Herne Hill and Chatham) VIR SBJ Kent / Sussex	07/03/09		17	12	*
+0013	SO110	013	Victoria to Ramsgate (via Herne Hill and Chatham) VIR SBJ Kent / Sussex	07/03/09	SWANLEY	17	31	
+0013	SO110	013	Victoria to Ramsgate (via Herne Hill and Chatham) VIR SBJ Kent / Sussex	07/03/09		17	37	*
+0013	SO110	013	Victoria to Ramsgate (via Herne Hill and Chatham) VIR SBJ Kent / Sussex	07/03/09	Swanlean	17	46	
+0013	SO110	013	Victoria to Ramsgate (via Herne Hill and Chatham) VIR SBJ Kent / Sussex	07/03/09		17	50	*
+0013	SO110	013	Victoria to Ramsgate (via Herne Hill and Chatham) VIR SBJ Kent / Sussex	07/03/09		17	69	*
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Tweed Hill Substation	19	16	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Farningham Road Ground Frame	20	32	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	FARNINGHAM ROAD	20	41	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Darenth Substation	20	78	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Fawkham Junction	20	49	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Fawkham Substation	22	59	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	LONGFIELD	23	30	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Hartley Substation	24	30	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	MEOPHAM	25	76	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		26	00	*
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Meopham Substation	26	02	
+0014	SO110	014	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		26	20	*
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	SOLE STREET	26	71	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	Cobhambury TP Hut	27	56	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	Warren House Crossing	29	01	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	Lower Bush Substation	29	30	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	Peeble Lane Crossing	30	37	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	Merrals Shaw TP Hut	31	10	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07		32	20	*
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	(STROOD)	31	11	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	Strood Substation	32	70	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07		31	23	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07	Rochester Bridge Jn	33	01	
+0015	SO110	015	Victoria to Ramsgate (via Herne Hill and Chatham) VIR HDR Kent / Sussex	15/09/07		31	34	
+0016	SO110	016	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Rochester SB	33	42	ER
+0016	SO110	016	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Rochester TP Hut	33	48	
+0016	SO110	016	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	ROCHESTER	33	61	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Fort Pitt Tunnel	33	79	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	(428 yards) to	34	19	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	GHATHAM	34	25	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Chatham TP Hut	34	33	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Chatham Tunnel	34	34	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	(297 yards) to	34	48	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		34	55	*
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		35	00	*
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Luton Arch TP Hut	35	02	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Gillingham Tunnel	35	07	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	(897 yards) to	35	47	
+0017	SO110	017	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	GILLINGHAM	35	75	
+0018	SO110	018	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Gillingham SB	36	16	ET
+0018	SO110	018	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Gillingham LC	36	17	
+0018	SO110	018	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Gillingham Substation	36	18	
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		36	66	*
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		37	17	*
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		37	27	*
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	TwydallTP Hut	37	61	
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	RAINHAM	38	74	
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Rainham SB (EU)	39	00	*
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Station Road LC	39	01	
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Rainham Substation	39	23	
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		39	33	*
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		39	43	*
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	HartlipTP Hut	40	72	
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		41	34	*
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	NEWINGTON	41	44	*
+0019	SO110	019	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		41	53	*
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06	Newington Substation	42	00	
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06		42	50	*
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06		42	77	*
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06	Western Jn	43	70	
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06		43	75	*
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06	(Hollands Crossing)	43	77	
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06	(Middle Jn)	44	13	
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06	Chalkwell TP Hut	44	13	
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06	Eastern Jn	44	18	
+0020	SO110	020	Victoria to Ramsgate (via Herne Hill and Chatham) VIR WMS Kent / Sussex	02/12/06		0	00	
+0021	SO110	021	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	SITPINGBOURNE	44	59	
+0021	SO110	021	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Sittingbourne SB	44	73	EV
+0021	SO110	021	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Sittingbourne Substation	45	45	
+0021	SO110	021	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		46	23	*
+0021	SO110	021	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		46	33	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Bax Crossing	47	02	
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Frognall TP Hut	47	24	
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Frognall Farm Cressing	47	37	
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		47	70	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	TEYNHAM	47	74	
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Teynham LC	47	79	
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		48	00	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		48	20	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		48	46	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Teynham Substation	48	72	
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Stone LC (AHBC)	49	40	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Luddenham TP Hut	50	39	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		50	60	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		51	40	*
+0022	SO110	022	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	St Anns Crossing	51	48	
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08	FAVERSHAM	51	77	
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08		52	04	*
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08	Faversham SB (EY)	52	07	*
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08		52	12	*
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08		52	15	*
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08	Faversham Substation	52	16	
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08		52	32	*
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08		53	05	*
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08		53	60	*
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08	Culmers TP Hut	53	68	
+0023	SO110	023	Victoria to Ramsgate (via Herne Hill and Chatham) VIR FDM Kent / Sussex	22/03/08	Austin Crossing	53	74	
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Graveney LG (AHBC)	54	77	*
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Graveney Substation	55	42	
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		56	14	*
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Seasalter TP Hut	57	21	
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		57	40	*
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		58	40	*
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Whitstable Substation	58	79	
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	WHITSTABLE	59	06	
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		59	12	*
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	CHESTFIELD & SWALECLIFFE	60	45	
+0024	SO110	024	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Chestfield TP Hut	60	62	
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		62	24	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Herne Bay Substation	62	46	
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	HERNE BAY	62	56	
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		63	37	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		63	52	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		63	73	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		63	79	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Broomfield TP Hut	64	21	
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		65	65	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Reculver Substation	65	76	
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		66	20	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Coldharbour TP Hut	67	52	
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Minnis Bay Substation	69	27	
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		70	20	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		70	29	*
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	BIRCHINGTON	70	56	
+0025	SO110	025	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Birchington TP Hut	71	04	
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		72	25	*
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	WESTGATE-ON-SEA	72	35	
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Westgate Substation	72	58	
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		73	40	*
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Margate SB	73	53	GE
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		73	60	*
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	MARGATE	73	69	
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08		74	01	*
+0026	SO110	026	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	22/03/08	Margate TP Hut	74	36	
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		75	41	*
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		75	51	
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Broadstairs Substation	76	13	
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		76	37	*
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	BROADSTAIRS	77	09	
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		77	73	*
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	Dumpton Park TP Hut	77	76	
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06	DUMPTON PARK	78	26	
+0027	SO110	027	Victoria to Ramsgate (via Herne Hill and Chatham) VIR Kent / Sussex	02/12/06		78	40	*
+0028	SO110	028	Victoria to Ramsgate (via Herne Hill and Chatham) VIR ACR Kent / Sussex	22/03/08		79	00	*
+0028	SO110	028	Victoria to Ramsgate (via Herne Hill and Chatham) VIR ACR Kent / Sussex	22/03/08	St Lawrence Substation	79	14	
+0028	SO110	028	Victoria to Ramsgate (via Herne Hill and Chatham) VIR ACR Kent / Sussex	22/03/08	RAMSGATE	79	21	
+0028	SO110	028	Victoria to Ramsgate (via Herne Hill and Chatham) VIR ACR Kent / Sussex	22/03/08	(Change of mileage)	85	67	
+0028	SO110	028	Victoria to Ramsgate (via Herne Hill and Chatham) VIR ACR Kent / Sussex	22/03/08	Ramsgate SB	85	61	HE
+0028	SO110	028	Victoria to Ramsgate (via Herne Hill and Chatham) VIR ACR Kent / Sussex	22/03/08		85	52	*
+0028	SO110	028	Victoria to Ramsgate (via Herne Hill and Chatham) VIR ACR Kent / Sussex	22/03/08	Ramsgate Substation	85	22	
+0028	SO110	028	Victoria to Ramsgate (via Herne Hill and Chatham) VIR ACR Kent / Sussex	22/03/08	(Minster East Jn)	82	17	

@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0514	LN666	001	Boldon West Jn to Tyne Dock BGE London North Eastern	02/12/06	Boldon West Jn	0	00	
+0514	LN666	001	Boldon West Jn to Tyne Dock BGE London North Eastern	02/12/06	Boldon North Jn	0	32	
+0514	LN666	001	Boldon West Jn to Tyne Dock BGE London North Eastern	02/12/06	Commencement! End of Staff Section	0	35	
+0514	LN666	001	Boldon West Jn to Tyne Dock BGE London North Eastern	02/12/06	Green Lane	0	65	*
+0514	LN666	001	Boldon West Jn to Tyne Dock BGE London North Eastern	02/12/06	Tyne Dock	1	26	
+0514	LN666	001	Boldon West Jn to Tyne Dock BGE London North Eastern	02/12/06	EndlCommencement of Staff Section	1	26	X

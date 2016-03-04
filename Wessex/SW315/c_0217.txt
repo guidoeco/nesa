@@ -1,0 +1,6 @@
+Sack Lane Crossing 23 69
+Cow Lane Crossing 24 35
+LEC (Cox's) Crossing 24 68
+Bognor Regis SB (BR) 24 68
+BOGNOR REGIS 25 75
+

@@ -1,0 +1,8 @@
+End of line 1 76
+Padiham Power Station Sidings 1 56
+1 40 i:
+1 20 i:
+0 07 :1:
+Rose Grove West Jn O 00
+20 05
+

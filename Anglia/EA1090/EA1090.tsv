@@ -1,0 +1,44 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09	OHNS	52	28	
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09		52	33	*
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09		52	55	*
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09		52	56	*
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09	Hunwick Jn	52	65	
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09	East Gate LC	53	12	CCTV
+0054	EA1090	001	Colchester Jn to Clacth COC Anglia	02/03/09	East Gate Jn	53	14	
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09	Hythe Jn	53	36	
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09	HYTHE	53	49	
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09	Hythe Station LC	53	54	CCTV
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09		53	55	*
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09	Wivenhoe Park LC	54	61	UWC
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09		55	25	*
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09		55	45	*
+0055	EA1090	002	Colchester Jn to Clacth COC Anglia	02/03/09		55	55	*
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	WIVENHOE	56	00	
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09		56	60	*
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	ALRESFORD	57	63	
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	Alresford LC	57	68	CCTV
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	Coach Road LC	58	02	CCTV
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	Thorrington LC	59	41	M03
+0056	EA1090	003	Colchester Jn to Clacth COC Anglia	02/03/09	Thorrington Crossing Box	59	42	
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09		59	67	*
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	Frating LC	59	74	AHBC
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	(Supervised by Thorrington	59	74	X
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	Crossing box)	59	74	X
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09		60	43	*
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	Great Bentley LC	60	62	MCB
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	GREAT BENTLEY	60	66	
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09	WEELEY	62	78	
+0057	EA1090	004	Colchester Jn to Clacth COC Anglia	02/03/09		63	35	*
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06		64	53	*
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06		64	68	*
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06	Thorpe-le—Soken (1') SB	65	06	
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06	THORPE-LE-SOKEN	65	07	
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06	Thorpe-le-Soken Jn	65	20	*
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06		65	24	*
+0058	EA1090	005	Colchester Jn to Clacth COC Anglia	05/08/06	Three Gates LC (Clacton Line)	65	65	
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007	Giles LC	67	45	UWC
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007	Burrs Road LC	68	04	MCG
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007		69	35	*
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007	Clacton (C) SB	69	42	
+0059	EA1090	006	Colchester Jn to Clacth COC Anglia	01/12/2007	GLAGTON-ON-SEA	69	56	

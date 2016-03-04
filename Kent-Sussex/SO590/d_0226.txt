@@ -1,0 +1,7 @@
+NRN CSR
+TCB Lewes SB (LW)
+RAa DC:Brighton
+08R channel 15 applies in UP direction only 05R
+1 Up Main
+2 Down Main
+

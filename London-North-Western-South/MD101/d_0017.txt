@@ -1,0 +1,28 @@
+NRN CSR
+TCB Bletchley PSB (BY)
+AC: Rugby ECR
+All lines to 48m 20ch
+TASS fitted: DF 8: UF lines.
+GSM-R area
+LA
+Platform Lengths:
+1 - 253 metres
+2 - 253 metres
+3 - 177 metres
+4 - 178 metres
+5 - 178 metres
+6 - 129 metres
+PF is authorised on Up Goods line
+and on Down Goods line to Signal
+BY.30
+D0 - Down Oxford
+U0 - Up Oxford
+UA - Up Arrival line
+UC - Up Cambridge
+DC - Down Cambridge
+UG - Up Goods
+DG - Down Goods
+CS - Carriage Sidings
+03R
+Rugby SOC (T K) V
+

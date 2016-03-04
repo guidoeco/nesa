@@ -1,0 +1,14 @@
+Tuxford GSP 131 50
+
+132 48 1k
+HABD 134 37
+Askham Tunnel 134 37
+(52m 57 yards)
+
+134 40 17:
+Grove Road GSP 136 27
+
+136 29 *-
+Eaton Lane Public Bridleway 136 44
+Grove Road LC (CCTV) 137 37
+

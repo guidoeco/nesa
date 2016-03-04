@@ -1,0 +1,16 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06	Penwithers Jn	301	25	
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06	CW	301	30	*
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06	Spamick Tunnel	302	68	
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06	(449m,491yds)	303	10	
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06		304	75	*
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06	PERRANWELL	304	78	
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06		305	00	*
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06	Perran Tunnel	306	23	
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06	(342m, 374yds)	306	40	
+0254	GW680	001	Penwithers Jn to Falmouth FAL Western	05/08/06	PENRYN	309	08	
+0255	GW680	002	Penwithers Jn to Falmouth FAL Western	05/08/06	PENMERE	311	13	
+0255	GW680	002	Penwithers Jn to Falmouth FAL Western	05/08/06	FALMOUTH TOWN	312	09	
+0255	GW680	002	Penwithers Jn to Falmouth FAL Western	05/08/06	Falmouth No.1 SF	312	22	*
+0255	GW680	002	Penwithers Jn to Falmouth FAL Western	05/08/06	Falmouth No.2 GF	312	37	
+0255	GW680	002	Penwithers Jn to Falmouth FAL Western	05/08/06	FALMOUTH DUCKS	312	46	

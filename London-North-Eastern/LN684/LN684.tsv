@@ -1,0 +1,5 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0529	LN684	001	Low Fell Jn. to Norwood Jn. NLF London North Eastern	02/12/06	Low Fell Jn	0	00	
+0529	LN684	001	Low Fell Jn. to Norwood Jn. NLF London North Eastern	02/12/06	Royal Mail Terminal	0	50	
+0529	LN684	001	Low Fell Jn. to Norwood Jn. NLF London North Eastern	02/12/06		1	38	*
+0529	LN684	001	Low Fell Jn. to Norwood Jn. NLF London North Eastern	02/12/06	Nomood Jn	1	42	

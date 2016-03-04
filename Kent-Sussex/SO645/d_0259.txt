@@ -1,0 +1,25 @@
+NRN CSR
+
+TCB Victoria SB (VC)
+AWE not provided for emergency
+and temporary speed restrictions.
+(D Not permissive
+
+1 Up Atlantic
+
+2 Down Atlantic
+
+3 Up Stewarts Lane
+
+4 Down Stewarts Lane
+
+5 Chatham Reversible
+
+6 Up Chatham Main
+
+7 Down Chatham Main
+
+8 Down Ludgate
+
+9 Up Ludgate
+

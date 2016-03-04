@@ -1,0 +1,11 @@
+11 02 7k
+11 02
+Leicester Jn 11 17
+Branston Jn 12 15
+12 40 *-
+12 60 *
+Boultons LC(UWC) 12 74
+Dunstalls LC(UWC) 13 31
+Branston HABD 13 44
+Arblasters LG (UWC) 14 01
+

@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0153	SC089	001	Annbank to Killoch Colliery (Goods Line) KCH1 KCH2 Scotland	02/12/06	Annbank GF	43	52	
+0153	SC089	001	Annbank to Killoch Colliery (Goods Line) KCH1 KCH2 Scotland	02/12/06		48	71	*
+0153	SC089	001	Annbank to Killoch Colliery (Goods Line) KCH1 KCH2 Scotland	02/12/06	(Change of ELR'	48	73	*
+0153	SC089	001	Annbank to Killoch Colliery (Goods Line) KCH1 KCH2 Scotland	02/12/06	KCH1 to KCHZ)	0	00	
+0153	SC089	001	Annbank to Killoch Colliery (Goods Line) KCH1 KCH2 Scotland	02/12/06	Killoch Colliery	3	43	

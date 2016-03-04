@@ -1,0 +1,9 @@
+West Dulwich Substation 4 40
+WEST DULWIGH 5 02
+Sydenham Substation 5 47
+SYDENHAII HILL 5 57
+Penge Tunnel 5 62
+(1m 381 yards) 7 00
+PENGE EAST 7 15
+Penge East Ground Frame "3" 7 25
+

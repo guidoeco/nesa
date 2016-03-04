@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09	Lostock Jn	13	39	
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09		13	45	*
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09		13	60	*
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09	Metal Box Go. Siding	13	60	X
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09	Westhoughton GF	15	06	
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09	WESTHOUGHTON	15	25	
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09	CrowNest Jn	17	18	*
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09		14	64	
+0301	NW6013	001	Lostock Jn. to Crow Nest Jn. LCN LNW North	14/03/09	Crow Nest Jn SB	14	62	CN

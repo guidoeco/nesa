@@ -1,0 +1,13 @@
+NRN
+TCB Sheffield SB (3)
+RAB
+TOWS "Swinton Curve Section" between
+15m 1331 yards and 15m 355 yards
+TOWS "Swinton No.3 Section" between
+15m 355 yards and 166m 1516 yards on the Main
+lines.
+DD = Down Doncaster
+UD = Up Doncaster
+DPT = Down Pontefract
+UPT = Up Pontefract
+

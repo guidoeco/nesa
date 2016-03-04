@@ -1,0 +1,11 @@
+57 35
+Stoke Works Jn 57 43
+Boat LC (UWC) 57 71
+
+58 00 *
+Dunhampstead LC (AHBC) 62 12
+Oddingley LC (M06) 62 60
+Evelench LC (UWC) 63 54
+Spetchley HABD 65 17
+Spetchley 66 42
+

@@ -1,0 +1,14 @@
+44 70 *
+ROYSTON 44 72
+45 20 are
+45 26 *
+45 27
+Network Rail LNE! 45 60 *-
+Anglia Route Boundary
+MELDRETH 47 75
+49 22 *
+Meldreth Road LC (AHBC) 49 37
+49 40 9c
+Shepreth LC (AHBC) 49 63
+SHEPRETH 49 67
+

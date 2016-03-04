@@ -1,0 +1,17 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	Morecambe South Jn	0	00	
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06		0	40	*
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	Bare Lane Jn	0	44	
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06		0	46	*
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	BARE LANE	0	53	
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	Bare Lane SB	0	57	
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	Bare Lane LC	0	59	MCB
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06		1	50	*
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06		1	70	*
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	Morecambe Jn GF	1	71	
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06		2	02	*
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	MOREGAMBE	2	10	
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	(Moreeambe			Z
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	Line)			Z
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	Buffer stops	2	12	
+0194	NW4011	001	Morecambe South Jn. to Morecombe MSM LNW North	07/10/06	(Heysham Line)	2	12	X

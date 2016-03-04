@@ -1,0 +1,16 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0361	NW8007	001	Bootle Jn. to Aintree Emergency G.F. HXSB NMM LNW North	02/08/08	Bootle Junction	2	34	
+0361	NW8007	001	Bootle Jn. to Aintree Emergency G.F. HXSB NMM LNW North	02/08/08		2	39	
+0361	NW8007	001	Bootle Jn. to Aintree Emergency G.F. HXSB NMM LNW North	02/08/08		2	45	*
+0361	NW8007	001	Bootle Jn. to Aintree Emergency G.F. HXSB NMM LNW North	02/08/08	(BOOTLE ORIEL ROAD)	2	61	
+0361	NW8007	001	Bootle Jn. to Aintree Emergency G.F. HXSB NMM LNW North	02/08/08	(BOOTLE NEW STRAND)	3	14	
+0361	NW8007	001	Bootle Jn. to Aintree Emergency G.F. HXSB NMM LNW North	02/08/08		3	52	
+0361	NW8007	001	Bootle Jn. to Aintree Emergency G.F. HXSB NMM LNW North	02/08/08		34	40	
+0362	NW8007	002	Bootle Jn. to Aintree Emergency G.F. NMB AFL LNW North	14/07/07		34	20	*
+0362	NW8007	002	Bootle Jn. to Aintree Emergency G.F. NMB AFL LNW North	14/07/07		34	00	*
+0362	NW8007	002	Bootle Jn. to Aintree Emergency G.F. NMB AFL LNW North	14/07/07	Aintree West L.C. (UWC)	32	65	*
+0362	NW8007	002	Bootle Jn. to Aintree Emergency G.F. NMB AFL LNW North	14/07/07		32	42	*
+0362	NW8007	002	Bootle Jn. to Aintree Emergency G.F. NMB AFL LNW North	14/07/07		0	00	
+0362	NW8007	002	Bootle Jn. to Aintree Emergency G.F. NMB AFL LNW North	14/07/07	Aintree Emergency GF	0	33	
+0362	NW8007	002	Bootle Jn. to Aintree Emergency G.F. NMB AFL LNW North	14/07/07		4	62	*
+0362	NW8007	002	Bootle Jn. to Aintree Emergency G.F. NMB AFL LNW North	14/07/07	AINTREE	4	69	

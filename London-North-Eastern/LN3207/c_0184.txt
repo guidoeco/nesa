@@ -1,0 +1,7 @@
+lronville Jn 133 18
+134 22 *
+Alfreton Tunnel 135 11
+(768m I 840 yds) to 135 50
+ALFRETON 136 07
+Blackwell South Jn 136 67
+

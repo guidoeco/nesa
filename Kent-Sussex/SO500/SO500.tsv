@@ -1,0 +1,196 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0153	SO500	002	Victoria to Brighton VTB1 Kent! Sussex	22/03/08	VICTORIA	0	00	
+0153	SO500	002	Victoria to Brighton VTB1 Kent! Sussex	22/03/08		0	40	*
+0153	SO500	002	Victoria to Brighton VTB1 Kent! Sussex	22/03/08	Victoria Substation	0	56	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		0	57	*
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Grosvenor Bridge	0	65	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	to	0	69	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Battersea Pier Jn	0	71	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Battersea Pier Sidings staff halt	0	75	*
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Battersea Park Jn	1	13	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		7	35	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		7	31	*
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	BATTERSEA PARK	1	23	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		7	27	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	(Factory Jn)	6	58	
+0154	SO500	003	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Queen's Road Substation "B"	1	49	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06	(Longhedge Jn)	1	63	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06	Route Boundary	1	67	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06	Pouparts Jn	2	04	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06		2	20	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06		2	08	*
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06	(Latchmere No.1 Jn)	0	63	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06	Clapham Jn Substation	2	47	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06	Victoria SB	0	21	VC&VS
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06		2	51	*
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06	GLAPHAM JUNCTION	2	57	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06		0	10	*
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06	Falcon Jn	2	66	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06		0	00	
+0155	SO500	004	Victoria to Brighton VTB1 BSP2 Kent/Sussex	02/12/06		2	70	*
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07	Wandsworth Common Substation	3	78	
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07	WANDSWORTH COMMON	4	05	
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07		4	20	*
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07		4	46	*
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07	BALHAM	4	52	
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07		4	68	*
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07	Balham Jn	4	69	
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07		4	74	*
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07		4	70	*
+0156	SO500	005	Victoria to Brighton VTB1 Kent! Sussex	21/04/07	Balham Substation	4	76	
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07		5	14	*
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07	Stroatham North Jn	6	14	
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07	Streatham Substation	6	35	
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07		6	42	*
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07	(Streatham)	7	43	
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07	Streatham South Jn	6	48	
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07	STREATHAM COMMON	6	48	
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07		8	15	
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07		6	51	*
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07	Streatham Common Ground Frame	6	51	X
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07	NORBURY	7	36	
+0157	SO500	006	Victoria to Brighton VTB1 SLJ SSC Kent! Sussex	21/04/07	Thornton Heath TP Hut	6	09	
+0158	SO500	007	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Belle Vue Substation	8	46	*
+0158	SO500	007	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	THORNTON HEATH	8	64	
+0158	SO500	007	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		8	67	*
+0158	SO500	007	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		9	27	*
+0158	SO500	007	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	SELHURST	9	31	
+0159	SO500	008	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Selhurst Jn	9	43	*
+0159	SO500	008	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Selhurst Substation "A"	9	48	
+0159	SO500	008	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Cottage Jn	9	64	
+0159	SO500	008	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		9	52	
+0159	SO500	008	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	(Gloucester Road Jn)	9	65	
+0159	SO500	008	Victoria to Brighton VTB1 Kent! Sussex	02/12/06	Windmill Bridge Jn	10	12	*
+0159	SO500	008	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		9	69	
+0159	SO500	008	Victoria to Brighton VTB1 Kent! Sussex	02/12/06		10	07	*
+0160	SO500	009	Victoria to Brighton VTBZ Kent! Sussex	29/03/08		10	28	*
+0160	SO500	009	Victoria to Brighton VTBZ Kent! Sussex	29/03/08	EAST QROYDON	10	28	
+0160	SO500	009	Victoria to Brighton VTBZ Kent! Sussex	29/03/08		10	38	*
+0160	SO500	009	Victoria to Brighton VTBZ Kent! Sussex	29/03/08	EastCroydon TP Hut	10	43	
+0160	SO500	009	Victoria to Brighton VTBZ Kent! Sussex	29/03/08		10	55	*
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08	SOUTH GROYDON	11	21	
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08		11	25	*
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08		11	28	*
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08	South Croydon Jn	11	29	
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08		11	35	*
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08		11	37	*
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08	South Croydon Substation	11	40	
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08	PURLEY OAKS	12	34	
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08	Purley Oaks TP Hut	12	39	
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08	PU RLEY	13	29	
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08		15	13	
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08		13	32	*
+0161	SO500	010	Victoria to Brighton VTBZ PAT Kent! Sussex	29/12/08	Purley Substatian	13	44	
+0162	SO500	011	Victoria to Brighton VTBZ RED1 Kent/Sussex	10/03/07	Stoats Nest Jn	14	20	
+0162	SO500	011	Victoria to Brighton VTBZ RED1 Kent/Sussex	10/03/07	Cousdon North Ground Frame	14	72	
+0162	SO500	011	Victoria to Brighton VTBZ RED1 Kent/Sussex	10/03/07	Cousdon North Substation	15	00	
+0162	SO500	011	Victoria to Brighton VTBZ RED1 Kent/Sussex	10/03/07	Redhill Lines	15	02	
+0162	SO500	011	Victoria to Brighton VTBZ RED1 Kent/Sussex	10/03/07		16	66	
+0162	SO500	011	Victoria to Brighton VTBZ RED1 Kent/Sussex	10/03/07	Quarry Lines	15	09	
+0162	SO500	011	Victoria to Brighton VTBZ RED1 Kent/Sussex	10/03/07	Star Lane Substation	16	45	
+0162	SO500	011	Victoria to Brighton VTBZ RED1 Kent/Sussex	10/03/07		18	28	
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06		17	19	
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06	Quarry Tunnel	17	24	
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06	(1 mile 353 yards) to	18	40	
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06		18	45	
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06	Merstham Substation	19	10	
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06		20	00	
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06	Redhill Tunnel	20	62	
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06	(649 yards) to	21	12	*
+0163	SO500	012	Victoria to Brighton (Stoats Nest Jn to Earlswood (via the Quarry Line)) VTBZ Kent / Sussex	02/12/06	Redhill Substation	21	24	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07		16	76	*
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07	GOULSDON SOUTH	17	03	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07		18	20	*
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07		19	05	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07	Merstham Tunnel	19	09	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07	(1 mile 71 yards) to	20	12	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07	Shepherds Hill Substation	20	13	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07		20	40	*
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07	MERSTHAM	20	59	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07	Merstham Substation	20	63	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07		21	40	*
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07	Holmethorpe Substation	21	71	
+0164	SO500	013	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	10/02/07		22	00	*
+0165	SO500	014	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	22/03/08	REDHILL	22	40	
+0165	SO500	014	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	22/03/08		22	51	*
+0165	SO500	014	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	22/03/08		22	53	*
+0165	SO500	014	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	22/03/08	Reigate Feeder Hut	22	54	
+0165	SO500	014	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	22/03/08		22	59	*
+0165	SO500	014	Victoria to Brighton (Stoats Nest Jn to Earlswood via Redhill) RED2 Kent / Sussex	22/03/08	Redhill Substation "A"	23	00	
+0166	SO500	015	Victoria to Brighton VTB3 Kent/Sussex	31/12/06	Redhill Lines	23	16	
+0166	SO500	015	Victoria to Brighton VTB3 Kent/Sussex	31/12/06	(Change of mileage)	21	37	
+0166	SO500	015	Victoria to Brighton VTB3 Kent/Sussex	31/12/06		21	45	*
+0166	SO500	015	Victoria to Brighton VTB3 Kent/Sussex	31/12/06	EARLSWOOD	21	50	
+0166	SO500	015	Victoria to Brighton VTB3 Kent/Sussex	31/12/06		21	60	*
+0166	SO500	015	Victoria to Brighton VTB3 Kent/Sussex	31/12/06		22	00	*
+0166	SO500	015	Victoria to Brighton VTB3 Kent/Sussex	31/12/06	Whitebushes Substation	22	25	
+0167	SO500	016	Victoria to Brighton VTB3 Kent/Sussex	02/12/06		22	79	
+0167	SO500	016	Victoria to Brighton VTB3 Kent/Sussex	02/12/06	SALFORDS	23	37	
+0167	SO500	016	Victoria to Brighton VTB3 Kent/Sussex	02/12/06	Salfords Substation	23	44	
+0167	SO500	016	Victoria to Brighton VTB3 Kent/Sussex	02/12/06	Great Lake Farm Substation	24	66	
+0167	SO500	016	Victoria to Brighton VTB3 Kent/Sussex	02/12/06		25	00	
+0167	SO500	016	Victoria to Brighton VTB3 Kent/Sussex	02/12/06		25	40	*
+0167	SO500	016	Victoria to Brighton VTB3 Kent/Sussex	02/12/06	HORLEY	25	60	
+0168	SO500	017	Victoria to Brighton Kent! Sussex	23/03/09	Gatwick Substafion	26	46	
+0168	SO500	017	Victoria to Brighton Kent! Sussex	23/03/09	GATWIGK AIRPORT	26	47	
+0168	SO500	017	Victoria to Brighton Kent! Sussex	23/03/09		26	66	*
+0168	SO500	017	Victoria to Brighton Kent! Sussex	23/03/09		26	76	*
+0169	SO500	018	Victoria to Brighton Kent! Sussex	23/03/09	Tinsley Green Jn	27	34	
+0169	SO500	018	Victoria to Brighton Kent! Sussex	23/03/09	Crawley New Yard	27	77	
+0170	SO500	019	Victoria to Brighton Kent! Sussex	23/03/09		29	00	*
+0170	SO500	019	Victoria to Brighton Kent! Sussex	23/03/09	THREE BRIDGES	29	21	
+0170	SO500	019	Victoria to Brighton Kent! Sussex	23/03/09	Three Bridges Signal Box (T)	29	28	*
+0170	SO500	019	Victoria to Brighton Kent! Sussex	23/03/09		30	00	*
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	Balcombe Tunnel Jn	31	28	
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09		31	35	*
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09		31	40	*
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	Balcombe Tunnel Substation	31	55	
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	Balcombe Tunnel	32	02	*
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	(1141 yards) to	32	54	
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	Redbridge TP Hut	33	28	
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	BALCOMBE	33	64	
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	Ouse Valley Substation	34	67	
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	Ouse Valley Viaduct	35	37	
+0171	SO500	020	Victoria to Brighton Kent! Sussex	23/03/09	(482 yards)	35	59	
+0172	SO500	021	Victoria to Brighton VTB3 CJA1 CJA2 Kent! Sussex	23/03/09	Ardingly Sidings	0	70	
+0172	SO500	021	Victoria to Brighton VTB3 CJA1 CJA2 Kent! Sussex	23/03/09	(Ardingly branch)	36	33.5	
+0172	SO500	021	Victoria to Brighton VTB3 CJA1 CJA2 Kent! Sussex	23/03/09	(Change of mileage)	0	00	
+0172	SO500	021	Victoria to Brighton VTB3 CJA1 CJA2 Kent! Sussex	23/03/09	Copyhold Jn TP Hut	36	42	
+0172	SO500	021	Victoria to Brighton VTB3 CJA1 CJA2 Kent! Sussex	23/03/09	Copyhold Jn	37	00	*
+0172	SO500	021	Victoria to Brighton VTB3 CJA1 CJA2 Kent! Sussex	23/03/09	HAYWARDS HEATH	37	59	
+0172	SO500	021	Victoria to Brighton VTB3 CJA1 CJA2 Kent! Sussex	23/03/09	Haywards Heath Substation	37	66	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	Haywards Heath Tunnel	38	05	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	(249 yards) to	38	17	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	Folly Hill TP Hut	39	31	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	Vale Viaduct	39	59	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008		39	62.5	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	WIVELSFIELD	40	52	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	Keymer Jn	40	69	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	Keymer Jn Substation	40	48	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	BURGESS HILL	41	39	
+0173	SO500	022	Victoria to Brighton VTB3 Kent! Sussex	15/03/2008	Burgess Hill TP Hut	42	25	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	HASSOGKS	43	42	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	Ground Frame	43	55	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	Hassocks Substation	43	65	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08		44	40	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	Clayton Tunnel	44	44	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	(1 mile 499 yards) to	45	66	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08		45	67	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	Pangdean Substation	46	31	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08		47	51	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	Patcham Tunnel	47	65	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	(492 yards)	48	00	*
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08		48	07	
+0174	SO500	023	Victoria to Brighton VTB3 Kent! Sussex	28/06/08	Preston Park Substation	48	72	
+0175	SO500	024	Victoria to Brighton VTB3 Kent! Sussex	15/03/08	PRESTON PARK	49	21	
+0176	SO500	025	Victoria to Brighton VTB3 PPH Kent/Sussex	02/12/06	Preston Park Jn	49	43	*
+0176	SO500	025	Victoria to Brighton VTB3 PPH Kent/Sussex	02/12/06	Cliftonville Tunnel	49	56	*
+0176	SO500	025	Victoria to Brighton VTB3 PPH Kent/Sussex	02/12/06	(535 yards)	49	56	X
+0176	SO500	025	Victoria to Brighton VTB3 PPH Kent/Sussex	02/12/06	(Hove Jn)	50	48	
+0176	SO500	025	Victoria to Brighton VTB3 PPH Kent/Sussex	02/12/06		50	00	*
+0177	SO500	026	Victoria to Brighton VTB3 BL|1 BTL Kent/Sussex	02/12/06	Brighton Substation	50	18	
+0177	SO500	026	Victoria to Brighton VTB3 BL|1 BTL Kent/Sussex	02/12/06		50	20	*
+0177	SO500	026	Victoria to Brighton VTB3 BL|1 BTL Kent/Sussex	02/12/06	Montpelier Jn	50	31	
+0177	SO500	026	Victoria to Brighton VTB3 BL|1 BTL Kent/Sussex	02/12/06		0	13	
+0177	SO500	026	Victoria to Brighton VTB3 BL|1 BTL Kent/Sussex	02/12/06	BRIGHTON	50	49	
+0177	SO500	026	Victoria to Brighton VTB3 BL|1 BTL Kent/Sussex	02/12/06		0	00	

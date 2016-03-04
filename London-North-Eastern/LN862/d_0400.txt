@@ -1,0 +1,7 @@
+NRN
+TCB Huddersfield SB (HU)
+RAB
+DIUH = Down/Up Huddersfield
+TOWS 1 70 Down & Up to and from
+Springwood Jn
+

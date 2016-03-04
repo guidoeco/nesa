@@ -1,0 +1,20 @@
+NRN
+TCB Wembley Mainline SCC (WM)
+AC: Rugby ECR
+SD. SA, PRDC. R+D, B & C Sidings contolled by
+Wembley Yard (WY)
+Carriage lines controlled by
+Willesden Carriage Shed South (CS)
+TPWS not provided.
+UCL - Up Carriage line
+DCL - Down Carriage line
+RR - Railnet Reversible
+SD - South departure
+SA - South arrival
+R+D - Railnet Reception 8: Departure
+U+DHLG - Up & Down High Level Goods
+PRDC - Princess Royal Distribution Centre
+Ci) All lines in terminal.
+PLATFORM LOCKOUTS ON ALL
+PLATFORMS within the PRDC.
+

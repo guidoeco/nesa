@@ -1,0 +1,17 @@
+NRN
+TCB Hazel Grove SB (HG)
+AC: Crewe
+UHV = Up Hope Valley
+DHV = Down Hope Valley
+Platform Lengths: Woodsmoor
+Up: 90m (98 yards)
+Down: 90m (98 yards)
+Platform Lengths: Davenport
+Up: 138m (151 yards)
+Down: 138m (151 yards)
+
+Edgeley Junction No.1 SB (EY1)
+Exceptional Rail Head Conditions
+Down and up Hope Valley lines
+between 1m. 450h. and 0m. 60oh.
+

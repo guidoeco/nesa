@@ -1,0 +1,14 @@
+Stop Block 1 31
+Claydon LC (AOCL) 11 18
+Stop Block Gate 12 00
+Single Line 12 10 *
+Claydon L&NE Jn SB 12 57 *
+Claydon L&NE Jn
+Launton LC (AOCL) 17 12
+
+18 00 *-
+Bicester Eastern Perimeter Rd LC (T MOB 18 25
+Route Boundary 18 40
+London Rd LC (TMO) 19 30
+BICESTEII TOWN 19 34
+

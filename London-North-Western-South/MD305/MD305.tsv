@@ -1,0 +1,49 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	BIRMINGHAM NEW ST	112	73	
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	Change of mileage	0	05	
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	Birmingham New St PSB	0	16	NS
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	Change of mileage	42	35	
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	Holliday Street Tunnel (D)	42	40	*
+0087	MD305	001	Birmingham New Street to Blackwell BAG1 LNW South	07/10/06	(281 metres I 307 yards)	42	40	X
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	Holliday Street Tunnel G)	42	54	*
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(281 metres / 307 yards)	42	54	X
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(Canal Tunnel 6)	42	57	
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(206 metres / 225 yards)	42	57	X
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	to	42	67	
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	Granville Street Tunnel 6)	42	68	
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(74 metres / 81 yards)	42	68	X
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	to	42	72	
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	Bath Row Tunnel 6)	42	73	
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	(192 metres / 210 yards) to	43	07	
+0088	MD305	002	Birmingham New Street to Blackwell BAG1 LNW South	08/10/06	FIVE WAYS	43	18	
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08		43	40	*
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08	Church Road Tunnel	43	56	
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08	(97 metres! 106 yards) t	43	56	X
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08		43	61	
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08	UNIVERSITY	44	73	
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08		45	10	*
+0089	MD305	003	Birmingham New Street to Blackwell BAG1 LNW South	26/01/08	SELLY OAK	45	50	
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	BOURNVILLE	46	58	
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	Lifford West Jn	47	20	
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06		47	30	*
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	Pershore Road Tunnel	48	34	
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	(57 metres I 62 yards) t	48	34	X
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06		47	37	
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06	King's Norton Station Jn	47	48	
+0090	MD305	004	Birmingham New Street to Blackwell BAG1 BAGZ LNW South	07/10/06		47	58	*
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06	KING'S NORTON	47	64	
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06	King's Nortoan	48	02	
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06	Change of mileage	46	77	
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06		46	79	*
+0091	MD305	005	Birmingham New Street to Blackwell BAG2 LNW South	07/10/06	King's Norton West GF	47	40	
+0092	MD305	006	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	NORTHFIELD	48	12	
+0092	MD305	006	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	LONGBRIDGE	49	12	*
+0092	MD305	006	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	Halesowen Jn	49	21	
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08		49	46	*
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	COftOPI	50	34	
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08		50	60	*
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	Bamt Green Jn	51	58	
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	BARNT GREEN	51	67	
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	NRN channel change	52	20	
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	Territory Boundary	52	40	
+0093	MD305	007	Birmingham New Street to Blackwell BAG2 LNW South	26/01/08	Blackwell	53	29	

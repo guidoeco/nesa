@@ -1,0 +1,10 @@
+NRN
+TCB Castleford SB (CD)
+RAB
+D0 = Down Cutsyke
+UC = Up Cutsyke
+CD — ToIFrom Prince of Wales Colliery
+Prince of Wales SB (P)
+DSG = Down Siding
+DG = Down Goods
+

@@ -1,0 +1,14 @@
+Netherfield Jn 2 35
+CARLTON 2 78
+Carlton LC (CCTV) 2 79
+Stoke Lane LC (AHBC-X) 3 54
+Zulus LG (UWC) 4 16
+BURTON JUNE 4 77
+Burton Joyce LC (AHBC—X) 4 77
+Trent Lane LC (UWC) 5 38
+Bulcote LC (AHBC—X) 6 10
+Lowdham SB 7 27
+Lowdham LC (MOB) 7 27
+LOWDHAM 7 31
+Lowdham GF 7 32
+

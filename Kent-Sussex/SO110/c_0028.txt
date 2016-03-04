@@ -1,0 +1,10 @@
+79 00 *-
+St Lawrence Substation 79 14
+RAMSGATE 79 21
+(Change of mileage) 85 67
+Ramsgate SB (HE) 85 61
+
+85 52 *
+Ramsgate Substation 85 22
+(Minster East Jn) (82 17)
+

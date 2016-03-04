@@ -1,0 +1,16 @@
+119 69 at
+
+119 71 *
+Porthmadog LC (T MO) 119 73
+PORTHMADOG (TEP) 119 77
+Porthmadog GF 120 07
+Single Line 120 09 *
+RETB Channel Change 121 56 *
+
+121 7D *-
+Coed-y-Llyn No.1 LC (UWC) 122 42
+Porth Hir LC (UWC) 123 23
+Merllyn LC (MCG) 124 28
+Mass LC (ABCL) 124 55
+CRICCIETH 124 74
+

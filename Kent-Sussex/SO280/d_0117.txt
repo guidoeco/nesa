@@ -1,0 +1,30 @@
+NRN CSR
+
+TCB Victoria SB (VS)
+RA4 DC:Lewisham
+A.W.S. not provided for emergency
+and temporary speed restrictions.
+RAB applies between Loughboraugh Jn and
+Canterbury Road Jn .CSI R
+RA? applies between Loughborough Jn and
+Cambria Jn
+
+1 Up Slow
+
+2 Down Slow
+
+3 Up Fast
+
+4 Down Fast
+
+5 Down Cambria Spur
+
+6 Up Cambria Spur
+
+7 Down Holborn
+
+8 Up Holborn
+
+9 Up Brixton Spur
+10 Down Brixton Spur
+

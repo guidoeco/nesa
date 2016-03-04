@@ -1,0 +1,30 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0214	LN3273	001	Codnor Park Jn to Shirebrook Jn PBS1	23/09/08	Codnor Park Jn	132	76	
+0214	LN3273	001	Codnor Park Jn to Shirebrook Jn PBS1	23/09/08	Ironville Jn	133	18	
+0214	LN3273	001	Codnor Park Jn to Shirebrook Jn PBS1	23/09/08		133	32	*
+0214	LN3273	001	Codnor Park Jn to Shirebrook Jn PBS1	23/09/08		133	67	*
+0214	LN3273	001	Codnor Park Jn to Shirebrook Jn PBS1	23/09/08		134	18	*
+0214	LN3273	001	Codnor Park Jn to Shirebrook Jn PBS1	23/09/08		134	20	*
+0214	LN3273	001	Codnor Park Jn to Shirebrook Jn PBS1	23/09/08	Sleights LC	134	76	CCTV
+0215	LN3273	002	Codnor Park Jn to Shirebrook Jn PBS1 London North Eastern	27/09/08	Pinxton LC (CCTV)	135	46	*
+0215	LN3273	002	Codnor Park Jn to Shirebrook Jn PBS1 London North Eastern	27/09/08	Lower Portland Farm LC	136	29	UWC
+0215	LN3273	002	Codnor Park Jn to Shirebrook Jn PBS1 London North Eastern	27/09/08	Upper Porfland LC	136	71	AHBC
+0215	LN3273	002	Codnor Park Jn to Shirebrook Jn PBS1 London North Eastern	27/09/08	Kirkby Lane End Jn	138	31	
+0215	LN3273	002	Codnor Park Jn to Shirebrook Jn PBS1 London North Eastern	27/09/08		138	32	*
+0216	LN3273	003	Codnor Park Jn to Shirebrook Jn PBS1 PBSZ London North Eastern	04/08/07	KIRKBY IN ASHFIELD	138	38	
+0216	LN3273	003	Codnor Park Jn to Shirebrook Jn PBS1 PBSZ London North Eastern	04/08/07	Kirkby Summit SB	138	79	KS
+0216	LN3273	003	Codnor Park Jn to Shirebrook Jn PBS1 PBSZ London North Eastern	04/08/07	Change of mileage	137	11	
+0216	LN3273	003	Codnor Park Jn to Shirebrook Jn PBS1 PBSZ London North Eastern	04/08/07	SUTTON PARKWAY	137	60	
+0216	LN3273	003	Codnor Park Jn to Shirebrook Jn PBS1 PBSZ London North Eastern	04/08/07	Sutton Jn LC	138	23	CCTV
+0216	LN3273	003	Codnor Park Jn to Shirebrook Jn PBS1 PBSZ London North Eastern	04/08/07	Sutton Forest LC	138	50	AHBC
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07	NRN Channel Change-Up	138	59	
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07	NRN Channel Change-Down	139	14	
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07	Kings Mill No1	139	22	BW
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07		139	69	*
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07	MANSFIELD	140	44	
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07		140	55	
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07		140	65	
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07		141	76	*
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07		142	00	*
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07	Mansfield Woodhouse Jn	142	13	
+0217	LN3273	004	Codnor Park Jn to Shirebrook Jn PBS PSE London North Eastern	13/10/07	MANSFIELD WOODHOUSE	142	17	

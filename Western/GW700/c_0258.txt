@@ -1,0 +1,9 @@
+Foot crossing (WL) 113 61
+113 68
+114 00
+GLOUCESTER 114 O4
+Barrow crossing (WL) 114 19
+114 38
+Gloucester West 114 40 1-
+114 55
+

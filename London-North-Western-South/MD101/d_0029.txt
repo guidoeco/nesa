@@ -1,0 +1,23 @@
+NRN
+TCB Rugby SOC (NL)
+AC: Crewe ECR
+To 116m 14ch on the Down lines
+From 116m 09ch on the Up lines
+Rugby 800 (LS)
+From 116m 14ch on the Down lines
+To 116m OQch on the Up lines
+TASS fitted
+Axle Counter area
+GSM-R area
+LA
+DTVS: Down Trent Valley Slow
+DTVF: Down Trent Valley Fast
+UTVF: Up Trent Valley Fast
+UTVS: Up Trent Valley Slow
+Platform lengths: Lichfield Trent Valley
+1 - 278 metres
+2 - 245 metres
+Patrolmans Lockout Device (LOD(P))
+DTVF 8: DTVS: 108m 74ch to 118m 65ch
+UTVF 8: UTVS: 118m 65ch to 108m 61ch
+

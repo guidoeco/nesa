@@ -1,0 +1,16 @@
+15 20 *-
+CHELSFIELD 15 25
+Chelsfield Substation 15 26
+Chelsfield Tunnel 15 67
+(597 yards) to 16 14
+KNOGKI-IOLT 16 44
+Knockholt Substation 17 14
+Polhill Tunnel 17 20
+(1 mile 851 yards) to 18 58
+Polhill Substation 18 68
+
+19 10 *-
+DUNTON GREEN 20 46
+
+20 75 *
+

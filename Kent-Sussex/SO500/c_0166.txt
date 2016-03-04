@@ -1,0 +1,8 @@
+Redhill Lines 23 16
+(Change of mileage) 21 37
+21 45 *-
+EARLSWOOD 21 50
+21 60 are
+22 00 *
+Whitebushes Substation 22 25
+

@@ -1,0 +1,38 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	(Paddock Wood)	34	67	
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06		35	28	*
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Swatlands LC	35	29	AHBC
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Wagon Lane LC	35	60	AHBC
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06		35	75	*
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	BELTRING	36	50	
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Beltring LC (AHBC)	36	52	*
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Beltring TP Hut	36	58	
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Stoneham Crossing	37	27	
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	East Peckham Engineers Tip Siding	37	34	
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Ground Frame	37	34	X
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Ballast Hole Crossing	37	45	
+0087	SO180	001	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Wards Crossing	37	73	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06		38	13	*
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Yalding LC (ABCL)	38	15	*
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	YALDING	38	19	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06		38	21	*
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Yalding Substation	38	25	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	MoDougall Crossing	38	27	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Millstead Crossing	38	43	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Wilsons Crossing	38	79	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Church Crossing	39	30	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Wateringbury LC	39	71	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Wateringbury SB	39	72	WB
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	WATERINGBURY	39	77	
+0088	SO180	002	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Wateringbury TP Hut	40	05	
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Leitram No. 1 Crossing	40	44	
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Teston LC	41	04	CCTV
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Teston Foot Crossing	41	14	
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Teston Substation	41	64	
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06		42	47	*
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	Farleigh Lane LC	42	70	
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	EAST FARLEIGH	42	75	*
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	East Farleigh SB	42	75	EF
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06		43	00	*
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	East Farleigh TP Hut	43	45	
+0089	SO180	003	Paddock Wood to Maidstone West PWS1 Kent / Sussex	02/12/06	(Maidstone West SB (M8)	44	54	

@@ -1,0 +1,34 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Nuneaton North Jn	97	36	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Change of mileage	10	18	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		10	14	*
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		10	11	*
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Limit of Electrification	10	00	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		9	62	*
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Abbey Junclion	9	60	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		9	35	*
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08		9	26	*
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Stockingford station. former site of	8	33	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Arley Tunnel	6	55	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	(709 yards 1' 648 metres) to	6	22	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Arley HABD	5	60	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Windridge LC	3	03	UWC
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Dew Mill GF	2	37	
+0168	MD555	001	Nuneaton North Jn to Water Orton East Jn NWO LNW South	01/12/08	Dew Mill Colliery	2	37	X
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07		2	05	*
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07		1	50	*
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07		0	20	*
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	Whitacre Jn	0	00	
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	Change of mileage	31	59	
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	Whitacre GF	31	77	
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07		32	07	*
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	ABP National Distribution Park	32	07	X
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	ABP Control Centre	33	05	HH
+0169	MD555	002	Nuneaton North Jn to Water Orton East Jn NWO DBP3 LNW South	19/08/07	GOLESHILL PARKWAY	33	10	
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07		34	29	*
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07	Water Orton East Jn	34	43	
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07		33	22	
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07	WATER ORTON	34	54	
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07		33	34	
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07		35	04	*
+0170	MD555	003	Nuneaton North Jn to Water Orton East Jn DBP3 LNW South	19/08/07	Water Orton West Jn	35	15	

@@ -1,0 +1,10 @@
+NRN
+TCB Middlesbrough SB (M)
+RA7
+CL = 192 metres I 630 feet
+NSTR Nunthorpe SB (N)
+NRN
+NRN Channel Change at 8 14
+PP - Permissive Working - full use for class 1, 2.
+3 (E08), 5, 9 & 0 trains.
+

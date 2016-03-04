@@ -1,0 +1,25 @@
+NRN CSR
+
+TCB Liverpool St IECC (L)
+RAB AC: Romford
+
+General instruction applies
+
+at the following bridges:
+
+Vallanoe Road (Bridge 21) at 0m 77ch
+
+Hemming Street (Bridge 22) at 0m 790h
+Up platform - 187m (204yds)
+
+Dn platform - 187m (204yds)
+
+General instruction applies
+
+at the following bridges:
+
+Brady Street (Bridge 23) at 1m 10ch
+
+Tapp Street (Bridge (25) at 1m 130h
+Collingwood Street (Bridge 26) at 1m 17ch
+

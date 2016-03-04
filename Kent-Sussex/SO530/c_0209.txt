@@ -1,0 +1,15 @@
+(South Croydon Jn) (11 29)
+(South Croydon Substation) (11 40)
+
+11 45 *-
+Selsdon Road Jn 11 59
+SANDERSTEAD 12 23
+RIDDLESDOWN 13 38
+Riddlesdown TP Hut 13 38
+Riddlesdown Tunnel 13 48
+(837 yards) to 14 06
+
+14 55
+UPPER WARLINGHAM 15 33
+Upper Warlingham Substation 15 71
+

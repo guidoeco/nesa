@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	Kelloe Access Line Jn	15	00	
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	Tyneside T433 signal	14	78	
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	Ferryhill Up Sidings	14	78	X
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	'A' Ground Frame	14	78	X
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06		14	23	
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	Kelloe Bank Foot Branch Jn	14	09	
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	'3' Ground Frame	14	09	X
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	Kelloe Bank Foot Staff Instrument	14	03	
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	West Cornforth LC	13	16	TMO
+0508	LN650	001	Kelloe Bank Foot Branch KBF London North Eastern	02/12/06	Kolloe Bank Foot North End	11	06	

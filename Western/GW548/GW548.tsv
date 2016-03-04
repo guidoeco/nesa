@@ -1,0 +1,21 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0209	GW548	001	Parson Street Jn to Portbury POD Western	05/08/06	Parson Street Jn	120	28	
+0209	GW548	001	Parson Street Jn to Portbury POD Western	05/08/06		120	34	*
+0209	GW548	001	Parson Street Jn to Portbury POD Western	05/08/06	Ashton Jn	121	00	
+0209	GW548	001	Parson Street Jn to Portbury POD Western	05/08/06	Ashton Jn LC	121	18	CCTV
+0209	GW548	001	Parson Street Jn to Portbury POD Western	05/08/06	Signal 3.335	121	28	
+0209	GW548	001	Parson Street Jn to Portbury POD Western	05/08/06	Clifton Bridge No.1 Tunnel	122	23	
+0209	GW548	001	Parson Street Jn to Portbury POD Western	05/08/06	(54m, 59yds)	122	25	
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	Clifton Bridge No.2 Tunnel	122	53	
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	212m (232 yards) to	122	63	
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	Sandstone Tunnel	123	77	
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	80m (88 yards) to	124	01	
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06		125	30	*
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	Pill Tunnel	125	33	*
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	to 608m (665 yards)	125	63	*
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	Change of ELR	126	32	
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	Network RaillBPC	126	34	
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	boundary			Z
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	Down STOP board	126	53.5	
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	Gate			Z
+0210	GW548	002	Parson Street Jn to Portbury POD PBY Western	05/08/06	Up STOP board	126	59	

@@ -1,0 +1,73 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08		56	75	*
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Hitachi Depot	57	05	Access
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Kennington TP Hut	58	13	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Spring Grove Crossing	58	47	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Wye Substation	59	66	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Wye Crossing LC	60	26	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	WYE	60	32	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Sparrows Bridge UWC	60	74	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Bilting TP Hut	61	32	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Bilting Grange Crossing	61	38	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Bilting Crossing	61	64	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Buckwell Crossing	61	70	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Godmersham Substation	63	06	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08		63	40	*
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Chilham TP Hut	64	59	
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08		64	75	*
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Chilham Mill LC	64	76	CCTV
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	CHILHAM	65	09	*
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08		65	12	*
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Chilham Road LC	65	40	CCTV
+0091	SO220	001	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	07/03/08	Shalmsford Street UWC	66	17	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Chartham South Substation	66	32	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Deanery Crossing	66	60	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Chartham LC	67	10	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	CHARTHAM	67	14	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Horton UWC	67	47	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Milton TP Hut	67	69	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Whitehall LC	69	30	RIG
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Canterbury West Substation	69	44	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	St Dunstans LC (CCTV)	70	15	*
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	SANTERBURY WEST	70	27	
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	CanterburyNVye ACC (CWACC) (EBT)	70	36	*
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Canterbury West Signal Box	70	37	EDH
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	St Stephens LC	70	56	CCTV
+0092	SO220	002	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	29/03/08	Canterbury West TP Hut	71	05	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Folly Farm UWC	71	28	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Broad Oak LC	71	77	AHBC
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Sturry Substation	72	46	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	STURRY	72	57	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Sturry LC	72	58	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Sturry SB	72	58	ST
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Westbere TP Hut	74	10	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Hoplands Farm Crossing	74	51	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Chislet Colliery Substation	75	54	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Port Farm Crossing	76	06	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07		76	30	*
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Grove Ferry LC	76	52	AHBC
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07		77	14	*
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Grove Ferry TP Hut	77	17	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Wall End Crossing	77	26	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Cater Crossing	77	76	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Sarre Bridge Crossing	78	37	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Sarre Substation	78	66	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Mile Drove Crossing	79	08	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Monkton Court Crossing	79	36	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Monkton TP Hut	80	28	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Walters Hall Crossing	80	44	
+0093	SO220	003	Ashford to Ramsgate (via Canterbury West) ACR Kent / Sussex	13/03/07	Sheriffs Court Crossing	80	60	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	Minster LC	81	58	RIG
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	MINSTER	81	64	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	Minster SB	81	74	EBE
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	Minster Substation	81	76	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06		81	79	*
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	(Minster South Jn)	82	21	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06		0	32	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	Minster East Jn	82	17	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06		0	00	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	Rough Crossing	82	35	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	Sevenscore LC (AH BC)	83	10	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	Cliffsend TP Hut	83	43	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	Cliffsend LC (AH BC)	84	04	
+0094	SO220	004	Ashford to Ramsgate (via Canterbury West) ACR MSW Kent! Sussex	02/12/06	(RAMSGATE)	85	67	

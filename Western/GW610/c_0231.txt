@@ -1,0 +1,16 @@
+Blackboy Tunnel 170 44
+240m (262 yards) 170 56
+ST. JAMES PARK 170 72
+Exeter Central Goods Jn 171 O7
+171 12
+171 15 1:
+EXETER CENTRAL 171 30
+0 Up 171 43
+171 52 *-
+St. David's Tunnel 171 53
+168m (134 yards) 171 61
+171 73 :1:
+CW Up 8. Down 171 75
+Exeter St. Davids Jn 172 O4
+194 00
+

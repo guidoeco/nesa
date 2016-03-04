@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0325	SC153	001	Craigentinny to Powderhall (Goods Line) CPH Scotland	02/12/06	Craigentinny	0	00	
+0325	SC153	001	Craigentinny to Powderhall (Goods Line) CPH Scotland	02/12/06		0	40	*
+0325	SC153	001	Craigentinny to Powderhall (Goods Line) CPH Scotland	02/12/06	Notice Board	1	52	*
+0325	SC153	001	Craigentinny to Powderhall (Goods Line) CPH Scotland	02/12/06	Stop Board	1	78	
+0325	SC153	001	Craigentinny to Powderhall (Goods Line) CPH Scotland	02/12/06	(Network Rail Boundary)	1	78	X

@@ -1,0 +1,6 @@
+35 69 *
+READING 35 78
+Reading SB (R) 36 01
+
+36 07 it
+

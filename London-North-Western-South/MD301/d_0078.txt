@@ -1,0 +1,11 @@
+NRN
+
+TCB Birmingham New St. PSB (NS)
+
+AC: Rugby ECR
+UST = Up Stour
+DST = Down Stour
+TASS fitted:
+Dawn Stour line - from 0m 65cm
+Up Stour line - to 0m 650h
+

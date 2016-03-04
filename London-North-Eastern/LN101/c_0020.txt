@@ -1,0 +1,12 @@
+Highdyke 101 46
+104 77 *-
+Grantham South Jn 105 01
+105 10 are
+105 27 *-
+GRANTHAM 105 38
+105 42 *
+105 52 *
+105 77 *
+Nottingham Branch Jn 106 08
+Grantham North Jn 106 34
+

@@ -1,0 +1,15 @@
+NRN
+RAB
+Platform lengths:
+Platform 1-409 metres
+Platform 2-82 metres
+Platform 3-409 metres
+Platform 4-373 metres
+Platform 5-372 metres
+Platform 6-285 metres
+6) PP - Permissive Working - full use for class 1, 2,
+3 (E03), 5, 9 8: 0 trains in Platform 2 only.
+AWS inductors are not provided
+at Nottingham station platform
+starting signals.
+

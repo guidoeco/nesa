@@ -1,0 +1,7 @@
+Dalrymple Jn 43 53
+45 40 i:
+45 50 *
+Holehouse Jn GF 48 27
+Waterside 52 70 *
+(Network Rail Boundary)
+

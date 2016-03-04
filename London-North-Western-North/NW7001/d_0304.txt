@@ -1,0 +1,26 @@
+NRN
+TCB Manchester North SB (MN)
+Line direction from Deal St. Jn.
+to Manchester Victoria is Up.
+URS = Up Roohdale Slow
+DRS = Down Roohdale Slow
+URF = Up Rochdale Fast
+DRF = Down Rochdale Fast
+038 = Down Salford Slow
+USS = Up Salford Slow
+DSF = Down Salford Fast
+USF = Up Salford Fast
+Platform Lengths: Manchester Victoria
+Platform 1 Permissive PP
+111m (121 yds)
+Platform 2 Permissive PP
+96m (105 yds)
+Platform 3 Permissive PP
+Up 8: Down 254m (278 yds)
+Platform 4 Permissive PP
+Up 8: Down 224m (245 yds)
+Platform 5 Permissive PP-A
+Up & Down 215m (235 yds)
+Platform 6 Permissive PP-A
+Up 8; Down 215m (235 yds)
+

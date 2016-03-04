@@ -1,0 +1,12 @@
+191 50 fi-
+
+191 52 *-
+
+191 75 *
+Mill Lane Jn 191 78
+40 O1
+
+40 10 *
+Bradford 'A' GF 40 26
+BRADFORD INTERGHANGE 40 27
+

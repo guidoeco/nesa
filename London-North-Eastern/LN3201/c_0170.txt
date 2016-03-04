@@ -1,0 +1,14 @@
+Broadholme 136 4B
+137 03 *-
+137 50 *
+Ambergate Jn 137 61
+138 00 *
+Toadmoor Tunnel 138t 07
+o
+(129yardsl118 metres) 133 13
+138 20 1:
+139 31 5%
+Wingfield Tunnel 139t 47
+o
+(261 yards/239 metres) 139 59
+

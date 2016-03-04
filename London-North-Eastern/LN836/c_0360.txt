@@ -1,0 +1,12 @@
+185 21 *
+185 24 *
+Whitehall West Jn 185 25
+185 26
+Whitehall East Jn 185 28
+185 29
+185 37 *-
+185 38 *
+185 41 5%
+Leeds West Jn 185 45
+185 46
+

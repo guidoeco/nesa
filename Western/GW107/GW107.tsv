@@ -1,0 +1,12 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06	Worle Jn	135	11	
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06		135	20	*
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06	WESTON MILTON	136	12	
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06	Single line	137	14	*
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06	Outside relay room	137	20	
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06	Weston-S—M Up GF	137	22	
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06	WESTON-SUPER—MARE	137	33	
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06	Single line	137	58	*
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06		138	75	*
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06	Uphill Jn	139	05	
+0060	GW107	001	Worle Jn to Uphill Jn Via Weston-Super-Mare WSM Western	05/08/06		138	04	

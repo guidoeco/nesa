@@ -1,0 +1,12 @@
+18 31 *
+Watford Tunnels 18 32 5%
+Slow lines 18 33
+(1 km 820 metres! 1mile 230 yards) 18 33
+Fast lines
+(1 km 660 metres / 1 mile 55 yards)
+19 40
+19 43 7e
+19 46 2k
+19 73 9:
+20 00 a:
+

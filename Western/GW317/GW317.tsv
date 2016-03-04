@@ -1,0 +1,8 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0145	GW317	001	Honeybourne to Long Marston STD Western	15/12/07	HONEYBOURNE	101	60	
+0145	GW317	001	Honeybourne to Long Marston STD Western	15/12/07	Honeyboume GF	101	54	
+0145	GW317	001	Honeybourne to Long Marston STD Western	15/12/07		0	00	
+0145	GW317	001	Honeybourne to Long Marston STD Western	15/12/07	Honeyboume Tip	0	36	
+0145	GW317	001	Honeybourne to Long Marston STD Western	15/12/07	Siding GF	0	36	X
+0145	GW317	001	Honeybourne to Long Marston STD Western	15/12/07	Accommodation LC	1	16	*
+0145	GW317	001	Honeybourne to Long Marston STD Western	15/12/07	Long Marston GF	2	70	

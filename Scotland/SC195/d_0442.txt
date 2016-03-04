@@ -1,0 +1,5 @@
+NRN
+TCB lnverness (TCB) SC (I)
+G) = Aberdeen line mileages
+Q) = Perth line mileages
+

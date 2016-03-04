@@ -1,0 +1,21 @@
+NRN
+TCB Rugby SCC (NL)
+AC: Crewe ECR
+Platform Lengths: Pole$worth
+1 - 138 metres
+2 - 138 metres
+DTVF - Down Trent Valley Fast
+DTVS - Down Trent Valley Slow
+UTVS - Up Trent Valley Slow
+UTVF - Up Trent Valley Fast
+TASS fitted
+Axle Counter area
+GSM-R area
+LA
+Platform Lengths: Tamworth
+1 - 295 metres
+2 - 267 metres
+v Patrolmans Lockout Device (LOD(P))
+" DTVF 8: DTVS: 108m 74ch to 118m 65m
+A UTVF & UTVS: 118m 650h to 108m 61ch
+

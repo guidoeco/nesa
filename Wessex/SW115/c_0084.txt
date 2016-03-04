@@ -1,0 +1,21 @@
+SHERBORNE 118 O4
+Lenthay Crossing 119 15
+(tel not available to traincrew)
+Bedmill Farm No.1 Crossing 119 73
+Wyke No. 2 Crossing 120 60
+
+122 30 1':
+Yeovil Jn SB (YJ)
+
+(0 12) *
+YeovilJn 122 31
+
+(0 00) 
+Up sidings
+
+122 39 *
+YEOVIL JUNCTION 122 48
+Down Sidings
+
+122 58 *-
+

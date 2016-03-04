@@ -1,0 +1,7 @@
+Boldon West Jn 0 00
+Boldon North Jn 0 32
+Commencement! End of Staff Section 0 35
+Green Lane 0 65 *-
+Tyne Dock 1 26
+EndlCommencement of Staff Section
+

@@ -1,0 +1,15 @@
+32 50 1-
+Park South Jn 32 77 *-
+
+33 00
+Park South LC (MOB) 33 06
+Park Soulh SB 33 06
+Park North LC (UWC) 33 46
+
+34 12 *
+Askam SB LC(MCB) 35 03
+ASKAM 35 06
+Johnsons N02 LC (UWC) 35 31
+Dunnerholme LC (UWC) 36 21
+Lidgate LC (UWC) 37 34
+

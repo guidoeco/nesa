@@ -1,0 +1,6 @@
+29 25 *-
+BAGSHOT 32 08
+Jenkins Hill Crossing 33 23
+Bagshot Tunnel 33 60
+121 Yards 33 66
+

@@ -1,0 +1,14 @@
+NRN
+TCB Wolverhampton PSB (WN)
+AC: Rugby ECR
+UST=Up Stour
+DST=Down Steur
+USG=Up Stour Goods
+65 SLU = 416 metresl455 yards
+DSG=Down Stour Goods
+65 SLU = 416 metres/455 yards
+TASS fitted: DST and UST lines
+Platform lengths:
+Down Stow-101 metres
+Up Stem-106 metres
+

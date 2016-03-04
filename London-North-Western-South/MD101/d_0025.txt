@@ -1,0 +1,22 @@
+NRN
+TCB Rugby SCC (RN)
+AC: Rugby ECR
+DTV - Down Trent Valley
+DTVF - Down Trent Valley Fast
+DTVS - Down Trent Valley Slow
+UTVS - Up Trent Valley Slow
+UTVF - Up Trent Valley Fast
+TASS fitted
+Axle Counter area
+GSM-R area
+L A
+Ac: Crewe ECR
+Platform Lengths: Nuneaton
+1 - 170 metres 2 - 337 metres
+3 - 301 metres 4 - 333 metres
+5 - 245 metres (in Up direction)
+5 - 333 metres (in Down direction)
+Permissive working (PP-A) is authorised on
+all platform lines.
+D&UPL = Down 8; Up Platform Line
+

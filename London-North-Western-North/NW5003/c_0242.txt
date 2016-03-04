@@ -1,0 +1,21 @@
+Wilmslow South Jn 176 53
+
+0 00
+
+0 10 *
+WILMSLOW 0 18
+Styal Jn 0 40
+
+0 66 :1:
+
+O 73 *
+
+1 20 *
+
+1 27 *-
+STYAL 1 79
+Heald Green South Jn 2 50
+OHNS 3 O5
+Heald Green North Jn 3 13
+HEALD GREEN 3 37
+

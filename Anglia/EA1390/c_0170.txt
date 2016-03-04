@@ -1,0 +1,9 @@
+Barking Tilbury Line Jn East 7 60
+OHNS 7 79
+8 40
+9 16 *
+Renwick Road Jn 9 31
+Freightliner Depot West End GF 9 5O
+Stora Sidings GSP 9 54 :7:
+Ripple Lane East Jn (Up TiburylGoods)
+

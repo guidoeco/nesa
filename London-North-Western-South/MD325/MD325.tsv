@@ -1,0 +1,16 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Soho South Jn	2	06	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Change of mileage	2	71	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06		2	42	*
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Soho East Jn	2	38	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06		2	37	*
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Soho East GF	2	33	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	OHNS	1	60	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	OHNS	1	49	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Hamstead Tunnel	0	71	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	(114 metres! 125 yds) to	0	65	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Perry BarrWest Jn	0	39	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Change of mileage	0	29	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06		0	07	*
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Perry Barr North Jn	0	00	
+0106	MD325	001	Soho South Jn to Perry Barr North Jn (Soho Lines) SSP LNW South	07/10/06	Change of mileage	4	10	

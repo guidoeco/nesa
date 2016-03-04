@@ -1,0 +1,10 @@
+Finnieston Tunnel 1 27
+750 yards to 1 61
+OHNS 2 16
+Finnieston East Jn 2 19
+
+2 32 *
+Finnieston West Jn 2 53
+
+2 60 9e
+

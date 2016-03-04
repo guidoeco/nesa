@@ -1,0 +1,23 @@
+NRN
+AB Castleton East Jn SB (CE)
+Platform Lengths: Castleton
+Platform Up 43m (156 gds)
+Platform Down 137m (1 0 yds)
+Roohdale SB (RE)
+
+Platform Lengths: Rochdale
+Platform 1 Down 198m (317 yds)
+Platform 2 Permissive P
+198m (217 yds)
+Platform 4 Up 194m (212 yds)
+D&UB = ' Down & Up' Branch
+
+Smithy Bridge SB (SB)
+Platform Lengths: Smithy Bridge
+Platform Up 98m (107 yds)
+Platform Down 98m (107 yds)
+Platform Lengths: Littleborough
+Platform Up 96m (105 ads)
+Platform Down 96m (1 5 yds)
+TCB Preston SB (PN)
+

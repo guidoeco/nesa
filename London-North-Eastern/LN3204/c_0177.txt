@@ -1,0 +1,5 @@
+124 20
+Nottingham West Jn 123 52 a:
+NOTTINGHAM 123 39
+Nottingham East Jn 123 27
+

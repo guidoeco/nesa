@@ -1,0 +1,50 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	(PURLEY)	15	13	
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	Chipstead Line Jn	15	23	
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08		15	28	*
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	Purley Substation	15	28	
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	KENLEY	18	29	
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	Kenley TP Hut	18	67	
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	WHYTELEAFE	17	58	
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	Whyteleafe LC	17	63	CCTV
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	WHYTELEAFE SOUTH	18	18	
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	Whyteleafe South Substation	18	18	
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	Whyteleafe South LC	18	21	CCTV
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08		19	53	*
+0266	SO660	001	Purley to Caterham PAT Kent! Sussex	22/03/08	CATERHAM	19	70	
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	(PURLEY)	15	13	
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	(Chipstead Line Jn)	15	23	
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	Purley Substation	15	28	
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		15	58	*
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	REEDHAM	15	65	
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		15	71	*
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		16	33	*
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	SMITHAM	16	46	
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	Smitham TP Hut	16	66	
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		16	75	*
+0267	SO660	002	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	WOODMANSTERNE	17	40	
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		17	60	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		17	78	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	Chipstead Substation	18	27	
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	CHIPSTEAD	18	41	
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		18	50	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		19	10	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		19	30	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		19	36	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		19	44	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	Outwood Lane TP Hut	19	46	
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		19	66	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	KINGSWOOD	20	72	
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	Kingswood Substation	20	72	
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		21	02	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06		21	12	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	Kingswood Tunnel	21	36	*
+0268	SO660	003	Purley to Tattenham Corner TAT Kent/Sussex	02/12/06	(310 yards) to	21	50	*
+0269	SO660	004	Purley to Tattenham Corner TAT Kent! Sussex	22/03/08	Hoppity Tunnel	21	61	*
+0269	SO660	004	Purley to Tattenham Corner TAT Kent! Sussex	22/03/08	(37 yards) to	21	63	
+0269	SO660	004	Purley to Tattenham Corner TAT Kent! Sussex	22/03/08	Tadworth TP Hut	22	13	
+0269	SO660	004	Purley to Tattenham Corner TAT Kent! Sussex	22/03/08	TADWORTH	22	18	*
+0269	SO660	004	Purley to Tattenham Corner TAT Kent! Sussex	22/03/08		22	74	*
+0269	SO660	004	Purley to Tattenham Corner TAT Kent! Sussex	22/03/08		23	02	*
+0269	SO660	004	Purley to Tattenham Corner TAT Kent! Sussex	22/03/08	Tattenham Corner Substation	23	24	
+0269	SO660	004	Purley to Tattenham Corner TAT Kent! Sussex	22/03/08	TATTENHAM CORNER	23	37	

@@ -1,0 +1,5 @@
+BISHOPBRIGGS 3 19
+3 15 a:
+2 20 *
+Cowlairs East Jn 2 12
+

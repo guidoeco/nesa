@@ -1,0 +1,9 @@
+6 52 *-
+ALLOA TOWN 6 77
+(Change of ELR
+SAAto KNE1) 3 14
+
+0 00
+Kincardine GSP 3 50
+Kincardine LC (RIG) 3 77 *
+

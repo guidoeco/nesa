@@ -1,0 +1,12 @@
+294 38
+Probus 295 29
+296 30 *
+296 44
+Polperro Tunnel 297 50
+531m(581 yards) 29? 76
+Buckshead Tunnel 299 10
+293m (320 yards) 299 25
+299 40 *
+300 50 *-
+300 51 *-
+

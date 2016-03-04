@@ -1,0 +1,8 @@
+CASTLE CARY 129 45
+Castle Cary Jn 129 50
+129 65 *
+Territory Boundary 130 00
+Thomey Marsh Lane Crossing 132 6
+Sparkford Emergency Telephone 134 29
+Marston Magna Emergency Telephone 137 00
+

@@ -1,0 +1,14 @@
+Kirkdale No.2 Tunnel 33 71
+(192mf210yd) to 33 60
+Kirkdale No.1 Tunnel 33 56
+(454ml497yd) to 33 33
+Walton Jn 33 16
+
+3 20
+
+3 31 9:
+WALTON 3 45
+
+3 58 *-
+ORRELL PARK 3 75
+

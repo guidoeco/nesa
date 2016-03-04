@@ -1,0 +1,9 @@
+40 69 1:
+Cherry Orchard LC (UWC) 41 18
+
+41 27 *-
+Upper Llegodig LC (UWC) 42 60
+The Bryn LC(UWC) 43 26
+Abermule LC (AHBC) 43 63
+Court Farm LC (UWC) 44 04
+

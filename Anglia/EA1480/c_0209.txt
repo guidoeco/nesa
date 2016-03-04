@@ -1,0 +1,10 @@
+Whitlingham Jn 1 69
+2 04 i:
+3 37 a:
+3 40 i:
+Norwich Road LC (AHBC—X) 4 20
+Great Plumstead LC (AHBC-X) 4 52
+Rackheath Road LC (AHBC-X) 5 19
+5 20 i:
+5 67 5k
+

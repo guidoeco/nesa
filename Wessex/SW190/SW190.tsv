@@ -1,0 +1,24 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06	Malden Crossing LC (CCTV)	10	13	*
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06		10	22	*
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06		10	40	*
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06		11	15	*
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06	NORBITON	11	24	
+0144	SW190	001	New Malden to Shepperton NMS1 Wessex	02/12/06		11	40	*
+0145	SW190	002	New Malden to Shepperton NMS1 Wessex	22/03/08	KINGSTON	12	09	*
+0145	SW190	002	New Malden to Shepperton NMS1 Wessex	22/03/08	HAMPTON WICK	12	44	*
+0145	SW190	002	New Malden to Shepperton NMS1 Wessex	22/03/08	TEDDINGTON	13	54	
+0146	SW190	003	New Malden to Shepperton NMS1 SHF TSJ Wessex	02/12/06	Shacklegate Jn	14	29	*
+0146	SW190	003	New Malden to Shepperton NMS1 SHF TSJ Wessex	02/12/06	Staff Crossing	14	20	
+0146	SW190	003	New Malden to Shepperton NMS1 SHF TSJ Wessex	02/12/06	FulwelI Jn	14	53	*
+0146	SW190	003	New Malden to Shepperton NMS1 SHF TSJ Wessex	02/12/06		12	56	
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	FULWELL	12	75	*
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	Fulwell Tunnel	13	03	
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	62 Yards	13	06	
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06		13	10	*
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	HAMPTON	14	47	*
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	Hampton LC	14	57	CCTV
+0147	SW190	004	New Malden to Shepperton NM82 Wessex	02/12/06	KEMPTON PARK	16	28	
+0148	SW190	005	New Malden to Shepperton NM82 Wessex	09/06/07	SUNBUIIY 1	6	64	
+0148	SW190	005	New Malden to Shepperton NM82 Wessex	09/06/07	UPPER HALLIFORD	17	34	
+0148	SW190	005	New Malden to Shepperton NM82 Wessex	09/06/07	SHEPPERTON	18	73	

@@ -1,0 +1,8 @@
+CHILWORTH 39 15
+Chilworth LC (CCTV) 39 15
+Tangley LC (AHBC) 39 48 *-
+East Shalford Crossing 40 20
+SHALFORD 41 02
+
+41 10 *
+

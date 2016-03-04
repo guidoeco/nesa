@@ -1,0 +1,14 @@
+Longhirst LC (CCTV) 20 17
+Ulgham Lane LC (CCTV) 20 52
+Butterwell Jn 2D 63
+Ulgham Grange LC (CCTV) 22 24
+22 38 *-
+23 15 *
+WIDDRINGTON 23 20
+Widdrington LC (CCTV) 23 23
+Widdrington Sidings Crossover 24 60
+24 63
+24 75 *
+Felton Lane LC (CCTV) 25 16
+HABD 25 48
+

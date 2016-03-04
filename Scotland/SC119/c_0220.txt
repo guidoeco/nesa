@@ -1,0 +1,6 @@
+Whitemoss LC (AHBC-X) 140 24
+140 40 *
+Broadslap LC (UWC) 141 02
+Easter Balgour LC (UWC) 142 36
+BaldinniesNo1LC(UWC) 142 70
+

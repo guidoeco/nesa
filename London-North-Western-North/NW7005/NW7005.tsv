@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08	Castleton East Jn SB	8	52	CE
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08		0	00	
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08	Castleton East Jn	0	00	X
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08	Castleton North Jn	0	37	
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08		8	50	
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08		8	54	
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08	Network Rail I East Lancashire Railway	9	04	
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08	Boundary			Z
+0313	NW7005	001	Casileton East Jn. to Hopwood G.F. CPL1 CPL2 CEH LNW North	08/03/08	Hopwood GF	9	09	

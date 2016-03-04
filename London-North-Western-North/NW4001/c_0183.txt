@@ -1,0 +1,14 @@
+Gretna Jn 8 57
+9 O3 *
+9 69 it
+9 70 *
+Loop Jn 9 72
+Quintinshill 10 26 *-
+Loop Jn 10 30
+Quintinshill EGF 10 33
+10 37 *
+Route Boundary 12 30
+12 37 a!
+13 20 *
+Cove LC (CCTV) 13 43
+

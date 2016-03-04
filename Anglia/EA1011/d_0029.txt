@@ -1,0 +1,14 @@
+NRN CSR
+TCB Colohester SB (C0)
+RAB AC: Romford
+Platform 1 - 251m (272de) PP—A
+Platform 2 - 260m (281yds) PP-A
+Platform 3 - 248m (268de) PP-A
+Platform 4 - 318m (344yds) PP-A
+Platform 5 - 220m (238yds) PP
+Platform 6 - 223m (241yds) PP
+General instruction applies at
+North Station Road (Bridge 207) at 51 m 596h
+CS - Clacton Single
+DA - Down Avoiding
+

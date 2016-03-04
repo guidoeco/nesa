@@ -1,0 +1,21 @@
+Penath Curve East No.1 GF 0 23
+Radyr Branch Jn O 25
+Penath Curve East No.2 GF 0 3D
+
+0 4O *-
+Penarlh Curve South Jn O 47
+
+0 63
+
+0 67 9e
+GRANGETOWN O 73
+
+1 00 *
+U & DGL 1 49
+
+1 60 *
+Cogan Loops
+
+2 20 *-
+U & DGL 2 21
+

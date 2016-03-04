@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0244	LN3535	001	Birmingham Curve Jn to Branston Jn BCJ London North Eastern	02/12/06	Birmingham Curve Jn	126	40	
+0244	LN3535	001	Birmingham Curve Jn to Branston Jn BCJ London North Eastern	02/12/06		126	42	*
+0244	LN3535	001	Birmingham Curve Jn to Branston Jn BCJ London North Eastern	02/12/06	Branston GF	127	13	0.0.U.
+0244	LN3535	001	Birmingham Curve Jn to Branston Jn BCJ London North Eastern	02/12/06	Branston Jn	127	19	
+0244	LN3535	001	Birmingham Curve Jn to Branston Jn BCJ London North Eastern	02/12/06	Change of mileage	12	15	

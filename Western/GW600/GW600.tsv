@@ -1,0 +1,59 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0216	GW600	001	Wootton Bassett Jn To Pilning SWB Western	05/08/06	UGL Jn	82	72	
+0216	GW600	001	Wootton Bassett Jn To Pilning SWB Western	05/08/06	Wootton Bassett Jn	83	07	
+0216	GW600	001	Wootton Bassett Jn To Pilning SWB Western	05/08/06		83	20	*
+0216	GW600	001	Wootton Bassett Jn To Pilning SWB Western	05/08/06		83	65	*
+0216	GW600	001	Wootton Bassett Jn To Pilning SWB Western	05/08/06	Wootton Bassett West	84	07	
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06		86	60	*
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06	NRN Channel change	93	00	
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06	DGL	97	70	
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06	Hullavington			Z
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06	DGLIUGL	94	23	
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06		94	33	*
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06		94	40	
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06	UGL	94	62	
+0217	GW600	002	Wootton Bassett Jn to Pilning SWB Western	05/08/06		97	30	*
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	Alderton Tunnel	97	34	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	463m (506 yards)	97	57	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06		97	60	*
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	Alderton WILD	98	30	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	Badminton	100	01	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06		100	40	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	Chipping Sodbury Tunnel	101	06	*
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	4065m (2m 926 yards)	103	48	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06		104	15	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	UGL	104	18	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	Chipping Sodbury	104	31	
+0218	GW600	003	Wootton Bassett Jn to Pilning SWB Western	05/08/06	East GF	104	31	X
+0219	GW600	004	Wootton Bassett Jn to Pilning SWB Western	29/04/07		104	60	
+0219	GW600	004	Wootton Bassett Jn to Pilning SWB Western	29/04/07		107	00	*
+0219	GW600	004	Wootton Bassett Jn to Pilning SWB Western	29/04/07	Westerleigh Jn	107	14	*
+0219	GW600	004	Wootton Bassett Jn to Pilning SWB Western	29/04/07		107	19	
+0219	GW600	004	Wootton Bassett Jn to Pilning SWB Western	29/04/07		107	27	*
+0219	GW600	004	Wootton Bassett Jn to Pilning SWB Western	29/04/07	Coalpit Heath HABD	109	27	
+0219	GW600	004	Wootton Bassett Jn to Pilning SWB Western	29/04/07		111	00	*
+0219	GW600	004	Wootton Bassett Jn to Pilning SWB Western	29/04/07	Stoke Gifford East	111	20	
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09	Bristol Parkway 1 1	1	47	
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09	Royal Mail Terminal	111	50	*
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09		111	56	
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09	BRISTOL PARKWAY	111	62	
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09	Barrow crossing	111	69	WL
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09		111	72	*
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09	Stoke Gifford West Jn	111	73	
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09	Stoke Gifford Jn No.1	111	79	
+0220	GW600	005	Wootton Bassett Jn to Pilning SWB Western	12/03/09	Stoke Gifford Jn No.2	112	05	
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	Patchway Jn No.2	112	66	
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	(Change of ELR)	5	61	
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08		5	64	*
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	PATCHWAY	5	77	
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	Patchway Tunnels	6	56	
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	New	6	68	UT
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	1609m (1760 yards)	6	68	X
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	Old (DT) to	7	53	
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	to Short	7	56	DT
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08		57	62	*
+0221	GW600	006	Wootton Bassett Jn to Pilning SWB BSW Western	24/05/08	Pilning HABD	9	08	
+0222	GW600	007	Wootton Bassett Jn to Pilning BSW Western	24/05/08		9	42	
+0222	GW600	007	Wootton Bassett Jn to Pilning BSW Western	24/05/08	PILNING	9	43	
+0222	GW600	007	Wootton Bassett Jn to Pilning BSW Western	24/05/08	Ableton Lane	10	18	
+0222	GW600	007	Wootton Bassett Jn to Pilning BSW Western	24/05/08	Severn Tunnel East	10	47	

@@ -1,0 +1,42 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0178	LN3207	001	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08	Trent East Jn	119	69	
+0178	LN3207	001	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08		119	77	*
+0178	LN3207	001	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08	Norlh Erewash LC	120	36	CCTV
+0178	LN3207	001	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08	Long Eaton Town LC	120	53	CCTV
+0178	LN3207	001	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08		121	06	*
+0179	LN3207	002	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08	Toton Jn	121	26	*
+0179	LN3207	002	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08	Toton			Z
+0179	LN3207	002	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08	Toton Centre	121	64	*
+0179	LN3207	002	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08		121	72	*
+0180	LN3207	003	Trent East Jn to Clay Cross North Jn TCC London North Eastern	28/02/09	Stapleford & Sandiacre SF	122	35	
+0180	LN3207	003	Trent East Jn to Clay Cross North Jn TCC London North Eastern	28/02/09		122	49	*
+0180	LN3207	003	Trent East Jn to Clay Cross North Jn TCC London North Eastern	28/02/09	Commencement of single line	122	49	X
+0180	LN3207	003	Trent East Jn to Clay Cross North Jn TCC London North Eastern	28/02/09	Mapperley Goods Branch	122	70	
+0181	LN3207	004	Trent East Jn to Clay Cross North Jn TCC London North Eastern	30/08/08		123	70	*
+0182	LN3207	005	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Trowell South Jn	125	04	
+0182	LN3207	005	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Trowell North Jn	125	20	
+0182	LN3207	005	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Ilkeston Jn	125	63	
+0182	LN3207	005	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Potters Lock No1 LC	125	78	UWC
+0183	LN3207	006	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08		127	66	*
+0183	LN3207	006	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08		128	18	*
+0183	LN3207	006	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	LANGLEY MILL	129	68	
+0183	LN3207	006	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Stoneyford HABD	131	19	
+0183	LN3207	006	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Stoneyford sidings	131	53	
+0183	LN3207	006	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08		132	36	*
+0183	LN3207	006	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08		132	68	*
+0183	LN3207	006	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Codnor Park Jn	132	76	
+0184	LN3207	007	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	lronville Jn	133	18	
+0184	LN3207	007	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08		134	22	*
+0184	LN3207	007	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Alfreton Tunnel	135	11	
+0184	LN3207	007	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	(768m I 840 yds) to	135	50	
+0184	LN3207	007	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	ALFRETON	136	07	
+0184	LN3207	007	Trent East Jn to Clay Cross North Jn TCC London North Eastern	23/09/08	Blackwell South Jn	136	67	
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08	Mortoan	139	09	
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08		141	45	*
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08		141	53	*
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08		142	06	*
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08		142	10	
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08	Change of ELR	142	10	
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08		142	12	*
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08		142	24	*
+0185	LN3207	008	Trent East Jn to Clay Cross North Jn TCC SPCQ London North Eastern	30/08/08	Clay Cross North . Jn	143	12	

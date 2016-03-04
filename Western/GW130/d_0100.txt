@@ -1,0 +1,8 @@
+NRN
+RAB
+PF" - Applies to one light locomotive movement
+(including locos coupled together described as
+a light engine) or one DMU movement not
+conveying passengers (including DMUs coupled
+together) to FOLLOW a train of class 3-8 or 0.
+

@@ -1,0 +1,9 @@
+Bollo Lane Junction 2 63
+(Richmond Line) LC (MOB)
+Bollo Lane Jn (BL) SB
+3 09 *
+Gunnersbury Jn 3 12
+9 76
+GUNNERSBURY 10 05
+10 10 2k
+

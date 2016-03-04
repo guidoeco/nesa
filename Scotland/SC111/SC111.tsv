@@ -1,0 +1,11 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0198	SC111	001	Newbridge Jn to Bathgate NBE Scotland	18/10/08	Newbridge Jn	35	21	
+0198	SC111	001	Newbridge Jn to Bathgate NBE Scotland	18/10/08		35	13	*
+0198	SC111	001	Newbridge Jn to Bathgate NBE Scotland	18/10/08		35	06	*
+0198	SC111	001	Newbridge Jn to Bathgate NBE Scotland	18/10/08	UPHALL	31	07	
+0198	SC111	001	Newbridge Jn to Bathgate NBE Scotland	18/10/08	LIVINGSTON NORTH	29	03	
+0199	SC111	002	Newbridge Jn to Bathgate NBE Scotland	18/10/08		26	53	
+0199	SC111	002	Newbridge Jn to Bathgate NBE Scotland	18/10/08		25	73	*
+0199	SC111	002	Newbridge Jn to Bathgate NBE Scotland	18/10/08		25	38	*
+0199	SC111	002	Newbridge Jn to Bathgate NBE Scotland	18/10/08		25	28	*
+0199	SC111	002	Newbridge Jn to Bathgate NBE Scotland	18/10/08	BATH GATE	25	04	

@@ -1,0 +1,13 @@
+NRN CSR
+TCB London Bridge SB (L)
+A.W.S. not provided for emergency
+and temporary speed restrictions
+between South Bermondsey Jn and
+South Bermondsey.
+1 Up Portsmouth
+2 Down Portsmouth
+3 Down Atlantic
+4 Up Atlantic
+5 Up South London
+6 Down South London
+

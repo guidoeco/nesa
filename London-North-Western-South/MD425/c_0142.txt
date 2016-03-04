@@ -1,0 +1,8 @@
+WHITLOCKS END 4 60
+WYTHALL 5 59
+EARLSWOOD 6 65
+THE LAKES 7 50
+WOOD END 8 56
+Wood End Tunnel 8 62
+(158 metres! 173 yards) to 8 70
+

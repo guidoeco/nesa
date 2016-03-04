@@ -1,0 +1,174 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0001	NW1001	001	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	Network Rail 1	19	20	
+0001	NW1001	001	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	London North Western	19	20	X
+0001	NW1001	001	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	(Appendix Boundary)	19	20	X
+0001	NW1001	001	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		121	40	*
+0001	NW1001	001	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	Armitage Jn (former site of)	121	41	
+0001	NW1001	001	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	OH NS	122	10	
+0001	NW1001	001	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		123	74	*
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08	RUGELEY TRENT VALLEY	124	22	
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08	Rugeley Engineers Siding GF	124	29	
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08	Rugeley North Jn	124	39	
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08		126	59	*
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08		126	67	*
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08	Colwich Jn	127	05	*
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08		127	11	*
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08		127	13	*
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08		128	02	*
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08	Shugborough Tunnel	128	46	
+0002	NW1001	002	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC2 LNW North	01/12/08	(710ml 777yd) to	129	01	
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	Milford & Brooton HABD	129	29	
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	Milford Junction	129	31	
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		129	52	
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	Whitehouse Junction	130	47	
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		130	56	*
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		131	50	*
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		132	35	*
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		132	79	*
+0003	NW1001	003	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	TrentValley Jn No.1	133	06	*
+0004	NW1001	004	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	Stafford No.4 SB (SD 4)	133	32	
+0004	NW1001	004	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		133	34	*
+0004	NW1001	004	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	STAFFORD	133	43	
+0004	NW1001	004	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		133	51	*
+0004	NW1001	004	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08	Stafford No.5 SB (SD 5)	133	57	
+0004	NW1001	004	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	01/12/08		133	60	*
+0005	NW1001	005	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06		134	05	*
+0005	NW1001	005	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06	OHNS	134	23	
+0005	NW1001	005	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06	Great Bridgeford HABD	136	60	
+0005	NW1001	005	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06		138	31	*
+0005	NW1001	005	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06	Norton Bridge South Jn	138	40	
+0005	NW1001	005	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06		138	54	
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06	NORTON BRIDGE	138	68	
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06	Norton Bridge North Jn	139	00	
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06		139	09	*
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06		140	29	*
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06		140	51	*
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06		141	39	*
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06	OHNS	145	78	
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06	Whitmore	147	00	
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06		149	41	
+0006	NW1001	006	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	07/10/06	Madeley HABD	149	74	
+0007	NW1001	007	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07		155	48	*
+0007	NW1001	007	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07		155	58	*
+0007	NW1001	007	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07		156	08	
+0007	NW1001	007	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07	Basford Hall Jn SB	156	23	BH
+0007	NW1001	007	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07	Basford Wood GF	157	03	
+0008	NW1001	008	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07		157	27	*
+0008	NW1001	008	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07		157	32	*
+0008	NW1001	008	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07		157	44	*
+0008	NW1001	008	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	31/03/07	Crewe South Jn	157	60	
+0009	NW1001	009	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	14/12/08	GREWE	158	00	
+0009	NW1001	009	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	14/12/08	Crewe North Jn	158	18	
+0009	NW1001	009	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC LNW North	14/12/08	Crewe SB	158	21	CE
+0010	NW1001	010	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC5 CGJ1 LNW North	20/10/08		158	56	*
+0010	NW1001	010	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC5 CGJ1 LNW North	20/10/08		158	59	*
+0010	NW1001	010	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC5 CGJ1 LNW North	20/10/08	Crewe Coal Yard SB	158	68	CY
+0010	NW1001	010	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC5 CGJ1 LNW North	20/10/08		153	73	
+0010	NW1001	010	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC5 CGJ1 LNW North	20/10/08	OHNS	159	00	*
+0010	NW1001	010	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC5 CGJ1 LNW North	20/10/08	Winsford South Junction	165	11	
+0010	NW1001	010	Armitage Jn (Inc|.) to Preston Fylde Jn. LEC5 CGJ1 LNW North	20/10/08	WINSFORD	165	41	
+0011	NW1001	011	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08	HABD	166	38	
+0011	NW1001	011	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08	Winsford SB	166	66	WD
+0011	NW1001	011	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08	HARTFORD	169	64	
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08		170	43	
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08	Hartford Jn	170	56	
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08		170	61	*
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08		172	19	
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08		172	30	*
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08	ACTON BRIDGE	172	33	
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08	Acton Bridge Jn	172	49	
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08	Weaver Jn	174	53	
+0012	NW1001	012	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	08/12/08	from! to	174	70	
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08	Weaver Jn	174	70	
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08	fromfto	174	53	
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08		175	13	*
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08	Birdswood Tunnel	175	43	
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08	(Up Liverpool line Flyover) to	175	44	20m722yd
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08	OHNS	175	46	
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08	Preston Brook Tunnel	176	04	
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08	(71ml78yd) to	176	07	
+0013	NW1001	013	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ1 LNW North	27/12/08	HABD	176	39	
+0014	NW1001	014	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 LNW North	07/10/06	Norton LC	177	40	RIG
+0014	NW1001	014	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 LNW North	07/10/06	(Bridleway)			Z
+0014	NW1001	014	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 LNW North	07/10/06		180	10	*
+0014	NW1001	014	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 LNW North	07/10/06	Acton Grange GF No. 3	180	12	
+0014	NW1001	014	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 LNW North	07/10/06	Acton Grange Jn	180	24	
+0014	NW1001	014	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 LNW North	07/10/06	Acton Grange GF No. 1	180	36	
+0014	NW1001	014	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 LNW North	07/10/06		181	63	*
+0015	NW1001	015	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 CGJ3 LNW North	31/03/07	Warrington South Jn	181	76	
+0015	NW1001	015	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 CGJ3 LNW North	31/03/07	Warrington SB	182	08	WN
+0015	NW1001	015	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 CGJ3 LNW North	31/03/07	WARRINGTON BANK QUAY	182	11	
+0015	NW1001	015	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 CGJ3 LNW North	31/03/07		182	19	*
+0015	NW1001	015	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 CGJ3 LNW North	31/03/07	Warrington North Jn	182	25	
+0015	NW1001	015	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 CGJ3 LNW North	31/03/07		182	40	*
+0015	NW1001	015	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 CGJ3 LNW North	31/03/07	Dallam Jn	182	67	
+0015	NW1001	015	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ2 CGJ3 LNW North	31/03/07		182	78	*
+0016	NW1001	016	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ3 CGJ4 LNW North	24/05/08		183	25	*
+0016	NW1001	016	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ3 CGJ4 LNW North	24/05/08	Wheelchex	183	40	Dallam
+0016	NW1001	016	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ3 CGJ4 LNW North	24/05/08	Dallam Royal Mail Terminal	183	40	X
+0016	NW1001	016	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ3 CGJ4 LNW North	24/05/08		184	27	*
+0016	NW1001	016	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ3 CGJ4 LNW North	24/05/08		185	38	
+0016	NW1001	016	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ3 CGJ4 LNW North	24/05/08		185	41	*
+0016	NW1001	016	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ3 CGJ4 LNW North	24/05/08		185	43	*
+0016	NW1001	016	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ3 CGJ4 LNW North	24/05/08	Winwick Jn	185	49	
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06		186	10	*
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06	OHNS	187	14	
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06		187	57	*
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06	Golbome Jn	187	76	
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06		0	53	
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06		0	78	*
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06		1	16	*
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06		1	63	*
+0017	NW1001	017	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ4 CGJ5 LNW North	07/10/06		1	65	*
+0018	NW1001	018	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06	Haydock Branch Jn	2	42	
+0018	NW1001	018	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06		3	47	*
+0018	NW1001	018	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06		4	17	
+0018	NW1001	018	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06	Bamfurlong Jn	4	26	
+0018	NW1001	018	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06	Bamfurlong Sidings Jn	4	43	
+0019	NW1001	019	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	26/03/08		5	16	
+0019	NW1001	019	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	26/03/08	Springs Branch Jn	5	25	*
+0019	NW1001	019	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	26/03/08		5	28	
+0019	NW1001	019	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	26/03/08		5	35	*
+0019	NW1001	019	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	26/03/08	Springs Branch Sidings	5	53	*
+0019	NW1001	019	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	26/03/08	Springs Branch	5	57	
+0019	NW1001	019	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	26/03/08	(slow lines) Jn	5	57	X
+0019	NW1001	019	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	26/03/08		6	04	
+0020	NW1001	020	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	14/12/08	Wigan South Jn	6	11	
+0020	NW1001	020	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	14/12/08		6	13	*
+0020	NW1001	020	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	14/12/08		6	15	*
+0020	NW1001	020	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	14/12/08		6	30	*
+0020	NW1001	020	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	14/12/08	Wigan Station Jn	6	33	
+0020	NW1001	020	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	14/12/08	WIGAN NORTH WESTERN	6	47	
+0021	NW1001	021	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	24/01/09	Wigan North Jn	6	60	
+0021	NW1001	021	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	24/01/09		7	21	*
+0021	NW1001	021	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	24/01/09		7	37	*
+0021	NW1001	021	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	24/01/09	Coppull Hall HABD	10	60	
+0021	NW1001	021	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	24/01/09	Blainscough (former site of GF)	12	13	
+0021	NW1001	021	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	24/01/09	Balshaw Lane Jn	14	18	
+0021	NW1001	021	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	24/01/09		14	30	*
+0022	NW1001	022	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	21/02/09	EUXTON BALSHAW LANE	14	77	
+0022	NW1001	022	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	21/02/09	OHNS	16	12	
+0022	NW1001	022	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	21/02/09	Euxton Jn	16	22	
+0022	NW1001	022	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	21/02/09		16	32	
+0022	NW1001	022	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	21/02/09	LEYLAND	17	54	
+0022	NW1001	022	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	21/02/09		16	63	
+0022	NW1001	022	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	21/02/09	Farington Jn	18	76	
+0022	NW1001	022	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	21/02/09		19	24	*
+0023	NW1001	023	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06		19	76	*
+0023	NW1001	023	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06	Farington Curve Jn	20	08	
+0023	NW1001	023	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06	Skew Bridge Jn	20	41	
+0023	NW1001	023	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06		20	78	*
+0023	NW1001	023	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 LNW North	07/10/06	Preston Ribble Jn	21	13	
+0024	NW1001	024	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 CGJ6 LNW North	01/12/07	Preston South Jn			X
+0024	NW1001	024	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 CGJ6 LNW North	01/12/07		21	39	*
+0024	NW1001	024	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 CGJ6 LNW North	01/12/07		21	40	*
+0024	NW1001	024	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 CGJ6 LNW North	01/12/07		21	55	*
+0024	NW1001	024	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 CGJ6 LNW North	01/12/07	PRESTON	21	57	
+0024	NW1001	024	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ5 CGJ6 LNW North	01/12/07		0	00	
+0025	NW1001	025	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ6 LNW North	07/10/06	Preston North Jn	0	21	*
+0025	NW1001	025	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ6 LNW North	07/10/06		0	30	*
+0025	NW1001	025	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ6 LNW North	07/10/06		0	31	*
+0025	NW1001	025	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ6 LNW North	07/10/06	Preston Fylde Jn	0	33	
+0025	NW1001	025	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ6 LNW North	07/10/06	Preston SB	0	41	PM
+0025	NW1001	025	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ6 LNW North	07/10/06		1	20	*
+0025	NW1001	025	Armitage Jn (Inc|.) to Preston Fylde Jn. CGJ6 LNW North	07/10/06		1	31	*

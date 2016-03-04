@@ -1,0 +1,12 @@
+NRN GSM-R
+TCB Paisley SC Panel 2 (PK)
+AC: Cathcart ECR 
+CSR
+UGL (PF) 1365f (415m)
+(65 SLU's)
+DRS 1054f (320m)
+(50 SLU's)
+Additional AWS equipment at Kilwinning (Up Ayr).
+See General Instructions headed
+"Automatic Warning System“.
+

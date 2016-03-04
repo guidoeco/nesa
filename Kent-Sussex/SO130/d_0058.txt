@@ -1,0 +1,19 @@
+NRN CSR
+
+TCB Ashford IECC (AD)
+RAB AC: Paddock Wood
+
+DC: Paddock Wood
+Note: Speed boards also indicate
+maximum speeds in kilometres per
+hour. These boards are circular. with
+White numbers on a black
+background.
+.PLOD at 66m 44oh
+1 Through Passenger Line
+2 Down Main
+3 Up Main
+4 Down Dover
+5 Up Dover
+6 Freight Connection
+

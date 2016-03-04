@@ -1,0 +1,17 @@
+How Mill LC (AHBC—X) 52 66
+53 01 *-
+53 40 *
+Broadwath LC (AHBC—X) 54 62 *
+55 20 *
+Corby Gates LC (MCB) 55 54
+Corby Gates SB 55 54
+55 69 *-
+WETHERAL 55 76
+56 03 *-
+Scotby LC (LJWCIQI 56 76
+Network Raul LN 58 00
+LNW Route Boundary
+Petteril Bridge Jn 59 26 *
+London Road Jn 59 45 *
+59 49
+

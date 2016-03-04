@@ -1,0 +1,14 @@
+Wiserley Hall LC (RIG) 7 15
+7 30 it
+9 40 *
+Broadwood LC (AOCL) 9 77
+10 00 *
+11 32 *-
+11 74 *-
+12 42 *-
+STANHOPE 12 65
+13 06 *-
+Unthank LC(TMO) 13 30
+15 40 *-
+Eastgate 15 79
+

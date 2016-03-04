@@ -1,0 +1,7 @@
+103 50 1:
+
+108 57 :1:
+Ingate Street LC (ABCL) 108 60
+Grove Road LC (ABCL) 108 70
+BEchEs 109 11
+

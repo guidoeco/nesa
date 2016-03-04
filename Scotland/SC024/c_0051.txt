@@ -1,0 +1,14 @@
+LARKHALL 3 00
+
+2 67 *
+MERRYTON 2 19
+Loop points 1 05
+Allanton
+Loop points 0 65
+
+0 59 *
+CHATELHERAULT 0 52
+
+O 24 *-
+Haughhead Jn 0 00
+

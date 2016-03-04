@@ -1,0 +1,10 @@
+22 79
+SALFORDS 23 37
+Salfords Substation 23 44
+Great Lake Farm Substation 24 66
+
+25 00
+
+25 40 *-
+HORLEY 25 60
+

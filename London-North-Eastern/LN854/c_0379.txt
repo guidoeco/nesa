@@ -1,0 +1,18 @@
+23 73 a:
+
+24 42 *-
+MYTHOLMROYD 24 68
+Sowerby Bridge Tunnel 27 60
+(600m I 657 yards) to 28 10
+SOWERBY BRIDGE 28 51
+Milner Royd Jn 29 20 *
+Milner Royd Jn SB (MR) 29 21
+
+29 25 *
+Greetland Jn SB (G) 30 77
+Elland Tunnel 31 25
+(384m I 420 yards) to 31 44
+Elland SB (E) 31 61
+BRIGHOUSE 34 31
+Bradley Wood Jn 35 59
+

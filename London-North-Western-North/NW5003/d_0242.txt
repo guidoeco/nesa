@@ -1,0 +1,25 @@
+NRN
+TCB Manchester South 300 (MS)
+AC: Crews
+Line Blocked Lockouts.
+- Down Styal line, between Crewe-end of
+Wilmslow Platform 1 and Styal Junction.
+- Up Styal line between Styal Junction and
+Wilmslow South Junction.
+Platform Lengths: Wilmslow
+Platform 1: Down direction: 302 metres (330 yards)
+Up direction: 266 metres (291 yards)
+Platform 2: Up direction: 222 metres (243 yards)
+Down direction: 222 metres (243 yards)
+Exceptional Rail Head Conditions
+Up and Down StyallMain lines between 4m (fish and
+8m 300h.
+Manchester Piccadilly SB (MP)
+from 1m 40ch.
+Platform Lengths: Styal
+Up: 166 metres (182 gards)
+Down: 165 metres (1 0 yards)
+Platform Lengths: Heald Green
+Up: 142 metres (155 yards)
+Down: 142 metres (155 yards)
+

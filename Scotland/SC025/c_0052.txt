@@ -1,0 +1,15 @@
+Rutherglen Central Jn 0 00
+OHNS 0 03
+
+0 15 *-
+
+0 16 i:
+RUTHERGLEN O 18
+Rutherglen Footpath LC (RIG) 0 23
+
+0 30 9:
+Rutherglen North Jn 0 31
+Bridge-ton Yard North End 0 43
+(Change of ELR ARG1 to ARGZ) 0 86
+DALMARNOCK 1 O1
+

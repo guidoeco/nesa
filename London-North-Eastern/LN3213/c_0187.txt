@@ -1,0 +1,14 @@
+MOORGATE 0 00
+Barbican Tunnel 0 31
+(631 metresl690 yards) 0 32 *
+BARBICAN O 35
+Smithfield Tunnel 0t 39
+o
+(221 metresl242 yards) 0 50
+0 54 2k
+Farringdon Jn O 58 i:
+FARRINGDON O 62
+0 64 *
+Clerkenwell No1 Tunnel 0 79
+(668 metres! 731 yards) to 1 32
+

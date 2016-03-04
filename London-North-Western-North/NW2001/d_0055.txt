@@ -1,0 +1,14 @@
+NRN
+TCB Speke Junction SB (SE)
+AC: Crews
+
+TASS fitted:
+DF line and UF line throughout
+
+Allerton Junction SB (AN)
+Platform Lengths: Liverpool South Parkway
+Platform 1 Up: 123 metres (135 yards)
+Platform 2 Down: 137 metres (150 yards)
+Platform 3 Up: 137 metres (150 yards)
+Platform 4 Down: 117 metres (128 yards)
+

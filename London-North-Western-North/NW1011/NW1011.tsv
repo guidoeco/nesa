@@ -1,0 +1,6 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0040	NW1011	001	Gresty Lane to Salop Goods Jn. GSG LNW North	07/10/06	Gresty Lane SB	0	33	GL
+0040	NW1011	001	Gresty Lane to Salop Goods Jn. GSG LNW North	07/10/06		0	00	
+0040	NW1011	001	Gresty Lane to Salop Goods Jn. GSG LNW North	07/10/06	Salop Goods Jn	0	00	X
+0040	NW1011	001	Gresty Lane to Salop Goods Jn. GSG LNW North	07/10/06	Salop Goods Jn SB	0	37	SG
+0040	NW1011	001	Gresty Lane to Salop Goods Jn. GSG LNW North	07/10/06		157	71	

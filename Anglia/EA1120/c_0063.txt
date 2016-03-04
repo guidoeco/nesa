@@ -1,0 +1,10 @@
+HL
+Manningtree North Jn
+MANNINGTREE 59 35
+Manningtree South Jn 59 45
+CW 59 47
+
+OHNS
+Manningtree East Jn 59 67
+59 74 'k
+

@@ -1,0 +1,17 @@
+215 18 *
+
+215 35
+Cockett Tunnel 216 28
+(721m,788yds) 216 64
+
+216 66 *-
+
+217 12 5k
+
+217 31 *-
+Cockett West Jn 217 66
+GOWERTON / TRE-GWYR 219 45
+Loughor Viaduct 221 57 2k
+(215m, 235yds) 221 68 *-
+Duffryn LC (AHBC) 222 58
+

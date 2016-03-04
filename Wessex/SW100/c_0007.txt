@@ -1,0 +1,22 @@
+03 53 i:
+
+03 63 i:
+
+03 65 :7:
+Clapham Yard GF (CY)
+
+03 67 a:
+
+03 70 *
+CLAPHAM JUNGTION 03 74
+
+03 75 *-
+Kensington GF
+
+04 00 3;
+04 12 *
+
+O4 15 are
+
+04 25 *-
+

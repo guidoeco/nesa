@@ -1,0 +1,45 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0147	MD435	001	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	Small Heath South Jn	126	59	
+0147	MD435	001	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	SMALL HEATH	127	04	
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	BORDESLEY	128	03	
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08		128	35	*
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	BIRMINGHAM MOOR STREET	128	66	
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	Snow Hill Tunnel	128	72	*
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	(581 metres/635 yards)	128	72	X
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08		129	18	*
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	(Snow Hill Tunnel)	129	21	
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08	BIRMINGHAM SHOW HILL	129	36	
+0148	MD435	002	Small Heath South Jn to Stourbridge North Jn DCL LNW South	18/02/08		129	38	*
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07		129	50	*
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	Hockley No.1 Tunnel	129	66	
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	(136 yards! 124 metres) to	129	72	
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	Hockley No.2 Tunnel	129	75	
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	(160 yards I 146 metres) to	130	02	
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	JEWELLERY QUARTER	130	04	
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07	THE HAWTHORNS	132	41	
+0149	MD435	003	Small Heath South Jn to Stourbridge North Jn DCL LNW South	02/06/07		132	45	*
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		133	17	*
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07	SMETHWIGK GALTON BRIDGE	133	21	
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07	Smethwick Jn	133	32	
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		133	42	*
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		134	38	*
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		134	40	*
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07	LANGLEY GREEN	134	46	
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07	Langley Green West LC	134	60	CCTV
+0150	MD435	004	Small Heath South Jn to Stourbridge North Jn HSJ GSJ2 LNW South	19/05/07		135	00	*
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	ROWLEY REGIS	136	14	
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		136	30	*
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	Old Hill Tunnel	136	40	
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	(619 metres I 896 yards)	136	40	X
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	to	137	01	
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		137	10	*
+0151	MD435	005	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	OLD HILL	137	30	
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		137	46	*
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		138	32	*
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		138	60	*
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	Cradley Heath LC	138	65	CCTV
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	CRADLEY HEA11-I	138	70	
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06		139	20	*
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	LYE	140	14	
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	Stourbridge North Jn	141	06	
+0152	MD435	006	Small Heath South Jn to Stourbridge North Jn GSJ2 LNW South	07/10/06	Change of mileage	142	51	

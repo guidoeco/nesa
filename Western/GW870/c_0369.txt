@@ -1,0 +1,9 @@
+18 35 *
+Cowbridge Road SB 16 53
+
+18 68 *
+Bridgend Barry Jn 18 78
+
+190 35
+BRIDGEND
+

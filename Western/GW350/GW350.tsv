@@ -1,0 +1,12 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06	Worcester Tunnel Jn	120	78	
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06		0	30	
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06		0	06	*
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06		0	01	
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06	Former Rainbow Hill Jn	0	00	
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06	(Change of ELR)	120	64	
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06		120	66	*
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06	WORGESTER FOREGATE STREE	121	12	
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06	Henwick LC	121	65	MOB
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06	Henwick SB	121	65	HK
+0152	GW350	001	Worcester Tunnel Jn to Henwick BLW WAH Western	05/08/06		121	72	

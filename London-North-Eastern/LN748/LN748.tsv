@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0297	LN748	001	Retford Western Jn to Thrumpton West Jn WHR London North Eastern	02/12/06	Retford Western Jn	64	29	
+0297	LN748	001	Retford Western Jn to Thrumpton West Jn WHR London North Eastern	02/12/06		64	20	
+0297	LN748	001	Retford Western Jn to Thrumpton West Jn WHR London North Eastern	02/12/06		64	12	*
+0297	LN748	001	Retford Western Jn to Thrumpton West Jn WHR London North Eastern	02/12/06		63	67	*
+0297	LN748	001	Retford Western Jn to Thrumpton West Jn WHR London North Eastern	02/12/06	Thrumpton West Jn	63	46	Down
+0297	LN748	001	Retford Western Jn to Thrumpton West Jn WHR London North Eastern	02/12/06	Thrumpton West Jn	63	28	Up

@@ -1,0 +1,24 @@
+Tankersley Tunnel 166t028
+(137cm! 1498 yards) 167 16
+166 51
+167 17
+ELSECAR 169 00
+Hemingfield Tunnel 169t0 77
+(49m I 54 yards) 170 00
+170 20 are
+WOMBWELL 170 45
+170 48 *
+173 45 *-
+173 48
+7 50
+6 65
+Bamsley SB (BY) 6 60
+Bamsley LC (MOB) 6 59
+BARNSLEY 6 54
+Bamslay Station Jn 6 43 *
+52 58 *
+52 53 *-
+49 42 *
+49 36 *
+BARTON 49 29
+

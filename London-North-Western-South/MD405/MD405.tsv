@@ -1,0 +1,19 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Leamington Spa Jn	106	25	
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09		106	28	*
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09		106	54	*
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Change of mileage	107	06	
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09		0	00	
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Milverton Jn	0	10	
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09		0	18	*
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Kenilworth South Jn	3	73	
+0133	MD405	001	Leamington Spa Jn. to Coventry South Jn. LSC1 LSCZ LNW South	14/02/09	Kenilworth North Jn	4	47	
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	Millbum Grange LC	5	21	UWC
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	GibbetHiIl Jn	6	15	
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09		8	14	*
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	Limit of electrification	8	20	
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09		8	34	*
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09		8	35	*
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	Coventry South Jn	8	45	
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	Change of mileage	93	71	
+0134	MD405	002	Leamington Spa Jn. to Coventry South Jn. LSC2 LNW South	14/02/09	COVENTRY	93	79	

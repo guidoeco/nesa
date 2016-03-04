@@ -1,0 +1,11 @@
+Edgeley Jn 182 59
+O 00
+Edgeley Jn No.2 SB (EY2) 0 O4
+0 12 *
+Edgeley Jn No.1 SB (EY1) 0 21
+O 33 :7:
+0 68 9e
+0 69 i:
+0 74 *-
+3 16 *-
+

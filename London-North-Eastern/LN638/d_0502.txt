@@ -1,0 +1,14 @@
+NRN
+TCB Grangetown SB (G)
+RAB
+AWS not provided
+AL= Arrival Line
+DL = Departure Line
+CD - Through Sidings (Sidings belong to I.C.l.)
+STOP to colleotfdeliver Train Staff.
+IL = Inward Line
+OL = Outward Line
+OTS Coal Access L0 to Cleveland
+Freightliner Terminal.
+Limit of Network Rail Working
+

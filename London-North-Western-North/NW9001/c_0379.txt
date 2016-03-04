@@ -1,0 +1,14 @@
+Dore West Junction 154 16 *
+Network Rail 154 20
+London Norfl1 Western
+(Appendix Boundary)
+154 41 *
+Totley Tunnel East SB 154 62
+154 74 *
+Totley Tunnel 155 20
+(5695ml6230yd) 155 75
+156 76
+157 38
+157 76 i:
+158 39
+

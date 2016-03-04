@@ -1,0 +1,10 @@
+HINDLEY 15 17
+16 00 *
+16 20 a:
+INGE 16 70
+17 21 *-
+17 35
+Wigan Station Jn 17 44
+17 58 *
+WIGAN WALLGATE 17 72
+

@@ -1,0 +1,6 @@
+YOKER 2 56
+CLYDEBAHK 3 43
+Clydebank Jn 3 6O
+Tunnel 23 4 20
+110 yards to 4 25
+

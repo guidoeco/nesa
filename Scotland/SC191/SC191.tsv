@@ -1,0 +1,113 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0382	SC191	001	Dundee to Aberdeen ECN2 Scotland	02/12/06	Dundee Central Jn	0	36	
+0382	SC191	001	Dundee to Aberdeen ECN2 Scotland	02/12/06		58	69	*
+0383	SC191	002	Dundee to Aberdeen ECN2 Scotland	01/12/07	DUNDEE	59	14	
+0383	SC191	002	Dundee to Aberdeen ECN2 Scotland	01/12/07		59	15	*
+0383	SC191	002	Dundee to Aberdeen ECN2 Scotland	01/12/07	Dundee SC	59	17	
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08	Dock Street Tunnel	59	28	
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08	610 yards	59	56	*
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08	(Change of ELR ECN2 to ECNS)	59	77	
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08	Camperdown Jn .	59	77	
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08		0	21	
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08	Camperdown LC	0	22	CCTV
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08		0	27	*
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08		0	57	*
+0384	SC191	Dundee	to Aberdeen ECN2 ECN3 Scotland	03/05/08		1	22	*
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08		2	19	*
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08		2	55	*
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08	Harecraig LC	2	56	UWC
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08		2	59	*
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08		3	12	*
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08	BROUGHTY FERRY	3	38	
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08	Broughty Ferny LC	3	42	CCTV
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08		3	50	*
+0385	SC191	004	Dundee to Aberdeen ECN3 Scotland	07/07/08	BALMOSSIE	5	00	
+0386	SC191	005	Dundee to Aberdeen ECN3 Scotland	02/12/06		5	10	*
+0386	SC191	005	Dundee to Aberdeen ECN3 Scotland	02/12/06		5	65	
+0386	SC191	005	Dundee to Aberdeen ECN3 Scotland	02/12/06	MOﬂlFlEﬂ-I	5	72	
+0386	SC191	005	Dundee to Aberdeen ECN3 Scotland	02/12/06	Barry West LC	8	60	CCTV
+0386	SC191	005	Dundee to Aberdeen ECN3 Scotland	02/12/06	BARRY LINKS	3	67	
+0386	SC191	005	Dundee to Aberdeen ECN3 Scotland	02/12/06	Anderson St. LC	9	34	UWC
+0386	SC191	005	Dundee to Aberdeen ECN3 Scotland	02/12/06	GOLF ST	9	70	
+0387	SC191	006	Dundee to Aberdeen ECN3 Scotland	02/12/06	Camoustie SB & LC	10	29	M03
+0387	SC191	006	Dundee to Aberdeen ECN3 Scotland	02/12/06	GARNOUSTIE	10	33	
+0387	SC191	006	Dundee to Aberdeen ECN3 Scotland	02/12/06		10	35	*
+0387	SC191	006	Dundee to Aberdeen ECN3 Scotland	02/12/06	Buckiehillock LC	11	08	UWC
+0387	SC191	006	Dundee to Aberdeen ECN3 Scotland	02/12/06		11	10	*
+0387	SC191	006	Dundee to Aberdeen ECN3 Scotland	02/12/06	Panbride East LC	11	35	UWC
+0388	SC191	007	Dundee to Aberdeen ECN3 Scotland	02/12/06	Easthaven LC	11	76	UWC
+0388	SC191	007	Dundee to Aberdeen ECN3 Scotland	02/12/06	Hatton LC	12	53	UWC
+0388	SC191	007	Dundee to Aberdeen ECN3 Scotland	02/12/06	InverpefforLC	13	26	UWC
+0388	SC191	007	Dundee to Aberdeen ECN3 Scotland	02/12/06	Balcathie LC	14	54	UWC
+0388	SC191	007	Dundee to Aberdeen ECN3 Scotland	02/12/06		14	78	*
+0388	SC191	007	Dundee to Aberdeen ECN3 Scotland	02/12/06		15	11	
+0388	SC191	007	Dundee to Aberdeen ECN3 Scotland	02/12/06		15	14	*
+0389	SC191	008	Dundee to Aberdeen ECN3 Scotland	02/12/06		15	60	*
+0389	SC191	008	Dundee to Aberdeen ECN3 Scotland	02/12/06		16	36	*
+0389	SC191	008	Dundee to Aberdeen ECN3 Scotland	02/12/06	ARBROATH	16	45	
+0389	SC191	008	Dundee to Aberdeen ECN3 Scotland	02/12/06		16	54	*
+0389	SC191	008	Dundee to Aberdeen ECN3 Scotland	02/12/06	Arbroath SB 6. LC	16	60	M03
+0389	SC191	008	Dundee to Aberdeen ECN3 Scotland	02/12/06		17	06	*
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06	(Change of ELR	17	17	
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06	ECN3 to ECN4)	17	55	
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06		18	40	
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06		18	51	*
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06		19	32	*
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06		20	00	*
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06		21	18	*
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06		21	60	
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06		23	03	*
+0390	SC191	009	Dundee to Aberdeen ECN3 ECN4 Scotland	02/12/06	Inverkeilor SB	23	10	
+0391	SC191	010	Dundee to Aberdeen ECN4 Scotland	01/10/07		23	39	*
+0391	SC191	010	Dundee to Aberdeen ECN4 Scotland	01/10/07		24	00	*
+0391	SC191	010	Dundee to Aberdeen ECN4 Scotland	01/10/07		25	44	
+0391	SC191	010	Dundee to Aberdeen ECN4 Scotland	01/10/07		26	40	
+0391	SC191	010	Dundee to Aberdeen ECN4 Scotland	01/10/07	Boddin LC	27	30	UWC
+0391	SC191	010	Dundee to Aberdeen ECN4 Scotland	01/10/07		28	42	*
+0391	SC191	010	Dundee to Aberdeen ECN4 Scotland	01/10/07	Usan SB	28	48	
+0392	SC191	011	Dundee to Aberdeen ECN4 Scotland 04103/07	I	Montrose South SB	30	37	*
+0392	SC191	011	Dundee to Aberdeen ECN4 Scotland 04103/07	I	MONTROSE	30	55	
+0392	SC191	011	Dundee to Aberdeen ECN4 Scotland 04103/07	I	Montrose North SB	30	68	
+0393	SC191	010	Dundee to Aberdeen ECN4 Scotland	02/12/06	(Change of ELR ECN4 to ECN5)	33	26	*
+0393	SC191	010	Dundee to Aberdeen ECN4 Scotland	02/12/06		203	11	
+0393	SC191	010	Dundee to Aberdeen ECN4 Scotland	02/12/06	Craigo SB	205	15	
+0393	SC191	010	Dundee to Aberdeen ECN4 Scotland	02/12/06		206	24	*
+0393	SC191	010	Dundee to Aberdeen ECN4 Scotland	02/12/06		208	00	
+0393	SC191	010	Dundee to Aberdeen ECN4 Scotland	02/12/06		203	20	*
+0394	SC191	013	Dundee to Aberdeen ECN5 Scotland	02/12/06	Back Settlement LC	209	65	RIG-X
+0394	SC191	013	Dundee to Aberdeen ECN5 Scotland	02/12/06	Laurenoekirk SB	210	62	
+0394	SC191	013	Dundee to Aberdeen ECN5 Scotland	02/12/06		213	60	
+0394	SC191	013	Dundee to Aberdeen ECN5 Scotland	02/12/06		214	17	*
+0395	SC191	014	Dundee to Aberdeen ECN5 Scotland	02/12/06		216	40	
+0395	SC191	014	Dundee to Aberdeen ECN5 Scotland	02/12/06		217	63	*
+0395	SC191	014	Dundee to Aberdeen ECN5 Scotland	02/12/06		219	32	*
+0395	SC191	014	Dundee to Aberdeen ECN5 Scotland	02/12/06	Cannont SB & LC	219	39	M03
+0395	SC191	014	Dundee to Aberdeen ECN5 Scotland	02/12/06		220	51	*
+0395	SC191	014	Dundee to Aberdeen ECN5 Scotland	02/12/06		222	20	
+0395	SC191	014	Dundee to Aberdeen ECN5 Scotland	02/12/06		224	23	*
+0396	SC191	015	Dundee to Aberdeen ECN5 Scotland	31I01/09	STONEHAVEN	224	74	
+0396	SC191	015	Dundee to Aberdeen ECN5 Scotland	31I01/09	Stonehaven SB	224	75	
+0396	SC191	015	Dundee to Aberdeen ECN5 Scotland	31I01/09		225	00	
+0396	SC191	015	Dundee to Aberdeen ECN5 Scotland	31I01/09		227	13	*
+0396	SC191	015	Dundee to Aberdeen ECN5 Scotland	31I01/09		228	00	
+0396	SC191	015	Dundee to Aberdeen ECN5 Scotland	31I01/09		228	12	*
+0396	SC191	015	Dundee to Aberdeen ECN5 Scotland	31I01/09		228	35	*
+0397	SC191	016	Dundee to Aberdeen ECN5 Scotland	02/12/06		229	77	*
+0397	SC191	016	Dundee to Aberdeen ECN5 Scotland	02/12/06		230	38	*
+0397	SC191	016	Dundee to Aberdeen ECN5 Scotland	02/12/06		230	58	*
+0397	SC191	016	Dundee to Aberdeen ECN5 Scotland	02/12/06	Newtonhill SB	230	59	
+0397	SC191	016	Dundee to Aberdeen ECN5 Scotland	02/12/06	PORTLETHEN	232	70	
+0398	SC191	017	Dundee to Aberdeen ECN5 Scotland	02/12/06		233	00	
+0398	SC191	017	Dundee to Aberdeen ECN5 Scotland	02/12/06		234	16	*
+0398	SC191	017	Dundee to Aberdeen ECN5 Scotland	02/12/06	Caimrobin LC	234	64	UWC
+0398	SC191	017	Dundee to Aberdeen ECN5 Scotland	02/12/06		234	75	*
+0398	SC191	017	Dundee to Aberdeen ECN5 Scotland	02/12/06		236	25	
+0398	SC191	017	Dundee to Aberdeen ECN5 Scotland	02/12/06	Up line Signal A56	238	60	
+0399	SC191	018	Dundee to Aberdeen ECN5 Scotland	12/07/08	Craiginches	239	55	*
+0400	SC191	019	Dundee to Aberdeen ECN5 ANI1 Scotland	03/05/08	Ferryhill Jn	240	40	
+0400	SC191	019	Dundee to Aberdeen ECN5 ANI1 Scotland	03/05/08		240	60	*
+0400	SC191	019	Dundee to Aberdeen ECN5 ANI1 Scotland	03/05/08	Aberdeen SB	240	63	
+0400	SC191	019	Dundee to Aberdeen ECN5 ANI1 Scotland	03/05/08	ABERDEEN	241	06	
+0400	SC191	019	Dundee to Aberdeen ECN5 ANI1 Scotland	03/05/08	(Change of ELR	241	03	
+0400	SC191	019	Dundee to Aberdeen ECN5 ANI1 Scotland	03/05/08	ECN5 to ANI1)	0	00	
+0400	SC191	019	Dundee to Aberdeen ECN5 ANI1 Scotland	03/05/08		0	20	*

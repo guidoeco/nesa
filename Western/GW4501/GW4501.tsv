@@ -1,0 +1,26 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	Stoke Gifford Jn No.1	111	79	
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	Stoke Gifford Jn No.2	112	05	
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06		112	07	*
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	Stoke Gifford Recycling Depot	112	07	X
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	Fiiton West Jn No.1	112	72	
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	Filton West Jn No.2	112	78	
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	Single Line Jn	113	00	*
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06		113	06	*
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	B.A.G. LO	113	30	0W0
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	Charlton Tunnel	113	79	
+0173	GW4501	001	Stoke Gifford Jn to Bristol Bulk Handling Terminal AFR Western	05/08/06	(276m. 302yds)	114	12	
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06	Hallen Moor East	117	20	
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06	Hallen Moor East	117	70	
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06		118	20	*
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06	Chittening Estate	118	20	X
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06	Hallen Marsh Jn	113	42	
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06	(Change of ELR and Mileage)	14	38	
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06		14	53	*
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06	Pasminco Sidings	14	53	X
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06	Holesmouth Jn	14	60	
+0174	GW4501	002	Stoke Gifford Jn To Bristol Bulk Handling Terminal AFR AMB Western	05/08/06	Avonmouth BP Sidings	14	60	X
+0175	GW4501	003	Stoke Gifford Jn to Bristol Bulk Handling Terminal AMB Western	05/08/06		14	70	*
+0175	GW4501	003	Stoke Gifford Jn to Bristol Bulk Handling Terminal AMB Western	05/08/06	Portbury Terminal Jn	15	00	
+0175	GW4501	003	Stoke Gifford Jn to Bristol Bulk Handling Terminal AMB Western	05/08/06	Bristol Bulk handling Terminal	15	40	
+0175	GW4501	003	Stoke Gifford Jn to Bristol Bulk Handling Terminal AMB Western	05/08/06	(End of line)	15	40	X

@@ -1,0 +1,11 @@
+NRN
+TCB Beeston Castle & Tarporley SB (BC) ©
+Chester (CR) box area
+Chester SB (CR)
+AWS inductors are not provided
+between Chester East Jn and
+Chester West Jn
+D&UM=Down and Up Main
+DT=Down Through
+D&UG=Down and Up Goods
+

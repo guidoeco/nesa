@@ -1,0 +1,58 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Whitland (W) SB	258	68	TEP
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	WHITLAND			Z
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Whitland Jn	259	01	
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Llwyndyrys LC	259	39	UWC
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	AIIt-y-Baily LC	259	69	UWC
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Llwynpenerz LC	260	54	UWC
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Llwyngwyddil 2 LC	261	06	UWC
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	White House Mill LC	261	28	UWC
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Masons1LC	261	71	UWC
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Danylan LC	262	08	UWC
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Crinow Farm 2 LC	263	64	UWC
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	NARBERTH [ARBERTH	264	08	
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08		264	14	*
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	Narberth Tunnel	264	16	
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08	(250m, 273yds)	264	29	
+0440	GW950	001	Whitland to Pembroke Dock PEM Western	09/02/08		264	40	*
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	Upper Chapel Hill Farm LC	265	37	UWC
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	Ogmore House Farm LC	266	65	UWC
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06		269	55	*
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	KILGETTYI GILGETI	269	62	
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	Kilawen Farm LC	270	27	UWC
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	SAUNDERSFOOT	270	41	
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06		270	50	*
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	Moreton LC	271	24	UWC
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	Hilling LC	271	52	UWC
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	Knightson Farm LC	272	22	UWC
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06		272	60	*
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06		273	14	*
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	Tenby SF	274	46	
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	TENBYI	274	53	
+0441	GW950	002	Whitland to Pembroke Dock PEM Western	05/08/06	DINBYcH-Y-PYSGOD	274	53	TEP
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Penally, MOD LC	275	65	UWC
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	PENALLYI PENALUH	275	71	
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Penally Court Farm LC	276	32	UWC
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Norchard Farm 1 LC	278	10	UWC
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Manorbier Station LC	279	06	AOCL
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	MANORBIERI MAENORBYR	279	09	
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Bier Hill LC	279	18	UWC
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Sunny Hill Farm 2 LC	279	34	UWC
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Sunny Hill Farm 5 LC	279	48	UWC
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Beavers Hill LC	279	72	OPEN
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Beavers Hill Farm LC	280	14	UWC
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Manorbier Newton LC	280	52	OPEN
+0442	GW950	003	Whitland to Pembroke Dock PEM Western	05/08/06	Newton Lodge LC	280	63	UWC
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	LAMPHEYI LLANDYFAI	282	50	
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06		284	10	*
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	PEMBROKE I PENFRO	284	11	
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	(Change of RA)	284	22	*
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06		285	04	*
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	Pembroke Tunnel	285	06	
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	(421 m, 480 yds) to	285	26	
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06		285	28	*
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	Llanion LC (OPEN)	285	75	*
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	Pembroke Dock East GF	285	76	
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	Pembroke Dock Station GF	286	14	
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	PEMBROKE DOCK	286	26	
+0443	GW950	004	Whitland to Pembroke Dock PEM Western	05/08/06	DOC PENFRO	286	26	X

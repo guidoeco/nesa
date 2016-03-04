@@ -1,0 +1,17 @@
+Beaverpool Tunnel 16 14
+(101m 110yd) to 16 19
+19 00
+Pont-y—Pant Lower Tunnel 19 10
+(132m / 144 yd) 19 17
+FONT-Y-PANT 19 29
+Pont-y-Pant Upper Tunnel 19 56
+(60m I 66yd) 19 59
+20 50 *
+DOLWYDDELAN 20 62
+20 70 *
+Bertheos Tunnel 22 19
+(42m I 46yd) to 22 22
+ROMAN BRIDGE 22 48
+Roman Bridge Tunnel 22 55
+(39m I 43yd) to 22 57
+

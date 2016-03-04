@@ -1,0 +1,16 @@
+7 25 i:
+
+7 40 *
+Pont Lliw 8 06
+
+8 68
+
+9 31
+Grovesend Colliery Loop GF 9 34
+
+9 45 *-
+
+9 50 *
+
+1O 04 7k
+

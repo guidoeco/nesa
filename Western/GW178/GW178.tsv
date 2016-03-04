@@ -1,0 +1,10 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0106	GW178	001	Southall To Brentford Goods BRB Western	05/08/06	SOUTHALL	9	06	
+0106	GW178	001	Southall To Brentford Goods BRB Western	05/08/06		0	00	
+0106	GW178	001	Southall To Brentford Goods BRB Western	05/08/06		1	00	*
+0106	GW178	001	Southall To Brentford Goods BRB Western	05/08/06	Brentford GF	2	11	
+0106	GW178	001	Southall To Brentford Goods BRB Western	05/08/06	StartlEnd of TST Section	2	12	
+0107	GW178	002	Southall to Brentford Goods BRB Western	05/08/06	Day & Son GF	2	36	
+0107	GW178	002	Southall to Brentford Goods BRB Western	05/08/06	Gate	2	49	
+0107	GW178	002	Southall to Brentford Goods BRB Western	05/08/06	Gate	2	67	
+0107	GW178	002	Southall to Brentford Goods BRB Western	05/08/06	Brentforcl Goods	2	70	

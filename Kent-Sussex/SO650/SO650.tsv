@@ -1,0 +1,41 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0263	SO650	001	Balham Jn to Beckenham Jn BBJ Kent / Sussex	21/04/07	(Balham Jn)	4	69	
+0263	SO650	001	Balham Jn to Beckenham Jn BBJ Kent / Sussex	21/04/07	Balham TP Hut	4	76	
+0263	SO650	001	Balham Jn to Beckenham Jn BBJ Kent / Sussex	21/04/07		5	20	*
+0263	SO650	001	Balham Jn to Beckenham Jn BBJ Kent / Sussex	21/04/07	STREA'PHAM HILL	5	57	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06	Leigham Court Tunnel	6	00	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06	(443 yards) to	6	17	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06	Leigham Jn	6	31	*
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06		6	40	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06	(Tulsa Hill)	6	07	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06	West Norwood Jn	6	58	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06		6	41	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06		6	59	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06		6	75	*
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06	WEST NORWOOD	7	02	
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06		7	03	*
+0264	SO650	002	Balham Jn to Beckenham Jn BBJ LTH WTH Kent/Sussex	02/12/06		7	11	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06		7	30	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06		7	44	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	GIPSY HILL	7	77	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	Crystal Palace Tunnel	8	16	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	(746 yards) to	8	49	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06		7	56	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06		8	50	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	Crystal Palace TP Hut	8	52	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	CRYSTAL PALACE	8	56	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06		7	52	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	S denhamU Jn	6	49	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	(y p)	8	67	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06		9	33	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	BromleyUp Jn	9	36	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	Norwood Jn TP Hut	9	47	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	Bromley Down Jn	9	48	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06		9	50	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	(Nomood Jn)	9	75	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	Route Boundary	9	65	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	Junction	10	06	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	Birkbeck TP Hut	10	08	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06		10	22	*
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	BIRKBECK	10	26	
+0265	SO650	003	Balham Jn to Beckenham Jn BBJ SCP Kent/Sussex	02/12/06	(Beckenham Jn)	11	62	

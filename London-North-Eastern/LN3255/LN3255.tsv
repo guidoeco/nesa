@@ -1,0 +1,40 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Radford Jn	125	55	
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		125	60	*
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		125	61	*
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		127	07	*
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Lincoln Street LC	127	60	CCTV
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Basford Chemicals LC	128	14	UWC
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		128	55	*
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Bullwell South Jn	128	65	*
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	BULWELL	128	76	
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Bulwell Forest LC	129	35	CCTV
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		130	15	*
+0206	LN3255	001	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Bestwood Park Jn	130	21	*
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08	Hucknall No 4 LC	131	04	RIG
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08	Hucknall No 3 LC	131	11	UWC
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08		131	20	*
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08	Brickyard Lane LC	131	21	ABCL
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08		131	60	*
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08	HUGKIIALL	131	65	
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08		131	69	*
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08		131	78	*
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08		132	00	*
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08		132	16	*
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08	Linby Colliery LC	132	24	ABCL
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08	Linby Station LC	132	70	ABCL
+0207	LN3255	002	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	12/04/08		132	75	*
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		134	18	*
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	NEWSTEAD	134	20	
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		134	26	*
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Newstead Tilford Road LC	134	30	AHBC
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Stockyard LC	134	68	UWC
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Warren House LC	135	31	MWL
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Kirkby Tunnel	135	49	
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	(181m I 198 yards) to	135	57	
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Grives Lane LC	135	75	AHBC
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Kirkby South Jn	136	04	*
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		136	14	*
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		136	60	*
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07	Kirkby Lane End Jn	136	66	
+0208	LN3255	003	Radford Jn to Kirkby Lane End Jn RAC London North Eastern	04/08/07		138	31	

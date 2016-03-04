@@ -1,0 +1,16 @@
+184 08 i:
+184 16 1':
+184 50
+184 54
+Leeds TSL OHNS 184 57
+Copley Hill West Jn 184 65
+184 75 *-
+184 77 *
+Holbeck Jn 185 01
+Copley Hill EastJn 185 02 9:
+185 03 a:
+185 06 *-
+185 09
+185 13
+185 17 *
+

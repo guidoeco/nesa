@@ -1,0 +1,10 @@
+19 50 5k
+
+19 58 are
+Thorpe Lane LC (CCTV) 19 67
+Pooley Green LC (CCTV) 20 51
+EGHAM 21 02
+Egham LC (CCTV) 21 02
+Rusham LC(AHBC) 21 61 *-
+Stroude Crossing 22 51
+

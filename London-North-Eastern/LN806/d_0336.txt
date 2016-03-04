@@ -1,0 +1,25 @@
+NRN
+
+TCB Derby EMCC (CB)
+RAB
+
+Chesterfield workstation
+Hot Axle Box Detector on the Down Barrow
+Hill line at 146m 69ch
+
+NRN
+NRN Channel Change at
+147m 39m Down. 147m 76ch Up
+GSM-R area
+7
+Entrance Up 147m 43ch
+L A Exit Down 147m 67ch
+Sheffield SB (8)
+
+DBH = Down Barrow Hill
+UBH = Up Barrow Hill
+BHG = Barrow Hill Goods
+SGL = Staveley Goods Line
+Hot Axle Box Detector on the Up Barrow
+Hill line at 152 47
+

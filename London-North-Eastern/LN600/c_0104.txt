@@ -1,0 +1,17 @@
+No 89 LC (RIG) 27 58
+28 50 *
+28 58
+Longlands Jn (Down) 28 68
+28 71 *
+28 76
+28 77 *
+Longlands Jn (Up) 29 01
+29 56
+NORTHALLERTON 29 76
+29 78
+Northallerton High Jn 30 09
+Castle Hills Jn 30 59
+30 63 *
+End of reversing line 31 09
+33 50
+

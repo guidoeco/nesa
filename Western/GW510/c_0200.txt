@@ -1,0 +1,12 @@
+Westbury North Jn 109 49
+109 42 *
+Hawkeridge Jn 109 14
+108 60 *
+105 70 *
+TROWBRIDGE 105 61
+(Both platforms) 105 56
+105 54 *
+104 45 *-
+Bradford Jn 104 40
+(Change of ELR) 9 12
+

@@ -1,0 +1,12 @@
+NRN CSR
+
+TCB Merseyrail SB (ML)
+
+DC: Sandhills
+Platform lengths: Bidston
+Up 119m (130 yards)
+Down 119m (130 yards)
+Platform Lengths: Leasowe
+Up 127m (139 yards)
+Down 128m (140 yards)
+

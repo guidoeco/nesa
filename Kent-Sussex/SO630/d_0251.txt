@@ -1,0 +1,13 @@
+NRN CSR
+TCB Lancing SB (LG) 59
+RAB DC: Brighton
+
+CSR
+
+UPL 33
+Platform 1 PP-A
+Platform 2 PP-A
+Platform 3 PP-A (detaching only)
+1 Up Brighton
+2 Down Brighton
+

@@ -1,0 +1,22 @@
+Craven Arman 20 O1
+Stokesay Farm LC (UWC) 20 71
+Stokeswood LC (UWC) 21 11
+21 55 i:
+22 07 *-
+Onibury LC (MOB) 22 66
+Onibury SB 22 63
+23 68 9:
+24 00 *
+Wootton Farm LC (UWC) 24 07
+Bromfield WILD 25 00
+Bromfield SB 25 20
+Bromfield LC (MOB) 25 20
+Feltons LC (UWO) 26 61
+Ludlow HABD 26 64
+27 10 i:
+LUDLOW 27 42
+Ludlow Tunnel 27 47
+123m (134 yards) 27 53
+26 40 a:
+Saltmoor LC (UWC) 29 62
+

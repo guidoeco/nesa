@@ -1,0 +1,32 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Ulceby North Jn	100	44	
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		100	48	
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		100	50	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		100	52	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Garola House LC	101	39	UWC
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Meadow Croft Farm LC	101	40	UWC
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Bystable Lane LC	102	10	MCG
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		102	72	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		103	01	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	THORNTON ABBEY	103	04	
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		103	07	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		103	10	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Barton Road LC (MCG)	103	12	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Butterswood LC (ABCL-X)	103	48	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		104	16	*
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Goxhill SB	104	51	
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Goxhill LC	104	51	MCG
+0294	LN744	001	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	GOXHILL	104	55	
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		106	34	*
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		106	35	
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		106	37	*
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Oxmarsh Crossin LC	106	38	MCG
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Oxmarsh SB	106	38	CM?
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	NEW HOLLAND	106	52	
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Barrow Road LC	106	57	MCG
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		106	69	*
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	BARROW HAVEN	103	05	
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Barrow Haven LC	103	07	OPEN
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06		108	62	*
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	Pasture Road LC	109	63	ABCL—X
+0295	LN744	002	Ulceby North Jn to Barton 0n Humber BAR London North Eastern	02/12/06	BARTON ON NUMBER	110	18	

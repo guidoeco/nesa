@@ -1,0 +1,11 @@
+HEWORTH 99 00
+St James Bridge Jn 100 23
+Park Lane Jn 100 65
+100 75 *-
+High Level Bridge Jn 101 33 *-
+High Level Bridge 101m 33
+101 45
+High Level Bridge Central Jn 101 39
+100 57 *-
+Newcastle EastJn 101 59
+

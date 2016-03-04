@@ -1,0 +1,12 @@
+TCB Gloucester SB (G) NR"
+RAB
+UA Up Avoiding
+DA Down Avoiding
+ELR - CHL
+ELR - BGL1
+ELR - BGL1
+ELR - BGL2
+UC Up Charfield
+DC Down Charfield
+UGL 512m, 1680ft
+

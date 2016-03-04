@@ -1,0 +1,12 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Continued on Anglia Route			X
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Sectional Appendix.			X
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	. .	5	48	
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Wlllesden ngh Level Jn	0	43	
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Territory Boundary	0	09	
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Mitre Bridge Jn	0	00	
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06		5	67	
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Territory Boundary	5	65	
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Continued in	5	65	X
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Southern			Z
+0057	MD160	001	Willesden High Level Jn. to Mitre Bridge Jn. WMB LNW South	07/10/06	Sectional Appendix.	5	65	X

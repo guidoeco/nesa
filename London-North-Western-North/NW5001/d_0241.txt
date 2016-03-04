@@ -1,0 +1,84 @@
+NRN
+TCB Manchester Piccadilly SB (MP)
+AC: Crews
+
+Mayfield gds |oop.(PF) 127m (417ft)
+
+UE = Up East
+
+DE= Down East
+
+Platform Lengths: Manchester Piccadilly
+
+Platform 1 Permissive PP
+
+238m (260 yards)
+
+Platform 2 Permissive PP
+
+238m (260 yards)
+
+Platform 3 Permissive PP
+
+237m (259 yards)
+
+Platform 4 Permissive PP
+
+239m (261 yards)
+
+Platform 5 Permissive PP
+
+340m (372 yards)
+
+Platform 6 Permissive PP
+
+277m (303 yards)
+
+Platform 7 Permissive PP
+
+277m (303 yards)
+
+Platform 8 Permissive PP
+
+344m (376 yards)
+
+Platform 9 Permissive PP
+
+330m (361 yards)
+
+Platform 9 (Sig MP.390) Permissive PP
+
+212m (232 yards)
+
+Platform 10 Permissive PP
+
+177m (194 yards)
+
+Platform 11 Permissive PP
+
+98m (107 yards)
+
+Platform 12 Permissive PP
+
+98m (107 yards)
+
+Platform 13 Permissive PP—CCD
+
+Up 277m (303 yards)
+
+Platform 13 Permissive PP-C (2)
+
+Down 277m (303 yards)
+
+Platform 14 Permissive PP-C
+
+Up 265m (290 yards)
+
+Platform 14 Permissive PP-C GD
+
+Down 266m (291 yards)
+CD Between MP.386 and MP.382
+C2) Between MP.391 and MP.387
+(3 Between MP.388 and MP.334
+Q4) Between MP.393 and MP.389
+

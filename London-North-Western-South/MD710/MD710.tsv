@@ -1,0 +1,7 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06	Neasden South Jn	200	66	
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06		200	65	*
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06		200	58	*
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06		197	70	*
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06	Network Rail f LUL Boundary	197	05	
+0189	MD710	001	Neasden South Junction to Harrow on the Hill MCJ1 LNW South	07/10/06	Change of mileage	9	13	

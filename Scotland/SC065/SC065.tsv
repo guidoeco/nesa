@@ -1,0 +1,47 @@
+page	route	sequence	name	date	location	miles	chains	restriction
+0130	SC065	001	Paisleyto Gourock GOU1GOU2? Scotland	11111108	Wallneuk Jn	6	34	
+0130	SC065	001	Paisleyto Gourock GOU1GOU2? Scotland	11111108	PAISLEY GILMOUR STREET	6	47	
+0130	SC065	001	Paisleyto Gourock GOU1GOU2? Scotland	11111108	(Change of ELR	6	53	
+0130	SC065	001	Paisleyto Gourock GOU1GOU2? Scotland	11111108	GOU1 to GOUZ)	107	70	
+0130	SC065	001	Paisleyto Gourock GOU1GOU2? Scotland	11111108		108	00	*
+0130	SC065	001	Paisleyto Gourock GOU1GOU2? Scotland	11111108	PAISLEY ST. JAMES	108	46	
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	OHNS	112	30	
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	BISHOPTON	112	60	
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	Royal Ordnance Sdgs GSP	112	72	
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	Bishopton No1 Tunnel	113	49	
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	to 330 yards	113	64	
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	Bishopton No2 Tunnel	113	68	
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	to 350 yards	114	90	
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	Langbank GF	114	90	X
+0131	SC065	002	Paisley to Gourock GOU2 Scotland	02/12/06	LANGBANK	116	66	
+0132	SC065	003	Paisley to Gourock GOU2 Scotland	02/12/06	WOODHALL 1	19	45	
+0132	SC065	003	Paisley to Gourock GOU2 Scotland	02/12/06		120	17	*
+0132	SC065	003	Paisley to Gourock GOU2 Scotland	02/12/06		120	58	*
+0132	SC065	003	Paisley to Gourock GOU2 Scotland	02/12/06	PORT GLASGOW	120	71	
+0132	SC065	003	Paisley to Gourock GOU2 Scotland	02/12/06		121	08	*
+0133	SC065	004	Paisley to Gourock GOU2 Scotland	02/12/06	Wemyss Bay Jn	121	28	
+0133	SC065	004	Paisley to Gourock GOU2 Scotland	02/12/06	BOGSTON	121	65	
+0133	SC065	004	Paisley to Gourock GOU2 Scotland	02/12/06	Ladyburn	121	74	
+0133	SC065	004	Paisley to Gourock GOU2 Scotland	02/12/06		122	49	*
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06	CARTSDYKE	122	52	
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06	Greenock Central GF	122	52	X
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06	GREENOGK CENTRAL	123	38	
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06		123	43	
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06	Wellpark Tunnel to 280 yards	123	43	X
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06		123	56	
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06		123	67	
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06	Anne Street Tunnel t	123	67	X
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06	200 yards 0	123	67	X
+0134	SC065	005	Paisley to Gourock GOU2 Scotland	02/12/06		123	76	
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06	Greenock West GF			X
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06	GREENOCK WEST	124	10	
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06		124	15	
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06		124	16	*
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06	Newton Street Tunnel	124	16	X
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06	1m 350 yards	124	16	X
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06		125	01	*
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06		125	31	
+0135	SC065	006	Paisley to Gourock GOU2 Scotland	02/12/06	FORT MATILDA	125	40	
+0136	SC065	007	Paisley to Gourock GOU2 Scotland	01/12/07		126	20	*
+0136	SC065	007	Paisley to Gourock GOU2 Scotland	01/12/07		126	40	*
+0136	SC065	007	Paisley to Gourock GOU2 Scotland	01/12/07	GOUROCK	126	58	
