@@ -5,15 +5,15 @@ The accompanying data is some years old and is based on OCR extract of the pdf f
 The regions are:
 
 | Region			| URL		|
-|---|:---:|
-| Anglia | http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/anglia%20sectional%20appendix.pdf |
-| Kent, Sussex and Wessex | http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/kent%20sussex%20wessex%20sectional%20appendix.pdf |
-| London North Eastern | http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/london%20north%20eastern%20sectional%20appendix.pdf | 
-| London North Western (North) | http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/london%20north%20western%20north%20sectional%20appendix.pdf |
-| London North Western (South) | http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/london%20north%20western%20south%20sectional%20appendix.pdf |
-| Scotland | http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/scotland%20sectional%20appendix.pdf |
-| Wessex | http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/wessex%20sectional%20appendix.pdf |
-| Western | http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/western%20sectional%20appendix.pdf |
+|:---|:---|
+| Anglia |http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/anglia%20sectional%20appendix.pdf |
+| Kent, Sussex and Wessex |http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/kent%20sussex%20wessex%20sectional%20appendix.pdf |
+| London North Eastern |http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/london%20north%20eastern%20sectional%20appendix.pdf | 
+| London North Western (North) |http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/london%20north%20western%20north%20sectional%20appendix.pdf |
+| London North Western (South) |http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/london%20north%20western%20south%20sectional%20appendix.pdf |
+| Scotland |http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/scotland%20sectional%20appendix.pdf |
+| Wessex |http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/wessex%20sectional%20appendix.pdf |
+| Western |http://www.networkrail.co.uk/browse%20documents/sectional%20appendix/western%20sectional%20appendix.pdf |
 
 The logical process to create the NESA files by line then is something like the following.
 
