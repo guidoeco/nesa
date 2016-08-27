@@ -22,16 +22,16 @@ Please note that this approximates and is *not* the actual command line used to 
 0) Add nesa/bin directory to the path variable
 
 1) Download:
-
+```
 $ loop (region, url) 
 $ do
 $   cd $region
 $   wget URL > track-and-route.pdf
 $ done
-
+```
 
 2) Process track-and-route.pdf file to generate raw scanned text files
-
+```
 $ for region in `cat regions.txt`
 $ do
 $   cd $region
@@ -39,8 +39,8 @@ $   ocr2.sh
 $   mkdir archive
 $   mv pg_*.pdf archive
 $   cd ..
-
 $ done
+```
 
 
 3) Create line-number directories and move ocr files to archive directory
@@ -49,15 +49,12 @@ $ done
 $ for region in regions.txt
 $ do
 $   cd $region
-
 # create line-list.txt file
 $   line-list.sh
-
 # create and move ocr files to line-number directories
 $   archive-script.sh
 $ done
 ```
-
 
 4) Create line reports and combined region report
 
