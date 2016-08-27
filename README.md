@@ -44,7 +44,6 @@ $ done
 
 
 3) Create line-number directories and move ocr files to archive directory
-
 ```
 $ for region in regions.txt
 $ do
@@ -57,7 +56,6 @@ $ done
 ```
 
 4) Create line reports and combined region report
-
 ```
 $ for region in `cat regions.txt`
 $ do
