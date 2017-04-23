@@ -1,0 +1,14 @@
+GSM-R
+TCB March East SB (ME)
+RAB
+TPWS at Whitemoor Jn only
+AWS not provided between
+Whitemoor Jn. and Wisbech
+GSM-R
+Down: End of GSM-R area at 86m 180h A
+Up: Start of GSM-R area at 86m 18ch
+OTNS
+RAB
+Line out of use (temporarily) from 86m 180h to
+Wisbech
+
